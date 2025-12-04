@@ -1,0 +1,3202 @@
+[
+  {
+    "name": "榛東中央こども園",
+    "address": "\n〒370-3502 群馬県北群馬郡榛東村山子田２５３１−１９",
+    "latitude": 36.4421629,
+    "longitude": 138.9740033,
+    "link": "https://www.google.com/maps/place/%E6%A6%9B%E6%9D%B1%E4%B8%AD%E5%A4%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8a11310b6073:0x3e1678da189ff62a!8m2!3d36.4421629!4d138.9740033!16s%2Fg%2F1tf9yhqj!19sChIJc2ALMRGKHmARKvafGNp4Fj4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "杉の子保育園（幼保連携型認定こども園）",
+    "address": "\n〒370-0852 群馬県高崎市中居町４丁目２４−１",
+    "latitude": 36.3118888,
+    "longitude": 139.0438062,
+    "link": "https://www.google.com/maps/place/%E6%9D%89%E3%81%AE%E5%AD%90%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%88%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%EF%BC%89/data=!4m7!3m6!1s0x601eed2d79d2ced7:0xb13b2fc695dd7609!8m2!3d36.3118888!4d139.0438062!16s%2Fg%2F1ttq25v2!19sChIJ187SeS3tHmARCXbdlcYvO7E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あそびの森保育園",
+    "address": "\n〒371-0805 群馬県前橋市南町１丁目６−１",
+    "latitude": 36.381877,
+    "longitude": 139.0629684,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%AE%E6%A3%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef2e05c291a67:0x92487de6021053ab!8m2!3d36.381877!4d139.0629684!16s%2Fg%2F1tl0xfb8!19sChIJZxopXODyHmARq1MQAuZ9SJI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "新町こども園",
+    "address": "\n〒370-1301 群馬県高崎市新町１７２０ 新町第二保育園",
+    "latitude": 36.270676,
+    "longitude": 139.107018,
+    "link": "https://www.google.com/maps/place/%E6%96%B0%E7%94%BA%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eebc400224523:0xdc0c835be75bddfb!8m2!3d36.270676!4d139.107018!16s%2Fg%2F1tfkqvv5!19sChIJI0UiAMTrHmAR-91b51uDDNw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "法輪寺まちなかこども園",
+    "address": "\n〒370-0055 群馬県高崎市羅漢町６９",
+    "latitude": 36.3280605,
+    "longitude": 139.0090697,
+    "link": "https://www.google.com/maps/place/%E6%B3%95%E8%BC%AA%E5%AF%BA%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8d09b4491ad9:0xe5db195b7c14824f!8m2!3d36.3280605!4d139.0090697!16s%2Fg%2F11gts__0_h!19sChIJ2RpJtAmNHmART4IUfFsZ2-U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "トキワ保育園",
+    "address": "\n〒371-0821 群馬県前橋市上新田町６０９−１",
+    "latitude": 36.3684019,
+    "longitude": 139.0609971,
+    "link": "https://www.google.com/maps/place/%E3%83%88%E3%82%AD%E3%83%AF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef2c1e744064f:0x4b2aa229574b6f6e!8m2!3d36.3684019!4d139.0609971!16s%2Fg%2F1vn18mg7!19sChIJTwZE58HyHmARbm9LVymiKks?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "赤城育心こども園",
+    "address": "\n〒371-0245 群馬県前橋市市之関町４０１",
+    "latitude": 36.453163,
+    "longitude": 139.1484605,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%9F%8E%E8%82%B2%E5%BF%83%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef1339fd567b7:0x5cbfcb5187876a6a!8m2!3d36.453163!4d139.1484605!16s%2Fg%2F1tj5qv14!19sChIJt2fVnzPxHmARamqHh1HLv1w?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "貝沢保育園",
+    "address": "\n〒370-0042 群馬県高崎市貝沢町１−１３",
+    "latitude": 36.3501768,
+    "longitude": 139.0261973,
+    "link": "https://www.google.com/maps/place/%E8%B2%9D%E6%B2%A2%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8d47535a1677:0x9020ac5758dd308c!8m2!3d36.3501768!4d139.0261973!16s%2Fg%2F1vr3d7lx!19sChIJdxZaU0eNHmARjDDdWFesIJA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "高崎保育所",
+    "address": "\n〒370-0058 群馬県高崎市九蔵町７５",
+    "latitude": 36.3306414,
+    "longitude": 139.0090016,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601e8d7b73d50e2f:0x5821ce30b1388!8m2!3d36.3306414!4d139.0090016!16s%2Fg%2F1wz52t5p!19sChIJLw7Vc3uNHmARiBML4xyCBQA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "いず海保育園",
+    "address": "\n〒370-0046 群馬県高崎市江木町４７６−１",
+    "latitude": 36.330448,
+    "longitude": 139.0195996,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%9A%E6%B5%B7%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8d603b52b2b3:0xf378d99092b37e23!8m2!3d36.330448!4d139.0195996!16s%2Fg%2F11bx1t1_0m!19sChIJs7JSO2CNHmARI36zkpDZePM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大胡第一保育園",
+    "address": "\n〒370-0046 群馬県高崎市江木町４７６−１",
+    "latitude": 36.413747,
+    "longitude": 139.155868,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E8%83%A1%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef1ae3ab56491:0xb745d3d4d9613819!8m2!3d36.413747!4d139.155868!16s%2Fg%2F1vr3d7t4!19sChIJkWS1Oq7xHmARGThh2dTTRbc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たから保育園",
+    "address": "\n〒379-2215 群馬県伊勢崎市赤堀今井町２丁目１３４４",
+    "latitude": 36.380415,
+    "longitude": 139.2191084,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%8B%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee573f108c4f3:0xc6641f6301ed6b4a!8m2!3d36.380415!4d139.2191084!16s%2Fg%2F1td9_s76!19sChIJ88QI8XPlHmARSmvtAWMfZMY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "しののめ会 石倉保育園",
+    "address": "\n〒371-0841 群馬県前橋市石倉町２丁目１１−３ 石倉保育園",
+    "latitude": 36.3851756,
+    "longitude": 139.0560456,
+    "link": "https://www.google.com/maps/place/%E3%81%97%E3%81%AE%E3%81%AE%E3%82%81%E4%BC%9A+%E7%9F%B3%E5%80%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef326aeb7e96f:0xd145ede5b6fb7650!8m2!3d36.3851756!4d139.0560456!16s%2Fg%2F1v1sl9pb!19sChIJb-m3ribzHmARUHb7tuXtRdE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "高崎市立群馬北保育園",
+    "address": "\n〒370-3511 群馬県高崎市金古町７０７−１",
+    "latitude": 36.4051321,
+    "longitude": 138.9955411,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%B8%82%E7%AB%8B%E7%BE%A4%E9%A6%AC%E5%8C%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8b9bfbd27eeb:0xec168859ad79610d!8m2!3d36.4051321!4d138.9955411!16s%2Fg%2F1tr17nf0!19sChIJ637S-5uLHmARDWF5rVmIFuw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "上郊保育園",
+    "address": "\n〒370-3533 群馬県高崎市保渡田町２０８８−１ 市立上郊保育園",
+    "latitude": 36.387021,
+    "longitude": 138.984204,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E9%83%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c758eb60e7b:0x9d0665d216755b13!8m2!3d36.387021!4d138.984204!16s%2Fg%2F1tk1z3nc!19sChIJew62jnWMHmARE1t1FtJlBp0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "きりのこ保育園",
+    "address": "\n〒371-0033 群馬県前橋市国領町２丁目２２−７",
+    "latitude": 36.4060338,
+    "longitude": 139.0675545,
+    "link": "https://www.google.com/maps/place/%E3%81%8D%E3%82%8A%E3%81%AE%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef36c61f02c17:0xe167337cfad2e00f!8m2!3d36.4060338!4d139.0675545!16s%2Fg%2F1tnsr_zb!19sChIJFyzwYWzzHmARD-DS-nwzZ-E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "若葉保育園",
+    "address": "\n〒370-0834 群馬県高崎市南町１−５",
+    "latitude": 36.3185698,
+    "longitude": 139.0076213,
+    "link": "https://www.google.com/maps/place/%E8%8B%A5%E8%91%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e9284442ca63b:0x7278d34484f1a504!8m2!3d36.3185698!4d139.0076213!16s%2Fg%2F1tcwwthj!19sChIJO6YsRISSHmARBKXxhETTeHI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "堤ヶ岡保育園",
+    "address": "\n〒370-3521 群馬県高崎市棟高町２２５２−１ 堤ケ岡保育園",
+    "latitude": 36.3792627,
+    "longitude": 139.0033528,
+    "link": "https://www.google.com/maps/place/%E5%A0%A4%E3%83%B6%E5%B2%A1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c8aff77da99:0x793aeb1e775daf7f!8m2!3d36.3792627!4d139.0033528!16s%2Fg%2F1hhjpcq5v!19sChIJmdp3_4qMHmARf69ddx7rOnk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 もものき",
+    "address": "\n〒371-0052 群馬県前橋市上沖町７３１−４",
+    "latitude": 36.4039433,
+    "longitude": 139.0918655,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%82%E3%82%82%E3%81%AE%E3%81%8D/data=!4m7!3m6!1s0x601ef3a5e9ab824d:0x6b4177decc148042!8m2!3d36.4039433!4d139.0918655!16s%2Fg%2F1tr8lnwr!19sChIJTYKr6aXzHmARQoAUzN53QWs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "まいにちほいくえん",
+    "address": "\n〒371-0853 群馬県前橋市総社町１丁目９",
+    "latitude": 36.3967427,
+    "longitude": 139.0422034,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E3%81%BB%E3%81%84%E3%81%8F%E3%81%88%E3%82%93/data=!4m7!3m6!1s0x601e8cb28a8bbf45:0xbc58dbc05f433d57!8m2!3d36.3967427!4d139.0422034!16s%2Fg%2F11g6ylff81!19sChIJRb-LirKMHmARVz1DX8DbWLw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "榛東北部保育園",
+    "address": "\n〒370-3501 群馬県北群馬郡榛東村長岡１１０９",
+    "latitude": 36.451163,
+    "longitude": 138.980702,
+    "link": "https://www.google.com/maps/place/%E6%A6%9B%E6%9D%B1%E5%8C%97%E9%83%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8a0d2dbe8515:0xf60dc269399b5057!8m2!3d36.451163!4d138.980702!16s%2Fg%2F1tnjjnld!19sChIJFYW-LQ2KHmARV1CbOWnCDfY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立広瀬保育所",
+    "address": "\n〒370-3501 群馬県北群馬郡榛東村長岡１１０９",
+    "latitude": 36.3651856,
+    "longitude": 139.1038243,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E5%BA%83%E7%80%AC%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601ef20a90262c33:0x3d2dfc208a1adc96!8m2!3d36.3651856!4d139.1038243!16s%2Fg%2F1wf21yzf!19sChIJMywmkAryHmARltwaiiD8LT0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "伊勢町保育所",
+    "address": "\n〒377-0423 群馬県吾妻郡中之条町伊勢町１３４４−９",
+    "latitude": 36.588743,
+    "longitude": 138.857577,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E7%94%BA%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601e71b51b8e1453:0x257ca60169a928c4!8m2!3d36.588743!4d138.857577!16s%2Fg%2F1tf75ls3!19sChIJUxSOG7VxHmARxCipaQGmfCU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "はと保育園",
+    "address": "\n〒371-0037 群馬県前橋市上小出町１丁目１５−４",
+    "latitude": 36.411337,
+    "longitude": 139.058922,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef35cfe4ae5a1:0xcc3cd1f0c263f2cd!8m2!3d36.411337!4d139.058922!16s%2Fg%2F1tqyflhz!19sChIJoeVK_lzzHmARzfJjwvDRPMw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "桃ヶ丘保育園",
+    "address": "\n〒370-0883 群馬県高崎市剣崎町４０９−３",
+    "latitude": 36.3436545,
+    "longitude": 138.9533291,
+    "link": "https://www.google.com/maps/place/%E6%A1%83%E3%83%B6%E4%B8%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8e843389b2db:0xe738cca8751f6e9e!8m2!3d36.3436545!4d138.9533291!16s%2Fg%2F1tct8t8p!19sChIJ27KJM4SOHmARnm4fdajMOOc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "一般社団法人 とりのはね保育園",
+    "address": "\n〒379-2301 群馬県太田市藪塚町３９４９−１",
+    "latitude": 36.375204,
+    "longitude": 139.3092811,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA+%E3%81%A8%E3%82%8A%E3%81%AE%E3%81%AF%E3%81%AD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee3e0a3a700c3:0x8b49a924f8eee957!8m2!3d36.375204!4d139.3092811!16s%2Fg%2F1hd_89dlx!19sChIJwwCno-DjHmARV-nu-CSpSYs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園ねむの木こどもの森",
+    "address": "\n〒370-2107 群馬県高崎市吉井町池１１５１−１",
+    "latitude": 36.263555,
+    "longitude": 138.99485,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%AD%E3%82%80%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x601e9398c3bd24cb:0xd1ca8b63e996b302!8m2!3d36.263555!4d138.99485!16s%2Fg%2F1v_z8_dc!19sChIJyyS9w5iTHmARArOW6WOLytE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "一峰こども園",
+    "address": "\n〒370-2343 群馬県富岡市七日市１７８",
+    "latitude": 36.2622559,
+    "longitude": 138.8760633,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%B3%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9aa5be528eb5:0x5ccea020d9d7c50d!8m2!3d36.2622559!4d138.8760633!16s%2Fg%2F1vr3d7nb!19sChIJtY5SvqWaHmARDcXX2SCgzlw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "塙保育園",
+    "address": "\n〒370-0076 群馬県高崎市下小塙町３８７",
+    "latitude": 36.3510467,
+    "longitude": 138.9752576,
+    "link": "https://www.google.com/maps/place/%E5%A1%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c33f21e6aff:0xadbc709f7ebf85dd!8m2!3d36.3510467!4d138.9752576!16s%2Fg%2F11btrrn1xq!19sChIJ_2oe8jOMHmAR3YW_fp9wvK0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "宝搭保育園",
+    "address": "\n〒371-0852 群馬県前橋市総社町総社１５９６−２３",
+    "latitude": 36.408298,
+    "longitude": 139.0392048,
+    "link": "https://www.google.com/maps/place/%E5%AE%9D%E6%90%AD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8caafbb1a767:0x65028c518a58be04!8m2!3d36.408298!4d139.0392048!16s%2Fg%2F11c1xhv7jp!19sChIJZ6ex-6qMHmARBL5YilGMAmU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社会福祉法人しののめ会 愛泉保育園",
+    "address": "\n〒371-0002 群馬県前橋市江木町５１８",
+    "latitude": 36.3888194,
+    "longitude": 139.1394035,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E3%81%97%E3%81%AE%E3%81%AE%E3%82%81%E4%BC%9A+%E6%84%9B%E6%B3%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef1e885ba24a1:0xbf65023dd6bd7a1c!8m2!3d36.3888194!4d139.1394035!16s%2Fg%2F1tq4r53m!19sChIJoSS6hejxHmARHHq91j0CZb8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社会福祉法人菊水会しゃか保育園",
+    "address": "\n〒371-0002 群馬県前橋市江木町５１８",
+    "latitude": 36.384048,
+    "longitude": 139.037964,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E8%8F%8A%E6%B0%B4%E4%BC%9A%E3%81%97%E3%82%83%E3%81%8B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8ccdbbaf6d65:0xe2ca9b5a3d4dca57!8m2!3d36.384048!4d139.037964!16s%2Fg%2F1vg_7cpr!19sChIJZW2vu82MHmARV8pNPVqbyuI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "吉岡町第一保育園",
+    "address": "\n〒370-3606 群馬県北群馬郡吉岡町大字上野田３３１−１",
+    "latitude": 36.4577659,
+    "longitude": 139.0019256,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E5%B2%A1%E7%94%BA%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8a880bcdf3bb:0x116ec6945632d1d4!8m2!3d36.4577659!4d139.0019256!16s%2Fg%2F1yg4fcjty!19sChIJu_PNC4iKHmAR1NEyVpTGbhE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立桂萱保育所",
+    "address": "\n〒370-3606 群馬県北群馬郡吉岡町大字上野田３３１−１",
+    "latitude": 36.399895,
+    "longitude": 139.114919,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E6%A1%82%E8%90%B1%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601ef22e8c10a0dd:0x5a02d2157f24a622!8m2!3d36.399895!4d139.114919!16s%2Fg%2F1tgwmsnx!19sChIJ3aAQjC7yHmARIqYkfxXSAlo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ふたばこども園",
+    "address": "\n〒370-3606 群馬県北群馬郡吉岡町大字上野田３３１−１",
+    "latitude": 36.417748,
+    "longitude": 139.1189888,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%9F%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef3d9b18017cd:0xc2bbf0e00c3586ac!8m2!3d36.417748!4d139.1189888!16s%2Fg%2F1tf7s6tx!19sChIJzReAsdnzHmARrIY1DODwu8I?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "山名双葉こども園",
+    "address": "\n〒371-0132 群馬県前橋市五代町１３０１−３",
+    "latitude": 36.27746,
+    "longitude": 139.0358883,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E5%90%8D%E5%8F%8C%E8%91%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e93494d9a6f89:0x53c5dca3f8db64b0!8m2!3d36.27746!4d139.0358883!16s%2Fg%2F1th0bjb9!19sChIJiW-aTUmTHmARsGTb-KPcxVM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "さとみ保育園",
+    "address": "\n〒371-0132 群馬県前橋市五代町１３０１−３",
+    "latitude": 36.3727529,
+    "longitude": 138.9032794,
+    "link": "https://www.google.com/maps/place/%E3%81%95%E3%81%A8%E3%81%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e88ea68835f3d:0x4fd12cb73e2102f!8m2!3d36.3727529!4d138.9032794!16s%2Fg%2F1tcy4d18!19sChIJPV-DaOqIHmARLxDic8sS_QQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "みつわ保育園",
+    "address": "\n〒371-0132 群馬県前橋市五代町１３０１−３",
+    "latitude": 36.398427,
+    "longitude": 138.915143,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%A4%E3%82%8F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8856a737e69b:0x5cd071cad8f4d8ce!8m2!3d36.398427!4d138.915143!16s%2Fg%2F1tkmmn37!19sChIJm-Y3p1aIHmARztj02Mpx0Fw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "城山保育園",
+    "address": "\n〒370-3338 群馬県高崎市宮沢町１２４５",
+    "latitude": 36.2886377,
+    "longitude": 139.0117489,
+    "link": "https://www.google.com/maps/place/%E5%9F%8E%E5%B1%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e931d3a82e7a9:0xc16b8e8ba17de576!8m2!3d36.2886377!4d139.0117489!16s%2Fg%2F1tdp0jzx!19sChIJqeeCOh2THmARduV9oYuOa8E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "片岡中央保育園",
+    "address": "\n〒370-3338 群馬県高崎市宮沢町１２４５",
+    "latitude": 36.318003,
+    "longitude": 138.9956,
+    "link": "https://www.google.com/maps/place/%E7%89%87%E5%B2%A1%E4%B8%AD%E5%A4%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e9278ce014fa3:0x1cf41e2b1df82296!8m2!3d36.318003!4d138.9956!16s%2Fg%2F1wf21ytm!19sChIJo08BzniSHmARliL4HSse9Bw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "群馬南保育園",
+    "address": "\n〒370-3525 群馬県高崎市三ツ寺町８５６",
+    "latitude": 36.372243,
+    "longitude": 138.995323,
+    "link": "https://www.google.com/maps/place/%E7%BE%A4%E9%A6%AC%E5%8D%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c5dda9271cf:0xd46956c6394f6a0b!8m2!3d36.372243!4d138.995323!16s%2Fg%2F1tjytpqp!19sChIJz3GS2l2MHmARC2pPOcZWadQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社会福祉法人浄土福祉会 永明保育園",
+    "address": "\n〒379-2153 群馬県前橋市上大島町８６０",
+    "latitude": 36.369569,
+    "longitude": 139.120472,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E6%B5%84%E5%9C%9F%E7%A6%8F%E7%A5%89%E4%BC%9A+%E6%B0%B8%E6%98%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eedffb0e6aad1:0x5c6126e662b13ddf!8m2!3d36.369569!4d139.120472!16s%2Fg%2F1tmxr2y8!19sChIJ0armsP_tHmAR3z2xYuYmYVw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たけのこ保育園",
+    "address": "\n〒379-2314 群馬県みどり市笠懸町西鹿田２１−１",
+    "latitude": 36.3956462,
+    "longitude": 139.266486,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee48a7e8c3b2f:0x46234007883c6d79!8m2!3d36.3956462!4d139.266486!16s%2Fg%2F1td1dhq3!19sChIJLzuMforkHmAReW08iAdAI0Y?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立清里保育所",
+    "address": "\n〒370-3574 群馬県前橋市清野町４１７",
+    "latitude": 36.4206845,
+    "longitude": 139.0118352,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E6%B8%85%E9%87%8C%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601e8b121a2339e3:0xe0964d68bb8ef6db!8m2!3d36.4206845!4d139.0118352!16s%2Fg%2F1x5qsw7_!19sChIJ4zkjGhKLHmAR2_aOu2hNluA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "長昌寺保育園",
+    "address": "\n〒371-0026 群馬県前橋市大手町１丁目３−５",
+    "latitude": 36.3891118,
+    "longitude": 139.0613532,
+    "link": "https://www.google.com/maps/place/%E9%95%B7%E6%98%8C%E5%AF%BA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef3202c44bf5b:0x5422b8f85aaaf821!8m2!3d36.3891118!4d139.0613532!16s%2Fg%2F1tfxy3dj!19sChIJW79ELCDzHmARIfiqWvi4IlQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "上中居こども園",
+    "address": "\n〒371-0026 群馬県前橋市大手町１丁目３−５",
+    "latitude": 36.3206265,
+    "longitude": 139.0323347,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E4%B8%AD%E5%B1%85%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e92b747052ffb:0x3854e90867dde3db!8m2!3d36.3206265!4d139.0323347!16s%2Fg%2F1tfzmf48!19sChIJ-y8FR7eSHmAR2-PdZwjpVDg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あかねこども園",
+    "address": "\n〒375-0054 群馬県藤岡市上大塚１５９３−１",
+    "latitude": 36.2431648,
+    "longitude": 139.0511555,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8B%E3%81%AD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eeb3001c08873:0x7a42d51245c93a4c!8m2!3d36.2431648!4d139.0511555!16s%2Fg%2F1tfc6pwq!19sChIJc4jAATDrHmARTDrJRRLVQno?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たかぞのこども園",
+    "address": "\n〒376-0601 群馬県桐生市梅田町１丁目２７３−１",
+    "latitude": 36.4375782,
+    "longitude": 139.357858,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%8B%E3%81%9E%E3%81%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee285d4cd4f49:0x72e5d9ad0be9c2e4!8m2!3d36.4375782!4d139.357858!16s%2Fg%2F1td7c76b!19sChIJSU_N1IXiHmAR5MLpC63Z5XI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ひばり保育園",
+    "address": "\n〒379-1122 群馬県渋川市赤城町勝保沢１１０−６",
+    "latitude": 36.5211942,
+    "longitude": 139.0444616,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%B0%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e5e2b2e21b85b:0x39fff7e2c5d58f26!8m2!3d36.5211942!4d139.0444616!16s%2Fg%2F1tmqg8_v!19sChIJW7ghLiteHmARJo_VxeL3_zk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 エデュカーレ城之内",
+    "address": "\n〒370-0081 群馬県高崎市浜川町２４９−３",
+    "latitude": 36.3684637,
+    "longitude": 138.9766509,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%A8%E3%83%87%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%AC%E5%9F%8E%E4%B9%8B%E5%86%85/data=!4m7!3m6!1s0x601e8c14339df57d:0x76a3e9a5c38c23d4!8m2!3d36.3684637!4d138.9766509!16s%2Fg%2F1tdl1n6j!19sChIJffWdMxSMHmAR1COMw6Xpo3Y?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 おりーぶの森",
+    "address": "\n〒371-0811 群馬県前橋市朝倉町１３８",
+    "latitude": 36.3667867,
+    "longitude": 139.0922347,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%8A%E3%82%8A%E3%83%BC%E3%81%B6%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x601ef270635f8c13:0x935bb54824c75abf!8m2!3d36.3667867!4d139.0922347!16s%2Fg%2F1tf75lzd!19sChIJE4xfY3DyHmARv1rHJEi1W5M?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "境いよく保育所",
+    "address": "\n〒370-0105 群馬県伊勢崎市境伊与久５１９",
+    "latitude": 36.2958398,
+    "longitude": 139.2306808,
+    "link": "https://www.google.com/maps/place/%E5%A2%83%E3%81%84%E3%82%88%E3%81%8F%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601ee7bba16c2367:0xfe9e1f7330c86fb2!8m2!3d36.2958398!4d139.2306808!16s%2Fg%2F1tkp51rr!19sChIJZyNsobvnHmARsm_IMHMfnv4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ひかりのこ保育園",
+    "address": "\n〒372-0038 群馬県伊勢崎市新栄町３８５０−１４",
+    "latitude": 36.305526,
+    "longitude": 139.191749,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%8B%E3%82%8A%E3%81%AE%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee890b5a52af9:0x4a37298dced7ae42!8m2!3d36.305526!4d139.191749!16s%2Fg%2F1tdwf08z!19sChIJ-SqltZDoHmARQq7Xzo0pN0o?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大島保育園",
+    "address": "\n〒373-0055 群馬県太田市大島町６７５−４",
+    "latitude": 36.30388,
+    "longitude": 139.359669,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%B3%B6%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601edf8c7ad0dd83:0x5450302a714bab06!8m2!3d36.30388!4d139.359669!16s%2Fg%2F1tykvgkr!19sChIJg93QeozfHmARBqtLcSowUFQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "第二はと保育園",
+    "address": "\n〒371-0051 群馬県前橋市上細井町１２１２−１",
+    "latitude": 36.4247055,
+    "longitude": 139.0754089,
+    "link": "https://www.google.com/maps/place/%E7%AC%AC%E4%BA%8C%E3%81%AF%E3%81%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef48275541767:0x51a623b89efdab28!8m2!3d36.4247055!4d139.0754089!16s%2Fg%2F1tk_pc6c!19sChIJZxdUdYL0HmARKKv9nrgjplE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "コスモス保育園",
+    "address": "\n〒377-0007 群馬県渋川市石原１６０９−１",
+    "latitude": 36.488068,
+    "longitude": 138.990527,
+    "link": "https://www.google.com/maps/place/%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B9%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e61ba98d4bccb:0xdfd7eb1f2293f3fa!8m2!3d36.488068!4d138.990527!16s%2Fg%2F1thsrggd!19sChIJy7zUmLphHmAR-vOTIh_r198?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "中央大橋保育園",
+    "address": "\n〒371-0841 群馬県前橋市石倉町５丁目１７−６",
+    "latitude": 36.3921045,
+    "longitude": 139.0513034,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E5%A4%A7%E6%A9%8B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef339e5bbc581:0x7511bf842132707e!8m2!3d36.3921045!4d139.0513034!16s%2Fg%2F1v6p4ct5!19sChIJgcW75TnzHmARfnAyIYS_EXU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "わかくさ保育園",
+    "address": "\n〒372-0801 群馬県伊勢崎市宮子町３５５０−１",
+    "latitude": 36.329256,
+    "longitude": 139.149811,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%8F%E3%81%95%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eeee9d596438d:0x969623b839c9990d!8m2!3d36.329256!4d139.149811!16s%2Fg%2F1tflmj9h!19sChIJjUOW1enuHmARDZnJObgjlpY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "梅の里保育園",
+    "address": "\n〒370-3525 群馬県高崎市三ツ寺町５９−４",
+    "latitude": 36.383595,
+    "longitude": 138.9974913,
+    "link": "https://www.google.com/maps/place/%E6%A2%85%E3%81%AE%E9%87%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c6334abd8a5:0xec63c85f3f82b655!8m2!3d36.383595!4d138.9974913!16s%2Fg%2F1tdnl649!19sChIJpdirNGOMHmARVbaCP1_IY-w?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "矢中保育園",
+    "address": "\n〒370-1203 群馬県高崎市矢中町３０２−４",
+    "latitude": 36.3133734,
+    "longitude": 139.0488087,
+    "link": "https://www.google.com/maps/place/%E7%9F%A2%E4%B8%AD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eed2e4b1bc7df:0x682fa94c2e6ade81!8m2!3d36.3133734!4d139.0488087!16s%2Fg%2F1th1ctjw!19sChIJ38cbSy7tHmARgd5qLkypL2g?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "神流保育園",
+    "address": "\n〒375-0011 群馬県藤岡市岡之郷９０７",
+    "latitude": 36.2687785,
+    "longitude": 139.0947115,
+    "link": "https://www.google.com/maps/place/%E7%A5%9E%E6%B5%81%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eebbda408e1cf:0x8adf3e638c4adea8!8m2!3d36.2687785!4d139.0947115!16s%2Fg%2F1w4vk05_!19sChIJz-EIpL3rHmARqN5KjGM-34o?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立第一保育所",
+    "address": "\n〒371-0017 群馬県前橋市日吉町１丁目１１−７ 市立第一保育所",
+    "latitude": 36.3969673,
+    "longitude": 139.0756393,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601ef305ea78a9f7:0x49ac21171f7df887!8m2!3d36.3969673!4d139.0756393!16s%2Fg%2F1tf6rw_t!19sChIJ96l46gXzHmARh_h9HxchrEk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "赤城保育園",
+    "address": "\n〒376-0102 群馬県みどり市大間々町桐原７７５−１",
+    "latitude": 36.4434778,
+    "longitude": 139.2759488,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%9F%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601efb505d609ac1:0xc9da419b40311c0f!8m2!3d36.4434778!4d139.2759488!16s%2Fg%2F1tksng0t!19sChIJwZpgXVD7HmARDxwxQJtB2sk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "高崎市立倉賀野保育所",
+    "address": "\n〒370-1201 群馬県高崎市倉賀野町２３１３−１ 市立倉賀野保育所",
+    "latitude": 36.296833,
+    "longitude": 139.055045,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%80%89%E8%B3%80%E9%87%8E%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601eecc4f57c038f:0x14a082f1000a80a2!8m2!3d36.296833!4d139.055045!16s%2Fg%2F1tl_ltfd!19sChIJjwN89cTsHmARooAKAPGCoBQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "昭和こども園",
+    "address": "\n〒376-0034 群馬県桐生市東２丁目４−４５",
+    "latitude": 36.415384,
+    "longitude": 139.347988,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee2697d01dea7:0xb16f9a2bee0f56eb!8m2!3d36.415384!4d139.347988!16s%2Fg%2F1tkby9ft!19sChIJp94BfWniHmAR61YP7iuab7E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "中村保育園",
+    "address": "\n〒377-0002 群馬県渋川市中村３６９−４",
+    "latitude": 36.478177,
+    "longitude": 139.011206,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E6%9D%91%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e602562cf8927:0x8aa1815cae91ad11!8m2!3d36.478177!4d139.011206!16s%2Fg%2F1tjdrdn8!19sChIJJ4nPYiVgHmAREa2RrlyBoYo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "はちす保育園",
+    "address": "\n〒372-0021 群馬県伊勢崎市上諏訪町２０３２−７",
+    "latitude": 36.3302678,
+    "longitude": 139.218078,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%A1%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee60e011c3205:0xc5e041a78e838c6!8m2!3d36.3302678!4d139.218078!16s%2Fg%2F1tfgph1b!19sChIJBTIcAQ7mHmARxjjoeBoEXgw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "まえばしこども園",
+    "address": "\n〒371-0027 群馬県前橋市平和町１丁目２−７",
+    "latitude": 36.3968082,
+    "longitude": 139.0635807,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%88%E3%81%B0%E3%81%97%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef37175bc32b3:0x75b767f9fe69ef35!8m2!3d36.3968082!4d139.0635807!16s%2Fg%2F11h047jdb7!19sChIJszK8dXHzHmARNe9p_vlnt3U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "間野谷保育園",
+    "address": "\n〒379-2201 群馬県伊勢崎市間野谷町５３０−７９",
+    "latitude": 36.385069,
+    "longitude": 139.260381,
+    "link": "https://www.google.com/maps/place/%E9%96%93%E9%87%8E%E8%B0%B7%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee45cea2d03df:0xa340b37f94a9c9ce!8m2!3d36.385069!4d139.260381!16s%2Fg%2F1ttdyjry!19sChIJ3wMt6lzkHmARzsmplH-zQKM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "やさか保育園",
+    "address": "\n〒379-2201 群馬県伊勢崎市間野谷町５３０−７９",
+    "latitude": 36.3142966,
+    "longitude": 139.1981386,
+    "link": "https://www.google.com/maps/place/%E3%82%84%E3%81%95%E3%81%8B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee8a1898f4ddd:0xe8b279e1d8002b67!8m2!3d36.3142966!4d139.1981386!16s%2Fg%2F1ts_6pv2!19sChIJ3U2PiaHoHmARZysA2OF5sug?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たいせい保育園",
+    "address": "\n〒370-0076 群馬県高崎市下小塙町５６９",
+    "latitude": 36.3477954,
+    "longitude": 138.9824981,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%84%E3%81%9B%E3%81%84%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8db5a44ccf25:0xb71151ed93703507!8m2!3d36.3477954!4d138.9824981!16s%2Fg%2F1tf0qq1_!19sChIJJc9MpLWNHmARBzVwk-1REbc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "高関保育会 観光保育園",
+    "address": "\n〒370-0043 群馬県高崎市高関町１３−１ 観光",
+    "latitude": 36.3240424,
+    "longitude": 139.0300685,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E9%96%A2%E4%BF%9D%E8%82%B2%E4%BC%9A+%E8%A6%B3%E5%85%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e92babf210817:0x9961b7914c535f13!8m2!3d36.3240424!4d139.0300685!16s%2Fg%2F1tczqfw0!19sChIJFwghv7qSHmARE19TTJG3YZk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社会福祉法人あゆみ会あゆみ保育園",
+    "address": "\n〒371-0811 群馬県前橋市朝倉町８６１−１",
+    "latitude": 36.3696107,
+    "longitude": 139.0878194,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E3%81%82%E3%82%86%E3%81%BF%E4%BC%9A%E3%81%82%E3%82%86%E3%81%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef26465cf2241:0xb56b1f6ea1717c06!8m2!3d36.3696107!4d139.0878194!16s%2Fg%2F1txfp7bg!19sChIJQSLPZWTyHmARBnxxoW4fa7U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "こまくさ保育園",
+    "address": "\n〒372-0024 群馬県伊勢崎市下植木町４６７−１",
+    "latitude": 36.317763,
+    "longitude": 139.209174,
+    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%BE%E3%81%8F%E3%81%95%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee618a3c17bf3:0x7cfa7bb3e8962229!8m2!3d36.317763!4d139.209174!16s%2Fg%2F1td38b2b!19sChIJ83vBoxjmHmARKSKW6LN7-nw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "渋川こばと保育園",
+    "address": "\n〒377-0027 群馬県渋川市金井２３５２−１５",
+    "latitude": 36.52237,
+    "longitude": 138.984646,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E3%81%93%E3%81%B0%E3%81%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e6139e86b0c75:0xb1f59c1adc88f473!8m2!3d36.52237!4d138.984646!16s%2Fg%2F1tgwmsg2!19sChIJdQxr6DlhHmARc_SI3Bqc9bE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "恵保育園",
+    "address": "\n〒370-0074 群馬県高崎市下小鳥町２８６",
+    "latitude": 36.3572891,
+    "longitude": 138.9969682,
+    "link": "https://www.google.com/maps/place/%E6%81%B5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8c54b92c6f59:0xe3864df9eeb7308f!8m2!3d36.3572891!4d138.9969682!16s%2Fg%2F1vh_8gg5!19sChIJWW8suVSMHmARjzC37vlNhuM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "光ケ丘保育園",
+    "address": "\n〒370-0074 群馬県高崎市下小鳥町２８６",
+    "latitude": 36.3407278,
+    "longitude": 138.9424914,
+    "link": "https://www.google.com/maps/place/%E5%85%89%E3%82%B1%E4%B8%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8e8d023affcd:0xa2150e372ef5f1cd!8m2!3d36.3407278!4d138.9424914!16s%2Fg%2F1tfzxkzh!19sChIJzf86Ao2OHmARzfH1LjcOFaI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大胡第３こども園",
+    "address": "\n〒371-0221 群馬県前橋市樋越町７０１−２ 大胡第三保育園",
+    "latitude": 36.4084595,
+    "longitude": 139.174799,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E8%83%A1%E7%AC%AC%EF%BC%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef03998df68c7:0x7fc3c78d8b3423b0!8m2!3d36.4084595!4d139.174799!16s%2Fg%2F11bccm5bj5!19sChIJx2jfmDnwHmARsCM0i43Hw38?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "保育園",
+    "address": "\n〒372-0802 群馬県伊勢崎市田中島町",
+    "latitude": 36.3259062,
+    "longitude": 139.1649501,
+    "link": "https://www.google.com/maps/place/%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eefb75eeb52cb:0x7d4cb03e4749c020!8m2!3d36.3259062!4d139.1649501!16s%2Fg%2F11h0fsxzgs!19sChIJy1LrXrfvHmARIMBJRz6wTH0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "横塚保育園",
+    "address": "\n〒378-0002 群馬県沼田市横塚町１２２３−１",
+    "latitude": 36.660667,
+    "longitude": 139.081138,
+    "link": "https://www.google.com/maps/place/%E6%A8%AA%E5%A1%9A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e42df8ff24895:0x3296969819b495a4!8m2!3d36.660667!4d139.081138!16s%2Fg%2F1tksnfs8!19sChIJlUjyj99CHmARpJW0GZiWljI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "一ノ宮ピッコロこども園",
+    "address": "\n〒370-2452 群馬県富岡市一ノ宮３８２−３",
+    "latitude": 36.2570896,
+    "longitude": 138.8638552,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E3%83%8E%E5%AE%AE%E3%83%94%E3%83%83%E3%82%B3%E3%83%AD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9ab73f140c1b:0x4912f12fa366c3a0!8m2!3d36.2570896!4d138.8638552!16s%2Fg%2F1tdq16nt!19sChIJGwwUP7eaHmARoMNmoy_xEkk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あけぼの保育園",
+    "address": "\n〒375-0017 群馬県藤岡市篠塚５６４−１",
+    "latitude": 36.2638589,
+    "longitude": 139.0574557,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%91%E3%81%BC%E3%81%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eeb5cb4b3ca4f:0x10e4fceacd44060d!8m2!3d36.2638589!4d139.0574557!16s%2Fg%2F1tvylvz1!19sChIJT8qztFzrHmARDQZEzer85BA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 あおぞら総社",
+    "address": "\n〒371-0851 群馬県前橋市総社町植野５１１−１ あおぞら総社",
+    "latitude": 36.4152031,
+    "longitude": 139.0340064,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E7%B7%8F%E7%A4%BE/data=!4m7!3m6!1s0x601e8b51ae9c4657:0xbd7e015a76e6f6b7!8m2!3d36.4152031!4d139.0340064!16s%2Fg%2F1tht1jq6!19sChIJV0acrlGLHmARt_bmdloBfr0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大光寺保育園",
+    "address": "\n〒379-2204 群馬県伊勢崎市西久保町２丁目３９７−１",
+    "latitude": 36.3792354,
+    "longitude": 139.2300858,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%85%89%E5%AF%BA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ee509feaabc93:0xfa61b02d89fe7d22!8m2!3d36.3792354!4d139.2300858!16s%2Fg%2F1tjs50bs!19sChIJk7yq_gnlHmARIn3-iS2wYfo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "高崎市立大類保育所",
+    "address": "\n〒370-0036 群馬県高崎市南大類町５３８−６ 市立大類保育所",
+    "latitude": 36.323299,
+    "longitude": 139.046176,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%A4%A7%E9%A1%9E%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601eed4a1c460371:0xb80cb6f9f860fa31!8m2!3d36.323299!4d139.046176!16s%2Fg%2F1td2bf1c!19sChIJcQNGHErtHmARMfpg-Pm2DLg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "上細井保育園",
+    "address": "\n〒371-0051 群馬県前橋市上細井町１３７−５",
+    "latitude": 36.4190546,
+    "longitude": 139.0913529,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E7%B4%B0%E4%BA%95%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef39a0dd122a1:0x723d2f8ced8033e2!8m2!3d36.4190546!4d139.0913529!16s%2Fg%2F1tf9sy2b!19sChIJoSLRDZrzHmAR4jOA7YwvPXI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "東光保育園",
+    "address": "\n〒371-0051 群馬県前橋市上細井町１３７−５",
+    "latitude": 36.3316896,
+    "longitude": 138.9769263,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%85%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8dc19780e13d:0xd3d9a4047ffe76c3!8m2!3d36.3316896!4d138.9769263!16s%2Fg%2F1tgc9lky!19sChIJPeGAl8GNHmARw3b-fwSk2dM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "北橘保育園",
+    "address": "\n〒377-0064 群馬県渋川市北橘町八崎３７４",
+    "latitude": 36.4946243,
+    "longitude": 139.0192322,
+    "link": "https://www.google.com/maps/place/%E5%8C%97%E6%A9%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e6041b293b1f3:0x23c0587e3c4242be!8m2!3d36.4946243!4d139.0192322!16s%2Fg%2F1tt1ss8f!19sChIJ87GTskFgHmARvkJCPH5YwCM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ぽらりすこども園",
+    "address": "\n〒371-0116 群馬県前橋市富士見町原之郷１２６８",
+    "latitude": 36.440961,
+    "longitude": 139.072619,
+    "link": "https://www.google.com/maps/place/%E3%81%BD%E3%82%89%E3%82%8A%E3%81%99%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef48d41e1909b:0xe44d26ecc6b4abaf!8m2!3d36.440961!4d139.072619!16s%2Fg%2F1td58q1s!19sChIJm5DhQY30HmARr6u0xuwmTeQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "吉岡町第三保育園",
+    "address": "\n〒370-3602 群馬県北群馬郡吉岡町大久保３５４１−１",
+    "latitude": 36.4456222,
+    "longitude": 139.0141963,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E5%B2%A1%E7%94%BA%E7%AC%AC%E4%B8%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8aef6e5e0e67:0x630f6b208680bb83!8m2!3d36.4456222!4d139.0141963!16s%2Fg%2F1ttq25n_!19sChIJZw5ebu-KHmARg7uAhiBrD2M?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "和光会 板鼻和光保育園",
+    "address": "\n〒379-0111 群馬県安中市板鼻２１０１−２",
+    "latitude": 36.338307,
+    "longitude": 138.930083,
+    "link": "https://www.google.com/maps/place/%E5%92%8C%E5%85%89%E4%BC%9A+%E6%9D%BF%E9%BC%BB%E5%92%8C%E5%85%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8ee55758994d:0x56067b3dbf0b4fda!8m2!3d36.338307!4d138.930083!16s%2Fg%2F1tmqg91f!19sChIJTZlYV-WOHmAR2k8Lvz17BlY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立南橘保育所",
+    "address": "\n〒371-0044 群馬県前橋市荒牧町１丁目",
+    "latitude": 36.426501,
+    "longitude": 139.060454,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E5%8D%97%E6%A9%98%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601ef4a2930910d5:0xb488aa588f1e38e4!8m2!3d36.426501!4d139.060454!16s%2Fg%2F1tdbl25m!19sChIJ1RAJk6L0HmAR5Dgej1iqiLQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "双葉保育園",
+    "address": "\n〒370-3333 群馬県高崎市高浜町９４０−１",
+    "latitude": 36.3721226,
+    "longitude": 138.9294841,
+    "link": "https://www.google.com/maps/place/%E5%8F%8C%E8%91%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e892fc50749a9:0x330fee9469967406!8m2!3d36.3721226!4d138.9294841!16s%2Fg%2F1tkjl8tt!19sChIJqUkHxS-JHmARBnSWaZTuDzM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "公私連携型かんら保育園",
+    "address": "\n〒370-2213 群馬県甘楽郡甘楽町白倉１３８０−１",
+    "latitude": 36.2433738,
+    "longitude": 138.9348676,
+    "link": "https://www.google.com/maps/place/%E5%85%AC%E7%A7%81%E9%80%A3%E6%90%BA%E5%9E%8B%E3%81%8B%E3%82%93%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e911699c06beb:0xeca942e735fe73c2!8m2!3d36.2433738!4d138.9348676!16s%2Fg%2F1tj1mlvy!19sChIJ62vAmRaRHmARwnP-NedCqew?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "みやさと保育園",
+    "address": "\n〒372-0802 群馬県伊勢崎市田中島町４８９−１",
+    "latitude": 36.323256,
+    "longitude": 139.166896,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%82%84%E3%81%95%E3%81%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601eef2944e09749:0xef1b7e95ff6a0ca6!8m2!3d36.323256!4d139.166896!16s%2Fg%2F1tm8kp64!19sChIJSZfgRCnvHmARpgxq_5V-G-8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "半田こども園",
+    "address": "\n〒377-0004 群馬県渋川市半田１１６２−１",
+    "latitude": 36.465801,
+    "longitude": 139.025266,
+    "link": "https://www.google.com/maps/place/%E5%8D%8A%E7%94%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8abc8db812f5:0x2a33a7ad112f4417!8m2!3d36.465801!4d139.025266!16s%2Fg%2F1tsr38v8!19sChIJ9RK4jbyKHmARF0QvEa2nMyo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "前橋市立元総社保育所",
+    "address": "\n〒371-0846 群馬県前橋市元総社町１丁目２５−８ 市立元総社保育所",
+    "latitude": 36.386201,
+    "longitude": 139.040261,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E5%85%83%E7%B7%8F%E7%A4%BE%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601e8cccdd2dfe61:0xe3a9b99d06f62292!8m2!3d36.386201!4d139.040261!16s%2Fg%2F1td5g62d!19sChIJYf4t3cyMHmARkiL2Bp25qeM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "上毛愛隣社 岩神保育園",
+    "address": "\n〒371-0035 群馬県前橋市岩神町２丁目５−１２",
+    "latitude": 36.4024305,
+    "longitude": 139.0581532,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E6%AF%9B%E6%84%9B%E9%9A%A3%E7%A4%BE+%E5%B2%A9%E7%A5%9E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef3411b9a091f:0xd1f36dd3c77b375b!8m2!3d36.4024305!4d139.0581532!16s%2Fg%2F1tg685rv!19sChIJHwmaG0HzHmARWzd7x9Nt89E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくし保育園",
+    "address": "\n〒373-0815 群馬県太田市東別所町４１０",
+    "latitude": 36.267473,
+    "longitude": 139.388217,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x152594b3cf53b447:0x5a3b9e5477472606!8m2!3d36.267473!4d139.388217!16s%2Fg%2F11bbwq7d1t!19sChIJR7RTz7OUJRURBiZHd1SeO1o?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "白菊保育園",
+    "address": "\n〒370-0867 群馬県高崎市乗附町１７９６−２",
+    "latitude": 36.319278,
+    "longitude": 138.980493,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E8%8F%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601e8df334053557:0x53d7909d3e76f474!8m2!3d36.319278!4d138.980493!16s%2Fg%2F1tgnx957!19sChIJVzUFNPONHmARdPR2Pp2Q11M?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ぐんま幼稚園",
+    "address": "\n〒370-3511 群馬県高崎市金古町１９１２−８",
+    "latitude": 36.410294,
+    "longitude": 139.0009,
+    "link": "https://www.google.com/maps/place/%E3%81%90%E3%82%93%E3%81%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8b9fd5ecb8c9:0x6605f5c67613b578!8m2!3d36.410294!4d139.0009!16s%2Fg%2F1tdprrjl!19sChIJybjs1Z-LHmAReLUTdsb1BWY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 二子山幼稚園",
+    "address": "\n〒371-0811 群馬県前橋市朝倉町１丁目３−７ 二子山幼稚園",
+    "latitude": 36.3745667,
+    "longitude": 139.0923215,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E4%BA%8C%E5%AD%90%E5%B1%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef2689e3dd8c9:0xde6ca9bd4766f62b!8m2!3d36.3745667!4d139.0923215!16s%2Fg%2F1v9gk2b_!19sChIJydg9nmjyHmARK_ZmR72pbN4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 ひろせ幼稚園",
+    "address": "\n〒371-0812 群馬県前橋市広瀬町３丁目32−１",
+    "latitude": 36.358258,
+    "longitude": 139.113862,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%B2%E3%82%8D%E3%81%9B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eede5176e202d:0x2acbb942f9d877af!8m2!3d36.358258!4d139.113862!16s%2Fg%2F1tlw94sd!19sChIJLSBuF-XtHmARr3fY-UK5yyo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "聖クララ幼稚園",
+    "address": "\n〒370-0525 群馬県邑楽郡大泉町日の出５６−１",
+    "latitude": 36.248921,
+    "longitude": 139.404678,
+    "link": "https://www.google.com/maps/place/%E8%81%96%E3%82%AF%E3%83%A9%E3%83%A9%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f271e15534f9b:0x121dc151dd442031!8m2!3d36.248921!4d139.404678!16s%2Fg%2F1tfwq1l1!19sChIJm09TFR4nH2ARMSBE3VHBHRI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "スマイル幼稚園",
+    "address": "\n〒379-2301 群馬県太田市藪塚町１７４５−３",
+    "latitude": 36.360325,
+    "longitude": 139.297433,
+    "link": "https://www.google.com/maps/place/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee144576355c3:0x60c3e1fed1f79442!8m2!3d36.360325!4d139.297433!16s%2Fg%2F11fct11vb2!19sChIJw1VjV0ThHmARQpT30f7hw2A?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "清華幼稚園",
+    "address": "\n〒379-2105 群馬県前橋市東大室町９２９−１ 精華",
+    "latitude": 36.376424,
+    "longitude": 139.197657,
+    "link": "https://www.google.com/maps/place/%E6%B8%85%E8%8F%AF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eef8f514f65a7:0x28656c8584b697a0!8m2!3d36.376424!4d139.197657!16s%2Fg%2F1tf4877n!19sChIJp2VPUY_vHmARoJe2hIVsZSg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "東横野幼稚園",
+    "address": "\n〒379-0124 群馬県安中市鷺宮３０９２−２",
+    "latitude": 36.296892,
+    "longitude": 138.87962,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E6%A8%AA%E9%87%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e856284b9c39b:0xd8db45bc17eda591!8m2!3d36.296892!4d138.87962!16s%2Fg%2F1tg_g3rt!19sChIJm8O5hGKFHmARkaXtF7xF29g?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "木の実幼稚園",
+    "address": "\n〒371-0202 群馬県前橋市粕川町室沢２６３−１",
+    "latitude": 36.4497499,
+    "longitude": 139.2049605,
+    "link": "https://www.google.com/maps/place/%E6%9C%A8%E3%81%AE%E5%AE%9F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601efa783ec8f7f5:0xc83b25f788f12ead!8m2!3d36.4497499!4d139.2049605!16s%2Fg%2F1tjdw_g3!19sChIJ9ffIPnj6HmARrS7xiPclO8g?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "江木幼稚園",
+    "address": "\n〒371-0202 群馬県前橋市粕川町室沢２６３−１",
+    "latitude": 36.4024609,
+    "longitude": 139.1313494,
+    "link": "https://www.google.com/maps/place/%E6%B1%9F%E6%9C%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef18fee0f138b:0xa15a6a37c6b477bf!8m2!3d36.4024609!4d139.1313494!16s%2Fg%2F1td5lspd!19sChIJixMP7o_xHmARv3e0xjdqWqE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "むつぎ幼稚園",
+    "address": "\n〒371-0202 群馬県前橋市粕川町室沢２６３−１",
+    "latitude": 36.2470032,
+    "longitude": 138.892125,
+    "link": "https://www.google.com/maps/place/%E3%82%80%E3%81%A4%E3%81%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e9064fb7dff81:0x13f9d1fdfd7dd581!8m2!3d36.2470032!4d138.892125!16s%2Fg%2F1pp2wx4n3!19sChIJgf99-2SQHmARgdV9_f3R-RM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 さわらび幼稚園",
+    "address": "\n〒370-2332 群馬県富岡市下高瀬２９４−１",
+    "latitude": 36.364438,
+    "longitude": 138.9174301,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%95%E3%82%8F%E3%82%89%E3%81%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e88d68c66e61b:0xad137c95834fb881!8m2!3d36.364438!4d138.9174301!16s%2Fg%2F1w2yzjsp!19sChIJG-ZmjNaIHmARgbhPg5V8E60?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "太田仁愛幼稚園",
+    "address": "\n〒370-2332 群馬県富岡市下高瀬２９４−１",
+    "latitude": 36.34133,
+    "longitude": 139.342181,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E4%BB%81%E6%84%9B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee046de7a39bb:0x23c923bee2fbea56!8m2!3d36.34133!4d139.342181!16s%2Fg%2F1td8z68k!19sChIJuzl63kbgHmARVur74r4jySM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "清風幼稚園",
+    "address": "\n〒370-3531 群馬県高崎市足門町８３０−２",
+    "latitude": 36.397434,
+    "longitude": 138.997645,
+    "link": "https://www.google.com/maps/place/%E6%B8%85%E9%A2%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8b8162844cb9:0x577c9c4ec871f470!8m2!3d36.397434!4d138.997645!16s%2Fg%2F1th63gdp!19sChIJuUyEYoGLHmARcPRxyE6cfFc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "明徳幼稚園",
+    "address": "\n〒370-0053 群馬県高崎市通町７５",
+    "latitude": 36.3253353,
+    "longitude": 139.0094396,
+    "link": "https://www.google.com/maps/place/%E6%98%8E%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e92829dd03c1f:0x421b2f308771e2fc!8m2!3d36.3253353!4d139.0094396!16s%2Fg%2F1tl9mnp2!19sChIJHzzQnYKSHmAR_OJxhzAvG0I?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "こひつじ幼稚園",
+    "address": "\n〒370-0117 群馬県伊勢崎市境百々２２１",
+    "latitude": 36.280613,
+    "longitude": 139.252485,
+    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%B2%E3%81%A4%E3%81%98%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601edd87f4cc1c8b:0x8790268d385d3c0f!8m2!3d36.280613!4d139.252485!16s%2Fg%2F1tgywt0c!19sChIJixzM9IfdHmARDzxdOI0mkIc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "台之郷こども園",
+    "address": "\n〒373-0801 群馬県太田市台之郷町５３５",
+    "latitude": 36.3065801,
+    "longitude": 139.4099523,
+    "link": "https://www.google.com/maps/place/%E5%8F%B0%E4%B9%8B%E9%83%B7%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601f2101210bd335:0x95bcb49e82431946!8m2!3d36.3065801!4d139.4099523!16s%2Fg%2F1vcjmblw!19sChIJNdMLIQEhH2ARRhlDgp60vJU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "堤ケ岡幼稚園",
+    "address": "\n〒370-3521 群馬県高崎市棟高町２２２７−２",
+    "latitude": 36.3788489,
+    "longitude": 139.0031489,
+    "link": "https://www.google.com/maps/place/%E5%A0%A4%E3%82%B1%E5%B2%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8c8afb55edc1:0x8435954443471d0c!8m2!3d36.3788489!4d139.0031489!16s%2Fg%2F1tdwf03m!19sChIJwe1V-4qMHmARDB1HQ0SVNYQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ながの幼稚園",
+    "address": "\n〒370-0082 群馬県高崎市北新波町１９７−６",
+    "latitude": 36.3648745,
+    "longitude": 138.9707495,
+    "link": "https://www.google.com/maps/place/%E3%81%AA%E3%81%8C%E3%81%AE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8c1820999149:0x65427a3aa4e65621!8m2!3d36.3648745!4d138.9707495!16s%2Fg%2F1tfk4j1f!19sChIJSZGZIBiMHmARIVbmpDp6QmU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "いずみ幼稚園",
+    "address": "\n〒379-2163 群馬県前橋市女屋町１０９４−５ いずみ幼稚園",
+    "latitude": 36.3769364,
+    "longitude": 139.1324346,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%9A%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef1e2ad409d31:0x72e9fae5d1894b79!8m2!3d36.3769364!4d139.1324346!16s%2Fg%2F1tf6gqx8!19sChIJMZ1AreLxHmAReUuJ0eX66XI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "原市赤心幼稚園",
+    "address": "\n〒379-2163 群馬県前橋市女屋町１０９４−５ いずみ幼稚園",
+    "latitude": 36.31577,
+    "longitude": 138.8624659,
+    "link": "https://www.google.com/maps/place/%E5%8E%9F%E5%B8%82%E8%B5%A4%E5%BF%83%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e85944d788a31:0x7f0da53ec828f8c2!8m2!3d36.31577!4d138.8624659!16s%2Fg%2F1tfbc75p!19sChIJMYp4TZSFHmARwvgoyD6lDX8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "阿左美幼稚園",
+    "address": "\n〒379-2311 群馬県みどり市笠懸町阿左美９６７",
+    "latitude": 36.3851885,
+    "longitude": 139.304148,
+    "link": "https://www.google.com/maps/place/%E9%98%BF%E5%B7%A6%E7%BE%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee3e825b157d5:0x83053aff4139b35c!8m2!3d36.3851885!4d139.304148!16s%2Fg%2F1tfd2h40!19sChIJ1VexJejjHmARXLM5Qf86BYM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "大利根育英幼稚園",
+    "address": "\n〒371-0823 群馬県前橋市川曲町５２９−１",
+    "latitude": 36.3518498,
+    "longitude": 139.0514883,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%88%A9%E6%A0%B9%E8%82%B2%E8%8B%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef2afff147bb3:0xdd06d8b28bb21489!8m2!3d36.3518498!4d139.0514883!16s%2Fg%2F11c61g4jl7!19sChIJs3sU_6_yHmARiRSyi7LYBt0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "マーガレット幼稚園",
+    "address": "\n〒370-1111 群馬県佐波郡玉村町南玉７５８",
+    "latitude": 36.303622,
+    "longitude": 139.134419,
+    "link": "https://www.google.com/maps/place/%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee94d22136a29:0xccccc11252bc3536!8m2!3d36.303622!4d139.134419!16s%2Fg%2F1tdnl69n!19sChIJKWoTIk3pHmARNjW8UhLBzMw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "高崎市立高崎幼稚園",
+    "address": "\n〒370-0065 群馬県高崎市末広町８８−１ 市立高崎幼稚園",
+    "latitude": 36.336309,
+    "longitude": 139.0069785,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B4%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d711837f88f:0x11d5fe43912d735c!8m2!3d36.336309!4d139.0069785!16s%2Fg%2F1tf7grsw!19sChIJj_g3GHGNHmARXHMtkUP-1RE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "高崎天使幼稚園",
+    "address": "\n〒370-0065 群馬県高崎市末広町８８−１ 市立高崎幼稚園",
+    "latitude": 36.3103695,
+    "longitude": 139.0498586,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%A4%A9%E4%BD%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eed28cb823ac7:0xa13d25bbe2043086!8m2!3d36.3103695!4d139.0498586!16s%2Fg%2F1tmqg966!19sChIJxzqCyyjtHmARhjAE4rslPaE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "長柄幼稚園",
+    "address": "\n〒370-0613 群馬県邑楽郡邑楽町狸塚１２５６",
+    "latitude": 36.240932,
+    "longitude": 139.45947,
+    "link": "https://www.google.com/maps/place/%E9%95%B7%E6%9F%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f25c3a97e4365:0x931fa447ae78adf6!8m2!3d36.240932!4d139.45947!16s%2Fg%2F1thgbk19!19sChIJZUN-qcMlH2AR9q14rkekH5M?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "清心学園 清心幼稚園",
+    "address": "\n〒371-0026 群馬県前橋市大手町３丁目１−２１",
+    "latitude": 36.3931663,
+    "longitude": 139.0625962,
+    "link": "https://www.google.com/maps/place/%E6%B8%85%E5%BF%83%E5%AD%A6%E5%9C%92+%E6%B8%85%E5%BF%83%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef317f2e44bad:0xfbffd141a033025!8m2!3d36.3931663!4d139.0625962!16s%2Fg%2F1tdw_mq5!19sChIJrUvk8hfzHmARJTADGhT9vw8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "とみおかこども園",
+    "address": "\n〒370-2316 群馬県富岡市富岡１０９３−３",
+    "latitude": 36.2586182,
+    "longitude": 138.8869595,
+    "link": "https://www.google.com/maps/place/%E3%81%A8%E3%81%BF%E3%81%8A%E3%81%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e900cfc4b9573:0x899c0525f2879241!8m2!3d36.2586182!4d138.8869595!16s%2Fg%2F1tgs1066!19sChIJc5VL_AyQHmARQZKH8iUFnIk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "白ばら幼稚園",
+    "address": "\n〒377-0008 群馬県渋川市渋川並木町７７８",
+    "latitude": 36.5012515,
+    "longitude": 139.0015019,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E3%81%B0%E3%82%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e60553b6fba77:0xaf75aa6ece4fc07d!8m2!3d36.5012515!4d139.0015019!16s%2Fg%2F1v2f0lsn!19sChIJd7pvO1VgHmARfcBPzm6qda8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "高崎市立塚沢幼稚園",
+    "address": "\n〒370-0069 群馬県高崎市飯塚町１７２１ 市立塚沢幼稚園",
+    "latitude": 36.3386899,
+    "longitude": 139.0124386,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%A1%9A%E6%B2%A2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d6e47aeaec3:0x8ad8567429c74e1a!8m2!3d36.3386899!4d139.0124386!16s%2Fg%2F1tk1n20g!19sChIJw66uR26NHmARGk7HKXRW2Io?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "若葉幼稚園",
+    "address": "\n〒373-0807 群馬県太田市下小林町６７７",
+    "latitude": 36.29562,
+    "longitude": 139.405174,
+    "link": "https://www.google.com/maps/place/%E8%8B%A5%E8%91%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f20e263fad7d1:0x793c744191476f93!8m2!3d36.29562!4d139.405174!16s%2Fg%2F1thd1x35!19sChIJ0df6Y-IgH2ARk29HkUF0PHk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "玉村町立玉村幼稚園",
+    "address": "\n〒373-0807 群馬県太田市下小林町６７７",
+    "latitude": 36.311371,
+    "longitude": 139.105342,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E6%9D%91%E7%94%BA%E7%AB%8B%E7%8E%89%E6%9D%91%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eec3e24b1240b:0xdf3a2acee4eda64b!8m2!3d36.311371!4d139.105342!16s%2Fg%2F1tfxy3c3!19sChIJCySxJD7sHmARS6bt5M4qOt8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "伊勢崎市立第一幼稚園",
+    "address": "\n〒372-0055 群馬県伊勢崎市曲輪町２４−２６",
+    "latitude": 36.3235952,
+    "longitude": 139.1918372,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%B8%80%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee8b1f47ad937:0xd8cf84edde206816!8m2!3d36.3235952!4d139.1918372!16s%2Fg%2F1tm6908b!19sChIJN9l69LHoHmARFmgg3u2Ez9g?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "くまの幼稚園",
+    "address": "\n〒375-0013 群馬県藤岡市上戸塚３５４−３",
+    "latitude": 36.2465296,
+    "longitude": 139.0904003,
+    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%BE%E3%81%AE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eea523c4bc541:0x5223100e9393680c!8m2!3d36.2465296!4d139.0904003!16s%2Fg%2F1tdz4x_j!19sChIJQcVLPFLqHmARDGiTkw4QI1I?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "太田いずみ幼稚園",
+    "address": "\n〒373-0021 群馬県太田市東今泉町８０１−１",
+    "latitude": 36.328063,
+    "longitude": 139.381842,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E3%81%84%E3%81%9A%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f201915294ddf:0xeb7e6ea982f5e0cf!8m2!3d36.328063!4d139.381842!16s%2Fg%2F1x6q1vpm!19sChIJ300pFRkgH2ARz-D1gqlufus?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "わかくさ幼稚園",
+    "address": "\n〒371-0125 群馬県前橋市嶺町１３６５−５",
+    "latitude": 36.451036,
+    "longitude": 139.117562,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%8F%E3%81%95%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef4035a628091:0x43b4e86bd02ecaf8!8m2!3d36.451036!4d139.117562!16s%2Fg%2F1tdy94h0!19sChIJkYBiWgP0HmAR-Mou0GvotEM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "たちばな学園 山王幼稚園",
+    "address": "\n〒379-2123 群馬県前橋市山王町２丁目９−５",
+    "latitude": 36.3525485,
+    "longitude": 139.1266045,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA%E5%AD%A6%E5%9C%92+%E5%B1%B1%E7%8E%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eee746d4330d5:0xf048f6ac8cde284c!8m2!3d36.3525485!4d139.1266045!16s%2Fg%2F1tghd6y4!19sChIJ1TBDbXTuHmARTCjejKz2SPA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "幼保連携型認定こども園 ポケット幼稚園",
+    "address": "\n〒371-0111 群馬県前橋市富士見町米野１３０５−１ 恵光学園ポケット幼稚園",
+    "latitude": 36.459688,
+    "longitude": 139.060297,
+    "link": "https://www.google.com/maps/place/%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef5221f9a8c87:0xc01fa35cfade541f!8m2!3d36.459688!4d139.060297!16s%2Fg%2F1tgpn3c1!19sChIJh4yaHyL1HmARH1Te-lyjH8A?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "前橋市立まえばし幼稚園",
+    "address": "\n〒371-0032 群馬県前橋市若宮町４丁目３２−４ 市立まえばし幼稚園",
+    "latitude": 36.4075782,
+    "longitude": 139.069839,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E3%81%BE%E3%81%88%E3%81%B0%E3%81%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef36da4d61c2f:0xefc31b898b143863!8m2!3d36.4075782!4d139.069839!16s%2Fg%2F1tfhghq8!19sChIJLxzWpG3zHmARYzgUi4kbw-8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "樹徳幼稚園",
+    "address": "\n〒376-0013 群馬県桐生市広沢町３丁目４４７５",
+    "latitude": 36.381535,
+    "longitude": 139.322581,
+    "link": "https://www.google.com/maps/place/%E6%A8%B9%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee17fce3e2a29:0x3aaef5545a2bc806!8m2!3d36.381535!4d139.322581!16s%2Fg%2F1vb9d46s!19sChIJKSo-zn_hHmARBsgrWlT1rjo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "高南幼稚園",
+    "address": "\n〒370-1207 群馬県高崎市綿貫町３４６",
+    "latitude": 36.30395,
+    "longitude": 139.071205,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%8D%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eecefd0e6df51:0x88678adaa297789f!8m2!3d36.30395!4d139.071205!16s%2Fg%2F1tcv1jgh!19sChIJUd_m0O_sHmARn3iXotqKZ4g?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "幼保連携型認定こども園 駒寄幼稚園",
+    "address": "\n〒370-3601 群馬県北群馬郡吉岡町漆原９５３−１",
+    "latitude": 36.4412354,
+    "longitude": 139.0250722,
+    "link": "https://www.google.com/maps/place/%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E9%A7%92%E5%AF%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8adf44112d03:0xebcd3f583a29dbdc!8m2!3d36.4412354!4d139.0250722!16s%2Fg%2F1w0q__8m!19sChIJAy0RRN-KHmAR3NspOlg_zes?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 ひばり幼稚園",
+    "address": "\n〒370-3532 群馬県高崎市中里町３３４−１ ひばり",
+    "latitude": 36.3883814,
+    "longitude": 138.9868855,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%B2%E3%81%B0%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8c761faba313:0xc2f679208510aef0!8m2!3d36.3883814!4d138.9868855!16s%2Fg%2F1vzqsbgf!19sChIJE6OrH3aMHmAR8K4QhSB59sI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "あかぼり幼稚園",
+    "address": "\n〒379-2204 群馬県伊勢崎市西久保町２丁目１００ 市立あかぼり幼稚園",
+    "latitude": 36.380849,
+    "longitude": 139.231561,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8B%E3%81%BC%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee5a78629ca83:0xffd9e817f42bce6a!8m2!3d36.380849!4d139.231561!16s%2Fg%2F1tdbqz44!19sChIJg8ophqflHmARas4r9Bfo2f8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "東別所幼稚園",
+    "address": "\n〒373-0817 群馬県太田市飯塚町１１１３−９",
+    "latitude": 36.27221,
+    "longitude": 139.394142,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%88%A5%E6%89%80%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f20ce446cd77f:0x5eae642d5c0fc1b6!8m2!3d36.27221!4d139.394142!16s%2Fg%2F1tjv3lxr!19sChIJf9dsRM4gH2ARtsEPXC1krl4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "赤城幼稚園",
+    "address": "\n〒379-1122 群馬県渋川市赤城町勝保沢１１０−６",
+    "latitude": 36.5204563,
+    "longitude": 139.0439168,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%9F%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e5fd52a987ac9:0xf88aac97445d7f65!8m2!3d36.5204563!4d139.0439168!16s%2Fg%2F1tdwvscz!19sChIJyXqYKtVfHmARZX9dRJesivg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "伊勢崎あすか幼稚舎",
+    "address": "\n〒372-0001 群馬県伊勢崎市波志江町１５９６−３",
+    "latitude": 36.34129,
+    "longitude": 139.1795059,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E3%81%82%E3%81%99%E3%81%8B%E5%B9%BC%E7%A8%9A%E8%88%8E/data=!4m7!3m6!1s0x601eef294035a513:0x1030546e42a677fa!8m2!3d36.34129!4d139.1795059!16s%2Fg%2F1tgj8xp1!19sChIJE6U1QCnvHmAR-nemQm5UMBA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "のびのびこども園",
+    "address": "\n〒376-0121 群馬県桐生市新里町新川３５８０−５",
+    "latitude": 36.4298451,
+    "longitude": 139.2651658,
+    "link": "https://www.google.com/maps/place/%E3%81%AE%E3%81%B3%E3%81%AE%E3%81%B3%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee4b56ad1960f:0x44a257ac6c9fbd0b!8m2!3d36.4298451!4d139.2651658!16s%2Fg%2F1tcvtyqd!19sChIJD5bRarXkHmARC72fbKxXokQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "なかよし幼稚園",
+    "address": "\n〒373-0819 群馬県太田市新島町６８８",
+    "latitude": 36.289734,
+    "longitude": 139.386462,
+    "link": "https://www.google.com/maps/place/%E3%81%AA%E3%81%8B%E3%82%88%E3%81%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f20ed44c72b93:0x1b7cb839b4d7e778!8m2!3d36.289734!4d139.386462!16s%2Fg%2F1tjwhvg7!19sChIJkyvHRO0gH2AReOfXtDm4fBs?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人駒形学園 こまがた幼稚園",
+    "address": "\n〒373-0819 群馬県太田市新島町６８８",
+    "latitude": 36.3429595,
+    "longitude": 139.1389524,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E9%A7%92%E5%BD%A2%E5%AD%A6%E5%9C%92+%E3%81%93%E3%81%BE%E3%81%8C%E3%81%9F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eee61d90ba257:0x10c5e76616971e17!8m2!3d36.3429595!4d139.1389524!16s%2Fg%2F1tf5q9qr!19sChIJV6IL2WHuHmARFx6XFmbnxRA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "桜木幼稚園",
+    "address": "\n〒376-0011 群馬県桐生市相生町１丁目乙394",
+    "latitude": 36.397672,
+    "longitude": 139.319517,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E6%9C%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee3c98af7f1ad:0x83e78ebb8e67fc9e!8m2!3d36.397672!4d139.319517!16s%2Fg%2F12yygcml0!19sChIJrfH3isnjHmARnvxnjruO54M?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "光明学園 すみよし幼稚園",
+    "address": "\n〒376-0011 群馬県桐生市相生町１丁目乙394",
+    "latitude": 36.281143,
+    "longitude": 139.214397,
+    "link": "https://www.google.com/maps/place/%E5%85%89%E6%98%8E%E5%AD%A6%E5%9C%92+%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee7e860fddf31:0x169423cba6038955!8m2!3d36.281143!4d139.214397!16s%2Fg%2F1td25jqr!19sChIJMd_9YOjnHmARVYkDpssjlBY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "すみれ幼稚園",
+    "address": "\n〒376-0011 群馬県桐生市相生町１丁目乙394",
+    "latitude": 36.3360365,
+    "longitude": 139.0216001,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%BF%E3%82%8C%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d5df2e2accd:0x9d1f73b54e94205b!8m2!3d36.3360365!4d139.0216001!16s%2Fg%2F1th5zwy5!19sChIJzazi8l2NHmARWyCUTrVzH50?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "伊勢崎市立名和幼稚園",
+    "address": "\n〒372-0834 群馬県伊勢崎市堀口町２６０",
+    "latitude": 36.291491,
+    "longitude": 139.185023,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%90%8D%E5%92%8C%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee88afdda8a6f:0x2c34a35fa7e67252!8m2!3d36.291491!4d139.185023!16s%2Fg%2F1td4dm_p!19sChIJb4ra_YroHmARUnLmp1-jNCw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "すぎの子幼稚園",
+    "address": "\n〒376-0134 群馬県桐生市新里町関５５０−１",
+    "latitude": 36.442137,
+    "longitude": 139.229985,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%8E%E3%81%AE%E5%AD%90%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601efaee44a059d5:0x5a9c6056ca867c82!8m2!3d36.442137!4d139.229985!16s%2Fg%2F1w665hf7!19sChIJ1VmgRO76HmARgnyGylZgnFo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "たから幼稚園",
+    "address": "\n〒371-0048 群馬県前橋市田口町５４５−１ たから幼稚園",
+    "latitude": 36.4464266,
+    "longitude": 139.0509839,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%8B%E3%82%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef4d0ac2ed831:0xd4095253a8d10a21!8m2!3d36.4464266!4d139.0509839!16s%2Fg%2F1tf7gr_4!19sChIJMdgurND0HmARIQrRqFNSCdQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "中居幼稚園",
+    "address": "\n〒370-0852 群馬県高崎市中居町３丁目３３−１",
+    "latitude": 36.31551,
+    "longitude": 139.041177,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%B1%85%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e92ccad01ae1f:0xc9ff7744099c63cd!8m2!3d36.31551!4d139.041177!16s%2Fg%2F1tvrztc9!19sChIJH64BrcySHmARzWOcCUR3_8k?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 学校法人斎藤学園 桃瀬幼稚園",
+    "address": "\n〒371-0013 群馬県前橋市西片貝町４丁目１６−２",
+    "latitude": 36.3863757,
+    "longitude": 139.0955161,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E6%96%8E%E8%97%A4%E5%AD%A6%E5%9C%92+%E6%A1%83%E7%80%AC%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef245b647a995:0x930610faa3b95afd!8m2!3d36.3863757!4d139.0955161!16s%2Fg%2F1tdzr6xz!19sChIJlalHtkXyHmAR_Vq5o_oQBpM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "裳美学園 しょうび第一幼稚園",
+    "address": "\n〒371-0016 群馬県前橋市城東町１丁目２−７ しょうび第一幼稚園",
+    "latitude": 36.394325,
+    "longitude": 139.072791,
+    "link": "https://www.google.com/maps/place/%E8%A3%B3%E7%BE%8E%E5%AD%A6%E5%9C%92+%E3%81%97%E3%82%87%E3%81%86%E3%81%B3%E7%AC%AC%E4%B8%80%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef304ddc00555:0xecaefc6c9cc6652f!8m2!3d36.394325!4d139.072791!16s%2Fg%2F1tmqlwlg!19sChIJVQXA3QTzHmARL2XGnGz8ruw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "関口学園 幼保連携型 認定こども園 いしい幼稚園",
+    "address": "\n〒371-0105 群馬県前橋市富士見町石井８９６−１",
+    "latitude": 36.4617628,
+    "longitude": 139.0875976,
+    "link": "https://www.google.com/maps/place/%E9%96%A2%E5%8F%A3%E5%AD%A6%E5%9C%92+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B+%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%84%E3%81%97%E3%81%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef454e77714df:0xd9fba72b766e538f!8m2!3d36.4617628!4d139.0875976!16s%2Fg%2F1tm29s0t!19sChIJ3xR351T0HmARj1Nudiun-9k?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "さくら幼稚園",
+    "address": "\n〒372-0833 群馬県伊勢崎市富塚町２４６−４",
+    "latitude": 36.275471,
+    "longitude": 139.194269,
+    "link": "https://www.google.com/maps/place/%E3%81%95%E3%81%8F%E3%82%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee872c83b38bd:0xeddf8b1d97efc72!8m2!3d36.275471!4d139.194269!16s%2Fg%2F1tgb_w3y!19sChIJvTg7yHLoHmARcvx-2bH43Q4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "藤岡幼稚園",
+    "address": "\n〒375-0024 群馬県藤岡市藤岡８４５−３",
+    "latitude": 36.2494862,
+    "longitude": 139.0803211,
+    "link": "https://www.google.com/maps/place/%E8%97%A4%E5%B2%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eeb00ea85e7ab:0x545c857c138085b9!8m2!3d36.2494862!4d139.0803211!16s%2Fg%2F1tvgvf8v!19sChIJq-eF6gDrHmARuYWAE3yFXFQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "慈照幼稚園",
+    "address": "\n〒375-0024 群馬県藤岡市藤岡８４５−３",
+    "latitude": 36.3627877,
+    "longitude": 139.1666029,
+    "link": "https://www.google.com/maps/place/%E6%85%88%E7%85%A7%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eefadee479de1:0xa848c9e5d5a20a59!8m2!3d36.3627877!4d139.1666029!16s%2Fg%2F1td7htt6!19sChIJ4Z1H7q3vHmARWQqi1eXJSKg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "のぞみ幼稚園",
+    "address": "\n〒375-0024 群馬県藤岡市藤岡１８０５−３",
+    "latitude": 36.239454,
+    "longitude": 139.073572,
+    "link": "https://www.google.com/maps/place/%E3%81%AE%E3%81%9E%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eeafc8fcd6c65:0x6a61b53f6dea5850!8m2!3d36.239454!4d139.073572!16s%2Fg%2F1tg_lqm7!19sChIJZWzNj_zqHmARUFjqbT-1YWo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "常楽寺 常楽幼稚園",
+    "address": "\n〒374-0077 群馬県館林市木戸町５８０",
+    "latitude": 36.277732,
+    "longitude": 139.514283,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E6%A5%BD%E5%AF%BA+%E5%B8%B8%E6%A5%BD%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f252714d853b3:0x95c6f785b85afeb8!8m2!3d36.277732!4d139.514283!16s%2Fg%2F1tdfytnn!19sChIJs1PYFCclH2ARuP5auIX3xpU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人ひかり学園ひかり幼稚園",
+    "address": "\n〒373-0852 群馬県太田市新井町５５６−１",
+    "latitude": 36.28812,
+    "longitude": 139.36841,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E3%81%B2%E3%81%8B%E3%82%8A%E5%AD%A6%E5%9C%92%E3%81%B2%E3%81%8B%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f2081770b4077:0x2f62595b47517694!8m2!3d36.28812!4d139.36841!16s%2Fg%2F1wv_s9f6!19sChIJd0ALd4EgH2ARlHZRR1tZYi8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "いなり幼稚園",
+    "address": "\n〒373-0842 群馬県太田市細谷町２２−１",
+    "latitude": 36.2679446,
+    "longitude": 139.3513643,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%AA%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601edf6995fc448b:0xc4c324de6e4104a5!8m2!3d36.2679446!4d139.3513643!16s%2Fg%2F1tmxwp8h!19sChIJi0T8lWnfHmARpQRBbt4kw8Q?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "元景幼稚園",
+    "address": "\n〒371-0851 群馬県前橋市総社町植野１４２−１ 元景幼稚園",
+    "latitude": 36.4144711,
+    "longitude": 139.0404337,
+    "link": "https://www.google.com/maps/place/%E5%85%83%E6%99%AF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8b54a3eb1535:0x37b9a0232e9c624c!8m2!3d36.4144711!4d139.0404337!16s%2Fg%2F1v2yyyx2!19sChIJNRXro1SLHmARTGKcLiOguTc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "桐生市立相生幼稚園",
+    "address": "\n〒376-0011 群馬県桐生市相生町２丁目４０８−９",
+    "latitude": 36.412778,
+    "longitude": 139.311039,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E7%9B%B8%E7%94%9F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee3a76bed39c9:0xc20d340f497c8ba4!8m2!3d36.412778!4d139.311039!16s%2Fg%2F12yygjcg3!19sChIJyTnta6fjHmARpIt8SQ80DcI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "八幡幼稚園",
+    "address": "\n〒370-0883 群馬県高崎市剣崎町４０９−４",
+    "latitude": 36.3438608,
+    "longitude": 138.9534063,
+    "link": "https://www.google.com/maps/place/%E5%85%AB%E5%B9%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8e8430d95eb5:0x18d3d0b8b6ad6927!8m2!3d36.3438608!4d138.9534063!16s%2Fg%2F1wc4819f!19sChIJtV7ZMISOHmARJ2mttrjQ0xg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "富士見幼稚園",
+    "address": "\n〒371-0104 群馬県前橋市富士見町時沢２１２０−８",
+    "latitude": 36.4355653,
+    "longitude": 139.0849812,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef47c5a390e89:0x14b0b9f40d2f7aa8!8m2!3d36.4355653!4d139.0849812!16s%2Fg%2F1tdp53sx!19sChIJiQ45Wnz0HmARqHovDfS5sBQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園中川幼稚園",
+    "address": "\n〒370-0005 群馬県高崎市浜尻町６１４",
+    "latitude": 36.3553315,
+    "longitude": 139.0139185,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E4%B8%AD%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d1a68b9597f:0x5a23bc15bc109ac3!8m2!3d36.3553315!4d139.0139185!16s%2Fg%2F1tvrztb4!19sChIJf1m5aBqNHmARw5oQvBW8I1o?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "元総社幼稚園",
+    "address": "\n〒371-0846 群馬県前橋市元総社町１３７２−１",
+    "latitude": 36.390017,
+    "longitude": 139.030978,
+    "link": "https://www.google.com/maps/place/%E5%85%83%E7%B7%8F%E7%A4%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8cb82172c253:0x4127646dd1ed6988!8m2!3d36.390017!4d139.030978!16s%2Fg%2F1ttpgzt4!19sChIJU8JyIbiMHmARiGnt0W1kJ0E?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人第二永井学園 敷島幼稚園",
+    "address": "\n〒371-0046 群馬県前橋市川原町２丁目２４−１",
+    "latitude": 36.4288728,
+    "longitude": 139.0397969,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E7%AC%AC%E4%BA%8C%E6%B0%B8%E4%BA%95%E5%AD%A6%E5%9C%92+%E6%95%B7%E5%B3%B6%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef35b76a37675:0xafcc79725d7ae92a!8m2!3d36.4288728!4d139.0397969!16s%2Fg%2F1tgn9q38!19sChIJdXajdlvzHmARKul6XXJ5zK8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "こだま幼稚園",
+    "address": "\n〒370-0873 群馬県高崎市下豊岡町２４２−２",
+    "latitude": 36.332933,
+    "longitude": 138.984167,
+    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%A0%E3%81%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d9589772a6d:0x79026bc2312ba3d3!8m2!3d36.332933!4d138.984167!16s%2Fg%2F1td2bdw_!19sChIJbSp3iZWNHmAR06MrMcJrAnk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ひろし学園 あさひ幼稚園",
+    "address": "\n〒371-0012 群馬県前橋市東片貝町１０６１ あさひ",
+    "latitude": 36.385461,
+    "longitude": 139.110345,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%8D%E3%81%97%E5%AD%A6%E5%9C%92+%E3%81%82%E3%81%95%E3%81%B2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef23d624c2ec9:0x969396825e1d62!8m2!3d36.385461!4d139.110345!16s%2Fg%2F1tdhlxr6!19sChIJyS5MYj3yHmARYh1egpaTlgA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "いちごばたけ幼稚園",
+    "address": "\n〒370-3105 群馬県高崎市箕郷町西明屋６７−２",
+    "latitude": 36.3938488,
+    "longitude": 138.9604003,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%A1%E3%81%94%E3%81%B0%E3%81%9F%E3%81%91%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e895f8625918d:0xe05a8a64ba1bb27e!8m2!3d36.3938488!4d138.9604003!16s%2Fg%2F1tj_59_x!19sChIJjZElhl-JHmARfrIbumSKWuA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "明和幼稚園",
+    "address": "\n〒370-3105 群馬県高崎市箕郷町西明屋６７−２",
+    "latitude": 36.425391,
+    "longitude": 139.093181,
+    "link": "https://www.google.com/maps/place/%E6%98%8E%E5%92%8C%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef38fa23be47f:0xd4c15419c496aea7!8m2!3d36.425391!4d139.093181!16s%2Fg%2F1vxw8bvg!19sChIJf-Q7oo_zHmARp66WxBlUwdQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "境野幼稚園",
+    "address": "\n〒370-3105 群馬県高崎市箕郷町西明屋６７−２",
+    "latitude": 36.3853718,
+    "longitude": 139.353386,
+    "link": "https://www.google.com/maps/place/%E5%A2%83%E9%87%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee1efda3e3915:0xa3be1d546bdbcf30!8m2!3d36.3853718!4d139.353386!16s%2Fg%2F121kdqfs!19sChIJFTk-2u_hHmARMM_ba1QdvqM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "愛光学園 やまて幼稚園",
+    "address": "\n〒376-0002 群馬県桐生市境野町６丁目１６１６−１",
+    "latitude": 36.2489628,
+    "longitude": 139.0754681,
+    "link": "https://www.google.com/maps/place/%E6%84%9B%E5%85%89%E5%AD%A6%E5%9C%92+%E3%82%84%E3%81%BE%E3%81%A6%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eeb040cbc4b7d:0x1da3c06cc1f5d0be!8m2!3d36.2489628!4d139.0754681!16s%2Fg%2F1tdh8js5!19sChIJfUu8DATrHmARvtD1wWzAox0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "渋川市立こもち幼稚園",
+    "address": "\n〒377-0203 群馬県渋川市吹屋６５８−３０",
+    "latitude": 36.515271,
+    "longitude": 139.014446,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E3%81%93%E3%82%82%E3%81%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e60f1a695656d:0xf3c92bee363a3ecd!8m2!3d36.515271!4d139.014446!16s%2Fg%2F1tdxfc69!19sChIJbWWVpvFgHmARzT46Nu4ryfM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人竹前学園 愛の光幼稚園",
+    "address": "\n〒372-0823 群馬県伊勢崎市今井町３６７",
+    "latitude": 36.3050504,
+    "longitude": 139.1819004,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E7%AB%B9%E5%89%8D%E5%AD%A6%E5%9C%92+%E6%84%9B%E3%81%AE%E5%85%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee8eac71469b7:0xb9b52236d9d70bf8!8m2!3d36.3050504!4d139.1819004!16s%2Fg%2F1tltmg84!19sChIJt2kUx-roHmAR-AvX2TYitbk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "朝日が丘こども園",
+    "address": "\n〒371-0832 群馬県前橋市朝日が丘町５−１ 朝日が丘幼稚園",
+    "latitude": 36.369442,
+    "longitude": 139.0625764,
+    "link": "https://www.google.com/maps/place/%E6%9C%9D%E6%97%A5%E3%81%8C%E4%B8%98%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef2ea17e11609:0xb6f9718862b7c0a9!8m2!3d36.369442!4d139.0625764!16s%2Fg%2F1tg81k71!19sChIJCRbhF-ryHmARqcC3Yohx-bY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "沼田市立利南幼稚園",
+    "address": "\n〒378-0014 群馬県沼田市栄町１４１",
+    "latitude": 36.6334569,
+    "longitude": 139.0486877,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E5%88%A9%E5%8D%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e42ac53cbfd83:0x81d2b458ef1f84a0!8m2!3d36.6334569!4d139.0486877!16s%2Fg%2F1v75r_8l!19sChIJg_3LU6xCHmARoIQf71i00oE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "中之条幼稚園",
+    "address": "\n〒377-0423 群馬県吾妻郡中之条町伊勢町１００５−１",
+    "latitude": 36.5890748,
+    "longitude": 138.8500012,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e71b1fb1e7a01:0xcaa3698df81709b2!8m2!3d36.5890748!4d138.8500012!16s%2Fg%2F1tf31gtz!19sChIJAXoe-7FxHmARsgkX-I1po8o?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "宝泉北幼稚園（認定こども園）",
+    "address": "\n〒373-0041 群馬県太田市別所町３８８−２",
+    "latitude": 36.297596,
+    "longitude": 139.3338704,
+    "link": "https://www.google.com/maps/place/%E5%AE%9D%E6%B3%89%E5%8C%97%E5%B9%BC%E7%A8%9A%E5%9C%92%EF%BC%88%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%EF%BC%89/data=!4m7!3m6!1s0x601edfc868da827b:0xd1a594f82389c591!8m2!3d36.297596!4d139.3338704!16s%2Fg%2F1tdzr6v2!19sChIJe4LaaMjfHmARkcWJI_iUpdE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "高井学園 みどり幼稚園",
+    "address": "\n〒370-0855 群馬県高崎市下佐野町７３５ 高崎みどりこども園",
+    "latitude": 36.299369,
+    "longitude": 139.02802,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E4%BA%95%E5%AD%A6%E5%9C%92+%E3%81%BF%E3%81%A9%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e92d902f921af:0x33ba33178ef774e0!8m2!3d36.299369!4d139.02802!16s%2Fg%2F1td8z663!19sChIJryH5AtmSHmAR4HT3jhczujM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "三山幼稚園",
+    "address": "\n〒370-0802 群馬県高崎市並榎町99番地1",
+    "latitude": 36.3394629,
+    "longitude": 138.995437,
+    "link": "https://www.google.com/maps/place/%E4%B8%89%E5%B1%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8da22eedf7b7:0xd4bb9cedc9c89f2f!8m2!3d36.3394629!4d138.995437!16s%2Fg%2F1thz1rjv!19sChIJt_ftLqKNHmARL5_Iye2cu9Q?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "宮郷幼稚園",
+    "address": "\n〒372-0802 群馬県伊勢崎市田中島町１４８６−８",
+    "latitude": 36.321868,
+    "longitude": 139.163377,
+    "link": "https://www.google.com/maps/place/%E5%AE%AE%E9%83%B7%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eef29ee51a405:0xbd83bd37c20a5d6f!8m2!3d36.321868!4d139.163377!16s%2Fg%2F1thml2dd!19sChIJBaRR7invHmARb10Kwje9g70?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "はちの木こども園",
+    "address": "\n〒370-0857 群馬県高崎市上佐野町６０９",
+    "latitude": 36.3055515,
+    "longitude": 139.0221921,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%A1%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e92c28b506435:0xf0a0e32e4855affd!8m2!3d36.3055515!4d139.0221921!16s%2Fg%2F1th5jjyf!19sChIJNWRQi8KSHmAR_a9VSC7joPA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "前橋市立宮城幼稚園",
+    "address": "\n〒371-0244 群馬県前橋市鼻毛石町１５０３−１ 市立宮城幼稚園",
+    "latitude": 36.439778,
+    "longitude": 139.178393,
+    "link": "https://www.google.com/maps/place/%E5%89%8D%E6%A9%8B%E5%B8%82%E7%AB%8B%E5%AE%AE%E5%9F%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef0f21c9118a7:0x4b59f47ff95981a3!8m2!3d36.439778!4d139.178393!16s%2Fg%2F1tdlhcv0!19sChIJpxiRHPLwHmARo4FZ-X_0WUs?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "館林市立西幼稚園",
+    "address": "\n〒374-0042 群馬県館林市近藤町１７８−２７３",
+    "latitude": 36.240398,
+    "longitude": 139.507904,
+    "link": "https://www.google.com/maps/place/%E9%A4%A8%E6%9E%97%E5%B8%82%E7%AB%8B%E8%A5%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f255ffcc58e87:0x6a51672522bcab44!8m2!3d36.240398!4d139.507904!16s%2Fg%2F1tp085_h!19sChIJh47F_F8lH2ARRKu8IiVnUWo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "田部井幼稚園",
+    "address": "\n〒379-2222 群馬県伊勢崎市田部井町２丁目４５８",
+    "latitude": 36.3481756,
+    "longitude": 139.250289,
+    "link": "https://www.google.com/maps/place/%E7%94%B0%E9%83%A8%E4%BA%95%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ee6838e4e56c1:0xfa416595fe2d1137!8m2!3d36.3481756!4d139.250289!16s%2Fg%2F1tgm2yw8!19sChIJwVZOjoPmHmARNxEt_pVlQfo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "城南幼稚園",
+    "address": "\n〒370-0835 群馬県高崎市竜見町２５６",
+    "latitude": 36.3149957,
+    "longitude": 139.0071613,
+    "link": "https://www.google.com/maps/place/%E5%9F%8E%E5%8D%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e928f5c458a6b:0x45087fa4ee902242!8m2!3d36.3149957!4d139.0071613!16s%2Fg%2F1tdnl653!19sChIJa4pFXI-SHmARQiKQ7qR_CEU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "榎本学園 なのかいちこども園",
+    "address": "\n〒370-2343 群馬県富岡市七日市１０７４−１５",
+    "latitude": 36.256649,
+    "longitude": 138.879981,
+    "link": "https://www.google.com/maps/place/%E6%A6%8E%E6%9C%AC%E5%AD%A6%E5%9C%92+%E3%81%AA%E3%81%AE%E3%81%8B%E3%81%84%E3%81%A1%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e900a76407d01:0x80c341703e7cfb31!8m2!3d36.256649!4d138.879981!16s%2Fg%2F1w346pw_!19sChIJAX1AdgqQHmARMft8PnBBw4A?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人学文館 上武大学附属幼稚園",
+    "address": "\n〒370-1301 群馬県高崎市新町３１３３",
+    "latitude": 36.278332,
+    "longitude": 139.114706,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%AD%A6%E6%96%87%E9%A4%A8+%E4%B8%8A%E6%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eebdd7ff85227:0x59709d74018e8f1c!8m2!3d36.278332!4d139.114706!16s%2Fg%2F1tx8t94q!19sChIJJ1L4f93rHmARHI-OAXSdcFk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ちぐさこども園",
+    "address": "\n〒378-0055 群馬県沼田市柳町３９４",
+    "latitude": 36.6538055,
+    "longitude": 139.0451402,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%90%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e429c66c29b8f:0xd84d2c070455f621!8m2!3d36.6538055!4d139.0451402!16s%2Fg%2F1tf5q9hv!19sChIJj5vCZpxCHmARIfZVBAcsTdg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "群馬医療福祉大学 附属鈴蘭幼稚園",
+    "address": "\n〒371-0846 群馬県前橋市元総社町１５２−２ 鈴蘭",
+    "latitude": 36.382499,
+    "longitude": 139.047707,
+    "link": "https://www.google.com/maps/place/%E7%BE%A4%E9%A6%AC%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6+%E9%99%84%E5%B1%9E%E9%88%B4%E8%98%AD%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef32ec8234901:0xef89cc5d893a795e!8m2!3d36.382499!4d139.047707!16s%2Fg%2F1tgc9lsh!19sChIJAUkjyC7zHmARXnk6iV3Mie8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "藤岡開成幼稚園",
+    "address": "\n〒375-0014 群馬県藤岡市下栗須９５９−３",
+    "latitude": 36.2608738,
+    "longitude": 139.089448,
+    "link": "https://www.google.com/maps/place/%E8%97%A4%E5%B2%A1%E9%96%8B%E6%88%90%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eeba507208257:0xfec074c83247c5a8!8m2!3d36.2608738!4d139.089448!16s%2Fg%2F1tf7b5m_!19sChIJV4IgB6XrHmARqMVHMsh0wP4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "沼田こども園",
+    "address": "\n〒375-0014 群馬県藤岡市下栗須９５９−３",
+    "latitude": 36.642633,
+    "longitude": 139.045541,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e42a6b1056409:0x1296f076fcc2ce4e!8m2!3d36.642633!4d139.045541!16s%2Fg%2F1tg5zqfv!19sChIJCWQFsaZCHmARTs7C_HbwlhI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "星の光こども園",
+    "address": "\n〒370-3511 群馬県高崎市金古町１９２１−１ 星光第二保育園",
+    "latitude": 36.408735,
+    "longitude": 139.001419,
+    "link": "https://www.google.com/maps/place/%E6%98%9F%E3%81%AE%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8b75f0526db3:0xf40b8b2a16f93b70!8m2!3d36.408735!4d139.001419!16s%2Fg%2F1tp27c7n!19sChIJs21S8HWLHmARcDv5FiqLC_Q?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "鼻高こども園",
+    "address": "\n〒370-0868 群馬県高崎市鼻高町４８−５",
+    "latitude": 36.332296,
+    "longitude": 138.9426497,
+    "link": "https://www.google.com/maps/place/%E9%BC%BB%E9%AB%98%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8e604e957db9:0xadc21b17df901366!8m2!3d36.332296!4d138.9426497!16s%2Fg%2F1tkn_wlt!19sChIJuX2VTmCOHmARZhOQ3xcbwq0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "共愛学園 こども園",
+    "address": "\n〒379-2121 群馬県前橋市小屋原町１１２２−２ 共愛学園 こども園",
+    "latitude": 36.3593007,
+    "longitude": 139.1434491,
+    "link": "https://www.google.com/maps/place/%E5%85%B1%E6%84%9B%E5%AD%A6%E5%9C%92+%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eee41dd1c7ccf:0xe624750e53387ed2!8m2!3d36.3593007!4d139.1434491!16s%2Fg%2F1tfddk9w!19sChIJz3wc3UHuHmAR0n44Uw51JOY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "駒形 こども園",
+    "address": "\n〒379-2122 群馬県前橋市駒形町４１０−３ 駒形保育園",
+    "latitude": 36.341408,
+    "longitude": 139.137698,
+    "link": "https://www.google.com/maps/place/%E9%A7%92%E5%BD%A2+%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eee8a1942397b:0x91dd7520a6d5dd1e!8m2!3d36.341408!4d139.137698!16s%2Fg%2F11np2r7qhd!19sChIJezlCGYruHmARHt3VpiB13ZE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "新町こども園",
+    "address": "\n〒370-1301 群馬県高崎市新町１７２０ 新町第二保育園",
+    "latitude": 36.270676,
+    "longitude": 139.107018,
+    "link": "https://www.google.com/maps/place/%E6%96%B0%E7%94%BA%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eebc400224523:0xdc0c835be75bddfb!8m2!3d36.270676!4d139.107018!16s%2Fg%2F1tfkqvv5!19sChIJI0UiAMTrHmAR-91b51uDDNw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 三郷こども園",
+    "address": "\n〒372-0001 群馬県伊勢崎市波志江町２３８１−７",
+    "latitude": 36.35417,
+    "longitude": 139.192869,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E4%B8%89%E9%83%B7%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eef6f8653ac4f:0x83797710461f2a21!8m2!3d36.35417!4d139.192869!16s%2Fg%2F1tj45_ml!19sChIJT6xThm_vHmARISofRhB3eYM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "とみおかこども園",
+    "address": "\n〒370-2316 群馬県富岡市富岡１０９３−３",
+    "latitude": 36.2586182,
+    "longitude": 138.8869595,
+    "link": "https://www.google.com/maps/place/%E3%81%A8%E3%81%BF%E3%81%8A%E3%81%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e900cfc4b9573:0x899c0525f2879241!8m2!3d36.2586182!4d138.8869595!16s%2Fg%2F1tgs1066!19sChIJc5VL_AyQHmARQZKH8iUFnIk?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "はちの木こども園",
+    "address": "\n〒370-0857 群馬県高崎市上佐野町６０９",
+    "latitude": 36.3055515,
+    "longitude": 139.0221921,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%A1%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e92c28b506435:0xf0a0e32e4855affd!8m2!3d36.3055515!4d139.0221921!16s%2Fg%2F1th5jjyf!19sChIJNWRQi8KSHmAR_a9VSC7joPA?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ふじおか中央こども園",
+    "address": "\n〒375-0024 群馬県藤岡市藤岡１６１８−１",
+    "latitude": 36.246163,
+    "longitude": 139.077912,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%98%E3%81%8A%E3%81%8B%E4%B8%AD%E5%A4%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eeb01ea9c2e49:0x2cb63bd94c0206d4!8m2!3d36.246163!4d139.077912!16s%2Fg%2F12hxf5ky0!19sChIJSS6c6gHrHmAR1AYCTNk7tiw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "フェリーチェ国際こども園",
+    "address": "\n〒370-1102 群馬県佐波郡玉村町飯塚３２８",
+    "latitude": 36.3273938,
+    "longitude": 139.1358634,
+    "link": "https://www.google.com/maps/place/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E5%9B%BD%E9%9A%9B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eee96da6522dd:0xa4f5ebb8ce2a0530!8m2!3d36.3273938!4d139.1358634!16s%2Fg%2F1tgcy498!19sChIJ3SJl2pbuHmARMAUqzrjr9aQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 もものき",
+    "address": "\n〒371-0052 群馬県前橋市上沖町７３１−４",
+    "latitude": 36.4039433,
+    "longitude": 139.0918655,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%82%E3%82%82%E3%81%AE%E3%81%8D/data=!4m7!3m6!1s0x601ef3a5e9ab824d:0x6b4177decc148042!8m2!3d36.4039433!4d139.0918655!16s%2Fg%2F1tr8lnwr!19sChIJTYKr6aXzHmARQoAUzN53QWs?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "わたうちこども園",
+    "address": "\n〒370-0342 群馬県太田市新田上江田町７６７−１",
+    "latitude": 36.298523,
+    "longitude": 139.295234,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%9F%E3%81%86%E3%81%A1%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee0a7f693b883:0xab5d990242ae0fb0!8m2!3d36.298523!4d139.295234!16s%2Fg%2F1w4f85st!19sChIJg7iT9qfgHmARsA-uQgKZXas?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "真明こども園",
+    "address": "\n〒370-0864 群馬県高崎市石原町１５５２",
+    "latitude": 36.3089603,
+    "longitude": 138.9975023,
+    "link": "https://www.google.com/maps/place/%E7%9C%9F%E6%98%8E%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9263a17a8887:0x6b28054dc8348ddf!8m2!3d36.3089603!4d138.9975023!16s%2Fg%2F1vljgdwc!19sChIJh4h6oWOSHmAR3400yE0FKGs?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "上大類こども園",
+    "address": "\n〒370-0031 群馬県高崎市上大類町９７２",
+    "latitude": 36.3376922,
+    "longitude": 139.0310405,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E5%A4%A7%E9%A1%9E%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8d59d8b3add9:0x64270b453f44d8f5!8m2!3d36.3376922!4d139.0310405!16s%2Fg%2F1tcyl3fb!19sChIJ2a2z2FmNHmAR9dhEP0ULJ2Q?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 おりーぶの森",
+    "address": "\n〒371-0811 群馬県前橋市朝倉町１３８",
+    "latitude": 36.3667867,
+    "longitude": 139.0922347,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%8A%E3%82%8A%E3%83%BC%E3%81%B6%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x601ef270635f8c13:0x935bb54824c75abf!8m2!3d36.3667867!4d139.0922347!16s%2Fg%2F1tf75lzd!19sChIJE4xfY3DyHmARv1rHJEi1W5M?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園ねむの木こどもの森",
+    "address": "\n〒370-2107 群馬県高崎市吉井町池１１５１−１",
+    "latitude": 36.263555,
+    "longitude": 138.99485,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%AD%E3%82%80%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x601e9398c3bd24cb:0xd1ca8b63e996b302!8m2!3d36.263555!4d138.99485!16s%2Fg%2F1v_z8_dc!19sChIJyyS9w5iTHmARArOW6WOLytE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ひだまりこども園",
+    "address": "\n〒370-0864 群馬県高崎市石原町１２４５",
+    "latitude": 36.312173,
+    "longitude": 139.000819,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9262a7b777d3:0xb2db0716bc8c38d6!8m2!3d36.312173!4d139.000819!16s%2Fg%2F11fcqs_mfq!19sChIJ03e3p2KSHmAR1jiMvBYH27I?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 二子山幼稚園",
+    "address": "\n〒371-0811 群馬県前橋市朝倉町１丁目３−７ 二子山幼稚園",
+    "latitude": 36.3745667,
+    "longitude": 139.0923215,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E4%BA%8C%E5%AD%90%E5%B1%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef2689e3dd8c9:0xde6ca9bd4766f62b!8m2!3d36.3745667!4d139.0923215!16s%2Fg%2F1v9gk2b_!19sChIJydg9nmjyHmARK_ZmR72pbN4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "吉井めざめこども園",
+    "address": "\n〒370-2102 群馬県高崎市吉井町小暮５８−１",
+    "latitude": 36.2688257,
+    "longitude": 139.0184299,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E4%BA%95%E3%82%81%E3%81%96%E3%82%81%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9369090c128d:0x75bcc9bc1bdaa21c!8m2!3d36.2688257!4d139.0184299!16s%2Fg%2F1tfb2228!19sChIJjRIMCWmTHmARHKLaG7zJvHU?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "牛沢こども園",
+    "address": "\n〒373-0833 群馬県太田市牛沢町１０７７−１",
+    "latitude": 36.2592232,
+    "longitude": 139.3613679,
+    "link": "https://www.google.com/maps/place/%E7%89%9B%E6%B2%A2%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601edf5700000001:0x95ef96553860ce40!8m2!3d36.2592232!4d139.3613679!16s%2Fg%2F11gn1b50__!19sChIJAQAAAFffHmARQM5gOFWW75U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "たかぞのこども園",
+    "address": "\n〒376-0601 群馬県桐生市梅田町１丁目２７３−１",
+    "latitude": 36.4375782,
+    "longitude": 139.357858,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%8B%E3%81%9E%E3%81%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee285d4cd4f49:0x72e5d9ad0be9c2e4!8m2!3d36.4375782!4d139.357858!16s%2Fg%2F1td7c76b!19sChIJSU_N1IXiHmAR5MLpC63Z5XI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 エデュカーレ城之内",
+    "address": "\n〒370-0081 群馬県高崎市浜川町２４９−３",
+    "latitude": 36.3684637,
+    "longitude": 138.9766509,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%A8%E3%83%87%E3%83%A5%E3%82%AB%E3%83%BC%E3%83%AC%E5%9F%8E%E4%B9%8B%E5%86%85/data=!4m7!3m6!1s0x601e8c14339df57d:0x76a3e9a5c38c23d4!8m2!3d36.3684637!4d138.9766509!16s%2Fg%2F1tdl1n6j!19sChIJffWdMxSMHmAR1COMw6Xpo3Y?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "いず海第一こども園",
+    "address": "\n〒370-0046 群馬県高崎市江木町１６３−６",
+    "latitude": 36.3290574,
+    "longitude": 139.0200372,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%9A%E6%B5%B7%E7%AC%AC%E4%B8%80%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e929fe9af7f97:0x100242de48f3d682!8m2!3d36.3290574!4d139.0200372!16s%2Fg%2F1td0yk7j!19sChIJl3-v6Z-SHmARgtbzSN5CAhA?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "中河原こども園",
+    "address": "\n〒370-1301 群馬県高崎市新町１４０２−１",
+    "latitude": 36.2647491,
+    "longitude": 139.1095233,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E6%B2%B3%E5%8E%9F%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eebc54d18b825:0x3e8883ea6f47e8d4!8m2!3d36.2647491!4d139.1095233!16s%2Fg%2F1tcxzxy8!19sChIJJbgYTcXrHmAR1OhHb-qDiD4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "まえばしこども園",
+    "address": "\n〒371-0027 群馬県前橋市平和町１丁目２−７",
+    "latitude": 36.3968082,
+    "longitude": 139.0635807,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%88%E3%81%B0%E3%81%97%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef37175bc32b3:0x75b767f9fe69ef35!8m2!3d36.3968082!4d139.0635807!16s%2Fg%2F11h047jdb7!19sChIJszK8dXHzHmARNe9p_vlnt3U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "西園こども園",
+    "address": "\n〒372-0007 群馬県伊勢崎市安堀町８５３",
+    "latitude": 36.333308,
+    "longitude": 139.170372,
+    "link": "https://www.google.com/maps/place/%E8%A5%BF%E5%9C%92%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eef237efbebfb:0x267707268cc3ca36!8m2!3d36.333308!4d139.170372!16s%2Fg%2F1th5jk1r!19sChIJ--v7fiPvHmARNsrDjCYHdyY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "新里こども園",
+    "address": "\n〒376-0121 群馬県桐生市新里町新川２４２２",
+    "latitude": 36.4217835,
+    "longitude": 139.2533777,
+    "link": "https://www.google.com/maps/place/%E6%96%B0%E9%87%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee4d2033b8823:0xb5a4861751931946!8m2!3d36.4217835!4d139.2533777!16s%2Fg%2F1tq6dl6t!19sChIJI4g7A9LkHmARRhmTUReGpLU?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "朝日が丘こども園",
+    "address": "\n〒371-0832 群馬県前橋市朝日が丘町５−１ 朝日が丘幼稚園",
+    "latitude": 36.369442,
+    "longitude": 139.0625764,
+    "link": "https://www.google.com/maps/place/%E6%9C%9D%E6%97%A5%E3%81%8C%E4%B8%98%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef2ea17e11609:0xb6f9718862b7c0a9!8m2!3d36.369442!4d139.0625764!16s%2Fg%2F1tg81k71!19sChIJCRbhF-ryHmARqcC3Yohx-bY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 さわらび幼稚園",
+    "address": "\n〒371-0832 群馬県前橋市朝日が丘町５−１ 朝日が丘幼稚園",
+    "latitude": 36.364438,
+    "longitude": 138.9174301,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%95%E3%82%8F%E3%82%89%E3%81%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e88d68c66e61b:0xad137c95834fb881!8m2!3d36.364438!4d138.9174301!16s%2Fg%2F1w2yzjsp!19sChIJG-ZmjNaIHmARgbhPg5V8E60?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "関口学園 幼保連携型 認定こども園 いしい幼稚園",
+    "address": "\n〒371-0105 群馬県前橋市富士見町石井８９６−１",
+    "latitude": 36.4617628,
+    "longitude": 139.0875976,
+    "link": "https://www.google.com/maps/place/%E9%96%A2%E5%8F%A3%E5%AD%A6%E5%9C%92+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B+%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%84%E3%81%97%E3%81%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef454e77714df:0xd9fba72b766e538f!8m2!3d36.4617628!4d139.0875976!16s%2Fg%2F1tm29s0t!19sChIJ3xR351T0HmARj1Nudiun-9k?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ぽらりすこども園",
+    "address": "\n〒371-0116 群馬県前橋市富士見町原之郷１２６８",
+    "latitude": 36.440961,
+    "longitude": 139.072619,
+    "link": "https://www.google.com/maps/place/%E3%81%BD%E3%82%89%E3%82%8A%E3%81%99%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef48d41e1909b:0xe44d26ecc6b4abaf!8m2!3d36.440961!4d139.072619!16s%2Fg%2F1td58q1s!19sChIJm5DhQY30HmARr6u0xuwmTeQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 相愛館",
+    "address": "\n〒371-0017 群馬県前橋市日吉町２丁目２７−２８",
+    "latitude": 36.396659,
+    "longitude": 139.08119,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E7%9B%B8%E6%84%9B%E9%A4%A8/data=!4m7!3m6!1s0x601ef3075b405de5:0xd27ea774b67306ce!8m2!3d36.396659!4d139.08119!16s%2Fg%2F1tsjdr66!19sChIJ5V1AWwfzHmARzgZztnSnftI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "SuruSu上陽こども園",
+    "address": "\n〒371-0017 群馬県前橋市日吉町２丁目２７−２８",
+    "latitude": 36.345474,
+    "longitude": 139.118541,
+    "link": "https://www.google.com/maps/place/SuruSu%E4%B8%8A%E9%99%BD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eedd9a171df17:0x1715f0862cd3e1d1!8m2!3d36.345474!4d139.118541!16s%2Fg%2F1w6_nxw4!19sChIJF99xodntHmAR0eHTLIbwFRc?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "一峰こども園",
+    "address": "\n〒370-2343 群馬県富岡市七日市１７８",
+    "latitude": 36.2622559,
+    "longitude": 138.8760633,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%B3%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9aa5be528eb5:0x5ccea020d9d7c50d!8m2!3d36.2622559!4d138.8760633!16s%2Fg%2F1vr3d7nb!19sChIJtY5SvqWaHmARDcXX2SCgzlw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "法輪寺まちなかこども園",
+    "address": "\n〒370-0055 群馬県高崎市羅漢町６９",
+    "latitude": 36.3280605,
+    "longitude": 139.0090697,
+    "link": "https://www.google.com/maps/place/%E6%B3%95%E8%BC%AA%E5%AF%BA%E3%81%BE%E3%81%A1%E3%81%AA%E3%81%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8d09b4491ad9:0xe5db195b7c14824f!8m2!3d36.3280605!4d139.0090697!16s%2Fg%2F11gts__0_h!19sChIJ2RpJtAmNHmART4IUfFsZ2-U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "榛東南部こども園",
+    "address": "\n〒370-3504 群馬県北群馬郡榛東村広馬場１７６３−１",
+    "latitude": 36.419333,
+    "longitude": 138.966918,
+    "link": "https://www.google.com/maps/place/%E6%A6%9B%E6%9D%B1%E5%8D%97%E9%83%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8a2c42413ea1:0x22f746c1d4c912f0!8m2!3d36.419333!4d138.966918!16s%2Fg%2F1vq74ylw!19sChIJoT5BQiyKHmAR8BLJ1MFG9yI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ちぐさこども園",
+    "address": "\n〒378-0055 群馬県沼田市柳町３９４",
+    "latitude": 36.6538055,
+    "longitude": 139.0451402,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%90%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e429c66c29b8f:0xd84d2c070455f621!8m2!3d36.6538055!4d139.0451402!16s%2Fg%2F1tf5q9hv!19sChIJj5vCZpxCHmARIfZVBAcsTdg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "安中こども園",
+    "address": "\n〒379-0116 群馬県安中市安中３丁目３−３",
+    "latitude": 36.327448,
+    "longitude": 138.893604,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8f6936dc01cb:0xf6487700cf37d09f!8m2!3d36.327448!4d138.893604!16s%2Fg%2F1tm29rvl!19sChIJywHcNmmPHmARn9A3zwB3SPY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "上滝こども園",
+    "address": "\n〒370-0027 群馬県高崎市上滝町６１９−２",
+    "latitude": 36.3248176,
+    "longitude": 139.0740879,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E6%BB%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eedd95d7ea465:0xfeda042044e7ee4a!8m2!3d36.3248176!4d139.0740879!16s%2Fg%2F11jg1xp3fw!19sChIJZaR-XdntHmARSu7nRCAE2v4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "大原南こども園",
+    "address": "\n〒379-2304 群馬県太田市大原町１１０",
+    "latitude": 36.348099,
+    "longitude": 139.292173,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%8E%9F%E5%8D%97%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee137228a11fb:0xf8600f57c4cdbf23!8m2!3d36.348099!4d139.292173!16s%2Fg%2F1td13c5r!19sChIJ-xGKIjfhHmARI7_NxFcPYPg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "敷島さくらこども園",
+    "address": "\n〒371-0035 群馬県前橋市岩神町４丁目１５−１３",
+    "latitude": 36.4099468,
+    "longitude": 139.0535395,
+    "link": "https://www.google.com/maps/place/%E6%95%B7%E5%B3%B6%E3%81%95%E3%81%8F%E3%82%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef30744f07985:0xc567508b91405483!8m2!3d36.4099468!4d139.0535395!16s%2Fg%2F11h1mh_q2q!19sChIJhXnwRAfzHmARg1RAkYtQZ8U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園めぶきの森かんら",
+    "address": "\n〒370-2211 群馬県甘楽郡甘楽町小川３２８",
+    "latitude": 36.2511047,
+    "longitude": 138.9338859,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%82%81%E3%81%B6%E3%81%8D%E3%81%AE%E6%A3%AE%E3%81%8B%E3%82%93%E3%82%89/data=!4m7!3m6!1s0x601e910bc189c251:0x7cea4b81eb63ee73!8m2!3d36.2511047!4d138.9338859!16s%2Fg%2F11q4m009rq!19sChIJUcKJwQuRHmARc-5j64FL6nw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "のびのびこども園",
+    "address": "\n〒376-0121 群馬県桐生市新里町新川３５８０−５",
+    "latitude": 36.4298451,
+    "longitude": 139.2651658,
+    "link": "https://www.google.com/maps/place/%E3%81%AE%E3%81%B3%E3%81%AE%E3%81%B3%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee4b56ad1960f:0x44a257ac6c9fbd0b!8m2!3d36.4298451!4d139.2651658!16s%2Fg%2F1tcvtyqd!19sChIJD5bRarXkHmARC72fbKxXokQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "にいはるこども園",
+    "address": "\n〒379-1418 群馬県利根郡みなかみ町須川７７４−１",
+    "latitude": 36.6975649,
+    "longitude": 138.9059718,
+    "link": "https://www.google.com/maps/place/%E3%81%AB%E3%81%84%E3%81%AF%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e6d3df4e9b855:0xb5742942c7f934ec!8m2!3d36.6975649!4d138.9059718!16s%2Fg%2F1tdfytcq!19sChIJVbjp9D1tHmAR7DT5x0IpdLU?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "慈光こども園",
+    "address": "\n〒370-0053 群馬県高崎市通町９０−１ 慈光ビル",
+    "latitude": 36.3255922,
+    "longitude": 139.0134137,
+    "link": "https://www.google.com/maps/place/%E6%85%88%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9282ecb20dad:0xee8d5f8924e00e1!8m2!3d36.3255922!4d139.0134137!16s%2Fg%2F1td2zjxq!19sChIJrQ2y7IKSHmAR4QBOkvjV6A4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "しみずざかこども園",
+    "address": "\n〒370-2133 群馬県高崎市吉井町吉井川７７１",
+    "latitude": 36.249623,
+    "longitude": 138.98604,
+    "link": "https://www.google.com/maps/place/%E3%81%97%E3%81%BF%E3%81%9A%E3%81%96%E3%81%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e938e83408151:0x8fda457196a8a65f!8m2!3d36.249623!4d138.98604!16s%2Fg%2F1tf02kg9!19sChIJUYFAg46THmARX6aolnFF2o8?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "社会福祉法人あおい会 あおいこども園",
+    "address": "\n〒371-0014 群馬県前橋市朝日町３丁目２１−１１−１",
+    "latitude": 36.3850936,
+    "longitude": 139.0871588,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E3%81%82%E3%81%8A%E3%81%84%E4%BC%9A+%E3%81%82%E3%81%8A%E3%81%84%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef25a8e2e25db:0x4e43dd8cd23071e8!8m2!3d36.3850936!4d139.0871588!16s%2Fg%2F1tf4313p!19sChIJ2yUujlryHmAR6HEw0ozdQ04?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "二葉こども園",
+    "address": "\n〒372-0036 群馬県伊勢崎市茂呂南町５３１８−１４",
+    "latitude": 36.2921164,
+    "longitude": 139.2097493,
+    "link": "https://www.google.com/maps/place/%E4%BA%8C%E8%91%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee7d0e880d153:0x57a6b09348a2a5ba!8m2!3d36.2921164!4d139.2097493!16s%2Fg%2F1tfcc836!19sChIJU9GA6NDnHmARuqWiSJOwplc?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "大胡第２こども園",
+    "address": "\n〒371-0231 群馬県前橋市堀越町１３９０−３",
+    "latitude": 36.42351,
+    "longitude": 139.155327,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E8%83%A1%E7%AC%AC%EF%BC%92%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef1070eb22bc3:0x580466af71b345ce!8m2!3d36.42351!4d139.155327!16s%2Fg%2F1tm12pmr!19sChIJwyuyDgfxHmARzkWzca9mBFg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 学校法人斎藤学園 桃瀬幼稚園",
+    "address": "\n〒371-0231 群馬県前橋市堀越町１３９０−３",
+    "latitude": 36.3863757,
+    "longitude": 139.0955161,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E6%96%8E%E8%97%A4%E5%AD%A6%E5%9C%92+%E6%A1%83%E7%80%AC%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601ef245b647a995:0x930610faa3b95afd!8m2!3d36.3863757!4d139.0955161!16s%2Fg%2F1tdzr6xz!19sChIJlalHtkXyHmAR_Vq5o_oQBpM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 ろっくひよこプリスクール",
+    "address": "\n〒371-0816 群馬県前橋市上佐鳥町５３８−３",
+    "latitude": 36.3638541,
+    "longitude": 139.0778876,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%8D%E3%81%A3%E3%81%8F%E3%81%B2%E3%82%88%E3%81%93%E3%83%97%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB/data=!4m7!3m6!1s0x601ef31297741e61:0xe02cd24f6de94b72!8m2!3d36.3638541!4d139.0778876!16s%2Fg%2F11ls4gr4mw!19sChIJYR50lxLzHmARckvpbU_SLOA?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "榛東中央こども園",
+    "address": "\n〒371-0816 群馬県前橋市上佐鳥町５３８−３",
+    "latitude": 36.4421629,
+    "longitude": 138.9740033,
+    "link": "https://www.google.com/maps/place/%E6%A6%9B%E6%9D%B1%E4%B8%AD%E5%A4%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8a11310b6073:0x3e1678da189ff62a!8m2!3d36.4421629!4d138.9740033!16s%2Fg%2F1tf9yhqj!19sChIJc2ALMRGKHmARKvafGNp4Fj4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ぐんま幼稚園",
+    "address": "\n〒371-0816 群馬県前橋市上佐鳥町５３８−３",
+    "latitude": 36.410294,
+    "longitude": 139.0009,
+    "link": "https://www.google.com/maps/place/%E3%81%90%E3%82%93%E3%81%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8b9fd5ecb8c9:0x6605f5c67613b578!8m2!3d36.410294!4d139.0009!16s%2Fg%2F1tdprrjl!19sChIJybjs1Z-LHmAReLUTdsb1BWY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "いそべこども園",
+    "address": "\n〒371-0816 群馬県前橋市上佐鳥町５３８−３",
+    "latitude": 36.3028772,
+    "longitude": 138.85583,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%9D%E3%81%B9%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e85a3ef485899:0xaf7707cbc4f923c9!8m2!3d36.3028772!4d138.85583!16s%2Fg%2F1tk6_l9v!19sChIJmVhI76OFHmARySP5xMsHd68?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 ひろせ幼稚園",
+    "address": "\n〒379-0127 群馬県安中市磯部３丁目１２−１２",
+    "latitude": 36.358258,
+    "longitude": 139.113862,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%B2%E3%82%8D%E3%81%9B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601eede5176e202d:0x2acbb942f9d877af!8m2!3d36.358258!4d139.113862!16s%2Fg%2F1tlw94sd!19sChIJLSBuF-XtHmARr3fY-UK5yyo?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "つきよのこども園",
+    "address": "\n〒379-1313 群馬県利根郡みなかみ町月夜野４７１−１",
+    "latitude": 36.6804742,
+    "longitude": 138.9949904,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8D%E3%82%88%E3%81%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e697dde559707:0xe1d6656b06013ec5!8m2!3d36.6804742!4d138.9949904!16s%2Fg%2F11b8zsfpt6!19sChIJB5dV3n1pHmARxT4BBmtl1uE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "茂呂こども園",
+    "address": "\n〒372-0034 群馬県伊勢崎市茂呂町２丁目２８３６−１ 茂呂",
+    "latitude": 36.300349,
+    "longitude": 139.208827,
+    "link": "https://www.google.com/maps/place/%E8%8C%82%E5%91%82%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee62c978cafa7:0x2d02ad3b8079eb7f!8m2!3d36.300349!4d139.208827!16s%2Fg%2F1v3kn4g2!19sChIJp6-MlyzmHmARf-t5gDutAi0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "社会福祉法人淳尚会 幼保連携型 認定こども園 あかいしこども園",
+    "address": "\n〒372-0055 群馬県伊勢崎市曲輪町２４−１１",
+    "latitude": 36.324351,
+    "longitude": 139.191212,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E6%B7%B3%E5%B0%9A%E4%BC%9A+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B+%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%82%E3%81%8B%E3%81%84%E3%81%97%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee8b23a4bf0a1:0xc1d6befc04cd70c1!8m2!3d36.324351!4d139.191212!16s%2Fg%2F1td0543k!19sChIJofBLOrLoHmARwXDNBPy-1sE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "たちばな会 幼保連携型認定こども園 たちばな",
+    "address": "\n〒379-2152 群馬県前橋市下大島町１０５５−９３ たちばな保育園",
+    "latitude": 36.358661,
+    "longitude": 139.126368,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA%E4%BC%9A+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA/data=!4m7!3m6!1s0x601eee0b90c3a66d:0x5c27142ca5f43894!8m2!3d36.358661!4d139.126368!16s%2Fg%2F1trtvdn_!19sChIJbabDkAvuHmARlDj0pSwUJ1w?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "大胡第３こども園",
+    "address": "\n〒371-0221 群馬県前橋市樋越町７０１−２ 大胡第三保育園",
+    "latitude": 36.4084595,
+    "longitude": 139.174799,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E8%83%A1%E7%AC%AC%EF%BC%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef03998df68c7:0x7fc3c78d8b3423b0!8m2!3d36.4084595!4d139.174799!16s%2Fg%2F11bccm5bj5!19sChIJx2jfmDnwHmARsCM0i43Hw38?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ふたばこども園",
+    "address": "\n〒371-0132 群馬県前橋市五代町１３０１−３",
+    "latitude": 36.417748,
+    "longitude": 139.1189888,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%9F%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ef3d9b18017cd:0xc2bbf0e00c3586ac!8m2!3d36.417748!4d139.1189888!16s%2Fg%2F1tf7s6tx!19sChIJzReAsdnzHmARrIY1DODwu8I?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "山名双葉こども園",
+    "address": "\n〒370-1213 群馬県高崎市山名町１７１２−１",
+    "latitude": 36.27746,
+    "longitude": 139.0358883,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E5%90%8D%E5%8F%8C%E8%91%89%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e93494d9a6f89:0x53c5dca3f8db64b0!8m2!3d36.27746!4d139.0358883!16s%2Fg%2F1th0bjb9!19sChIJiW-aTUmTHmARsGTb-KPcxVM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "昭和こども園",
+    "address": "\n〒376-0034 群馬県桐生市東２丁目４−４５",
+    "latitude": 36.415384,
+    "longitude": 139.347988,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee2697d01dea7:0xb16f9a2bee0f56eb!8m2!3d36.415384!4d139.347988!16s%2Fg%2F1tkby9ft!19sChIJp94BfWniHmAR61YP7iuab7E?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "杉の子保育園（幼保連携型認定こども園）",
+    "address": "\n〒376-0034 群馬県桐生市東２丁目４−４５",
+    "latitude": 36.3118888,
+    "longitude": 139.0438062,
+    "link": "https://www.google.com/maps/place/%E6%9D%89%E3%81%AE%E5%AD%90%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%88%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%EF%BC%89/data=!4m7!3m6!1s0x601eed2d79d2ced7:0xb13b2fc695dd7609!8m2!3d36.3118888!4d139.0438062!16s%2Fg%2F1ttq25v2!19sChIJ187SeS3tHmARCXbdlcYvO7E?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 ひばり幼稚園",
+    "address": "\n〒376-0034 群馬県桐生市東２丁目４−４５",
+    "latitude": 36.3883814,
+    "longitude": 138.9868855,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%B2%E3%81%B0%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8c761faba313:0xc2f679208510aef0!8m2!3d36.3883814!4d138.9868855!16s%2Fg%2F1vzqsbgf!19sChIJE6OrH3aMHmAR8K4QhSB59sI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "直心こども園",
+    "address": "\n〒376-0034 群馬県桐生市東２丁目４−４５",
+    "latitude": 36.260856,
+    "longitude": 139.041811,
+    "link": "https://www.google.com/maps/place/%E7%9B%B4%E5%BF%83%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eeb534849e677:0x565be93314c0cc31!8m2!3d36.260856!4d139.041811!16s%2Fg%2F1w1128bh!19sChIJd-ZJSFPrHmARMczAFDPpW1Y?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "あそびの森保育園",
+    "address": "\n〒375-0057 群馬県藤岡市上落合８４８",
+    "latitude": 36.381877,
+    "longitude": 139.0629684,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%9D%E3%81%B3%E3%81%AE%E6%A3%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601ef2e05c291a67:0x92487de6021053ab!8m2!3d36.381877!4d139.0629684!16s%2Fg%2F1tl0xfb8!19sChIJZxopXODyHmARq1MQAuZ9SJI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "白ゆりこども園",
+    "address": "\n〒376-0124 群馬県桐生市新里町小林２００−２",
+    "latitude": 36.4172655,
+    "longitude": 139.2363798,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E3%82%86%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee52c57b00fdb:0x2d2840d18df5e651!8m2!3d36.4172655!4d139.2363798!16s%2Fg%2F1tff33m6!19sChIJ2w-wVyzlHmARUeb1jdFAKC0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園AOYAGI",
+    "address": "\n〒374-0035 群馬県館林市青柳町１５９６−１",
+    "latitude": 36.226983,
+    "longitude": 139.518376,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92AOYAGI/data=!4m7!3m6!1s0x601f2fe7e7c73a03:0x6d7ca1d7b3083067!8m2!3d36.226983!4d139.518376!16s%2Fg%2F1tfjwck0!19sChIJAzrH5-cvH2ARZzAIs9ehfG0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "すみれこども園",
+    "address": "\n〒370-0127 群馬県伊勢崎市境上武士９８３−３ すみれ",
+    "latitude": 36.280943,
+    "longitude": 139.229612,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%BF%E3%82%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee791e70adb99:0xf0638fa849d0fcaa!8m2!3d36.280943!4d139.229612!16s%2Fg%2F1tjwhvc2!19sChIJmdsK55HnHmARqvzQSaiPY_A?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "放光会 大森こども園",
+    "address": "\n〒370-0077 群馬県高崎市上小塙町６１３",
+    "latitude": 36.3587544,
+    "longitude": 138.980691,
+    "link": "https://www.google.com/maps/place/%E6%94%BE%E5%85%89%E4%BC%9A+%E5%A4%A7%E6%A3%AE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8c3800245c79:0x9414a730a9e243b4!8m2!3d36.3587544!4d138.980691!16s%2Fg%2F1w455pyz!19sChIJeVwkADiMHmARtEPiqTCnFJQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園すみれものがたり",
+    "address": "\n〒370-0086 群馬県高崎市沖町２１２−１",
+    "latitude": 36.361408,
+    "longitude": 138.959346,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%99%E3%81%BF%E3%82%8C%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A/data=!4m7!3m6!1s0x601e8ea08b13f253:0xc0b7279ffdd96c31!8m2!3d36.361408!4d138.959346!16s%2Fg%2F1td4vc3p!19sChIJU_ITi6COHmARMWzZ_Z8nt8A?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園中川幼稚園",
+    "address": "\n〒370-0005 群馬県高崎市浜尻町６１４",
+    "latitude": 36.3553315,
+    "longitude": 139.0139185,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E4%B8%AD%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8d1a68b9597f:0x5a23bc15bc109ac3!8m2!3d36.3553315!4d139.0139185!16s%2Fg%2F1tvrztb4!19sChIJf1m5aBqNHmARw5oQvBW8I1o?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "SuruSu祝昌こども園",
+    "address": "\n〒379-2146 群馬県前橋市公田町５５６−１",
+    "latitude": 36.344798,
+    "longitude": 139.0807312,
+    "link": "https://www.google.com/maps/place/SuruSu%E7%A5%9D%E6%98%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eed77ea001415:0xe612f62196c5509f!8m2!3d36.344798!4d139.0807312!16s%2Fg%2F1hc59x5dt!19sChIJFRQA6nftHmARn1DFliH2EuY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "上中居こども園",
+    "address": "\n〒370-0851 群馬県高崎市上中居町１７８２",
+    "latitude": 36.3206265,
+    "longitude": 139.0323347,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E4%B8%AD%E5%B1%85%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e92b747052ffb:0x3854e90867dde3db!8m2!3d36.3206265!4d139.0323347!16s%2Fg%2F1tfzmf48!19sChIJ-y8FR7eSHmAR2-PdZwjpVDg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "半田こども園",
+    "address": "\n〒377-0004 群馬県渋川市半田１１６２−１",
+    "latitude": 36.465801,
+    "longitude": 139.025266,
+    "link": "https://www.google.com/maps/place/%E5%8D%8A%E7%94%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8abc8db812f5:0x2a33a7ad112f4417!8m2!3d36.465801!4d139.025266!16s%2Fg%2F1tsr38v8!19sChIJ9RK4jbyKHmARF0QvEa2nMyo?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ひまわりこども園",
+    "address": "\n〒371-0214 群馬県前橋市粕川町女渕１０５８−１ ひまわり保育園",
+    "latitude": 36.403525,
+    "longitude": 139.207811,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601ee553f7052237:0x12d02b970e688f09!8m2!3d36.403525!4d139.207811!16s%2Fg%2F1tdd9yj0!19sChIJNyIF91PlHmARCY9oDpcr0BI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "あかねこども園",
+    "address": "\n〒375-0054 群馬県藤岡市上大塚１５９３−１",
+    "latitude": 36.2431648,
+    "longitude": 139.0511555,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8B%E3%81%AD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eeb3001c08873:0x7a42d51245c93a4c!8m2!3d36.2431648!4d139.0511555!16s%2Fg%2F1tfc6pwq!19sChIJc4jAATDrHmARTDrJRRLVQno?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "中栗須こども園",
+    "address": "\n〒375-0015 群馬県藤岡市中栗須６９７−２",
+    "latitude": 36.267326,
+    "longitude": 139.07473,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E6%A0%97%E9%A0%88%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eeb7172105d9d:0x484800197bed9d46!8m2!3d36.267326!4d139.07473!16s%2Fg%2F1ts1s9tw!19sChIJnV0QcnHrHmARRp3texkASEg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "幼保連携型 石原かがやきこども園",
+    "address": "\n〒370-0864 群馬県高崎市石原町３９６０",
+    "latitude": 36.302782,
+    "longitude": 139.004466,
+    "link": "https://www.google.com/maps/place/%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B+%E7%9F%B3%E5%8E%9F%E3%81%8B%E3%81%8C%E3%82%84%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e92f45ebbf487:0xe93b3eb32364b39f!8m2!3d36.302782!4d139.004466!16s%2Fg%2F1tfwkfps!19sChIJh_S7XvSSHmARn7NkI7M-O-k?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "東吾妻町立はらまちこども園",
+    "address": "\n〒377-0801 群馬県吾妻郡東吾妻町原町５１６０",
+    "latitude": 36.575772,
+    "longitude": 138.827257,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E3%81%AF%E3%82%89%E3%81%BE%E3%81%A1%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e711d0a56b5ad:0x3a443f6b45203ec7!8m2!3d36.575772!4d138.827257!16s%2Fg%2F1tgx6pnq!19sChIJrbVWCh1xHmARxz4gRWs_RDo?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園おのすみれ",
+    "address": "\n〒370-2311 群馬県富岡市下高尾１２２２−１",
+    "latitude": 36.2875476,
+    "longitude": 138.9192989,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%8A%E3%81%AE%E3%81%99%E3%81%BF%E3%82%8C/data=!4m7!3m6!1s0x601e902aa37989b3:0xf3f39a7eee069e63!8m2!3d36.2875476!4d138.9192989!16s%2Fg%2F1tjytprj!19sChIJs4l5oyqQHmARY54G7n6a8_M?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "幼保連携型認定こども園めぶきの森",
+    "address": "\n〒370-2412 群馬県富岡市妙義町下高田１４４",
+    "latitude": 36.2655037,
+    "longitude": 138.8496552,
+    "link": "https://www.google.com/maps/place/%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%82%81%E3%81%B6%E3%81%8D%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x601e851a67260a63:0xbd63970bbaffb8db!8m2!3d36.2655037!4d138.8496552!16s%2Fg%2F11g0dv0grc!19sChIJYwomZxqFHmAR27j_uguXY70?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "中之条町立六合こども園",
+    "address": "\n〒377-1702 群馬県吾妻郡中之条町生須５２８−３",
+    "latitude": 36.6045845,
+    "longitude": 138.6378207,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E7%94%BA%E7%AB%8B%E5%85%AD%E5%90%88%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601de7553ccd193b:0x2538c76105470ee2!8m2!3d36.6045845!4d138.6378207!16s%2Fg%2F1tgh7n7k!19sChIJOxnNPFXnHWAR4g5HBWHHOCU?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 ひよこプリスクール",
+    "address": "\n〒370-0018 群馬県高崎市新保町２９７−１",
+    "latitude": 36.3488542,
+    "longitude": 139.0372216,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%B2%E3%82%88%E3%81%93%E3%83%97%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB/data=!4m7!3m6!1s0x601e8d4c3869b2fb:0x96d814be4be4011a!8m2!3d36.3488542!4d139.0372216!16s%2Fg%2F1thf8n8k!19sChIJ-7JpOEyNHmARGgHkS74U2JY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "東吾妻町立おおたこども園",
+    "address": "\n〒377-0805 群馬県吾妻郡東吾妻町植栗３３３３",
+    "latitude": 36.5756601,
+    "longitude": 138.8656968,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E3%81%8A%E3%81%8A%E3%81%9F%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e71782aad591b:0xb41dd2b367857c5e!8m2!3d36.5756601!4d138.8656968!16s%2Fg%2F11kq6jfkjl!19sChIJG1mtKnhxHmARXnyFZ7PSHbQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "箕郷いずみこども園",
+    "address": "\n〒370-3107 群馬県高崎市箕郷町矢原１０３−２",
+    "latitude": 36.3986589,
+    "longitude": 138.9629532,
+    "link": "https://www.google.com/maps/place/%E7%AE%95%E9%83%B7%E3%81%84%E3%81%9A%E3%81%BF%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8bde53b816e3:0x5c09620f787e8a14!8m2!3d36.3986589!4d138.9629532!16s%2Fg%2F11cs5m_38_!19sChIJ4xa4U96LHmARFIp-eA9iCVw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "一ノ宮ピッコロこども園",
+    "address": "\n〒370-2452 群馬県富岡市一ノ宮３８２−３",
+    "latitude": 36.2570896,
+    "longitude": 138.8638552,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E3%83%8E%E5%AE%AE%E3%83%94%E3%83%83%E3%82%B3%E3%83%AD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e9ab73f140c1b:0x4912f12fa366c3a0!8m2!3d36.2570896!4d138.8638552!16s%2Fg%2F1tdq16nt!19sChIJGwwUP7eaHmARoMNmoy_xEkk?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "新町かぜいろこども園",
+    "address": "\n〒370-1301 群馬県高崎市新町７３０−３",
+    "latitude": 36.2733243,
+    "longitude": 139.1199451,
+    "link": "https://www.google.com/maps/place/%E6%96%B0%E7%94%BA%E3%81%8B%E3%81%9C%E3%81%84%E3%82%8D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eebc2d50e2c7b:0xc316d4aa2ab2f7b7!8m2!3d36.2733243!4d139.1199451!16s%2Fg%2F1tf1ny5x!19sChIJeywO1cLrHmARt_eyKqrUFsM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "はちの木こども園 分園 mimiはちの木",
+    "address": "\n〒370-0856 群馬県高崎市佐野窪町２２−１",
+    "latitude": 36.3046175,
+    "longitude": 139.0153759,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%A1%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%88%86%E5%9C%92+mimi%E3%81%AF%E3%81%A1%E3%81%AE%E6%9C%A8/data=!4m7!3m6!1s0x601e93a35622af81:0xcd6191ec1b979c03!8m2!3d36.3046175!4d139.0153759!16s%2Fg%2F11jfmcx2kl!19sChIJga8iVqOTHmARA5yXG-yRYc0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "幼保連携型認定こども園 駒寄幼稚園",
+    "address": "\n〒370-3601 群馬県北群馬郡吉岡町漆原９５３−１",
+    "latitude": 36.4412354,
+    "longitude": 139.0250722,
+    "link": "https://www.google.com/maps/place/%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E9%A7%92%E5%AF%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601e8adf44112d03:0xebcd3f583a29dbdc!8m2!3d36.4412354!4d139.0250722!16s%2Fg%2F1w0q__8m!19sChIJAy0RRN-KHmAR3NspOlg_zes?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園はなぞの",
+    "address": "\n〒376-0041 群馬県桐生市川内町５丁目１６０９",
+    "latitude": 36.452973,
+    "longitude": 139.31789,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%AF%E3%81%AA%E3%81%9E%E3%81%AE/data=!4m7!3m6!1s0x601efcd332464c31:0x6b165b3a728925f3!8m2!3d36.452973!4d139.31789!16s%2Fg%2F1tj57wcj!19sChIJMUxGMtP8HmAR8yWJcjpbFms?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "東吾妻町立さかうえこども園",
+    "address": "\n〒377-0933 群馬県吾妻郡東吾妻町本宿４０７−１",
+    "latitude": 36.509511,
+    "longitude": 138.752742,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E3%81%95%E3%81%8B%E3%81%86%E3%81%88%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e77871df3cfeb:0x21a8edb97d92256a!8m2!3d36.509511!4d138.752742!16s%2Fg%2F1td1vjgh!19sChIJ68_zHYd3HmARaiWSfbntqCE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "平井こども園",
+    "address": "\n〒375-0043 群馬県藤岡市東平井１０８８−１",
+    "latitude": 36.2262478,
+    "longitude": 139.0422955,
+    "link": "https://www.google.com/maps/place/%E5%B9%B3%E4%BA%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601eead4a4fd705b:0x5e93d5054811d746!8m2!3d36.2262478!4d139.0422955!16s%2Fg%2F1tdmq408!19sChIJW3D9pNTqHmARRtcRSAXVk14?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "東吾妻町立あづまこども園",
+    "address": "\n〒377-0301 群馬県吾妻郡東吾妻町箱島１２７０−１１",
+    "latitude": 36.546424,
+    "longitude": 138.925397,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E3%81%82%E3%81%A5%E3%81%BE%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e65ac7638ece7:0xdf4fbc6c438267f7!8m2!3d36.546424!4d138.925397!16s%2Fg%2F1td65d9f!19sChIJ5-w4dqxlHmAR92eCQ2y8T98?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "群馬県認定こども園協会",
+    "address": "\n〒371-0804 群馬県前橋市六供町１丁目２４−１",
+    "latitude": 36.3741037,
+    "longitude": 139.0748233,
+    "link": "https://www.google.com/maps/place/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E5%8D%94%E4%BC%9A/data=!4m7!3m6!1s0x601ef2f3c7c22533:0x6b88e870d08887a5!8m2!3d36.3741037!4d139.0748233!16s%2Fg%2F11y63q4mmh!19sChIJMyXCx_PyHmARpYeI0HDoiGs?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "たいせいこども園 分園",
+    "address": "\n〒370-0076 群馬県高崎市下小塙町５３４−３",
+    "latitude": 36.347784,
+    "longitude": 138.98248,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%84%E3%81%9B%E3%81%84%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%88%86%E5%9C%92/data=!4m7!3m6!1s0x601e8dca129015d5:0x4b31bb7615aaa3f2!8m2!3d36.347784!4d138.98248!16s%2Fg%2F11c1vm5n9x!19sChIJ1RWQEsqNHmAR8qOqFXa7MUs?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "桜こども園たかせ",
+    "address": "\n〒370-2332 群馬県富岡市下高瀬２９２",
+    "latitude": 36.2472944,
+    "longitude": 138.8924954,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%9F%E3%81%8B%E3%81%9B/data=!4m7!3m6!1s0x601e9064ff1bf715:0xdce46116da7f4021!8m2!3d36.2472944!4d138.8924954!16s%2Fg%2F1tdh3yzf!19sChIJFfcb_2SQHmARIUB_2hZh5Nw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 あおぞら総社",
+    "address": "\n〒371-0851 群馬県前橋市総社町植野５１１−１ あおぞら総社",
+    "latitude": 36.4152031,
+    "longitude": 139.0340064,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E7%B7%8F%E7%A4%BE/data=!4m7!3m6!1s0x601e8b51ae9c4657:0xbd7e015a76e6f6b7!8m2!3d36.4152031!4d139.0340064!16s%2Fg%2F1tht1jq6!19sChIJV0acrlGLHmARt_bmdloBfr0?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "社会福祉法人小祝会 冷水かがやきこども園",
+    "address": "\n〒370-3519 群馬県高崎市冷水町１９０",
+    "latitude": 36.403204,
+    "longitude": 139.0069877,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E7%A5%89%E6%B3%95%E4%BA%BA%E5%B0%8F%E7%A5%9D%E4%BC%9A+%E5%86%B7%E6%B0%B4%E3%81%8B%E3%81%8C%E3%82%84%E3%81%8D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601e8bddb681bded:0xc4e97ce49b242d84!8m2!3d36.403204!4d139.0069877!16s%2Fg%2F11j1lbrynm!19sChIJ7b2Btt2LHmARhC0km-R86cQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "群馬大学共同教育学部附属小学校",
+    "address": "\n〒371-0032 群馬県前橋市若宮町２丁目８−１",
+    "latitude": 36.4009619,
+    "longitude": 139.074016,
+    "link": "https://www.google.com/maps/place/%E7%BE%A4%E9%A6%AC%E5%A4%A7%E5%AD%A6%E5%85%B1%E5%90%8C%E6%95%99%E8%82%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ef30e8919a8fd:0x3f416af8250fee6d!8m2!3d36.4009619!4d139.074016!16s%2Fg%2F121hg4by!19sChIJ_agZiQ7zHmARbe4PJfhqQT8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "甘楽町立福島小学校",
+    "address": "\n〒370-2212 群馬県甘楽郡甘楽町福島９３９−１",
+    "latitude": 36.256249,
+    "longitude": 138.922835,
+    "link": "https://www.google.com/maps/place/%E7%94%98%E6%A5%BD%E7%94%BA%E7%AB%8B%E7%A6%8F%E5%B3%B6%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e91aba7842d97:0xe3854f69572f7583!8m2!3d36.256249!4d138.922835!16s%2Fg%2F1tknkjc6!19sChIJly2Ep6uRHmARg3UvV2lPheM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "共愛学園小学校",
+    "address": "\n〒379-2121 群馬県前橋市小屋原町１０９７−２ 共愛学園小学校",
+    "latitude": 36.3541142,
+    "longitude": 139.1421295,
+    "link": "https://www.google.com/maps/place/%E5%85%B1%E6%84%9B%E5%AD%A6%E5%9C%92%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eee681416c0d7:0x8502bad3da723ae7!8m2!3d36.3541142!4d139.1421295!16s%2Fg%2F11c43xg6r0!19sChIJ18AWFGjuHmAR5zpy2tO6AoU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "甘楽町立小幡小学校",
+    "address": "\n〒370-2202 群馬県甘楽郡甘楽町小幡",
+    "latitude": 36.2316921,
+    "longitude": 138.9175095,
+    "link": "https://www.google.com/maps/place/%E7%94%98%E6%A5%BD%E7%94%BA%E7%AB%8B%E5%B0%8F%E5%B9%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e90de4b0e8a05:0x720f8c63a52c1b0d!8m2!3d36.2316921!4d138.9175095!16s%2Fg%2F1vd71dm3!19sChIJBYoOS96QHmARDRsspWOMD3I?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "草津小学校",
+    "address": "\n〒377-1711 群馬県吾妻郡草津町草津３−１",
+    "latitude": 36.6168505,
+    "longitude": 138.5902307,
+    "link": "https://www.google.com/maps/place/%E8%8D%89%E6%B4%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601de7ad0c08e8cb:0x6b23a77af4a6a606!8m2!3d36.6168505!4d138.5902307!16s%2Fg%2F1tfm6rb5!19sChIJy-gIDK3nHWARBqam9HqnI2s?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "神流町立万場小学校",
+    "address": "\n〒370-1504 群馬県多野郡神流町万場８４−２",
+    "latitude": 36.1162815,
+    "longitude": 138.9156111,
+    "link": "https://www.google.com/maps/place/%E7%A5%9E%E6%B5%81%E7%94%BA%E7%AB%8B%E4%B8%87%E5%A0%B4%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ebd0f29582991:0x963b7144d2192186!8m2!3d36.1162815!4d138.9156111!16s%2Fg%2F1tf3n_8t!19sChIJkSlYKQ-9HmARhiEZ0kRxO5Y?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "みなかみ町立藤原小学校",
+    "address": "\n〒370-1504 群馬県多野郡神流町万場８４−２",
+    "latitude": 36.837247,
+    "longitude": 139.060483,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA%E7%AB%8B%E8%97%A4%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e3e14c0a6d34b:0xa0664cfee0bc7aed!8m2!3d36.837247!4d139.060483!16s%2Fg%2F1tfxy340!19sChIJS9OmwBQ-HmAR7Xq84P5MZqA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "甘楽町立新屋小学校",
+    "address": "\n〒370-2217 群馬県甘楽郡甘楽町天引３８−１",
+    "latitude": 36.2492511,
+    "longitude": 138.9501022,
+    "link": "https://www.google.com/maps/place/%E7%94%98%E6%A5%BD%E7%94%BA%E7%AB%8B%E6%96%B0%E5%B1%8B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e9168848d7ad3:0x325e248e5ba804f4!8m2!3d36.2492511!4d138.9501022!16s%2Fg%2F1tfz05zv!19sChIJ03qNhGiRHmAR9ASoW44kXjI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "みなかみ町立桃野小学校",
+    "address": "\n〒379-1313 群馬県利根郡みなかみ町月夜野５８３",
+    "latitude": 36.684613,
+    "longitude": 138.987259,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA%E7%AB%8B%E6%A1%83%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e6bdb0da289e7:0xa1f1b46d27bdb77f!8m2!3d36.684613!4d138.987259!16s%2Fg%2F1tf02kd0!19sChIJ54miDdtrHmARf7e9J2208aE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "東吾妻町立東小学校",
+    "address": "\n〒377-0301 群馬県吾妻郡東吾妻町箱島１５９６−１",
+    "latitude": 36.545902,
+    "longitude": 138.920808,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e65aa031e6fd9:0x94278497c1124fc9!8m2!3d36.545902!4d138.920808!16s%2Fg%2F1vwlp6f2!19sChIJ2W8eA6plHmARyU8SwZeEJ5Q?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立小野小学校",
+    "address": "\n〒370-2306 群馬県富岡市相野田７１１−２",
+    "latitude": 36.2859298,
+    "longitude": 138.9216965,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E5%B0%8F%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eeb7db59aa485:0xa601f255efc5c17f!8m2!3d36.2859298!4d138.9216965!16s%2Fg%2F121p_tcq!19sChIJhaSatX3rHmARf8HF71XyAaY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "邑楽町立中野東小学校",
+    "address": "\n〒370-0602 群馬県邑楽郡邑楽町明野５１",
+    "latitude": 36.258836,
+    "longitude": 139.4773896,
+    "link": "https://www.google.com/maps/place/%E9%82%91%E6%A5%BD%E7%94%BA%E7%AB%8B%E4%B8%AD%E9%87%8E%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f25ae037078a3:0xf161ef769caee873!8m2!3d36.258836!4d139.4773896!16s%2Fg%2F1tvgvfcv!19sChIJo3hwA64lH2ARc-iunHbvYfE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "吉岡町立 駒寄小学校",
+    "address": "\n〒370-3601 群馬県北群馬郡吉岡町漆原１０１６",
+    "latitude": 36.4389851,
+    "longitude": 139.0248681,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E5%B2%A1%E7%94%BA%E7%AB%8B+%E9%A7%92%E5%AF%84%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8b20ea048e83:0xce47c7120b821bab!8m2!3d36.4389851!4d139.0248681!16s%2Fg%2F1tjrq1c6!19sChIJg44E6iCLHmARqxuCCxLHR84?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "昭和村立大河原小学校",
+    "address": "\n〒379-1203 群馬県利根郡昭和村糸井５４５５−３５４",
+    "latitude": 36.619727,
+    "longitude": 139.114975,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E6%9D%91%E7%AB%8B%E5%A4%A7%E6%B2%B3%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5c7c53d50dc9:0x4c90c68e541bcbb1!8m2!3d36.619727!4d139.114975!16s%2Fg%2F1ts2_c0n!19sChIJyQ3VU3xcHmARscsbVI7GkEw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "みなかみ町立新治小学校",
+    "address": "\n〒379-1411 群馬県利根郡みなかみ町新巻２０８",
+    "latitude": 36.684026,
+    "longitude": 138.935622,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA%E7%AB%8B%E6%96%B0%E6%B2%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e6c5c9f14f233:0xfa7cbc1651961f60!8m2!3d36.684026!4d138.935622!16s%2Fg%2F1tjdrdnt!19sChIJM_IUn1xsHmARYB-WURa8fPo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立梅田南小学校",
+    "address": "\n〒376-0601 群馬県桐生市梅田町２丁目１７９",
+    "latitude": 36.4524067,
+    "longitude": 139.3802696,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E6%A2%85%E7%94%B0%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f1d6e74e18255:0xa431b061e5f9c19e!8m2!3d36.4524067!4d139.3802696!16s%2Fg%2F122zvwks!19sChIJVYLhdG4dH2ARnsH55WGwMaQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立川内小学校",
+    "address": "\n〒376-0041 群馬県桐生市川内町３丁目５７２",
+    "latitude": 36.4327665,
+    "longitude": 139.3054951,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E5%B7%9D%E5%86%85%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee33f425443e3:0x39709e2b97c4421e!8m2!3d36.4327665!4d139.3054951!16s%2Fg%2F122h0l93!19sChIJ40NUQj_jHmARHkLElyuecDk?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "東吾妻町立太田小学校",
+    "address": "\n〒377-0805 群馬県吾妻郡東吾妻町植栗１１０４",
+    "latitude": 36.574839,
+    "longitude": 138.8641519,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E5%A4%AA%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e703e91bad8e5:0x8d36f4727eccd9d!8m2!3d36.574839!4d138.8641519!16s%2Fg%2F1v_vs_4p!19sChIJ5di6kT5wHmARnc3sJ0dv0wg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立境小学校",
+    "address": "\n〒370-0124 群馬県伊勢崎市境５１５",
+    "latitude": 36.2724054,
+    "longitude": 139.253111,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%A2%83%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edd853e52ebd1:0x1e52e3bb7e5ffbbf!8m2!3d36.2724054!4d139.253111!16s%2Fg%2F1tgn9p_r!19sChIJ0etSPoXdHmARv_tffrvjUh4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "中之条小学校",
+    "address": "\n〒377-0423 群馬県吾妻郡中之条町伊勢町１０３５−１",
+    "latitude": 36.5891105,
+    "longitude": 138.8514969,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E4%B9%8B%E6%9D%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e71b2276901d5:0x1b2d9a6d35d7487!8m2!3d36.5891105!4d138.8514969!16s%2Fg%2F1228ll8m!19sChIJ1QFpJ7JxHmARh3Rd06bZsgE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立天沼小学校",
+    "address": "\n〒377-0423 群馬県吾妻郡中之条町伊勢町１０３５−１",
+    "latitude": 36.4080421,
+    "longitude": 139.2953074,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E5%A4%A9%E6%B2%BC%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee377e9575105:0x775162c3a7c346f6!8m2!3d36.4080421!4d139.2953074!16s%2Fg%2F1230c_s8!19sChIJBVFX6XfjHmAR9kbDp8NiUXc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立富岡小学校",
+    "address": "\n〒370-2316 群馬県富岡市富岡１３５９",
+    "latitude": 36.2588016,
+    "longitude": 138.8941962,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E5%AF%8C%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e906cb832ec3d:0xeca42728ac74e7d4!8m2!3d36.2588016!4d138.8941962!16s%2Fg%2F12tb7s8p1!19sChIJPewyuGyQHmAR1Od0rCgnpOw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "昭和村立南小学校",
+    "address": "\n〒370-2316 群馬県富岡市富岡１３５９",
+    "latitude": 36.6156908,
+    "longitude": 139.0466183,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E6%9D%91%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5d5c1c7b5b3f:0xc132a39eb9f3593f!8m2!3d36.6156908!4d139.0466183!16s%2Fg%2F1td2bdvk!19sChIJP1t7HFxdHmARP1nzuZ6jMsE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "東吾妻町立坂上小学校",
+    "address": "\n〒377-0933 群馬県吾妻郡東吾妻町大字, 本宿３８９",
+    "latitude": 36.5105932,
+    "longitude": 138.7538316,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E5%9D%82%E4%B8%8A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e7786fc950b11:0x56925ac821d5c7f8!8m2!3d36.5105932!4d138.7538316!16s%2Fg%2F1vg4jwqk!19sChIJEQuV_IZ3HmAR-MfVIchaklY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "フェリーチェ玉村国際小学校",
+    "address": "\n〒370-1102 群馬県佐波郡玉村町飯塚３４５",
+    "latitude": 36.3270754,
+    "longitude": 139.1345511,
+    "link": "https://www.google.com/maps/place/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E7%8E%89%E6%9D%91%E5%9B%BD%E9%9A%9B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eee96da6522dd:0xc7c9cd3dd2824956!8m2!3d36.3270754!4d139.1345511!16s%2Fg%2F1vl9rl25!19sChIJ3SJl2pbuHmARVkmC0j3Nycc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "榛東村立北小学校",
+    "address": "\n〒370-3502 群馬県北群馬郡榛東村山子田１２６１",
+    "latitude": 36.4416768,
+    "longitude": 138.9810409,
+    "link": "https://www.google.com/maps/place/%E6%A6%9B%E6%9D%B1%E6%9D%91%E7%AB%8B%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8a6ac91e6b5b:0xf5b6275f96f2b5c1!8m2!3d36.4416768!4d138.9810409!16s%2Fg%2F1th7yf96!19sChIJW2seyWqKHmARwbXyll8ntvU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立利根小学校",
+    "address": "\n〒378-0303 群馬県沼田市利根町追貝９３",
+    "latitude": 36.7003033,
+    "longitude": 139.2091478,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E5%88%A9%E6%A0%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5a9e55555555:0x838d67c8be1b7a5!8m2!3d36.7003033!4d139.2091478!16s%2Fg%2F11gkx2jrb1!19sChIJVVVVVZ5aHmARpbfhi3zWOAg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立黒岩小学校",
+    "address": "\n〒370-2341 群馬県富岡市下黒岩１８７０−１",
+    "latitude": 36.281194,
+    "longitude": 138.883237,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E9%BB%92%E5%B2%A9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8ff9c5db56cf:0xa9d1d48f7f64edf9!8m2!3d36.281194!4d138.883237!16s%2Fg%2F1tdrffw2!19sChIJz1bbxfmPHmAR-e1kf4_U0ak?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立韮川小学校",
+    "address": "\n〒373-0801 群馬県太田市台之郷町９９９",
+    "latitude": 36.3042857,
+    "longitude": 139.4031255,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E9%9F%AE%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f20ff0f105f2f:0xfafe8a0b053f3937!8m2!3d36.3042857!4d139.4031255!16s%2Fg%2F1211r95w!19sChIJL18QD_8gH2ARNzk_BQuK_vo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立菱小学校",
+    "address": "\n〒376-0001 群馬県桐生市菱町２丁目１９１９−１",
+    "latitude": 36.4127798,
+    "longitude": 139.3569961,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E8%8F%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee20d169ad0cb:0x6ce75b39b83726a0!8m2!3d36.4127798!4d139.3569961!16s%2Fg%2F121hxt45!19sChIJy9CaFg3iHmARoCY3uDlb52w?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立南小学校",
+    "address": "\n〒376-0006 群馬県桐生市新宿２丁目７−１",
+    "latitude": 36.3997876,
+    "longitude": 139.3391532,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee23b71aa5019:0x28470f5887889171!8m2!3d36.3997876!4d139.3391532!16s%2Fg%2F122njc69!19sChIJGVCqcTviHmARcZGIh1gPRyg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "みなかみ町立月夜野北小学校",
+    "address": "\n〒379-1303 群馬県利根郡みなかみ町上牧８８０",
+    "latitude": 36.728403,
+    "longitude": 138.981408,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA%E7%AB%8B%E6%9C%88%E5%A4%9C%E9%87%8E%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e6b155069c2e1:0x2010e87c74ee51b2!8m2!3d36.728403!4d138.981408!16s%2Fg%2F1tgpsp_k!19sChIJ4cJpUBVrHmARslHudHzoECA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立高瀬小学校",
+    "address": "\n〒370-2333 群馬県富岡市中高瀬７６１−１",
+    "latitude": 36.245592,
+    "longitude": 138.878937,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E9%AB%98%E7%80%AC%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e9a9d6da29d7b:0xdf4a27ab3a339095!8m2!3d36.245592!4d138.878937!16s%2Fg%2F1td2mkvq!19sChIJe52ibZ2aHmARlZAzOqsnSt8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立沢野小学校",
+    "address": "\n〒373-0831 群馬県太田市福沢町２２６−１",
+    "latitude": 36.267297,
+    "longitude": 139.355881,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E6%B2%A2%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edf5d39fe1ed1:0x1560c3a5a64d364b!8m2!3d36.267297!4d139.355881!16s%2Fg%2F1v3kn4f6!19sChIJ0R7-OV3fHmARSzZNpqXDYBU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "みなかみ町立古馬牧小学校",
+    "address": "\n〒379-1305 群馬県利根郡みなかみ町後閑１０６４",
+    "latitude": 36.6829025,
+    "longitude": 139.0003229,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%8B%E3%81%BF%E7%94%BA%E7%AB%8B%E5%8F%A4%E9%A6%AC%E7%89%A7%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e6bd55a4d443b:0xd53b9fd1a39d8a41!8m2!3d36.6829025!4d139.0003229!16s%2Fg%2F1tdyfqly!19sChIJO0RNWtVrHmARQYqdo9GfO9U?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立藪塚本町小学校",
+    "address": "\n〒379-2301 群馬県太田市藪塚町１７４１",
+    "latitude": 36.3591474,
+    "longitude": 139.2985639,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E8%97%AA%E5%A1%9A%E6%9C%AC%E7%94%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee1441b391e8d:0x29a9edd2bd170389!8m2!3d36.3591474!4d139.2985639!16s%2Fg%2F1tdbwvg3!19sChIJjR45G0ThHmARiQMXvdLtqSk?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立あずま小学校",
+    "address": "\n〒379-2231 群馬県伊勢崎市東町２７７０",
+    "latitude": 36.34507,
+    "longitude": 139.241858,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E3%81%82%E3%81%9A%E3%81%BE%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee67e692b1955:0xed75ac9081d7b834!8m2!3d36.34507!4d139.241858!16s%2Fg%2F1vljgd_r!19sChIJVRkraX7mHmARNLjXgZCsde0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "大泉町立東小学校",
+    "address": "\n〒370-0514 群馬県邑楽郡大泉町朝日３丁目７−１",
+    "latitude": 36.2557264,
+    "longitude": 139.4246009,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B3%89%E7%94%BA%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f26ec9eadd7c3:0xc8557b42bd9276cf!8m2!3d36.2557264!4d139.4246009!16s%2Fg%2F1235kqc0!19sChIJw9etnuwmH2ARz3aSvUJ7Vcg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "板倉町立東小学校",
+    "address": "\n〒374-0111 群馬県邑楽郡板倉町海老瀬４８２２",
+    "latitude": 36.224595,
+    "longitude": 139.65185,
+    "link": "https://www.google.com/maps/place/%E6%9D%BF%E5%80%89%E7%94%BA%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f35d56be39495:0x5f273f237a7f9fbf!8m2!3d36.224595!4d139.65185!16s%2Fg%2F121cgl78!19sChIJlZTja9U1H2ARv59_eiM_J18?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立広沢小学校",
+    "address": "\n〒376-0013 群馬県桐生市広沢町４丁目２０４４−２",
+    "latitude": 36.3813624,
+    "longitude": 139.3382569,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E5%BA%83%E6%B2%A2%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee18e5cbc3aed:0x50d8d9a4d2b75f76!8m2!3d36.3813624!4d139.3382569!16s%2Fg%2F1234hjsc!19sChIJ7Tq8XI7hHmARdl-30qTZ2FA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立新里東小学校",
+    "address": "\n〒376-0121 群馬県桐生市新里町新川２０７２",
+    "latitude": 36.4213804,
+    "longitude": 139.2574937,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E6%96%B0%E9%87%8C%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee4cee5a91685:0xc8d7402cf8e7cccc!8m2!3d36.4213804!4d139.2574937!16s%2Fg%2F120r4w8k!19sChIJhRap5c7kHmARzMzn-CxA18g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立古巻小学校",
+    "address": "\n〒377-0003 群馬県渋川市八木原８５２",
+    "latitude": 36.4641883,
+    "longitude": 139.0131189,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%8F%A4%E5%B7%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8a9af9482fc7:0x31e6106e4cdbf9ff!8m2!3d36.4641883!4d139.0131189!16s%2Fg%2F1ttpgzst!19sChIJxy9I-ZqKHmAR__nbTG4Q5jE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "原町小学校",
+    "address": "\n〒377-0801 群馬県吾妻郡東吾妻町原町５２２８",
+    "latitude": 36.5762128,
+    "longitude": 138.826441,
+    "link": "https://www.google.com/maps/place/%E5%8E%9F%E7%94%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e711c56d6ba91:0xae7a51ebda33e279!8m2!3d36.5762128!4d138.826441!16s%2Fg%2F1thx43tv!19sChIJkbrWVhxxHmAReeIz2utReq4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "千代田町立東小学校",
+    "address": "\n〒370-0726 群馬県邑楽郡千代田町上五箇３１６",
+    "latitude": 36.1993827,
+    "longitude": 139.4652557,
+    "link": "https://www.google.com/maps/place/%E5%8D%83%E4%BB%A3%E7%94%B0%E7%94%BA%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f2f3ddc6b9e71:0xc04e5e14e448a449!8m2!3d36.1993827!4d139.4652557!16s%2Fg%2F1tc_8r_4!19sChIJcZ5r3D0vH2ARSaRI5BReTsA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "邑楽町立長柄小学校",
+    "address": "\n〒370-0615 群馬県邑楽郡邑楽町篠塚１２７８",
+    "latitude": 36.2400819,
+    "longitude": 139.4584928,
+    "link": "https://www.google.com/maps/place/%E9%82%91%E6%A5%BD%E7%94%BA%E7%AB%8B%E9%95%B7%E6%9F%84%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f25c2e3327219:0x282a612b8bcca423!8m2!3d36.2400819!4d139.4584928!16s%2Fg%2F1tgqjh_2!19sChIJGXIy48IlH2ARI6TMiythKig?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "安中市立秋間小学校",
+    "address": "\n〒379-0102 群馬県安中市東上秋間１８３１",
+    "latitude": 36.3528423,
+    "longitude": 138.8542114,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E5%B8%82%E7%AB%8B%E7%A7%8B%E9%96%93%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e864224e8b79b:0xb3d102d2e2a92e63!8m2!3d36.3528423!4d138.8542114!16s%2Fg%2F11ddw_x4hc!19sChIJm7foJEKGHmARYy6p4tIC0bM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立妙義小学校",
+    "address": "\n〒379-0209 群馬県富岡市妙義町諸戸１５０",
+    "latitude": 36.289703,
+    "longitude": 138.7788,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E5%A6%99%E7%BE%A9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e83c271daf775:0x2839239b14c32cd7!8m2!3d36.289703!4d138.7788!16s%2Fg%2F1tdj48z1!19sChIJdffaccKDHmAR1yzDFJsjOSg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "安中市立松井田小学校",
+    "address": "\n〒379-0222 群馬県安中市松井田町松井田９５３",
+    "latitude": 36.3160439,
+    "longitude": 138.7998034,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E5%B8%82%E7%AB%8B%E6%9D%BE%E4%BA%95%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8153344885b3:0x587e322f3a7abd5f!8m2!3d36.3160439!4d138.7998034!16s%2Fg%2F11c521m3xx!19sChIJs4VINFOBHmARX716Oi8yflg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立茂呂小学校",
+    "address": "\n〒372-0034 群馬県伊勢崎市茂呂町２丁目２１６９",
+    "latitude": 36.3032796,
+    "longitude": 139.2078135,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E8%8C%82%E5%91%82%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee629561263b7:0x154232761cf2025!8m2!3d36.3032796!4d139.2078135!16s%2Fg%2F1tfkwd6g!19sChIJt2MSVinmHmARJSDPYScjVAE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立沼田北小学校",
+    "address": "\n〒378-0056 群馬県沼田市高橋場町４８９８",
+    "latitude": 36.656843,
+    "longitude": 139.064456,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E6%B2%BC%E7%94%B0%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e42ea5b8e57b3:0x72bfa8c63bc9efd6!8m2!3d36.656843!4d139.064456!16s%2Fg%2F1tplktn9!19sChIJs1eOW-pCHmAR1u_JO8aov3I?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "長野原町立中央小学校",
+    "address": "\n〒377-1308 群馬県吾妻郡長野原町大津４",
+    "latitude": 36.5541676,
+    "longitude": 138.6263765,
+    "link": "https://www.google.com/maps/place/%E9%95%B7%E9%87%8E%E5%8E%9F%E7%94%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ddc306f6bea11:0x9472336d4ed8291f!8m2!3d36.5541676!4d138.6263765!16s%2Fg%2F1tf_sz0r!19sChIJEeprbzDcHWARHynYTm0zcpQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立利南東小学校",
+    "address": "\n〒378-0003 群馬県沼田市上久屋町２１３５",
+    "latitude": 36.6574234,
+    "longitude": 139.0891731,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E5%88%A9%E5%8D%97%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e43259deaa7c1:0x2b8669dbfe21c705!8m2!3d36.6574234!4d139.0891731!16s%2Fg%2F1tgw9_6n!19sChIJwafqnSVDHmARBcch_ttphis?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "玉村町立芝根小学校",
+    "address": "\n〒370-1116 群馬県佐波郡玉村町飯倉３９",
+    "latitude": 36.2924335,
+    "longitude": 139.152877,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E6%9D%91%E7%94%BA%E7%AB%8B%E8%8A%9D%E6%A0%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee9178810b575:0x11e6688fa2b56334!8m2!3d36.2924335!4d139.152877!16s%2Fg%2F1v5k32yy!19sChIJdbUQiBfpHmARNGO1oo9o5hE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立豊受小学校",
+    "address": "\n〒372-0842 群馬県伊勢崎市馬見塚町１１３０",
+    "latitude": 36.274752,
+    "longitude": 139.211362,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E8%B1%8A%E5%8F%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee7e50590aaa3:0x60baa6325ee65e6e!8m2!3d36.274752!4d139.211362!16s%2Fg%2F11gd38zf_y!19sChIJo6qQBeXnHmARbl7mXjKmumA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立相生小学校",
+    "address": "\n〒376-0011 群馬県桐生市相生町２丁目４２０",
+    "latitude": 36.41347,
+    "longitude": 139.309537,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E7%9B%B8%E7%94%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee309f89985cd:0x33578a701fec19b5!8m2!3d36.41347!4d139.309537!16s%2Fg%2F121srd3j!19sChIJzYWZ-AnjHmARtRnsH3CKVzM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "邑楽町立中野小学校",
+    "address": "\n〒370-0603 群馬県邑楽郡邑楽町中野３０２１",
+    "latitude": 36.2643292,
+    "longitude": 139.4664517,
+    "link": "https://www.google.com/maps/place/%E9%82%91%E6%A5%BD%E7%94%BA%E7%AB%8B%E4%B8%AD%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f2449fbc280e9:0xebbacdcb74ebc2c6!8m2!3d36.2643292!4d139.4664517!16s%2Fg%2F1tfj37q6!19sChIJ6YDC-0kkH2ARxsLrdMvNuus?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "千代田町立西小学校",
+    "address": "\n〒370-0503 群馬県邑楽郡千代田町赤岩１７５５",
+    "latitude": 36.2161209,
+    "longitude": 139.4394061,
+    "link": "https://www.google.com/maps/place/%E5%8D%83%E4%BB%A3%E7%94%B0%E7%94%BA%E7%AB%8B%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f26047e6876df:0x9c9794dd57f95985!8m2!3d36.2161209!4d139.4394061!16s%2Fg%2F1tdh8jw8!19sChIJ33ZofgQmH2ARhVn5V92Ul5w?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立神明小学校",
+    "address": "\n〒376-0013 群馬県桐生市広沢町２丁目３２４２−１",
+    "latitude": 36.3889509,
+    "longitude": 139.3209892,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E7%A5%9E%E6%98%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee3d244618b49:0x5556099d3adf12dc!8m2!3d36.3889509!4d139.3209892!16s%2Fg%2F120xzqny!19sChIJSYthRNLjHmAR3BLfOp0JVlU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "玉村町立中央小学校",
+    "address": "\n〒370-1105 群馬県佐波郡玉村町福島４０１",
+    "latitude": 36.305408,
+    "longitude": 139.124529,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E6%9D%91%E7%94%BA%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eeea98fc2ef79:0x573530e9062af3f6!8m2!3d36.305408!4d139.124529!16s%2Fg%2F1yp37gx3z!19sChIJee_Cj6nuHmAR9vMqBukwNVc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "昭和村立東小学校",
+    "address": "\n〒379-1203 群馬県利根郡昭和村糸井１２８７",
+    "latitude": 36.6436606,
+    "longitude": 139.0755039,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E6%9D%91%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e42d3718f2f81:0x4038ec1240981b6f!8m2!3d36.6436606!4d139.0755039!16s%2Fg%2F1tct8t6w!19sChIJgS-PcdNCHmARbxuYQBLsOEA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立小野上小学校",
+    "address": "\n〒377-0311 群馬県渋川市村上３７６７−１",
+    "latitude": 36.5482577,
+    "longitude": 138.9390916,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%B0%8F%E9%87%8E%E4%B8%8A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e644aa4925915:0x90e63624009858dd!8m2!3d36.5482577!4d138.9390916!16s%2Fg%2F1w0h_prt!19sChIJFVmSpEpkHmAR3ViYACQ25pA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立赤堀小学校",
+    "address": "\n〒379-2204 群馬県伊勢崎市西久保町１丁目７２",
+    "latitude": 36.3794787,
+    "longitude": 139.228443,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E8%B5%A4%E5%A0%80%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee5a753f18b4b:0x116307ea3236fa84!8m2!3d36.3794787!4d139.228443!16s%2Fg%2F1tm29rzn!19sChIJS4vxU6flHmARhPo2MuoHYxE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立橘小学校",
+    "address": "\n〒377-0062 群馬県渋川市北橘町真壁５２４",
+    "latitude": 36.480214,
+    "longitude": 139.043531,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E6%A9%98%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ef55486766f7b:0x50a068bc1e8b737a!8m2!3d36.480214!4d139.043531!16s%2Fg%2F1x6q1vp8!19sChIJe292hlT1HmARenOLHrxooFA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立新里北小学校",
+    "address": "\n〒376-0133 群馬県桐生市新里町大久保３０２",
+    "latitude": 36.4503169,
+    "longitude": 139.2328157,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E6%96%B0%E9%87%8C%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601efaf75b4d69d1:0xd258c6ce048f168b!8m2!3d36.4503169!4d139.2328157!16s%2Fg%2F120sk399!19sChIJ0WlNW_f6HmARixaPBM7GWNI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "藤岡市立神流小学校",
+    "address": "\n〒375-0012 群馬県藤岡市下戸塚１９０",
+    "latitude": 36.258455,
+    "longitude": 139.095028,
+    "link": "https://www.google.com/maps/place/%E8%97%A4%E5%B2%A1%E5%B8%82%E7%AB%8B%E7%A5%9E%E6%B5%81%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eebb11aa4eeab:0xa80632c81ecfdbfb!8m2!3d36.258455!4d139.095028!16s%2Fg%2F121k8406!19sChIJq-6kGrHrHmAR-9vPHsgyBqg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立綿打小学校",
+    "address": "\n〒370-0346 群馬県太田市新田上田中町７９５−３",
+    "latitude": 36.3086598,
+    "longitude": 139.2781214,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E7%B6%BF%E6%89%93%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee749eea977dd:0x38d73fae84deeec6!8m2!3d36.3086598!4d139.2781214!16s%2Fg%2F122y0890!19sChIJ3Xep7knnHmARxu7ehK4_1zg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "大泉町立西小学校",
+    "address": "\n〒370-0536 群馬県邑楽郡大泉町古氷１０６−１",
+    "latitude": 36.260112,
+    "longitude": 139.395818,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B3%89%E7%94%BA%E7%AB%8B%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f2731d550e33f:0x3e9a93a15362da7e!8m2!3d36.260112!4d139.395818!16s%2Fg%2F120qdrnb!19sChIJP-NQ1TEnH2ARftpiU6GTmj4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立津久田小学校",
+    "address": "\n〒379-1103 群馬県渋川市赤城町津久田１９０５ 市立津久田小学校",
+    "latitude": 36.5473602,
+    "longitude": 139.0450589,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E6%B4%A5%E4%B9%85%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5e1cc70b4833:0xe6f01d5fe3619529!8m2!3d36.5473602!4d139.0450589!16s%2Fg%2F1w665h4k!19sChIJM0gLxxxeHmARKZVh418d8OY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立旭小学校",
+    "address": "\n〒373-0816 群馬県太田市東矢島町１２４９",
+    "latitude": 36.2726826,
+    "longitude": 139.3853851,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E6%97%AD%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f20b80b7be6af:0x7240e8038f7928f0!8m2!3d36.2726826!4d139.3853851!16s%2Fg%2F122tcpv9!19sChIJr-Z7C7ggH2AR8Ch5jwPoQHI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立沢野中央小学校",
+    "address": "\n〒373-0832 群馬県太田市富沢町７３",
+    "latitude": 36.2637946,
+    "longitude": 139.3580168,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E6%B2%A2%E9%87%8E%E4%B8%AD%E5%A4%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edf5ba6a3642d:0xbd6349317309e320!8m2!3d36.2637946!4d139.3580168!16s%2Fg%2F1trxkc7d!19sChIJLWSjplvfHmARIOMJczFJY70?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "館林市立第七小学校",
+    "address": "\n〒374-0046 群馬県館林市上三林町５９９",
+    "latitude": 36.218477,
+    "longitude": 139.487718,
+    "link": "https://www.google.com/maps/place/%E9%A4%A8%E6%9E%97%E5%B8%82%E7%AB%8B%E7%AC%AC%E4%B8%83%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f2f9dfb4aa6c1:0x7a4791ba8012f00a!8m2!3d36.218477!4d139.487718!16s%2Fg%2F1xfsnvgc!19sChIJwaZK-50vH2ARCvASgLqRR3o?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桐生市立北小学校",
+    "address": "\n〒376-0054 群馬県桐生市西久方町２丁目１−５",
+    "latitude": 36.418184,
+    "longitude": 139.341017,
+    "link": "https://www.google.com/maps/place/%E6%A1%90%E7%94%9F%E5%B8%82%E7%AB%8B%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee25ceab66f83:0x96e9095a8b0cfc9f!8m2!3d36.418184!4d139.341017!16s%2Fg%2F12129y3k!19sChIJg2-26lziHmARn_wMi1oJ6ZY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "安中市立西横野小学校",
+    "address": "\n〒379-0223 群馬県安中市松井田町二軒在家８８８",
+    "latitude": 36.299738,
+    "longitude": 138.812493,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E5%B8%82%E7%AB%8B%E8%A5%BF%E6%A8%AA%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8413067ed4bf:0x1d9b45abb4af48dd!8m2!3d36.299738!4d138.812493!16s%2Fg%2F11c52gy9cl!19sChIJv9R-BhOEHmAR3UivtKtFmx0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立升形小学校",
+    "address": "\n〒378-0014 群馬県沼田市栄町１４１",
+    "latitude": 36.633115,
+    "longitude": 139.048461,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%87%E5%BD%A2%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e42ac56588aa1:0x1cee0fc198697ee0!8m2!3d36.633115!4d139.048461!16s%2Fg%2F1tlbtt7v!19sChIJoYpYVqxCHmAR4H5pmMEP7hw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立伊香保小学校",
+    "address": "\n〒377-0102 群馬県渋川市伊香保町伊香保３２２−１",
+    "latitude": 36.504262,
+    "longitude": 138.924541,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E4%BC%8A%E9%A6%99%E4%BF%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e638124906e85:0x366fef9a90630369!8m2!3d36.504262!4d138.924541!16s%2Fg%2F1tfpzy11!19sChIJhW6QJIFjHmARaQNjkJrvbzY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "渋川市立三原田小学校",
+    "address": "\n〒379-1125 群馬県渋川市赤城町上三原田８５１−１",
+    "latitude": 36.5099883,
+    "longitude": 139.0455317,
+    "link": "https://www.google.com/maps/place/%E6%B8%8B%E5%B7%9D%E5%B8%82%E7%AB%8B%E4%B8%89%E5%8E%9F%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5fd99eaa9f11:0x2c40c9fb05d3e12b!8m2!3d36.5099883!4d139.0455317!16s%2Fg%2F1wd3w3vf!19sChIJEZ-qntlfHmARK-HTBfvJQCw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立赤堀南小学校",
+    "address": "\n〒379-2212 群馬県伊勢崎市堀下町２６４−１",
+    "latitude": 36.3670641,
+    "longitude": 139.2131669,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E8%B5%A4%E5%A0%80%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee59b2cb89b5d:0xa90f71f267e4cf5!8m2!3d36.3670641!4d139.2131669!16s%2Fg%2F1vn_z11f!19sChIJXZu4LJvlHmAR9Ux-Jh_3kAo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立多那小学校",
+    "address": "\n〒378-0317 群馬県沼田市利根町多那７３２",
+    "latitude": 36.637946,
+    "longitude": 139.146002,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E5%A4%9A%E9%82%A3%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5b0bb9bf43ab:0x171f52748871852c!8m2!3d36.637946!4d139.146002!16s%2Fg%2F1ty74bl8!19sChIJq0O_uQtbHmARLIVxiHRSHxc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立池田小学校",
+    "address": "\n〒378-0317 群馬県沼田市利根町多那７３２",
+    "latitude": 36.6963352,
+    "longitude": 139.0633715,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E6%B1%A0%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e423dc5df666d:0x7050010d4d0b6340!8m2!3d36.6963352!4d139.0633715!16s%2Fg%2F1224nk8x!19sChIJbWbfxT1CHmARQGMLTQ0BUHA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "安中市立東横野小学校",
+    "address": "\n〒379-0124 群馬県安中市鷺宮３１３９−２",
+    "latitude": 36.298759,
+    "longitude": 138.879573,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E5%B8%82%E7%AB%8B%E6%9D%B1%E6%A8%AA%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e857d5468adcf:0x58181b2ac105a9d9!8m2!3d36.298759!4d138.879573!16s%2Fg%2F11cs5wvmbr!19sChIJz61oVH2FHmAR2akFwSobGFg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "高島小学校のトウグミ",
+    "address": "\n〒370-0605 群馬県邑楽郡邑楽町藤川３７９",
+    "latitude": 36.273623,
+    "longitude": 139.4540475,
+    "link": "https://www.google.com/maps/place/%E9%AB%98%E5%B3%B6%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%88%E3%82%A6%E3%82%B0%E3%83%9F/data=!4m7!3m6!1s0x601f24188b2f10ed:0x6877f260c0c976e7!8m2!3d36.273623!4d139.4540475!16s%2Fg%2F1td5g6c8!19sChIJ7RAvixgkH2AR53bJwGDyd2g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立世良田小学校",
+    "address": "\n〒370-0426 群馬県太田市世良田町３１１３−７",
+    "latitude": 36.2616971,
+    "longitude": 139.2764994,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E4%B8%96%E8%89%AF%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eddd0f84d3071:0xd7f69e1769f8d606!8m2!3d36.2616971!4d139.2764994!16s%2Fg%2F122rd6lm!19sChIJcTBN-NDdHmARBtb4aRee9tc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立境剛志小学校",
+    "address": "\n〒370-0126 群馬県伊勢崎市境下武士８３１",
+    "latitude": 36.275944,
+    "longitude": 139.236548,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%A2%83%E5%89%9B%E5%BF%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee7870f8b6d7d:0x32c1f8f87f2373e4!8m2!3d36.275944!4d139.236548!16s%2Fg%2F1xpwjwdn!19sChIJfW2LD4fnHmAR5HMjf_j4wTI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富岡市立高田小学校",
+    "address": "\n〒370-2412 群馬県富岡市妙義町下高田１５５２−１",
+    "latitude": 36.2776447,
+    "longitude": 138.8276824,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%B2%A1%E5%B8%82%E7%AB%8B%E9%AB%98%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e84f0315f8b7d:0xc1929be1ba5f72d6!8m2!3d36.2776447!4d138.8276824!16s%2Fg%2F1wh4fyhv!19sChIJfYtfMfCEHmAR1nJfuuGbksE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "安中市立碓東小学校",
+    "address": "\n〒379-0112 群馬県安中市岩井６２",
+    "latitude": 36.330938,
+    "longitude": 138.926911,
+    "link": "https://www.google.com/maps/place/%E5%AE%89%E4%B8%AD%E5%B8%82%E7%AB%8B%E7%A2%93%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8ef96b93d3f3:0x7c292fad66299911!8m2!3d36.330938!4d138.926911!16s%2Fg%2F11c5wlgnhd!19sChIJ89OTa_mOHmAREZkpZq0vKXw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "伊勢崎市立境東小学校",
+    "address": "\n〒379-0112 群馬県安中市岩井６２",
+    "latitude": 36.2675807,
+    "longitude": 139.2615121,
+    "link": "https://www.google.com/maps/place/%E4%BC%8A%E5%8B%A2%E5%B4%8E%E5%B8%82%E7%AB%8B%E5%A2%83%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edd950bff0627:0x9397f7fec5bd5e18!8m2!3d36.2675807!4d139.2615121!16s%2Fg%2F1tgmwcbk!19sChIJJwb_C5XdHmARGF69xf73l5M?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立南小学校",
+    "address": "\n〒373-0825 群馬県太田市高林東町１３７２",
+    "latitude": 36.2557932,
+    "longitude": 139.3764857,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f274d93c6dabd:0x2d04eac4814a18b4!8m2!3d36.2557932!4d139.3764857!16s%2Fg%2F120qwddg!19sChIJvdrGk00nH2ARtBhKgcTqBC0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "東吾妻町立岩島小学校",
+    "address": "\n〒377-0815 群馬県吾妻郡東吾妻町岩下４６",
+    "latitude": 36.55467,
+    "longitude": 138.771861,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E5%90%BE%E5%A6%BB%E7%94%BA%E7%AB%8B%E5%B2%A9%E5%B3%B6%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e76e374dafd19:0x67f80192fe88f139!8m2!3d36.55467!4d138.771861!16s%2Fg%2F1w0h7lbl!19sChIJGf3adON2HmAROfGI_pIB-Gc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立宝泉南小学校",
+    "address": "\n〒373-0846 群馬県太田市中根町２６１−１ 市立宝泉南小学校",
+    "latitude": 36.2743509,
+    "longitude": 139.3255752,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AE%9D%E6%B3%89%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edf0009a0f3df:0xcf71cd140449f6d8!8m2!3d36.2743509!4d139.3255752!16s%2Fg%2F1tk1z3rt!19sChIJ3_OgCQDfHmAR2PZJBBTNcc8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立強戸小学校",
+    "address": "\n〒373-0051 群馬県太田市天良町８５８−２",
+    "latitude": 36.3333041,
+    "longitude": 139.3385604,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E5%BC%B7%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601ee069cf553867:0x28625c658eedd0b8!8m2!3d36.3333041!4d139.3385604!16s%2Fg%2F1211wwp9!19sChIJZzhVz2ngHmARuNDtjmVcYig?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "吉岡町立明治小学校",
+    "address": "\n〒370-3605 群馬県北群馬郡吉岡町北下４３３",
+    "latitude": 36.4467511,
+    "longitude": 138.9998762,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E5%B2%A1%E7%94%BA%E7%AB%8B%E6%98%8E%E6%B2%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e8a5f95ab16d9:0x1ee1d00dd5a4d95c!8m2!3d36.4467511!4d138.9998762!16s%2Fg%2F1tdyfqm8!19sChIJ2RarlV-KHmARXNmk1Q3Q4R4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "大泉町立北小学校",
+    "address": "\n〒370-3605 群馬県北群馬郡吉岡町北下４３３",
+    "latitude": 36.2586149,
+    "longitude": 139.4139336,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B3%89%E7%94%BA%E7%AB%8B%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f26dcfebb9763:0x6cc46c9adf9f03a9!8m2!3d36.2586149!4d139.4139336!16s%2Fg%2F122yspj3!19sChIJY5e7_twmH2ARqQOf35psxGw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立鳥之郷小学校",
+    "address": "\n〒373-0008 群馬県太田市鶴生田町８３−２ 市立鳥之郷小学校",
+    "latitude": 36.317537,
+    "longitude": 139.3573073,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E9%B3%A5%E4%B9%8B%E9%83%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edffb045cecad:0x1c0617258d48d7f9!8m2!3d36.317537!4d139.3573073!16s%2Fg%2F120k5tww!19sChIJrexcBPvfHmAR-ddIjSUXBhw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "館林市立第八小学校",
+    "address": "\n〒374-0075 群馬県館林市西高根町４５−１",
+    "latitude": 36.2628948,
+    "longitude": 139.5117526,
+    "link": "https://www.google.com/maps/place/%E9%A4%A8%E6%9E%97%E5%B8%82%E7%AB%8B%E7%AC%AC%E5%85%AB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f253ec6efc1ab:0x4011ce2b98e1fe79!8m2!3d36.2628948!4d139.5117526!16s%2Fg%2F1tdqztc3!19sChIJq8Hvxj4lH2ARef7hmCvOEUA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "嬬恋村立東部小学校",
+    "address": "\n〒377-1526 群馬県吾妻郡嬬恋村三原６７９−３",
+    "latitude": 36.5368793,
+    "longitude": 138.552231,
+    "link": "https://www.google.com/maps/place/%E5%AC%AC%E6%81%8B%E6%9D%91%E7%AB%8B%E6%9D%B1%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601dc2d111799341:0xbe48502dbf9d0fdd!8m2!3d36.5368793!4d138.552231!16s%2Fg%2F11c3k2x5cj!19sChIJQZN5EdHCHWAR3Q-dvy1QSL4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "玉村町立南小学校",
+    "address": "\n5011, 角渕 玉村町 佐波郡 群馬県 370-1124",
+    "latitude": 36.2927627,
+    "longitude": 139.1152496,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E6%9D%91%E7%94%BA%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601eebf96526d84d:0xa16d81145d464a5d!8m2!3d36.2927627!4d139.1152496!16s%2Fg%2F1vfwcytr!19sChIJTdgmZfnrHmARXUpGXRSBbaE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立中央小学校",
+    "address": "\n〒373-0851 群馬県太田市飯田町１１６６",
+    "latitude": 36.2906531,
+    "longitude": 139.3822522,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%A4%AE%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f208dcb124921:0x18a4c9a9571d9577!8m2!3d36.2906531!4d139.3822522!16s%2Fg%2F1216ln02!19sChIJIUkSy40gH2ARd5UdV6nJpBg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "沼田市立白沢小学校",
+    "address": "\n〒378-0121 群馬県沼田市白沢町高平１２７",
+    "latitude": 36.66377,
+    "longitude": 139.134774,
+    "link": "https://www.google.com/maps/place/%E6%B2%BC%E7%94%B0%E5%B8%82%E7%AB%8B%E7%99%BD%E6%B2%A2%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601e5b4db282fa8d:0x2000fd944cd60e0b!8m2!3d36.66377!4d139.134774!16s%2Fg%2F1tjt204c!19sChIJjfqCsk1bHmARCw7WTJT9ACA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "太田市立城西小学校",
+    "address": "\n〒373-0032 群馬県太田市新野町１２７",
+    "latitude": 36.309028,
+    "longitude": 139.3475,
+    "link": "https://www.google.com/maps/place/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E5%9F%8E%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601edfe857e2d551:0x90850b3e58088693!8m2!3d36.309028!4d139.3475!16s%2Fg%2F1tgvdqk2!19sChIJUdXiV-jfHmARk4YIWD4LhZA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "大泉町立南小学校",
+    "address": "\n〒370-0533 群馬県邑楽郡大泉町仙石２丁目１−１",
+    "latitude": 36.243327,
+    "longitude": 139.401124,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B3%89%E7%94%BA%E7%AB%8B%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f271c9c8b152d:0x8f2ada67e6113ae2!8m2!3d36.243327!4d139.401124!16s%2Fg%2F1232jnt3!19sChIJLRWLnBwnH2AR4joR5mfaKo8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  }
+]

@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>施設マップ</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            height: 100vh;
+            background: #f5f5f5;
+        }
+        
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+        
+        .sidebar {
+            width: 320px;
+            background: white;
+            border-right: 1px solid #ddd;
+            overflow-y: auto;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .sidebar h1 {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        
+        .section {
+            margin-bottom: 20px;
+        }
+        
+        .section-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: #666;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        
+        .control-group {
+            margin-bottom: 12px;
+        }
+        
+        .control-group label {
+            display: block;
+            font-size: 12px;
+            color: #555;
+            margin-bottom: 4px;
+        }
+        
+        .control-group select,
+        .control-group input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 8px 12px;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .btn-primary {
+            background: #2196F3;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #1976D2;
+        }
+        
+        .btn-primary.active {
+            background: #FF9800;
+        }
+        
+        .btn-danger {
+            background: #f44336;
+            color: white;
+        }
+        
+        .btn-danger:hover {
+            background: #d32f2f;
+        }
+        
+        .btn-success {
+            background: #4CAF50;
+            color: white;
+        }
+        
+        .btn-success:hover {
+            background: #388E3C;
+        }
+        
+        .info-box {
+            background: #FFF9E6;
+            border: 1px solid #FFE082;
+            border-radius: 4px;
+            padding: 10px;
+            margin-bottom: 12px;
+            font-size: 12px;
+            line-height: 1.5;
+        }
+        
+        .info-box p {
+            margin: 3px 0;
+        }
+        
+        .facility-list {
+            list-style: none;
+            overflow-y: auto;
+            flex: 1;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            padding: 0;
+        }
+        
+        .facility-item {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .facility-item:hover {
+            background: #f0f0f0;
+        }
+        
+        .facility-item.active {
+            background: #2196F3;
+            color: white;
+        }
+        
+        .facility-name {
+            font-weight: 600;
+            font-size: 13px;
+            margin-bottom: 2px;
+        }
+        
+        .facility-category {
+            font-size: 11px;
+            color: #999;
+        }
+        
+        .facility-item.active .facility-category {
+            color: #e3f2fd;
+        }
+        
+        .facility-distance {
+            font-size: 11px;
+            color: #f44336;
+            margin-top: 2px;
+        }
+        
+        .facility-item.active .facility-distance {
+            color: #FFEB3B;
+        }
+        
+        #map {
+            flex: 1;
+            background: #e0e0e0;
+        }
+        
+        #map.pin-mode {
+            cursor: crosshair;
+        }
+        
+        .leaflet-popup-content-wrapper {
+            border-radius: 4px;
+        }
+        
+        .popup-content {
+            font-size: 12px;
+        }
+        
+        .popup-content h3 {
+            margin: 0 0 8px 0;
+            font-size: 14px;
+            color: #333;
+        }
+        
+        .popup-content p {
+            margin: 3px 0;
+            color: #666;
+        }
+        
+        .popup-content a {
+            color: #2196F3;
+            text-decoration: none;
+            font-size: 11px;
+        }
+        
+        .stats {
+            background: #E8F5E9;
+            border: 1px solid #C8E6C9;
+            border-radius: 4px;
+            padding: 8px;
+            margin-bottom: 12px;
+            font-size: 12px;
+        }
+        
+        .stats p {
+            margin: 3px 0;
+        }
+        
+        .saved-list {
+            border: 1px solid #eee;
+            border-radius: 4px;
+            padding: 0;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+        
+        .saved-item {
+            padding: 8px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            font-size: 11px;
+            transition: background 0.2s;
+        }
+        
+        .saved-item:hover {
+            background: #f5f5f5;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 20px 10px;
+            color: #999;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h1>🗺️ 施設マップ</h1>
+            
+            <div class="section">
+                <div class="section-title">フィルター</div>
+                <div class="control-group">
+                    <label>都道府県</label>
+                    <select id="prefecture-select">
+                        <option value="">すべて</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>施設種類</label>
+                    <select id="category-select">
+                        <option value="">すべて</option>
+                        <option value="保育園">保育園</option>
+                        <option value="幼稚園">幼稚園</option>
+                        <option value="小学校">小学校</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">ピン検索</div>
+                <div class="control-group">
+                    <label>半径 (km)</label>
+                    <input type="number" id="radius-input" value="5" min="1" max="50">
+                </div>
+                <div class="button-group">
+                    <button class="btn btn-primary" id="pin-btn">ピン</button>
+                    <button class="btn btn-danger" id="clear-pin-btn">クリア</button>
+                </div>
+                <div id="pin-info"></div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">データ</div>
+                <div class="button-group">
+                    <button class="btn btn-success" id="save-btn">保存</button>
+                    <button class="btn btn-danger" id="clear-db-btn">削除</button>
+                </div>
+                <div class="stats">
+                    <p>保存: <strong id="save-count">0</strong> 件</p>
+                    <p>サイズ: <strong id="data-size">0 KB</strong></p>
+                </div>
+                <div id="saved-section" style="display: none;">
+                    <div class="section-title">履歴</div>
+                    <div class="saved-list" id="saved-items"></div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">一覧</div>
+                <ul class="facility-list" id="facility-list"></ul>
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+
+    <script>
+        let map;
+        let allFacilities = [];
+        let facilityMarkers = [];
+        let pinMarker = null;
+        let radiusCircle = null;
+        let pinMode = false;
+        let pinSearchResults = [];
+        let savedData = [];
+
+        const DB_NAME = 'FacilitiesMapDB';
+        const DB_VERSION = 1;
+        const STORE_NAME = 'searches';
+        let db;
+
+        // IndexedDB初期化
+        async function initIndexedDB() {
+            return new Promise((resolve, reject) => {
+                const request = indexedDB.open(DB_NAME, DB_VERSION);
+                request.onerror = () => reject(request.error);
+                request.onsuccess = () => {
+                    db = request.result;
+                    loadSavedData();
+                    resolve();
+                };
+                request.onupgradeneeded = (event) => {
+                    const db = event.target.result;
+                    if (!db.objectStoreNames.contains(STORE_NAME)) {
+                        db.createObjectStore(STORE_NAME, { keyPath: 'id', autoIncrement: true });
+                    }
+                };
+            });
+        }
+
+        // マップ初期化
+        function initMap() {
+            map = L.map('map').setView([36.5, 140.5], 8);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap',
+                maxZoom: 19
+            }).addTo(map);
+
+            map.on('click', (e) => {
+                if (pinMode) {
+                    pinPoint(e.latlng.lat, e.latlng.lng);
+                }
+            });
+        }
+
+        // データ読み込み
+        async function loadFacilities() {
+            const prefectures = ['茨城', '群馬', '山梨', '新潟', '長野', '栃木', '富山'];
+            for (const pref of prefectures) {
+                try {
+                    const response = await fetch(`./facilities_data/${pref}_facilities.json`);
+                    if (response.ok) {
+                        const data = await response.json();
+                        allFacilities = allFacilities.concat(data);
+                    }
+                } catch (error) {
+                    console.log(`${pref}を読み込めませんでした`);
+                }
+            }
+            populatePrefectures();
+            displayFacilities(allFacilities);
+        }
+
+        // 都道府県リスト更新
+        function populatePrefectures() {
+            const select = document.getElementById('prefecture-select');
+            const prefectures = new Set();
+
+            allFacilities.forEach(facility => {
+                const pref = facility.address.split('県')[0].split('都')[0].split('道')[0] + 
+                    (facility.address.includes('県') ? '県' : facility.address.includes('都') ? '都' : '道');
+                prefectures.add(pref);
+            });
+
+            Array.from(prefectures).sort().forEach(pref => {
+                const option = document.createElement('option');
+                option.value = pref;
+                option.textContent = pref;
+                select.appendChild(option);
+            });
+        }
+
+        // 距離計算
+        function calculateDistance(lat1, lon1, lat2, lon2) {
+            const R = 6371;
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLon = (lon2 - lon1) * Math.PI / 180;
+            const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            return R * c;
+        }
+
+        // ピンモード切り替え
+        function togglePinMode() {
+            pinMode = !pinMode;
+            const btn = document.getElementById('pin-btn');
+            const mapEl = document.getElementById('map');
+            if (pinMode) {
+                btn.classList.add('active');
+                mapEl.classList.add('pin-mode');
+            } else {
+                btn.classList.remove('active');
+                mapEl.classList.remove('pin-mode');
+            }
+        }
+
+        // ピン指す
+        function pinPoint(lat, lng) {
+            if (pinMarker) map.removeLayer(pinMarker);
+            if (radiusCircle) map.removeLayer(radiusCircle);
+
+            pinMarker = L.circleMarker([lat, lng], {
+                radius: 8,
+                fillColor: '#f44336',
+                color: '#fff',
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 0.8
+            }).addTo(map);
+
+            const radius = parseFloat(document.getElementById('radius-input').value);
+            radiusCircle = L.circle([lat, lng], {
+                radius: radius * 1000,
+                color: '#2196F3',
+                weight: 2,
+                fill: false,
+                dashArray: '5, 5'
+            }).addTo(map);
+
+            pinSearchResults = allFacilities.filter(facility => {
+                const distance = calculateDistance(lat, lng, facility.latitude, facility.longitude);
+                return distance <= radius;
+            }).sort((a, b) => {
+                const distA = calculateDistance(lat, lng, a.latitude, a.longitude);
+                const distB = calculateDistance(lat, lng, b.latitude, b.longitude);
+                return distA - distB;
+            });
+
+            displayPinSearchResults(lat, lng);
+            pinMode = false;
+            document.getElementById('pin-btn').classList.remove('active');
+            document.getElementById('map').classList.remove('pin-mode');
+        }
+
+        // ピン検索結果表示
+        function displayPinSearchResults(pinLat, pinLng) {
+            const pinInfoDiv = document.getElementById('pin-info');
+            const facilityList = document.getElementById('facility-list');
+            
+            const nurseries = pinSearchResults.filter(f => f.category === '保育園').length;
+            const kindergartens = pinSearchResults.filter(f => f.category === '幼稚園').length;
+            const schools = pinSearchResults.filter(f => f.category === '小学校').length;
+
+            pinInfoDiv.innerHTML = `
+                <div class="info-box">
+                    <p><strong>検索完了</strong></p>
+                    <p>座標: ${pinLat.toFixed(4)}, ${pinLng.toFixed(4)}</p>
+                    <p>半径: ${document.getElementById('radius-input').value}km</p>
+                    <p>合計: ${pinSearchResults.length}件 (🍼${nurseries} 🎓${kindergartens} 🏫${schools})</p>
+                </div>
+            `;
+
+            facilityList.innerHTML = '';
+            if (pinSearchResults.length === 0) {
+                facilityList.innerHTML = '<div class="empty-state">該当なし</div>';
+                return;
+            }
+
+            pinSearchResults.forEach((facility) => {
+                const distance = calculateDistance(pinLat, pinLng, facility.latitude, facility.longitude);
+                const li = document.createElement('li');
+                li.className = 'facility-item';
+                li.innerHTML = `
+                    <div class="facility-name">${facility.name}</div>
+                    <div class="facility-category">${facility.category}</div>
+                    <div class="facility-distance">${distance.toFixed(2)} km</div>
+                `;
+                li.addEventListener('click', () => {
+                    map.setView([facility.latitude, facility.longitude], 16);
+                    highlightItem(li);
+                });
+                facilityList.appendChild(li);
+            });
+
+            map.fitBounds(L.latLngBounds(
+                [pinLat - 0.05, pinLng - 0.05],
+                [pinLat + 0.05, pinLng + 0.05]
+            ), { maxZoom: 14 });
+        }
+
+        // 施設表示
+        function displayFacilities(facilities) {
+            clearMarkers();
+            const facilityList = document.getElementById('facility-list');
+            facilityList.innerHTML = '';
+
+            if (facilities.length === 0) {
+                facilityList.innerHTML = '<div class="empty-state">データなし</div>';
+                return;
+            }
+
+            facilities.forEach((facility) => {
+                const categoryColor = facility.category === '保育園' ? '#2196F3' : 
+                                    facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
+                
+                const marker = L.circleMarker([facility.latitude, facility.longitude], {
+                    radius: 6,
+                    fillColor: categoryColor,
+                    color: '#fff',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                marker.bindPopup(`<div class="popup-content"><h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Maps</a></p></div>`);
+                facilityMarkers.push(marker);
+
+                const li = document.createElement('li');
+                li.className = 'facility-item';
+                li.innerHTML = `
+                    <div class="facility-name">${facility.name}</div>
+                    <div class="facility-category">${facility.category}</div>
+                `;
+                li.addEventListener('click', () => {
+                    map.setView([facility.latitude, facility.longitude], 15);
+                    marker.openPopup();
+                    highlightItem(li);
+                });
+                facilityList.appendChild(li);
+            });
+
+            if (facilities.length > 0) {
+                const group = new L.featureGroup(facilityMarkers);
+                map.fitBounds(group.getBounds().pad(0.1), { maxZoom: 13 });
+            }
+        }
+
+        // ヘルパー関数
+        function clearMarkers() {
+            facilityMarkers.forEach(marker => map.removeLayer(marker));
+            facilityMarkers = [];
+        }
+
+        function highlightItem(li) {
+            document.querySelectorAll('.facility-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            li.classList.add('active');
+        }
+
+        // フィルタリング
+        function applyFilters() {
+            const prefectureSelect = document.getElementById('prefecture-select').value;
+            const categorySelect = document.getElementById('category-select').value;
+
+            let filtered = allFacilities;
+
+            if (prefectureSelect) {
+                filtered = filtered.filter(f => f.address.includes(prefectureSelect));
+            }
+
+            if (categorySelect) {
+                filtered = filtered.filter(f => f.category === categorySelect);
+            }
+
+            displayFacilities(filtered);
+            document.getElementById('pin-info').innerHTML = '';
+        }
+
+        // DB操作
+        function saveToDB() {
+            if (!db || !pinMarker) {
+                alert('ピンを指してください');
+                return;
+            }
+
+            const searchData = {
+                timestamp: new Date().toISOString(),
+                pin: [pinMarker.getLatLng().lat, pinMarker.getLatLng().lng],
+                radius: document.getElementById('radius-input').value,
+                results: pinSearchResults,
+                count: pinSearchResults.length
+            };
+
+            const transaction = db.transaction([STORE_NAME], 'readwrite');
+            const store = transaction.objectStore(STORE_NAME);
+            store.add(searchData);
+
+            transaction.oncomplete = () => {
+                alert('保存しました');
+                loadSavedData();
+            };
+
+            transaction.onerror = () => {
+                alert('保存失敗');
+            };
+        }
+
+        function loadSavedData() {
+            if (!db) return;
+
+            const transaction = db.transaction([STORE_NAME], 'readonly');
+            const store = transaction.objectStore(STORE_NAME);
+            const request = store.getAll();
+
+            request.onsuccess = () => {
+                savedData = request.result;
+                updateSavedDataUI();
+            };
+        }
+
+        function updateSavedDataUI() {
+            const saveCount = document.getElementById('save-count');
+            const dataSize = document.getElementById('data-size');
+            const savedSection = document.getElementById('saved-section');
+            const savedItems = document.getElementById('saved-items');
+
+            saveCount.textContent = savedData.length;
+            const dataJSON = JSON.stringify(savedData);
+            const sizeKB = (new Blob([dataJSON]).size / 1024).toFixed(2);
+            dataSize.textContent = sizeKB + ' KB';
+
+            savedItems.innerHTML = '';
+            
+            if (savedData.length === 0) {
+                savedSection.style.display = 'none';
+                return;
+            }
+
+            savedSection.style.display = 'block';
+
+            savedData.slice().reverse().forEach((data, index) => {
+                const date = new Date(data.timestamp).toLocaleString('ja-JP');
+                const item = document.createElement('div');
+                item.className = 'saved-item';
+                item.innerHTML = `<p>#${savedData.length - index} | ${date.slice(0, 16)}<br>${data.radius}km | ${data.count}件</p>`;
+                item.style.cursor = 'pointer';
+                item.addEventListener('click', () => {
+                    if (data.pin) pinPoint(data.pin[0], data.pin[1]);
+                });
+                savedItems.appendChild(item);
+            });
+        }
+
+        function clearDB() {
+            if (!db || confirm('すべて削除しますか？')) {
+                const transaction = db.transaction([STORE_NAME], 'readwrite');
+                const store = transaction.objectStore(STORE_NAME);
+                store.clear();
+
+                transaction.oncomplete = () => {
+                    savedData = [];
+                    updateSavedDataUI();
+                    alert('削除しました');
+                };
+            }
+        }
+
+        // イベントリスナー
+        document.getElementById('prefecture-select').addEventListener('change', applyFilters);
+        document.getElementById('category-select').addEventListener('change', applyFilters);
+        document.getElementById('pin-btn').addEventListener('click', togglePinMode);
+        document.getElementById('clear-pin-btn').addEventListener('click', () => {
+            if (pinMarker) map.removeLayer(pinMarker);
+            if (radiusCircle) map.removeLayer(radiusCircle);
+            pinMarker = null;
+            radiusCircle = null;
+            document.getElementById('pin-info').innerHTML = '';
+            pinMode = false;
+            document.getElementById('pin-btn').classList.remove('active');
+            document.getElementById('map').classList.remove('pin-mode');
+        });
+        document.getElementById('save-btn').addEventListener('click', saveToDB);
+        document.getElementById('clear-db-btn').addEventListener('click', clearDB);
+
+        // 初期化
+        async function initialize() {
+            initMap();
+            await loadFacilities();
+            await initIndexedDB();
+        }
+
+        initialize();
+    </script>
+</body>
+</html>

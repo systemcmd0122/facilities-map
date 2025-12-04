@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "いばらき中央認定こども園",
+    "address": "\n〒311-3131 茨城県東茨城郡茨城町小堤９９０",
+    "latitude": 36.2848581,
+    "longitude": 140.4239324,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%B0%E3%82%89%E3%81%8D%E4%B8%AD%E5%A4%AE%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x60223c84f6296545:0x124c7f58baebd303!8m2!3d36.2848581!4d140.4239324!16s%2Fg%2F11xh8p8jx!19sChIJRWUp9oQ8ImARA9Prulh_TBI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "県央の杜保育園",
+    "address": "\n〒311-3131 茨城県東茨城郡茨城町小堤９９０",
+    "latitude": 36.2210143,
+    "longitude": 140.33111,
+    "link": "https://www.google.com/maps/place/%E7%9C%8C%E5%A4%AE%E3%81%AE%E6%9D%9C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60221615c9cf19cf:0x88d2e1111c24e961!8m2!3d36.2210143!4d140.33111!16s%2Fg%2F11h71tbrd3!19sChIJzxnPyRUWImARYekkHBHh0og?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園真壁保育園",
+    "address": "\n〒311-3131 茨城県東茨城郡茨城町小堤９９０",
+    "latitude": 36.2778147,
+    "longitude": 140.1037337,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E7%9C%9F%E5%A3%81%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602203e0f4270787:0x11409bdc9f9c53e5!8m2!3d36.2778147!4d140.1037337!16s%2Fg%2F1tdqbpfp!19sChIJhwcn9OADImAR5VOcn9ybQBE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ひぬま保育園",
+    "address": "\n〒300-4407 茨城県桜川市真壁町古城４５",
+    "latitude": 36.3025712,
+    "longitude": 140.4512708,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%AC%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60223b6b5453b403:0x13b1bd7c76572cf9!8m2!3d36.3025712!4d140.4512708!16s%2Fg%2F1wk7qzmq!19sChIJA7RTVGs7ImAR-SxXdny9sRM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "学園みらい保育園",
+    "address": "\n〒305-0833 茨城県つくば市島３０７ 社会福祉法人 四季の会 学園みらい保育園",
+    "latitude": 36.0671322,
+    "longitude": 140.0862888,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E5%9C%92%E3%81%BF%E3%82%89%E3%81%84%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220baf3a68a391:0x2f22fa5677e82061!8m2!3d36.0671322!4d140.0862888!16s%2Fg%2F11g__qvm44!19sChIJkaNoOq8LImARYSDod1b6Ii8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "すずらん保育園",
+    "address": "\n〒311-3422 茨城県小美玉市中延７８２−２",
+    "latitude": 36.1835851,
+    "longitude": 140.360664,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%9A%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60223e32304dd1fb:0x7686a0a5c8d09b42!8m2!3d36.1835851!4d140.360664!16s%2Fg%2F1wrtczgf!19sChIJ-9FNMDI-ImARQpvQyKWghnY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "学園の森どろんこ保育園",
+    "address": "\n〒300-2633 茨城県つくば市遠東１００７",
+    "latitude": 36.093342,
+    "longitude": 140.0710367,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E5%9C%92%E3%81%AE%E6%A3%AE%E3%81%A9%E3%82%8D%E3%82%93%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220bdabc3cff21:0x5d920238c9e68119!8m2!3d36.093342!4d140.0710367!16s%2Fg%2F11ggz4f409!19sChIJIf88vNoLImARGYHmyTgCkl0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば保育園",
+    "address": "\n〒307-0053 茨城県結城市新福寺２丁目８−１",
+    "latitude": 36.2928105,
+    "longitude": 139.8681043,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f526cfab27597:0x8fd3c030226bbb94!8m2!3d36.2928105!4d139.8681043!16s%2Fg%2F1thf8npd!19sChIJl3Wy-mxSH2ARlLtrIjDA048?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "かしわノ木保育園",
+    "address": "\n〒310-0024 茨城県水戸市備前町３−３８",
+    "latitude": 36.3750158,
+    "longitude": 140.4640955,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%97%E3%82%8F%E3%83%8E%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222546cd001fd5:0x7fe7346ec42ccc77!8m2!3d36.3750158!4d140.4640955!16s%2Fg%2F11fjqjkz_3!19sChIJ1R8AzUYlImARd8wsxG40538?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "島名杉の子保育園",
+    "address": "\n〒300-2662 茨城県つくば市下河原崎４−２０８",
+    "latitude": 36.0693448,
+    "longitude": 140.0421192,
+    "link": "https://www.google.com/maps/place/%E5%B3%B6%E5%90%8D%E6%9D%89%E3%81%AE%E5%AD%90%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220a40fe60a4cf:0x6eecd779baa8581b!8m2!3d36.0693448!4d140.0421192!16s%2Fg%2F1tfd2hrl!19sChIJz6Rg_kAKImARG1iounnX7G4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "そとの保育園",
+    "address": "\n〒315-0031 茨城県石岡市東大橋１６３９−２",
+    "latitude": 36.1958267,
+    "longitude": 140.3135768,
+    "link": "https://www.google.com/maps/place/%E3%81%9D%E3%81%A8%E3%81%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602215d65c943e57:0x1fcb6437968778fa!8m2!3d36.1958267!4d140.3135768!16s%2Fg%2F1tdkgrs_!19sChIJVz6UXNYVImAR-niHljdkyx8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "「こころの花」ことり保育園",
+    "address": "\n〒301-0034 茨城県龍ケ崎市小通幸谷町３０−２",
+    "latitude": 35.924709,
+    "longitude": 140.129094,
+    "link": "https://www.google.com/maps/place/%E3%80%8C%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E8%8A%B1%E3%80%8D%E3%81%93%E3%81%A8%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602270ecfe7d2dfd:0x6c8f13ecae03bb31!8m2!3d35.924709!4d140.129094!16s%2Fg%2F1th7yg69!19sChIJ_S19_uxwImARMbsDruwTj2w?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "守谷どろんこ保育園",
+    "address": "\n〒302-0116 茨城県守谷市大柏１００１−１",
+    "latitude": 35.9497258,
+    "longitude": 139.9786926,
+    "link": "https://www.google.com/maps/place/%E5%AE%88%E8%B0%B7%E3%81%A9%E3%82%8D%E3%82%93%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60189f5886e626d3:0xcb1bf20688c6836c!8m2!3d35.9497258!4d139.9786926!16s%2Fg%2F11qqp23y64!19sChIJ0ybmhlifGGARbIPGiAbyG8s?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 石田保育園",
+    "address": "\n〒308-0834 茨城県筑西市西石田１１８６",
+    "latitude": 36.2800674,
+    "longitude": 139.9902587,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E7%9F%B3%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018aacf849ec7c3:0xdbe89fe092214b14!8m2!3d36.2800674!4d139.9902587!16s%2Fg%2F1twyzkbb!19sChIJw8eehM-qGGARFEshkuCf6Ns?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "桜川保育園",
+    "address": "\n〒300-0048 茨城県土浦市田中３丁目４−５",
+    "latitude": 36.0823286,
+    "longitude": 140.1859108,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602212a887f5b4fd:0x6570962306b7cd8d!8m2!3d36.0823286!4d140.1859108!16s%2Fg%2F1tx1t97c!19sChIJ_bT1h6gSImARjc23BiOWcGU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "もろかわ認定こども園",
+    "address": "\n〒306-0126 茨城県古河市諸川１７７９−３",
+    "latitude": 36.2032134,
+    "longitude": 139.807543,
+    "link": "https://www.google.com/maps/place/%E3%82%82%E3%82%8D%E3%81%8B%E3%82%8F%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x6018b324393c5757:0x3e8badeec2139524!8m2!3d36.2032134!4d139.807543!16s%2Fg%2F1tpc7zwh!19sChIJV1c8OSSzGGARJJUTwu6tiz4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "学校法人川島学園 都和保育園",
+    "address": "\n〒300-0061 茨城県土浦市並木２丁目８−４",
+    "latitude": 36.1099624,
+    "longitude": 140.1924667,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%B7%9D%E5%B3%B6%E5%AD%A6%E5%9C%92+%E9%83%BD%E5%92%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602212863919b4b9:0xf4109695b448d324!8m2!3d36.1099624!4d140.1924667!16s%2Fg%2F1tcw88rd!19sChIJubQZOYYSImARJNNItJWWEPQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくばどろんこ保育園",
+    "address": "\n〒305-0813 茨城県つくば市下平塚８４５−１",
+    "latitude": 36.091402,
+    "longitude": 140.0908605,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%A9%E3%82%8D%E3%82%93%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220bf2a90276f7:0xf2634250704a1b08!8m2!3d36.091402!4d140.0908605!16s%2Fg%2F11cn78rmm3!19sChIJ93YCqfILImARCBtKcFBCY_I?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "すずらん保育園",
+    "address": "\n〒310-0813 茨城県水戸市浜田町４４３−１",
+    "latitude": 36.369999,
+    "longitude": 140.5021942,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%9A%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022256f6ea6707b:0x8baafda14a35c7f8!8m2!3d36.369999!4d140.5021942!16s%2Fg%2F11bwq6gqmt!19sChIJe3Cmbm8lImAR-Mc1SqH9qos?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "わかぐり保育所",
+    "address": "\n〒315-0052 茨城県かすみがうら市下稲吉５１９−２",
+    "latitude": 36.1496609,
+    "longitude": 140.2458606,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%90%E3%82%8A%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x60221395907e5519:0xfb52c9687ad2a87f!8m2!3d36.1496609!4d140.2458606!16s%2Fg%2F1v4pt2wn!19sChIJGVV-kJUTImARf6jSemjJUvs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "はーとぴあ保育園",
+    "address": "\n〒311-4143 茨城県水戸市大塚町１８０３−１",
+    "latitude": 36.3866697,
+    "longitude": 140.3986365,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%83%BC%E3%81%A8%E3%81%B4%E3%81%82%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022217aa28cc51f:0x1bb575141e05029!8m2!3d36.3866697!4d140.3986365!16s%2Fg%2F1tfj_z7h!19sChIJH8WMonohImARKVDgQVFXuwE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ほうとく保育園",
+    "address": "\n〒311-4153 茨城県水戸市河和田町３９６１",
+    "latitude": 36.3515895,
+    "longitude": 140.4035807,
+    "link": "https://www.google.com/maps/place/%E3%81%BB%E3%81%86%E3%81%A8%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602223a4c713d275:0xfba46fae21167ac2!8m2!3d36.3515895!4d140.4035807!16s%2Fg%2F1th5cp6h!19sChIJddITx6QjImARwnoWIa5vpPs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "みなみ保育園",
+    "address": "\n〒319-1552 茨城県北茨城市中郷町足洗９１１−１５",
+    "latitude": 36.7749381,
+    "longitude": 140.7420144,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%AA%E3%81%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602176ddf38ea493:0x39c902854e4e0033!8m2!3d36.7749381!4d140.7420144!16s%2Fg%2F1tn05xhc!19sChIJk6SO8912IWARMwBOToUCyTk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社福)やはた福祉会 認定こども園 大宝保育園",
+    "address": "\n〒304-0022 茨城県下妻市大宝７２５−１",
+    "latitude": 36.205011,
+    "longitude": 139.972203,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E7%A6%8F%29%E3%82%84%E3%81%AF%E3%81%9F%E7%A6%8F%E7%A5%89%E4%BC%9A+%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%A4%A7%E5%AE%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018a97c18b9f147:0x3d08f32028df3bfa!8m2!3d36.205011!4d139.972203!16s%2Fg%2F1tnsrydx!19sChIJR_G5GHypGGAR-jvfKCDzCD0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ちゃいるどはうす保育園",
+    "address": "\n〒310-0852 茨城県水戸市笠原町１５０ 地球の子ども会ちゃいるどは",
+    "latitude": 36.3450578,
+    "longitude": 140.4583219,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%82%83%E3%81%84%E3%82%8B%E3%81%A9%E3%81%AF%E3%81%86%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602224c2440e3c0b:0xfd5a6ea631ec9fe1!8m2!3d36.3450578!4d140.4583219!16s%2Fg%2F1w112907!19sChIJCzwORMIkImAR4Z_sMaZuWv0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "吉沼保育園",
+    "address": "\n〒300-2617 茨城県つくば市吉沼１１１０",
+    "latitude": 36.1440221,
+    "longitude": 140.0139073,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E6%B2%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018a7fa279ee9bd:0xc2fbd6651570ff81!8m2!3d36.1440221!4d140.0139073!16s%2Fg%2F1tt1sp_v!19sChIJvemeJ_qnGGARgf9wFWXW-8I?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "童話館保育園",
+    "address": "\n〒300-0052 茨城県土浦市東真鍋町９−２８",
+    "latitude": 36.093108,
+    "longitude": 140.2082885,
+    "link": "https://www.google.com/maps/place/%E7%AB%A5%E8%A9%B1%E9%A4%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602212c66dcb90fd:0x2b3dbde44481d951!8m2!3d36.093108!4d140.2082885!16s%2Fg%2F1tgp0xrc!19sChIJ_ZDLbcYSImARUdmBROS9PSs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "のぎく保育園",
+    "address": "\n〒310-0841 茨城県水戸市酒門町５０３８",
+    "latitude": 36.3594492,
+    "longitude": 140.4998874,
+    "link": "https://www.google.com/maps/place/%E3%81%AE%E3%81%8E%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222543bc78cb2d:0xf1074ed7706a21d5!8m2!3d36.3594492!4d140.4998874!16s%2Fg%2F1tngqd7c!19sChIJLct4vEMlImAR1SFqcNdOB_E?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大津保育園",
+    "address": "\n〒319-1702 茨城県北茨城市大津町１３５３",
+    "latitude": 36.8325993,
+    "longitude": 140.7858401,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B4%A5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602173c2d9ebf6c9:0xccc25eb451e85dce!8m2!3d36.8325993!4d140.7858401!16s%2Fg%2F1tdkb5b3!19sChIJyfbr2cJzIWARzl3oUbRewsw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ふじ保育園",
+    "address": "\n〒311-3116 茨城県東茨城郡茨城町長岡３４８０−３２",
+    "latitude": 36.3120163,
+    "longitude": 140.4387641,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60223b5a8208e7a9:0xcb4f30b83328cf24!8m2!3d36.3120163!4d140.4387641!16s%2Fg%2F1tf487z6!19sChIJqecIglo7ImARJM8oM7gwT8s?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "こばと東保育園",
+    "address": "\n〒310-0826 茨城県水戸市渋井町４０４−１",
+    "latitude": 36.3642068,
+    "longitude": 140.5076608,
+    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%B0%E3%81%A8%E6%9D%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022255dcfdc2caf:0xb2a7680df63dedd7!8m2!3d36.3642068!4d140.5076608!16s%2Fg%2F1tsr39pd!19sChIJryzcz10lImAR1-099g1op7I?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば駅前保育園",
+    "address": "\n〒305-0031 茨城県つくば市吾妻１丁目８−１０ BiVi つくば 5F",
+    "latitude": 36.081735,
+    "longitude": 140.112819,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E9%A7%85%E5%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220c62996756b3:0x65572c174296753d!8m2!3d36.081735!4d140.112819!16s%2Fg%2F11cn8shwq7!19sChIJs1ZnmWIMImARPXWWQhcsV2U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "なかや保育園",
+    "address": "\n〒312-0001 茨城県ひたちなか市佐和６１２−３",
+    "latitude": 36.4478249,
+    "longitude": 140.5252962,
+    "link": "https://www.google.com/maps/place/%E3%81%AA%E3%81%8B%E3%82%84%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222897bd9ecaab:0x5b63595a4890494a!8m2!3d36.4478249!4d140.5252962!16s%2Fg%2F1tdft7l6!19sChIJq8qevZcoImARSkmQSFpZY1s?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "白帆保育園",
+    "address": "\n〒300-0821 茨城県土浦市蓮河原新町８−３０",
+    "latitude": 36.0718092,
+    "longitude": 140.2065964,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E5%B8%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60226d39cb9a7803:0x99dbb934b8437058!8m2!3d36.0718092!4d140.2065964!16s%2Fg%2F1v46_ghx!19sChIJA3iayzltImARWHBDuDS525k?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あずみの森保育園",
+    "address": "\n〒312-0011 茨城県ひたちなか市中根３３２７−３",
+    "latitude": 36.3959338,
+    "longitude": 140.5535513,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%9A%E3%81%BF%E3%81%AE%E6%A3%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222fad20cefdb1:0xdfd91a4e18dfcff0!8m2!3d36.3959338!4d140.5535513!16s%2Fg%2F1tdm3vcg!19sChIJsf3OIK0vImAR8M_fGE4a2d8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "すみよし保育園",
+    "address": "\n〒310-0844 茨城県水戸市住吉町１１５−１",
+    "latitude": 36.3330488,
+    "longitude": 140.4744694,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60223ad51c6dc401:0xc8f264e9a2ca8338!8m2!3d36.3330488!4d140.4744694!16s%2Fg%2F1tdnw_zc!19sChIJAcRtHNU6ImAROIPKoulk8sg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "学園の森保育園",
+    "address": "\n〒305-0816 茨城県つくば市学園の森１丁目３８−９",
+    "latitude": 36.0997028,
+    "longitude": 140.0758849,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E5%9C%92%E3%81%AE%E6%A3%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220bdeb0c9f98f:0x2aa6eed76b7419eb!8m2!3d36.0997028!4d140.0758849!16s%2Fg%2F11f123j2v3!19sChIJj_nJsN4LImAR6xl0a9fupio?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ケアーズ保育園",
+    "address": "\n〒300-2622 茨城県つくば市要元中根１７８",
+    "latitude": 36.1145992,
+    "longitude": 140.0888258,
+    "link": "https://www.google.com/maps/place/%E3%82%B1%E3%82%A2%E3%83%BC%E3%82%BA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022095a45be8391:0x5e87341a2a4915d1!8m2!3d36.1145992!4d140.0888258!16s%2Fg%2F1tfvh9q_!19sChIJkYO-RVoJImAR0RVJKho0h14?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "わかくさ保育園",
+    "address": "\n〒315-0033 茨城県石岡市東光台５丁目１２−８",
+    "latitude": 36.1895221,
+    "longitude": 140.308825,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%8F%E3%81%95%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602215d30ffd6d4f:0x1b7165202c438e15!8m2!3d36.1895221!4d140.308825!16s%2Fg%2F1tdp9qs0!19sChIJT239D9MVImARFY5DLCBlcRs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "中郷保育園",
+    "address": "\n〒319-1556 茨城県北茨城市中郷町１８０６−２",
+    "latitude": 36.757879,
+    "longitude": 140.7069741,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E9%83%B7%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6021764cf8216395:0xcdbfacfe5881368d!8m2!3d36.757879!4d140.7069741!16s%2Fg%2F1w2yt_f3!19sChIJlWMh-Ex2IWARjTaBWP6sv80?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "小貝保育園",
+    "address": "\n〒300-2502 茨城県常総市上蛇町２１８８−４",
+    "latitude": 36.0731379,
+    "longitude": 140.0034181,
+    "link": "https://www.google.com/maps/place/%E5%B0%8F%E8%B2%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018a0b4bee73229:0x41087ad0b594c4eb!8m2!3d36.0731379!4d140.0034181!16s%2Fg%2F1tgb_sml!19sChIJKTLnvrSgGGAR68SUtdB6CEE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たま保育園",
+    "address": "\n〒307-0044 茨城県結城市田間１９４４−２",
+    "latitude": 36.2535379,
+    "longitude": 139.8411443,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f4d6ef0185fe3:0xf708fa3b13cf14be!8m2!3d36.2535379!4d139.8411443!16s%2Fg%2F1tdhf2qp!19sChIJ418Y8G5NH2ARvhTPEzv6CPc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園十王幼稚園・保育園",
+    "address": "\n〒319-1304 茨城県日立市十王町友部５６６",
+    "latitude": 36.672746,
+    "longitude": 140.681417,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E5%8D%81%E7%8E%8B%E5%B9%BC%E7%A8%9A%E5%9C%92%E3%83%BB%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6021787fda3fda35:0x92e43b3e2d0ef2d1!8m2!3d36.672746!4d140.681417!16s%2Fg%2F1tfxgsz4!19sChIJNdo_2n94IWAR0fIOLT475JI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "霞ヶ浦保育園",
+    "address": "\n〒300-0214 茨城県かすみがうら市坂４４５８−１",
+    "latitude": 36.0895234,
+    "longitude": 140.3454287,
+    "link": "https://www.google.com/maps/place/%E9%9C%9E%E3%83%B6%E6%B5%A6%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60226a770a32dccb:0x37ce84f7886cce36!8m2!3d36.0895234!4d140.3454287!16s%2Fg%2F1tfzmf_4!19sChIJy9wyCndqImARNs5siPeEzjc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "納場保育園",
+    "address": "\n〒319-0134 茨城県小美玉市納場１１１−１",
+    "latitude": 36.261602,
+    "longitude": 140.318564,
+    "link": "https://www.google.com/maps/place/%E7%B4%8D%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602217905f8c7d25:0xdccd3ed55c5aaff!8m2!3d36.261602!4d140.318564!16s%2Fg%2F1v44qj8v!19sChIJJX2MX5AXImAR_6rFVe3TzA0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "緑岡保育所",
+    "address": "\n〒310-0913 茨城県水戸市見川町２１３１−１５１９",
+    "latitude": 36.3562636,
+    "longitude": 140.4338185,
+    "link": "https://www.google.com/maps/place/%E7%B7%91%E5%B2%A1%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x6022247e364284f3:0xc8c6c76d546af615!8m2!3d36.3562636!4d140.4338185!16s%2Fg%2F1tffd9f1!19sChIJ84RCNn4kImARFfZqVG3Hxsg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 しろはと保育園",
+    "address": "\n〒308-0845 茨城県筑西市西方１６４４−７",
+    "latitude": 36.2869478,
+    "longitude": 139.9542828,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%97%E3%82%8D%E3%81%AF%E3%81%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f54b918a96ecb:0xfd43c368754e5635!8m2!3d36.2869478!4d139.9542828!16s%2Fg%2F1w15zjr5!19sChIJy26pGLlUH2ARNVZOdWjDQ_0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "アイリス保育園",
+    "address": "\n〒305-0854 茨城県つくば市上横場３５４−１０",
+    "latitude": 36.0519954,
+    "longitude": 140.0868826,
+    "link": "https://www.google.com/maps/place/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220b426c620391:0x5844bbff0e740dfa!8m2!3d36.0519954!4d140.0868826!16s%2Fg%2F1tr7jh4r!19sChIJkQNibEILImAR-g10Dv-7RFg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ときわの杜保育園",
+    "address": "\n〒310-0843 茨城県水戸市元石川町２５３４−２",
+    "latitude": 36.32182,
+    "longitude": 140.494284,
+    "link": "https://www.google.com/maps/place/%E3%81%A8%E3%81%8D%E3%82%8F%E3%81%AE%E6%9D%9C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60223a951f0a2637:0xb78f2c4fe3addf58!8m2!3d36.32182!4d140.494284!16s%2Fg%2F1td7231d!19sChIJNyYKH5U6ImARWN-t408sj7c?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "さしま保育園",
+    "address": "\n〒306-0504 茨城県坂東市生子２２２０",
+    "latitude": 36.104856,
+    "longitude": 139.855895,
+    "link": "https://www.google.com/maps/place/%E3%81%95%E3%81%97%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018afe034355649:0xa2a93a480bcb21f9!8m2!3d36.104856!4d139.855895!16s%2Fg%2F1tfgd7kl!19sChIJSVY1NOCvGGAR-SHLC0g6qaI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "田中保育園",
+    "address": "\n〒300-4245 茨城県つくば市水守５５４−１",
+    "latitude": 36.171098,
+    "longitude": 140.0677998,
+    "link": "https://www.google.com/maps/place/%E7%94%B0%E4%B8%AD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022088301054a35:0xc5ae35ed49699c68!8m2!3d36.171098!4d140.0677998!16s%2Fg%2F1td7nf36!19sChIJNUoFAYMIImARaJxpSe01rsU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "彩の国保育園",
+    "address": "\n〒310-0852 茨城県水戸市笠原町１２２８−１０",
+    "latitude": 36.345016,
+    "longitude": 140.4499121,
+    "link": "https://www.google.com/maps/place/%E5%BD%A9%E3%81%AE%E5%9B%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602224951a23a487:0xdfde7ddf921c128f!8m2!3d36.345016!4d140.4499121!16s%2Fg%2F1tfpvcg8!19sChIJh6QjGpUkImARjxIckt993t8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "今鹿島保育所",
+    "address": "\n〒300-2641 茨城県つくば市今鹿島５０８７",
+    "latitude": 36.1262633,
+    "longitude": 140.0434554,
+    "link": "https://www.google.com/maps/place/%E4%BB%8A%E9%B9%BF%E5%B3%B6%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x602209b4b9103889:0x8a3437e1c2806ea!8m2!3d36.1262633!4d140.0434554!16s%2Fg%2F1tdx475h!19sChIJiTgQubQJImAR6gYoHH5Dowg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば国際百合ヶ丘保育園",
+    "address": "\n〒302-0110 茨城県守谷市百合ケ丘１丁目２４５５",
+    "latitude": 35.954809,
+    "longitude": 139.984257,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%9B%BD%E9%9A%9B%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60189e530cbdb041:0x638208299e6b785f!8m2!3d35.954809!4d139.984257!16s%2Fg%2F1tfn2rkq!19sChIJQbC9DFOeGGARX3hrnikIgmM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "磯原保育園",
+    "address": "\n〒319-1541 茨城県北茨城市磯原町磯原７９８",
+    "latitude": 36.7921621,
+    "longitude": 140.7482768,
+    "link": "https://www.google.com/maps/place/%E7%A3%AF%E5%8E%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602176b8e0c4fb0b:0x44caad23236b5ca!8m2!3d36.7921621!4d140.7482768!16s%2Fg%2F1td25k8w!19sChIJC_vE4Lh2IWARyrU2MtKqTAQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "さくら学園保育園",
+    "address": "\n〒305-0002 茨城県つくば市上野１３０２",
+    "latitude": 36.1147008,
+    "longitude": 140.1082635,
+    "link": "https://www.google.com/maps/place/%E3%81%95%E3%81%8F%E3%82%89%E5%AD%A6%E5%9C%92%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220c02596446c1:0x5d656ffa4f78bde6!8m2!3d36.1147008!4d140.1082635!16s%2Fg%2F1v6l7lqn!19sChIJwUZkWQIMImAR5r14T_pvZV0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば国際保育園",
+    "address": "\n〒300-0053 茨城県土浦市真鍋新町８−１６",
+    "latitude": 36.0885684,
+    "longitude": 140.2101032,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%9B%BD%E9%9A%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602212cbb7e135f1:0x496b913dba0f4517!8m2!3d36.0885684!4d140.2101032!16s%2Fg%2F1td1k2yk!19sChIJ8TXht8sSImARF0UPuj2Ra0k?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "共生保育園",
+    "address": "\n〒300-1511 茨城県取手市椚木２１９",
+    "latitude": 35.92835,
+    "longitude": 140.1001437,
+    "link": "https://www.google.com/maps/place/%E5%85%B1%E7%94%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022772abf3f2ead:0xd4f773c2dbc2c5f7!8m2!3d35.92835!4d140.1001437!16s%2Fg%2F1tgp0xx6!19sChIJrS4_vyp3ImAR98XC28Jz99Q?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "はぐろ保育園",
+    "address": "\n〒308-0051 茨城県筑西市岡芹２０８６",
+    "latitude": 36.32032,
+    "longitude": 139.969021,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%90%E3%82%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f54573e7bce2b:0x17495f7655debb0c!8m2!3d36.32032!4d139.969021!16s%2Fg%2F1vpfjmyl!19sChIJK857PldUH2ARDLveVXZfSRc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "かなくぼ保育園",
+    "address": "\n〒307-0015 茨城県結城市鹿窪９４９",
+    "latitude": 36.276164,
+    "longitude": 139.881347,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%AA%E3%81%8F%E3%81%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f52f146affe5d:0xa5aab7bab5ea334f!8m2!3d36.276164!4d139.881347!16s%2Fg%2F1td0gly6!19sChIJXf6vRvFSH2ARTzPqtbq3qqU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "スワン保育園",
+    "address": "\n〒310-0035 茨城県水戸市東原３丁目２−６",
+    "latitude": 36.3861742,
+    "longitude": 140.4481798,
+    "link": "https://www.google.com/maps/place/%E3%82%B9%E3%83%AF%E3%83%B3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602224171d1509b3:0x7eb9503000af193d!8m2!3d36.3861742!4d140.4481798!16s%2Fg%2F1tcx73hn!19sChIJswkVHRckImARPRmvADBQuX4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あゆみ保育園",
+    "address": "\n〒300-0331 茨城県稲敷郡阿見町阿見４９５８−５",
+    "latitude": 36.027903,
+    "longitude": 140.20046,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%82%86%E3%81%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60226d94388faa97:0x2e15491d892bec3c!8m2!3d36.027903!4d140.20046!16s%2Fg%2F1td1djgl!19sChIJl6qPOJRtImARPOwriR1JFS4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば市 小田保育所",
+    "address": "\n〒300-4223 茨城県つくば市小田２４１３ 小田中部児童館",
+    "latitude": 36.151856,
+    "longitude": 140.111768,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82+%E5%B0%8F%E7%94%B0%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x60220ed9d2f9d267:0x9a28908ca15b6ad3!8m2!3d36.151856!4d140.111768!16s%2Fg%2F1tg4wz09!19sChIJZ9L50tkOImAR02pboYyQKJo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あおぞら保育園",
+    "address": "\n〒300-0811 茨城県土浦市上高津１８００−１",
+    "latitude": 36.075715,
+    "longitude": 140.167686,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220d46003d119b:0xa09a72c5347b5743!8m2!3d36.075715!4d140.167686!16s%2Fg%2F1tj57wyp!19sChIJmxE9AEYNImARQ1d7NMVymqA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "インターナショナルキッズ はるのひ保育園",
+    "address": "\n〒305-0821 茨城県つくば市春日２丁目36−３",
+    "latitude": 36.0892092,
+    "longitude": 140.0994771,
+    "link": "https://www.google.com/maps/place/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%AD%E3%83%83%E3%82%BA+%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%B2%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220b7cde4d04f3:0x3330efc0d2259221!8m2!3d36.0892092!4d140.0994771!16s%2Fg%2F11t46cgk6k!19sChIJ8wRN3nwLImARIZIl0sDvMDM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "荒川沖保育所",
+    "address": "\n〒300-0874 茨城県土浦市荒川沖西２丁目１０−１１ 土浦市立荒川沖保育所",
+    "latitude": 36.0308236,
+    "longitude": 140.1620011,
+    "link": "https://www.google.com/maps/place/%E8%8D%92%E5%B7%9D%E6%B2%96%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x602272f4c62b0bd9:0xbf5126471abd2f06!8m2!3d36.0308236!4d140.1620011!16s%2Fg%2F1tfkfpyy!19sChIJ2QsrxvRyImARBi-9GkcmUb8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "カスミいいねの森保育園",
+    "address": "\n〒305-0831 茨城県つくば市西大橋６３４−１",
+    "latitude": 36.0732699,
+    "longitude": 140.0829355,
+    "link": "https://www.google.com/maps/place/%E3%82%AB%E3%82%B9%E3%83%9F%E3%81%84%E3%81%84%E3%81%AD%E3%81%AE%E6%A3%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220b9ccd990053:0xd587e6bf11be5f40!8m2!3d36.0732699!4d140.0829355!16s%2Fg%2F11fnmn4zp5!19sChIJUwCZzZwLImARQF--Eb_mh9U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "金上保育園",
+    "address": "\n〒312-0022 茨城県ひたちなか市金上１２３５−１",
+    "latitude": 36.3741616,
+    "longitude": 140.5430904,
+    "link": "https://www.google.com/maps/place/%E9%87%91%E4%B8%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222fc5c852ff29:0x3f7742297467b3c9!8m2!3d36.3741616!4d140.5430904!16s%2Fg%2F11b7stl0xw!19sChIJKf9SyMUvImARybNndClCdz8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "白梅保育園",
+    "address": "\n〒312-0022 茨城県ひたちなか市金上１２３５−１",
+    "latitude": 36.1477491,
+    "longitude": 139.7575478,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E6%A2%85%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018b468d2d2ebb7:0xb4c12ed145719a7d!8m2!3d36.1477491!4d139.7575478!16s%2Fg%2F1tj21k7y!19sChIJt-vS0mi0GGARfZpxRdEuwbQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "青い丘保育園つくば",
+    "address": "\n〒305-0034 茨城県つくば市小野崎５９４−１",
+    "latitude": 36.0728785,
+    "longitude": 140.1104655,
+    "link": "https://www.google.com/maps/place/%E9%9D%92%E3%81%84%E4%B8%98%E4%BF%9D%E8%82%B2%E5%9C%92%E3%81%A4%E3%81%8F%E3%81%B0/data=!4m7!3m6!1s0x60220c856fafe8e1:0x6580fca4c475bac0!8m2!3d36.0728785!4d140.1104655!16s%2Fg%2F11tchg0q9h!19sChIJ4eivb4UMImARwLp1xKT8gGU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "笠原保育園",
+    "address": "\n〒310-0852 茨城県水戸市笠原町１８２７−３",
+    "latitude": 36.3332848,
+    "longitude": 140.4510244,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E5%8E%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602224b7ddae6eaf:0x53bd2063221b9ed!8m2!3d36.3332848!4d140.4510244!16s%2Fg%2F1tdnfc6m!19sChIJr26u3bckImAR7bkhMgbSOwU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "「こころの花」ときわ保育園",
+    "address": "\n〒301-0002 茨城県龍ケ崎市中根台４丁目１７−２",
+    "latitude": 35.9293008,
+    "longitude": 140.1726347,
+    "link": "https://www.google.com/maps/place/%E3%80%8C%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E8%8A%B1%E3%80%8D%E3%81%A8%E3%81%8D%E3%82%8F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6022700f8c6c705d:0x5eb62aa8c248095c!8m2!3d35.9293008!4d140.1726347!16s%2Fg%2F1tl0xg2k!19sChIJXXBsjA9wImARXAlIwqgqtl4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "土浦愛隣会保育所",
+    "address": "\n〒300-0837 茨城県土浦市右籾１６８１",
+    "latitude": 36.0463912,
+    "longitude": 140.1797797,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E6%84%9B%E9%9A%A3%E4%BC%9A%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x6022729c5bf6ea37:0x79330fc2d814147b!8m2!3d36.0463912!4d140.1797797!16s%2Fg%2F1tgx6qn9!19sChIJN-r2W5xyImARexQU2MIPM3k?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "アイグラン保育園守谷駅前",
+    "address": "\n〒302-0115 茨城県守谷市中央３丁目10−６",
+    "latitude": 35.9503588,
+    "longitude": 139.9942366,
+    "link": "https://www.google.com/maps/place/%E3%82%A2%E3%82%A4%E3%82%B0%E3%83%A9%E3%83%B3%E4%BF%9D%E8%82%B2%E5%9C%92%E5%AE%88%E8%B0%B7%E9%A7%85%E5%89%8D/data=!4m7!3m6!1s0x60189e466a80353b:0x4acb49b7af32a75f!8m2!3d35.9503588!4d139.9942366!16s%2Fg%2F1pztfdsyf!19sChIJOzWAakaeGGARX6cyr7dJy0o?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 もりや幼保園",
+    "address": "\n〒302-0102 茨城県守谷市２丁目１５",
+    "latitude": 35.9695754,
+    "longitude": 139.9678821,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%82%82%E3%82%8A%E3%82%84%E5%B9%BC%E4%BF%9D%E5%9C%92/data=!4m7!3m6!1s0x60189f72a3b41995:0x76afd170a07a94de!8m2!3d35.9695754!4d139.9678821!16s%2Fg%2F1twyzk99!19sChIJlRm0o3KfGGAR3pR6oHDRr3Y?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "万博公園どろんこ保育園",
+    "address": "\n〒300-2655 茨城県つくば市島名２５７８",
+    "latitude": 36.0603123,
+    "longitude": 140.0557907,
+    "link": "https://www.google.com/maps/place/%E4%B8%87%E5%8D%9A%E5%85%AC%E5%9C%92%E3%81%A9%E3%82%8D%E3%82%93%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220a4f5a97d8ef:0x94c1caff0c8d0af7!8m2!3d36.0603123!4d140.0557907!16s%2Fg%2F11f2p13ms_!19sChIJ79iXWk8KImAR9wqNDP_KwZQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つくば市立 吾妻保育所",
+    "address": "\n〒305-0031 茨城県つくば市吾妻２丁目５−４",
+    "latitude": 36.0847477,
+    "longitude": 140.1084877,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B+%E5%90%BE%E5%A6%BB%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x60220c7b8338622f:0xbbb777fc40b4b03f!8m2!3d36.0847477!4d140.1084877!16s%2Fg%2F1tplqfbz!19sChIJL2I4g3sMImARP7C0QPx3t7s?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "東さくら保育園",
+    "address": "\n〒300-2707 茨城県常総市本石下３７６２−１",
+    "latitude": 36.1255062,
+    "longitude": 139.9709788,
+    "link": "https://www.google.com/maps/place/%E6%9D%B1%E3%81%95%E3%81%8F%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6018a631d8b4566f:0xeaf6037a612d1c34!8m2!3d36.1255062!4d139.9709788!16s%2Fg%2F1td9w3sn!19sChIJb1a02DGmGGARNBwtYXoD9uo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "つだ保育所",
+    "address": "\n〒312-0032 茨城県ひたちなか市津田１９５０−１",
+    "latitude": 36.4130947,
+    "longitude": 140.5087198,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%A0%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x602225f9f6ac9b5f:0xc78e2bd71e03a242!8m2!3d36.4130947!4d140.5087198!16s%2Fg%2F1x6q1w95!19sChIJX5us9vklImARQqIDHtcrjsc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "けやき台保育園",
+    "address": "\n〒310-0841 茨城県水戸市酒門町１５７８−８",
+    "latitude": 36.339553,
+    "longitude": 140.486934,
+    "link": "https://www.google.com/maps/place/%E3%81%91%E3%82%84%E3%81%8D%E5%8F%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602225334d17d49b:0x63373a225832f449!8m2!3d36.339553!4d140.486934!16s%2Fg%2F1tdmvq_r!19sChIJm9QXTTMlImARSfQyWCI6N2M?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "島名保育園",
+    "address": "\n〒300-2655 茨城県つくば市島名５２９−３",
+    "latitude": 36.0723695,
+    "longitude": 140.0500661,
+    "link": "https://www.google.com/maps/place/%E5%B3%B6%E5%90%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220a489b2e9455:0xcc97b60115d035!8m2!3d36.0723695!4d140.0500661!16s%2Fg%2F1hd_3q0cq!19sChIJVZQum0gKImARNdAVAbaXzAA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ミーム保育園",
+    "address": "\n〒319-0123 茨城県小美玉市羽鳥字東裏２７１９−３６ ２６９８－６７",
+    "latitude": 36.2488452,
+    "longitude": 140.2885883,
+    "link": "https://www.google.com/maps/place/%E3%83%9F%E3%83%BC%E3%83%A0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60221769a6bd0057:0x8c4f3013d826032d!8m2!3d36.2488452!4d140.2885883!16s%2Fg%2F1vr1wr96!19sChIJVwC9pmkXImARLQMm2BMwT4w?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "流星台エンジェル保育園",
+    "address": "\n〒305-0008 茨城県つくば市流星台6−７",
+    "latitude": 36.0990745,
+    "longitude": 140.1206066,
+    "link": "https://www.google.com/maps/place/%E6%B5%81%E6%98%9F%E5%8F%B0%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220d1103f6f24f:0xfac9a5f44f48cdfa!8m2!3d36.0990745!4d140.1206066!16s%2Fg%2F11ljzd1lxq!19sChIJT_L2AxENImAR-s1IT_Slyfo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "みか保育園",
+    "address": "\n〒309-1705 茨城県笠間市東平１丁目１８−６",
+    "latitude": 36.3517502,
+    "longitude": 140.3147442,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60221f2faaef2b89:0x476818c64afdc592!8m2!3d36.3517502!4d140.3147442!16s%2Fg%2F1tdqbphk!19sChIJiSvvqi8fImARksX9SsYYaEc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "流星（ホシ）の丘保育園",
+    "address": "\n〒305-0008 茨城県つくば市流星台１２−１０",
+    "latitude": 36.1005696,
+    "longitude": 140.1219088,
+    "link": "https://www.google.com/maps/place/%E6%B5%81%E6%98%9F%EF%BC%88%E3%83%9B%E3%82%B7%EF%BC%89%E3%81%AE%E4%B8%98%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220c422671c42f:0x9dd948a414e847c4!8m2!3d36.1005696!4d140.1219088!16s%2Fg%2F11h40_2ws0!19sChIJL8RxJkIMImARxEfoFKRI2Z0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "白鳥保育園",
+    "address": "\n〒300-0022 茨城県土浦市白鳥町１０９６−４",
+    "latitude": 36.1061553,
+    "longitude": 140.258671,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E9%B3%A5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60221353c774c3b5:0x9f30972fc664f647!8m2!3d36.1061553!4d140.258671!16s%2Fg%2F1td3rlws!19sChIJtcN0x1MTImARR_Zkxi-XMJ8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "めぐみ保育園",
+    "address": "\n〒300-0836 茨城県土浦市烏山５丁目２２６３−８",
+    "latitude": 36.0429841,
+    "longitude": 140.1921796,
+    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%90%E3%81%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60226d798f597931:0xe66368b588026ea5!8m2!3d36.0429841!4d140.1921796!16s%2Fg%2F1tmqlxbr!19sChIJMXlZj3ltImARpW4CiLVoY-Y?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "かつらぎ第二保育園",
+    "address": "\n〒305-0822 茨城県つくば市苅間６４３−１",
+    "latitude": 36.07829,
+    "longitude": 140.096099,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%A4%E3%82%89%E3%81%8E%E7%AC%AC%E4%BA%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60220b815e7b6027:0x155a9ce981600a0!8m2!3d36.07829!4d140.096099!16s%2Fg%2F1tcy8_kf!19sChIJJ2B7XoELImARoAAWmM6pVQE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ふたばランド保育園",
+    "address": "\n〒300-1234 茨城県牛久市中央５丁目５−２",
+    "latitude": 35.9798271,
+    "longitude": 140.1428783,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%9F%E3%81%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60227181c28971ab:0xe1e0261f6ff6a9fa!8m2!3d35.9798271!4d140.1428783!16s%2Fg%2F1tf6m9p8!19sChIJq3GJwoFxImAR-qn2bx8m4OE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "勝田保育園",
+    "address": "\n〒312-0052 茨城県ひたちなか市東石川３丁目５−１",
+    "latitude": 36.3911779,
+    "longitude": 140.5313364,
+    "link": "https://www.google.com/maps/place/%E5%8B%9D%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222f9e562ffae9:0xeee4c64a580dad3f!8m2!3d36.3911779!4d140.5313364!16s%2Fg%2F1tdnfc7l!19sChIJ6fovVp4vImARP60NWErG5O4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "託児所こぶた",
+    "address": "\n〒300-0016 茨城県土浦市中神立町１９−４",
+    "latitude": 36.1179151,
+    "longitude": 140.2362088,
+    "link": "https://www.google.com/maps/place/%E8%A8%97%E5%85%90%E6%89%80%E3%81%93%E3%81%B6%E3%81%9F/data=!4m7!3m6!1s0x60221310ebacc099:0x959b11d9408db19c!8m2!3d36.1179151!4d140.2362088!16s%2Fg%2F11bccm5tsn!19sChIJmcCs6xATImARnLGNQNkRm5U?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "まつぼっくり保育園",
+    "address": "\n〒305-0043 茨城県つくば市大角豆２０１２−６６８",
+    "latitude": 36.050152,
+    "longitude": 140.1441073,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%A4%E3%81%BC%E3%81%A3%E3%81%8F%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602272d7b2a06181:0xe2e1dbd36f175cc0!8m2!3d36.050152!4d140.1441073!16s%2Fg%2F1th0ygj0!19sChIJgWGgstdyImARwFwXb9Pb4eI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "愛保育園",
+    "address": "\n〒313-0041 茨城県常陸太田市稲木町３",
+    "latitude": 36.531966,
+    "longitude": 140.521873,
+    "link": "https://www.google.com/maps/place/%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602187d229b585d5:0xaa082eeeb043584!8m2!3d36.531966!4d140.521873!16s%2Fg%2F1tdvdpjc!19sChIJ1YW1KdKHIWARhDUE6-6CoAo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "古河保育園",
+    "address": "\n〒306-0033 茨城県古河市中央町３丁目１０−６２ 古河",
+    "latitude": 36.192017,
+    "longitude": 139.700938,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601f4a98247f7f35:0x1a245e5e0953f4dc!8m2!3d36.192017!4d139.700938!16s%2Fg%2F1tk6qdwn!19sChIJNX9_JJhKH2AR3PRTCV5eJBo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "阿見ひかり保育園",
+    "address": "\n〒300-0306 茨城県稲敷郡阿見町曙２４７−１",
+    "latitude": 36.0376121,
+    "longitude": 140.2275132,
+    "link": "https://www.google.com/maps/place/%E9%98%BF%E8%A6%8B%E3%81%B2%E3%81%8B%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60226c4badb3fce3:0x1701898d5b3e0d!8m2!3d36.0376121!4d140.2275132!16s%2Fg%2F1tz95v_1!19sChIJ4_yzrUtsImARDT5bjYkBFwA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大宮聖愛保育園(常陸大宮市上町)",
+    "address": "\n〒319-2261 茨城県常陸大宮市上町３６７−７",
+    "latitude": 36.550662,
+    "longitude": 140.412537,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%AE%AE%E8%81%96%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92%28%E5%B8%B8%E9%99%B8%E5%A4%A7%E5%AE%AE%E5%B8%82%E4%B8%8A%E7%94%BA%29/data=!4m7!3m6!1s0x60218c3f014261ab:0xeca1bcb247ac2e2d!8m2!3d36.550662!4d140.412537!16s%2Fg%2F1td5g6tv!19sChIJq2FCAT-MIWARLS6sR7K8oew?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "はなのわ保育園",
+    "address": "\n〒312-0058 茨城県ひたちなか市西光地１丁目６−３",
+    "latitude": 36.4109012,
+    "longitude": 140.5294214,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%AA%E3%81%AE%E3%82%8F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222f6a03fbda3f:0x37206e1f86b65704!8m2!3d36.4109012!4d140.5294214!16s%2Fg%2F1tdc0rlm!19sChIJP9r7A2ovImARBFe2hh9uIDc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "勝田あすなろ保育園",
+    "address": "\n〒312-0025 茨城県ひたちなか市武田９０１−２",
+    "latitude": 36.3879357,
+    "longitude": 140.5188869,
+    "link": "https://www.google.com/maps/place/%E5%8B%9D%E7%94%B0%E3%81%82%E3%81%99%E3%81%AA%E3%82%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222f821e78297f:0x5cc8f68563b519a6!8m2!3d36.3879357!4d140.5188869!16s%2Fg%2F1tg9st4v!19sChIJfyl4HoIvImARphm1Y4X2yFw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大成学園額田保育園",
+    "address": "\n〒311-0107 茨城県那珂市額田南郷４９９−５ 額田",
+    "latitude": 36.4874306,
+    "longitude": 140.5162573,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%88%90%E5%AD%A6%E5%9C%92%E9%A1%8D%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x602228088aea5e89:0x254cf003ebec7cd3!8m2!3d36.4874306!4d140.5162573!16s%2Fg%2F1xtf1p4g!19sChIJiV7qiggoImAR03zs6wPwTCU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "野いちご保育園",
+    "address": "\n〒312-0055 茨城県ひたちなか市大成町１２−２",
+    "latitude": 36.384572,
+    "longitude": 140.533299,
+    "link": "https://www.google.com/maps/place/%E9%87%8E%E3%81%84%E3%81%A1%E3%81%94%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60222f97eddd844f:0xdf254f5341e0f010!8m2!3d36.384572!4d140.533299!16s%2Fg%2F1thcsg47!19sChIJT4Td7ZcvImAREPDgQVNPJd8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ひたち学院幼稚園",
+    "address": "\n〒300-0844 茨城県土浦市乙戸１０２９−１",
+    "latitude": 36.0364361,
+    "longitude": 140.1548487,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%9F%E3%81%A1%E5%AD%A6%E9%99%A2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602272ef018e7d53:0xd60b32a9b5d35d9d!8m2!3d36.0364361!4d140.1548487!16s%2Fg%2F1tdq17hz!19sChIJU32OAe9yImARnV3TtakyC9Y?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "渡里幼稚園",
+    "address": "\n〒310-0903 茨城県水戸市堀町９５８−４ 学校法人 中山学院 渡里幼稚園",
+    "latitude": 36.4030221,
+    "longitude": 140.4317445,
+    "link": "https://www.google.com/maps/place/%E6%B8%A1%E9%87%8C%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602226b33ca1b453:0x97369e3a085b523f!8m2!3d36.4030221!4d140.4317445!16s%2Fg%2F1tm1ql1r!19sChIJU7ShPLMmImARP1JbCDqeNpc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "富士見幼稚園 Fujimi Kindergarten",
+    "address": "\n〒307-0001 茨城県結城市結城１０５８４",
+    "latitude": 36.3027062,
+    "longitude": 139.8667036,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%B9%BC%E7%A8%9A%E5%9C%92+Fujimi+Kindergarten/data=!4m7!3m6!1s0x601f521071d0832d:0xcb92d7eb7a7af0a5!8m2!3d36.3027062!4d139.8667036!16s%2Fg%2F1tld0860!19sChIJLYPQcRBSH2ARpfB6euvXkss?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 石岡幼稚園",
+    "address": "\n〒315-0033 茨城県石岡市東光台１丁目２−４",
+    "latitude": 36.1876218,
+    "longitude": 140.3002939,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E7%9F%B3%E5%B2%A1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022142949a1d977:0x4da29d56c18f379!8m2!3d36.1876218!4d140.3002939!16s%2Fg%2F1tg686bt!19sChIJd9mhSSkUImARefMYbNUp2gQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 いそはら幼稚園",
+    "address": "\n〒319-1543 茨城県北茨城市磯原町豊田９２０",
+    "latitude": 36.799644,
+    "longitude": 140.728747,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%84%E3%81%9D%E3%81%AF%E3%82%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602176828ab6b16b:0xacaa5acc61f22e6d!8m2!3d36.799644!4d140.728747!16s%2Fg%2F1tjytqbx!19sChIJa7G2ioJ2IWARbS7yYcxaqqw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "中村白百合幼稚園",
+    "address": "\n〒300-0843 茨城県土浦市中村南５丁目３１−１",
+    "latitude": 36.0418554,
+    "longitude": 140.157716,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E6%9D%91%E7%99%BD%E7%99%BE%E5%90%88%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602272e98005f013:0x79377a3549d19d28!8m2!3d36.0418554!4d140.157716!16s%2Fg%2F1vzv3sb2!19sChIJE_AFgOlyImARKJ3RSTV6N3k?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 栄幼稚園",
+    "address": "\n〒305-0015 茨城県つくば市松塚６６７",
+    "latitude": 36.1057945,
+    "longitude": 140.1475028,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E6%A0%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60220db18bff90cd:0xaeb72fca6920e4c1!8m2!3d36.1057945!4d140.1475028!16s%2Fg%2F1w04k6f5!19sChIJzZD_i7ENImARweQgacovt64?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "あさひ幼稚園",
+    "address": "\n〒310-0826 茨城県水戸市渋井町２５４",
+    "latitude": 36.3594635,
+    "longitude": 140.5106665,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%95%E3%81%B2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222559b3e41047:0xa2d1b89e61df7003!8m2!3d36.3594635!4d140.5106665!16s%2Fg%2F1td2zkq3!19sChIJRxDks1klImARA3DfYZ640aI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "あおば台幼稚園",
+    "address": "\n〒300-0837 茨城県土浦市右籾２７５５",
+    "latitude": 36.0446205,
+    "longitude": 140.1867795,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%B0%E5%8F%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60226d7cf17a674f:0x52802314fcb1f477!8m2!3d36.0446205!4d140.1867795!16s%2Fg%2F1tfj38c0!19sChIJT2d68XxtImARd_Sx_BQjgFI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "土浦聖母幼稚園",
+    "address": "\n〒300-0038 茨城県土浦市大町９−６",
+    "latitude": 36.0797735,
+    "longitude": 140.1931623,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E8%81%96%E6%AF%8D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602212ad8da847fd:0x826ac3662c544ea5!8m2!3d36.0797735!4d140.1931623!16s%2Fg%2F1v29c3ln!19sChIJ_Ueoja0SImARpU5ULGbDaoI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "少友幼稚園",
+    "address": "\n〒310-0024 茨城県水戸市備前町５−３６",
+    "latitude": 36.3770029,
+    "longitude": 140.4644073,
+    "link": "https://www.google.com/maps/place/%E5%B0%91%E5%8F%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022244fd2af45b9:0x608e06a428341749!8m2!3d36.3770029!4d140.4644073!16s%2Fg%2F1ptwlvwcf!19sChIJuUWv0k8kImARSRc0KKQGjmA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 こじか幼稚園",
+    "address": "\n〒309-1631 茨城県笠間市箱田６−４",
+    "latitude": 36.3902345,
+    "longitude": 140.2367171,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%93%E3%81%98%E3%81%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6021f6265ca391b1:0x96fed97e9c3d6dcc!8m2!3d36.3902345!4d140.2367171!16s%2Fg%2F1tfh4s1c!19sChIJsZGjXCb2IWARzG09nH7Z_pY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "めばえ幼稚園",
+    "address": "\n〒301-0018 茨城県龍ケ崎市米町８３６２",
+    "latitude": 35.90165,
+    "longitude": 140.173602,
+    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%B0%E3%81%88%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60227ac864d568bb:0x8a03d3842971e58f!8m2!3d35.90165!4d140.173602!16s%2Fg%2F1tfbs_jh!19sChIJu2jVZMh6ImARj-VxKYTTA4o?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人椎名夢学園 こばと幼稚園",
+    "address": "\n〒300-1231 茨城県牛久市猪子町８２８−３３",
+    "latitude": 35.992876,
+    "longitude": 140.144546,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E6%A4%8E%E5%90%8D%E5%A4%A2%E5%AD%A6%E5%9C%92+%E3%81%93%E3%81%B0%E3%81%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022722d7f101a35:0x34edfe5329ce0a3e!8m2!3d35.992876!4d140.144546!16s%2Fg%2F1vqtgxcz!19sChIJNRoQfy1yImARPgrOKVP-7TQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "つくば幼稚園",
+    "address": "\n〒307-0053 茨城県結城市新福寺２丁目８−７",
+    "latitude": 36.2926772,
+    "longitude": 139.8686983,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f526cf4e9d647:0x5170df062012e326!8m2!3d36.2926772!4d139.8686983!16s%2Fg%2F1twyzn2s!19sChIJR9bp9GxSH2ARJuMSIAbfcFE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "聖母幼稚園",
+    "address": "\n〒310-0063 茨城県水戸市五軒町２丁目４−３２",
+    "latitude": 36.3817059,
+    "longitude": 140.4629165,
+    "link": "https://www.google.com/maps/place/%E8%81%96%E6%AF%8D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602224489595e899:0xc37e6081d5bda8b1!8m2!3d36.3817059!4d140.4629165!16s%2Fg%2F1pp2vfrkp!19sChIJmeiVlUgkImARsai91YFgfsM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "いなほ幼稚園",
+    "address": "\n〒300-3267 茨城県つくば市前野１８６０−１",
+    "latitude": 36.1434328,
+    "longitude": 140.0688946,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%AA%E3%81%BB%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602208fb18a7eae7:0xafc278224a4726e8!8m2!3d36.1434328!4d140.0688946!16s%2Fg%2F1thqgv_c!19sChIJ5-qnGPsIImAR6CZHSiJ4wq8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "常磐大学 幼稚園",
+    "address": "\n〒310-0911 茨城県水戸市見和１丁目４２５",
+    "latitude": 36.381751,
+    "longitude": 140.441237,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E7%A3%90%E5%A4%A7%E5%AD%A6+%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222411e27791c1:0xef82c0e324694e4!8m2!3d36.381751!4d140.441237!16s%2Fg%2F1vknph90!19sChIJwZF34hEkImAR5JRGMg4s-A4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ふたば幼稚園",
+    "address": "\n〒300-0331 茨城県稲敷郡阿見町岡崎３丁目２−１",
+    "latitude": 36.0409036,
+    "longitude": 140.2182251,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%81%9F%E3%81%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60226dae1ece9029:0xa730d1b60270e454!8m2!3d36.0409036!4d140.2182251!16s%2Fg%2F1wv_sb2r!19sChIJKZDOHq5tImARVORwArbRMKc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "大塚ひのまる幼稚園",
+    "address": "\n〒311-4143 茨城県水戸市大塚町１５８３ 認定こども園 大塚ひのまる幼稚園",
+    "latitude": 36.38686,
+    "longitude": 140.395477,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E5%A1%9A%E3%81%B2%E3%81%AE%E3%81%BE%E3%82%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222170b908c4fb:0xdc4193f9ba7e0ab9!8m2!3d36.38686!4d140.395477!16s%2Fg%2F1tjl605g!19sChIJ-8QIuXAhImARuQp-uvmTQdw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "中央幼稚園",
+    "address": "\n〒300-0011 茨城県土浦市神立中央２丁目１−１８",
+    "latitude": 36.121385,
+    "longitude": 140.2447949,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022131334147b3d:0x945dd01081bc19c5!8m2!3d36.121385!4d140.2447949!16s%2Fg%2F1tg_x633!19sChIJPXsUNBMTImARxRm8gRDQXZQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ばらき台幼稚園",
+    "address": "\n〒315-0042 茨城県石岡市茨城３丁目４−１３",
+    "latitude": 36.1775762,
+    "longitude": 140.2858166,
+    "link": "https://www.google.com/maps/place/%E3%81%B0%E3%82%89%E3%81%8D%E5%8F%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022141803de4eb3:0xd42fec17f27a1bd1!8m2!3d36.1775762!4d140.2858166!16s%2Fg%2F1tscp38r!19sChIJs07eAxgUImAR0Rt68hfsL9Q?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "吉田幼稚園",
+    "address": "\n〒310-0836 茨城県水戸市元吉田町１９７７−３４ 一里塚東１９７７−３４",
+    "latitude": 36.3467097,
+    "longitude": 140.4793688,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E7%94%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602225271179a449:0xc2484f50914b181!8m2!3d36.3467097!4d140.4793688!16s%2Fg%2F1wcxd5z2!19sChIJSaR5ESclImARgbEUCfWEJAw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "吉沼幼稚園",
+    "address": "\n〒300-2617 茨城県つくば市吉沼４１３８",
+    "latitude": 36.1421217,
+    "longitude": 140.0162833,
+    "link": "https://www.google.com/maps/place/%E5%90%89%E6%B2%BC%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018a7f7a774af81:0xce2c9789e9da7f50!8m2!3d36.1421217!4d140.0162833!16s%2Fg%2F1vv2s7pk!19sChIJga90p_enGGARUH_a6YmXLM4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "白山幼稚園",
+    "address": "\n〒302-0023 茨城県取手市白山２丁目９−７",
+    "latitude": 35.9020469,
+    "longitude": 140.0606468,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E5%B1%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60227709ce816f93:0x177d10a5a642eb75!8m2!3d35.9020469!4d140.0606468!16s%2Fg%2F1thp82vh!19sChIJk2-Bzgl3ImARdetCpqUQfRc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "善隣幼稚園",
+    "address": "\n〒315-0014 茨城県石岡市国府４丁目３−３",
+    "latitude": 36.187709,
+    "longitude": 140.279073,
+    "link": "https://www.google.com/maps/place/%E5%96%84%E9%9A%A3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602216a68dcf8435:0x879be8bb7782dbb0!8m2!3d36.187709!4d140.279073!16s%2Fg%2F1tdb4d06!19sChIJNYTPjaYWImARsNuCd7vom4c?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "あづま幼稚園",
+    "address": "\n〒302-0032 茨城県取手市ゆめみ野４丁目２２−１",
+    "latitude": 35.9209016,
+    "longitude": 140.0426703,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%A5%E3%81%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602276413040db0d:0x53ac0f2110626fcc!8m2!3d35.9209016!4d140.0426703!16s%2Fg%2F1tkshxmh!19sChIJDdtAMEF2ImARzG9iECEPrFM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "取手幼稚園",
+    "address": "\n〒302-0001 茨城県取手市小文間４１８８",
+    "latitude": 35.8858729,
+    "longitude": 140.1068855,
+    "link": "https://www.google.com/maps/place/%E5%8F%96%E6%89%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022776c042e91c7:0x67c5a584a96f2e7f!8m2!3d35.8858729!4d140.1068855!16s%2Fg%2F1td_yqcj!19sChIJx5EuBGx3ImARfy5vqYSlxWc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "まさみ幼稚園",
+    "address": "\n〒311-3124 茨城県東茨城郡茨城町中石崎８５２",
+    "latitude": 36.2917445,
+    "longitude": 140.48377,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%95%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60223a4538f715fd:0x2c5db8aa75a216f4!8m2!3d36.2917445!4d140.48377!16s%2Fg%2F120nqfmd!19sChIJ_RX3OEU6ImAR9Baidaq4XSw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "はなのわ幼稚園（学校法人）",
+    "address": "\n〒312-0052 茨城県ひたちなか市新堀（大字２７５９−２",
+    "latitude": 36.410416,
+    "longitude": 140.5326353,
+    "link": "https://www.google.com/maps/place/%E3%81%AF%E3%81%AA%E3%81%AE%E3%82%8F%E5%B9%BC%E7%A8%9A%E5%9C%92%EF%BC%88%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%EF%BC%89/data=!4m7!3m6!1s0x60222f6ae15bfe0f:0x868b83b7dbdf9c07!8m2!3d36.410416!4d140.5326353!16s%2Fg%2F1tx1t99w!19sChIJD_5b4WovImARB5zf27eDi4Y?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "くりのみ自然幼稚園（２さい園）",
+    "address": "\n〒300-0121 茨城県かすみがうら市宍倉６２０４−１３",
+    "latitude": 36.1271179,
+    "longitude": 140.2604546,
+    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%82%8A%E3%81%AE%E3%81%BF%E8%87%AA%E7%84%B6%E5%B9%BC%E7%A8%9A%E5%9C%92%EF%BC%88%EF%BC%92%E3%81%95%E3%81%84%E5%9C%92%EF%BC%89/data=!4m7!3m6!1s0x602213640a120289:0xdd15a3569755e5ec!8m2!3d36.1271179!4d140.2604546!16s%2Fg%2F1tfjl78d!19sChIJiQISCmQTImAR7OVVl1ajFd0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "赤塚幼稚園",
+    "address": "\n〒311-4141 茨城県水戸市赤塚１丁目１９９７",
+    "latitude": 36.384766,
+    "longitude": 140.416936,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%A1%9A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602223e271d880bd:0x7d0e0f84953ab1b4!8m2!3d36.384766!4d140.416936!16s%2Fg%2F1xb2dpd6!19sChIJvYDYceIjImARtLE6lYQPDn0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 つつみ幼稚園",
+    "address": "\n〒300-1501 茨城県取手市双葉３丁目７−１",
+    "latitude": 35.9392721,
+    "longitude": 140.1213964,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%A4%E3%81%A4%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022712020e679db:0x79cc8e76aab9ee9b!8m2!3d35.9392721!4d140.1213964!16s%2Fg%2F1tkv9wn7!19sChIJ23nmICBxImARm-65qnaOzHk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "水戸英宏平須幼稚園",
+    "address": "\n〒310-0853 茨城県水戸市平須町１８２０−１１６",
+    "latitude": 36.3306619,
+    "longitude": 140.4392328,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E8%8B%B1%E5%AE%8F%E5%B9%B3%E9%A0%88%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602224a571535b2b:0x75e17fcf240eb7b6!8m2!3d36.3306619!4d140.4392328!16s%2Fg%2F1tfmcbkt!19sChIJK1tTcaUkImARtrcOJM9_4XU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ドレミ幼稚園",
+    "address": "\n〒319-0208 茨城県笠間市市野谷１５４２−１２",
+    "latitude": 36.284998,
+    "longitude": 140.285615,
+    "link": "https://www.google.com/maps/place/%E3%83%89%E3%83%AC%E3%83%9F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60221996320c21c3:0xbdc965f3516ed149!8m2!3d36.284998!4d140.285615!16s%2Fg%2F1td42lsf!19sChIJwyEMMpYZImARSdFuUfNlyb0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園 神立幼稚園",
+    "address": "\n〒315-0054 茨城県かすみがうら市稲吉２丁目１８−８",
+    "latitude": 36.1232571,
+    "longitude": 140.2475878,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E7%A5%9E%E7%AB%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022136cff9968c3:0x4ab5495b0a64198c!8m2!3d36.1232571!4d140.2475878!16s%2Fg%2F1x5fbgkm!19sChIJw2iZ_2wTImARjBlkCltJtUo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "水海道幼稚園",
+    "address": "\n〒303-0003 茨城県常総市水海道橋本町３３４６",
+    "latitude": 36.0241754,
+    "longitude": 139.9880999,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%B5%B7%E9%81%93%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018a05077ffb4a7:0x2e6666ae143804ca!8m2!3d36.0241754!4d139.9880999!16s%2Fg%2F1tgk0n70!19sChIJp7T_d1CgGGARygQ4FK5mZi4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ルンビニー学園幼稚園",
+    "address": "\n〒311-3436 茨城県小美玉市上玉里１１３７−５",
+    "latitude": 36.1612214,
+    "longitude": 140.3347702,
+    "link": "https://www.google.com/maps/place/%E3%83%AB%E3%83%B3%E3%83%93%E3%83%8B%E3%83%BC%E5%AD%A6%E5%9C%92%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60221571c84fa811:0x9a3501a219b797eb!8m2!3d36.1612214!4d140.3347702!16s%2Fg%2F1tkrlxrf!19sChIJEahPyHEVImAR65e3GaIBNZo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "みずき野幼稚園",
+    "address": "\n〒302-0121 茨城県守谷市みずき野５丁目２−１",
+    "latitude": 35.9363589,
+    "longitude": 140.0127098,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%9A%E3%81%8D%E9%87%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60189e041bc5b6a5:0xddfee5f943a9c738!8m2!3d35.9363589!4d140.0127098!16s%2Fg%2F1tczdxs2!19sChIJpbbFGwSeGGAROMepQ_nl_t0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "下館幼稚園",
+    "address": "\n〒308-0021 茨城県筑西市甲３７５",
+    "latitude": 36.313924,
+    "longitude": 139.978521,
+    "link": "https://www.google.com/maps/place/%E4%B8%8B%E9%A4%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f55026372b41f:0x56dddc0efa4cbc95!8m2!3d36.313924!4d139.978521!16s%2Fg%2F1thvh0kx!19sChIJH7RyYwJVH2ARlbxM-g7c3VY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "旭幼稚園",
+    "address": "\n〒319-1704 茨城県北茨城市大津町北町１丁目７−３",
+    "latitude": 36.8473249,
+    "longitude": 140.7800105,
+    "link": "https://www.google.com/maps/place/%E6%97%AD%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602173977228c8b9:0x2753ed4c435ba709!8m2!3d36.8473249!4d140.7800105!16s%2Fg%2F1tr17p37!19sChIJucgocpdzIWARCadbQ0ztUyc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "チューリップ幼稚園",
+    "address": "\n〒302-0004 茨城県取手市取手３丁目６−２７",
+    "latitude": 35.8938289,
+    "longitude": 140.066111,
+    "link": "https://www.google.com/maps/place/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602277739349aea1:0xd096d783ba370c00!8m2!3d35.8938289!4d140.066111!16s%2Fg%2F1vxdyd2c!19sChIJoa5Jk3N3ImARAAw3uoPXltA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ともべ幼稚園",
+    "address": "\n〒309-1705 茨城県笠間市東平２丁目１１−７",
+    "latitude": 36.3486236,
+    "longitude": 140.3104397,
+    "link": "https://www.google.com/maps/place/%E3%81%A8%E3%82%82%E3%81%B9%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60221f29725ea8e5:0xaeb1d07165c099cd!8m2!3d36.3486236!4d140.3104397!16s%2Fg%2F1v8316gq!19sChIJ5ahecikfImARzZnAZXHQsa4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "諸川めぐみ幼稚園",
+    "address": "\n〒306-0126 茨城県古河市諸川１３７０−１",
+    "latitude": 36.20086,
+    "longitude": 139.807404,
+    "link": "https://www.google.com/maps/place/%E8%AB%B8%E5%B7%9D%E3%82%81%E3%81%90%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018b323ecca56a7:0xb10ff90cc387e98!8m2!3d36.20086!4d139.807404!16s%2Fg%2F1tl7nqyz!19sChIJp1bK7COzGGARmH44zJD_EAs?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "光風台幼稚園",
+    "address": "\n〒300-1536 茨城県取手市光風台１丁目２−１",
+    "latitude": 35.9091771,
+    "longitude": 140.0919524,
+    "link": "https://www.google.com/maps/place/%E5%85%89%E9%A2%A8%E5%8F%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022773795811ae7:0x20d07bbc93a2ee95!8m2!3d35.9091771!4d140.0919524!16s%2Fg%2F1vpq6_k9!19sChIJ5xqBlTd3ImARle6ik7x70CA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "勝田第一幼稚園",
+    "address": "\n〒312-0026 茨城県ひたちなか市勝田本町１３−２",
+    "latitude": 36.3917477,
+    "longitude": 140.5222558,
+    "link": "https://www.google.com/maps/place/%E5%8B%9D%E7%94%B0%E7%AC%AC%E4%B8%80%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222f7813169529:0xda22438e8d81f3e4!8m2!3d36.3917477!4d140.5222558!16s%2Fg%2F1tgb7ghx!19sChIJKZUWE3gvImAR5POBjY5DIto?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "愛恩幼稚園",
+    "address": "\n〒310-0021 茨城県水戸市南町３丁目４−４４ 学校法人 愛恩幼稚園",
+    "latitude": 36.3780172,
+    "longitude": 140.4680894,
+    "link": "https://www.google.com/maps/place/%E6%84%9B%E6%81%A9%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022244df451e2e9:0x379245712aaf3140!8m2!3d36.3780172!4d140.4680894!16s%2Fg%2F1tg9hnw2!19sChIJ6eJR9E0kImARQDGvKnFFkjc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "いばらき幼稚園",
+    "address": "\n〒311-3132 茨城県東茨城郡茨城町駒場４９１−１",
+    "latitude": 36.2795756,
+    "longitude": 140.4287203,
+    "link": "https://www.google.com/maps/place/%E3%81%84%E3%81%B0%E3%82%89%E3%81%8D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60223c85a0cc85c3:0x76b21cf264d00584!8m2!3d36.2795756!4d140.4287203!16s%2Fg%2F1tznmgcg!19sChIJw4XMoIU8ImARhAXQZPIcsnY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "古河文化幼稚園",
+    "address": "\n〒306-0011 茨城県古河市東４丁目５−１４",
+    "latitude": 36.1963179,
+    "longitude": 139.7182124,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E6%96%87%E5%8C%96%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f4ac241a305c9:0xc6451d8a81ef9270!8m2!3d36.1963179!4d139.7182124!16s%2Fg%2F1td3rlg4!19sChIJyQWjQcJKH2ARcJLvgYodRcY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "土浦日本大学高等学校附属幼稚園",
+    "address": "\n〒300-0832 茨城県土浦市桜ケ丘町１７−４５",
+    "latitude": 36.0615384,
+    "longitude": 140.1950413,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E9%99%84%E5%B1%9E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60226d431edaa5a9:0xe306485154abf8ec!8m2!3d36.0615384!4d140.1950413!16s%2Fg%2F120s70vb!19sChIJqaXaHkNtImAR7PirVFFIBuM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "牛久幼稚園",
+    "address": "\n〒300-1232 茨城県牛久市上柏田３丁目８−３",
+    "latitude": 35.9919549,
+    "longitude": 140.161574,
+    "link": "https://www.google.com/maps/place/%E7%89%9B%E4%B9%85%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602272203ef21bfd:0x557e723372485171!8m2!3d35.9919549!4d140.161574!16s%2Fg%2F1td13czk!19sChIJ_RvyPiByImARcVFIcjNyflU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "総和文化幼稚園",
+    "address": "\n〒306-0204 茨城県古河市下大野２７５９",
+    "latitude": 36.1802714,
+    "longitude": 139.7562956,
+    "link": "https://www.google.com/maps/place/%E7%B7%8F%E5%92%8C%E6%96%87%E5%8C%96%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018b4bec7756ea1:0x22453f8e37735f3f!8m2!3d36.1802714!4d139.7562956!16s%2Fg%2F1tggtjv5!19sChIJoW51x760GGARP19zN44_RSI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "新学幼稚園",
+    "address": "\n〒300-0025 茨城県土浦市手野町４５２４",
+    "latitude": 36.100228,
+    "longitude": 140.237262,
+    "link": "https://www.google.com/maps/place/%E6%96%B0%E5%AD%A6%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60221331a6d6e78d:0xf1dc8302fafb7bd1!8m2!3d36.100228!4d140.237262!16s%2Fg%2F1tdzlp0f!19sChIJjefWpjETImAR0Xv7-gKD3PE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "成蹊幼稚園",
+    "address": "\n〒300-1253 茨城県つくば市天宝喜６６３",
+    "latitude": 35.9843717,
+    "longitude": 140.1305872,
+    "link": "https://www.google.com/maps/place/%E6%88%90%E8%B9%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602273da6a1e382d:0xc55f1aca19660c0f!8m2!3d35.9843717!4d140.1305872!16s%2Fg%2F1tdwf10x!19sChIJLTgeatpzImARDwxmGcoaX8U?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "茨城済生幼稚園",
+    "address": "\n〒319-2102 茨城県那珂市瓜連１０７２−１",
+    "latitude": 36.5017885,
+    "longitude": 140.4541674,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E6%B8%88%E7%94%9F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602189a2e1cae16f:0xc6f781aafc57bdd5!8m2!3d36.5017885!4d140.4541674!16s%2Fg%2F1tf02l4p!19sChIJb-HK4aKJIWAR1b1X_KqB98Y?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "守谷わかば幼稚園",
+    "address": "\n〒302-0116 茨城県守谷市大柏８０５",
+    "latitude": 35.9482073,
+    "longitude": 139.970445,
+    "link": "https://www.google.com/maps/place/%E5%AE%88%E8%B0%B7%E3%82%8F%E3%81%8B%E3%81%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x15242a3080d5d985:0x399fbfccbd82d993!8m2!3d35.9482073!4d139.970445!16s%2Fg%2F11b66gtjtt!19sChIJhdnVgDAqJBURk9mCvcy_nzk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "認定こども園大成学園幼稚園",
+    "address": "\n〒311-0114 茨城県那珂市東木倉960番地の2",
+    "latitude": 36.4236159,
+    "longitude": 140.473194,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E5%A4%A7%E6%88%90%E5%AD%A6%E5%9C%92%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602226602f227b59:0x345aadd348a2795d!8m2!3d36.4236159!4d140.473194!16s%2Fg%2F1vd760cc!19sChIJWXsiL2AmImARXXmiSNOtWjQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "もみや幼稚園",
+    "address": "\n〒319-1235 茨城県日立市茂宮町１８８",
+    "latitude": 36.508477,
+    "longitude": 140.589277,
+    "link": "https://www.google.com/maps/place/%E3%82%82%E3%81%BF%E3%82%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602229f32e297965:0xc1064278fb3b1a7!8m2!3d36.508477!4d140.589277!16s%2Fg%2F1thd6ss8!19sChIJZXkpLvMpImARp7GzjydkEAw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "天川幼稚園",
+    "address": "\n〒300-0818 茨城県土浦市天川１丁目４−１９",
+    "latitude": 36.0663171,
+    "longitude": 140.176391,
+    "link": "https://www.google.com/maps/place/%E5%A4%A9%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602272ac39ff86b3:0x5b4e7254a2231b76!8m2!3d36.0663171!4d140.176391!16s%2Fg%2F1tvylwqv!19sChIJs4b_OaxyImARdhsjolRyTls?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "杉の子幼稚園",
+    "address": "\n〒319-1541 茨城県北茨城市磯原町磯原８２６−４ ８２６−４",
+    "latitude": 36.7917064,
+    "longitude": 140.7467531,
+    "link": "https://www.google.com/maps/place/%E6%9D%89%E3%81%AE%E5%AD%90%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602176bed4e45df7:0x20a2bafa0a2469a4!8m2!3d36.7917064!4d140.7467531!16s%2Fg%2F1tnss0gm!19sChIJ913k1L52IWARpGkkCvq6oiA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "守谷ひかり幼稚園",
+    "address": "\n〒302-0109 茨城県守谷市本町６０１７−４",
+    "latitude": 35.9358362,
+    "longitude": 140.0060739,
+    "link": "https://www.google.com/maps/place/%E5%AE%88%E8%B0%B7%E3%81%B2%E3%81%8B%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60189e0f02f8702b:0x4a80300ebdb1ddbc!8m2!3d35.9358362!4d140.0060739!16s%2Fg%2F1tc_f8b8!19sChIJK3D4Ag-eGGARvN2xvQ4wgEo?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ひいらぎ幼稚園",
+    "address": "\n〒306-0112 茨城県古河市東山田３",
+    "latitude": 36.1695808,
+    "longitude": 139.8081122,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%84%E3%82%89%E3%81%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018b3b1fbc6b48b:0xc4f18ea0ac233cc7!8m2!3d36.1695808!4d139.8081122!16s%2Fg%2F1tfd2dpv!19sChIJi7TG-7GzGGARxzwjrKCO8cQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "くくや台幼稚園",
+    "address": "\n〒306-0042 茨城県古河市三和１７６−５",
+    "latitude": 36.1626156,
+    "longitude": 139.7052569,
+    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%8F%E3%82%84%E5%8F%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018b545b543ed7f:0x39d1695516ca7176!8m2!3d36.1626156!4d139.7052569!16s%2Fg%2F1tf5q76_!19sChIJf-1DtUW1GGARdnHKFlVp0Tk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "龍ヶ崎文化幼稚園",
+    "address": "\n〒301-0005 茨城県龍ケ崎市川原代町５４３−３",
+    "latitude": 35.9184757,
+    "longitude": 140.1429482,
+    "link": "https://www.google.com/maps/place/%E9%BE%8D%E3%83%B6%E5%B4%8E%E6%96%87%E5%8C%96%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022707d4e55f05f:0x9f4e0920b06766a7!8m2!3d35.9184757!4d140.1429482!16s%2Fg%2F1tff7qq8!19sChIJX_BVTn1wImARp2ZnsCAJTp8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "国分寺幼稚園",
+    "address": "\n〒315-0013 茨城県石岡市府中５丁目１−１９",
+    "latitude": 36.1963383,
+    "longitude": 140.2726911,
+    "link": "https://www.google.com/maps/place/%E5%9B%BD%E5%88%86%E5%AF%BA%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602216b6c2c23015:0x3f014487a17033f7!8m2!3d36.1963383!4d140.2726911!16s%2Fg%2F1tf15_51!19sChIJFTDCwrYWImAR9zNwoYdEAT8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "竜ヶ崎愛宕幼稚園",
+    "address": "\n〒301-0004 茨城県龍ケ崎市馴馬町４９６",
+    "latitude": 35.9087815,
+    "longitude": 140.1741855,
+    "link": "https://www.google.com/maps/place/%E7%AB%9C%E3%83%B6%E5%B4%8E%E6%84%9B%E5%AE%95%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60227ab0b805509d:0x8b9fd1d5568e9d22!8m2!3d35.9087815!4d140.1741855!16s%2Fg%2F1tm0by4c!19sChIJnVAFuLB6ImARIp2OVtXRn4s?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "つくば国際短期大学附属幼稚園",
+    "address": "\n〒300-0051 茨城県土浦市真鍋６丁目６−９",
+    "latitude": 36.102518,
+    "longitude": 140.199169,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%9B%BD%E9%9A%9B%E7%9F%AD%E6%9C%9F%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60221293e4c66721:0x77e4fde8f486a738!8m2!3d36.102518!4d140.199169!16s%2Fg%2F1tgx6qhf!19sChIJIWfG5JMSImAROKeG9Oj95Hc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "府中幼稚園",
+    "address": "\n〒315-0012 茨城県石岡市北府中１丁目１２−２０",
+    "latitude": 36.2085845,
+    "longitude": 140.2771764,
+    "link": "https://www.google.com/maps/place/%E5%BA%9C%E4%B8%AD%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602216c57515e20b:0xf3745d581f051016!8m2!3d36.2085845!4d140.2771764!16s%2Fg%2F1tfb6p09!19sChIJC-IVdcUWImARFhAFH1hddPM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "おおくぼ認定こども園 大久保幼稚園",
+    "address": "\n〒316-0012 茨城県日立市大久保町４丁目１０−７",
+    "latitude": 36.554419,
+    "longitude": 140.618959,
+    "link": "https://www.google.com/maps/place/%E3%81%8A%E3%81%8A%E3%81%8F%E3%81%BC%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%A4%A7%E4%B9%85%E4%BF%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602180950f244e6f:0xa6b7f0456853a252!8m2!3d36.554419!4d140.618959!16s%2Fg%2F1tdvk8t9!19sChIJb04kD5WAIWARUqJTaEXwt6Y?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "村松幼稚園",
+    "address": "\n〒319-1108 茨城県那珂郡東海村村松北１丁目４−１",
+    "latitude": 36.467005,
+    "longitude": 140.57864,
+    "link": "https://www.google.com/maps/place/%E6%9D%91%E6%9D%BE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222941d41eefc7:0x4373a5dce12a563b!8m2!3d36.467005!4d140.57864!16s%2Fg%2F1w15zk5v!19sChIJx-8e1EEpImARO1Yq4dylc0M?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "茨城大学教育学部附属幼稚園",
+    "address": "\n〒310-0011 茨城県水戸市三の丸２丁目６−８ 茨城大教育学部附属",
+    "latitude": 36.3746378,
+    "longitude": 140.4793908,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602225a9b6edacdb:0xc6c9f782b90611ea!8m2!3d36.3746378!4d140.4793908!16s%2Fg%2F121w1k6b!19sChIJ26zttqklImAR6hEGuYL3ycY?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "八千代中央幼稚園",
+    "address": "\n〒300-3572 茨城県結城郡八千代町菅谷１１３７−２",
+    "latitude": 36.186001,
+    "longitude": 139.891742,
+    "link": "https://www.google.com/maps/place/%E5%85%AB%E5%8D%83%E4%BB%A3%E4%B8%AD%E5%A4%AE%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018adcdecfe784b:0x848120053c61f884!8m2!3d36.186001!4d139.891742!16s%2Fg%2F1vv2s7q2!19sChIJS3j-7M2tGGARhPhhPAUggYQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "五霞幼稚園",
+    "address": "\n〒306-0313 茨城県猿島郡五霞町元栗橋１５８９",
+    "latitude": 36.108079,
+    "longitude": 139.7380381,
+    "link": "https://www.google.com/maps/place/%E4%BA%94%E9%9C%9E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6018b6843a10a0f1:0x47108ae1e217fedd!8m2!3d36.108079!4d139.7380381!16s%2Fg%2F1tdvzxdc!19sChIJ8aAQOoS2GGAR3f4X4uGKEEc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "守谷ひばり幼稚園",
+    "address": "\n〒302-0118 茨城県守谷市立沢１４２−４",
+    "latitude": 35.951168,
+    "longitude": 139.970222,
+    "link": "https://www.google.com/maps/place/%E5%AE%88%E8%B0%B7%E3%81%B2%E3%81%B0%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60189f027f7c75a3:0xfd95b74b0f6e41b6!8m2!3d35.951168!4d139.970222!16s%2Fg%2F1tksht74!19sChIJo3V8fwKfGGARtkFuD0u3lf0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "フレーベル幼稚園",
+    "address": "\n〒306-0021 茨城県古河市松並２丁目３−１３",
+    "latitude": 36.2066611,
+    "longitude": 139.7106173,
+    "link": "https://www.google.com/maps/place/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601f4a8cc3879a8d:0xb2f64e1864f35291!8m2!3d36.2066611!4d139.7106173!16s%2Fg%2F1tfvt12q!19sChIJjZqHw4xKH2ARkVLzZBhO9rI?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "栄光幼稚園",
+    "address": "\n〒312-0016 茨城県ひたちなか市松戸町１丁目１６−１０",
+    "latitude": 36.39179,
+    "longitude": 140.54595,
+    "link": "https://www.google.com/maps/place/%E6%A0%84%E5%85%89%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222fafbd803ea5:0x19b2e0ea9805ce86!8m2!3d36.39179!4d140.54595!16s%2Fg%2F1v_snbls!19sChIJpT6Ava8vImARhs4FmOrgshk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "勝田第二幼稚園",
+    "address": "\n〒312-0032 茨城県ひたちなか市津田１９２９",
+    "latitude": 36.4120419,
+    "longitude": 140.5069428,
+    "link": "https://www.google.com/maps/place/%E5%8B%9D%E7%94%B0%E7%AC%AC%E4%BA%8C%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x602225fa72eef3a5:0xa747de1e12aab703!8m2!3d36.4120419!4d140.5069428!16s%2Fg%2F1tg9st46!19sChIJpfPucvolImARA7eqEh7eR6c?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "みぎわ幼稚園",
+    "address": "\n〒319-1114 茨城県那珂郡東海村須和間１２９６−４ みぎわ",
+    "latitude": 36.4515554,
+    "longitude": 140.5572563,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8E%E3%82%8F%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60222927add4a4d3:0x39245614b90a7253!8m2!3d36.4515554!4d140.5572563!16s%2Fg%2F1tct8v3_!19sChIJ06TUrScpImARU3IKuRRWJDk?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人斉藤学園 富士見幼稚園",
+    "address": "\n茨城県龍ケ崎市奈戸岡２−９８",
+    "latitude": 35.9246109,
+    "longitude": 140.1789159,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E6%96%89%E8%97%A4%E5%AD%A6%E5%9C%92+%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x60227000ba8612db:0x3d320797778466f0!8m2!3d35.9246109!4d140.1789159!16s%2Fg%2F1vq74zl3!19sChIJ2xKGugBwImAR8GaEd5cHMj0?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "水戸幼稚園",
+    "address": "\n〒310-0034 茨城県水戸市緑町３丁目９−３６",
+    "latitude": 36.383124,
+    "longitude": 140.4438742,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x6022241175a08a51:0x60f62708ea6ebd4a!8m2!3d36.383124!4d140.4438742!16s%2Fg%2F1vxw8cgn!19sChIJUYqgdREkImARSr1u6ggn9mA?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "茨城町立青葉小学校",
+    "address": "\n〒311-3132 茨城県東茨城郡茨城町駒場７００",
+    "latitude": 36.2764349,
+    "longitude": 140.4308245,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E7%94%BA%E7%AB%8B%E9%9D%92%E8%91%89%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60223b80a9e198a7:0xe68cbd6f012f49e1!8m2!3d36.2764349!4d140.4308245!16s%2Fg%2F11b7rtv6kj!19sChIJp5jhqYA7ImAR4UkvAW-9jOY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立笠間小学校",
+    "address": "\n〒309-1611 茨城県笠間市笠間２６８９番地１ ２７０２",
+    "latitude": 36.3820492,
+    "longitude": 140.2565087,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E7%AC%A0%E9%96%93%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221dff13b4348d:0x56ae04bb24c5b474!8m2!3d36.3820492!4d140.2565087!16s%2Fg%2F1tnqh2s9!19sChIJjTS0E_8dImARdLTFJLsErlY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "茨城町立長岡小学校",
+    "address": "\n〒309-1611 茨城県笠間市笠間２６８９番地１ ２７０２",
+    "latitude": 36.303449,
+    "longitude": 140.435013,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E7%94%BA%E7%AB%8B%E9%95%B7%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60223b5e8da368cf:0x83c746ec0a41bf67!8m2!3d36.303449!4d140.435013!16s%2Fg%2F1td9qmwb!19sChIJz2ijjV47ImARZ79BCuxGx4M?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "常陸太田市立機初小学校",
+    "address": "\n〒311-3116 茨城県東茨城郡茨城町長岡３１６８",
+    "latitude": 36.545602,
+    "longitude": 140.540088,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E9%99%B8%E5%A4%AA%E7%94%B0%E5%B8%82%E7%AB%8B%E6%A9%9F%E5%88%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6021864c85f57c13:0x376b14dcfc381c4d!8m2!3d36.545602!4d140.540088!16s%2Fg%2F1v2pq9sz!19sChIJE3z1hUyGIWARTRw4_NwUazc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "行方市立玉造小学校",
+    "address": "\n〒311-3116 茨城県東茨城郡茨城町長岡３１６８",
+    "latitude": 36.100812,
+    "longitude": 140.4358194,
+    "link": "https://www.google.com/maps/place/%E8%A1%8C%E6%96%B9%E5%B8%82%E7%AB%8B%E7%8E%89%E9%80%A0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602246a984071f07:0x721ee1d91fdc8c93!8m2!3d36.100812!4d140.4358194!16s%2Fg%2F11b6h_33nq!19sChIJBx8HhKlGImARk4zcH9nhHnI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立古河第二小学校",
+    "address": "\n〒311-3116 茨城県東茨城郡茨城町長岡３１６８",
+    "latitude": 36.1921352,
+    "longitude": 139.7073732,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%8F%A4%E6%B2%B3%E7%AC%AC%E4%BA%8C%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4abe1b1d0591:0xe3a50dcaf4f808a2!8m2!3d36.1921352!4d139.7073732!16s%2Fg%2F1v16qd72!19sChIJkQUdG75KH2ARogj49MoNpeM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "行方市立北浦小学校",
+    "address": "\n〒311-1705 茨城県行方市内宿３５８−２",
+    "latitude": 36.090719,
+    "longitude": 140.5088511,
+    "link": "https://www.google.com/maps/place/%E8%A1%8C%E6%96%B9%E5%B8%82%E7%AB%8B%E5%8C%97%E6%B5%A6%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022459abdeb9fd9:0x5eccbeb2603fa723!8m2!3d36.090719!4d140.5088511!16s%2Fg%2F11c45m6zfx!19sChIJ2Z_rvZpFImARI6c_YLK-zF4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立城西小学校",
+    "address": "\n〒311-1705 茨城県行方市内宿３５８−２",
+    "latitude": 36.288376,
+    "longitude": 139.852647,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E5%9F%8E%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4df52c7c0e6d:0xabd0ebaaefa2e566!8m2!3d36.288376!4d139.852647!16s%2Fg%2F1v_s5zs8!19sChIJbQ58LPVNH2ARZuWi76rr0Ks?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立古河第三小学校",
+    "address": "\n〒306-0012 茨城県古河市旭町１丁目１８−４",
+    "latitude": 36.195372,
+    "longitude": 139.72265,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%8F%A4%E6%B2%B3%E7%AC%AC%E4%B8%89%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4adca4b77ff3:0xd732994038043654!8m2!3d36.195372!4d139.72265!16s%2Fg%2F1tjs50lb!19sChIJ83-3pNxKH2ARVDYEOECZMtc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桜川市立坂戸小学校",
+    "address": "\n〒309-1221 茨城県桜川市西飯岡５１２−４",
+    "latitude": 36.3655931,
+    "longitude": 140.0775521,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%9D%82%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6021fee6dc8f6077:0xe14178ce954bf93f!8m2!3d36.3655931!4d140.0775521!16s%2Fg%2F1tdqbpfd!19sChIJd2CP3Ob-IWARP_lLlc54QeE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "下妻市立大形小学校",
+    "address": "\n〒309-1221 茨城県桜川市西飯岡５１２−４",
+    "latitude": 36.153272,
+    "longitude": 139.944022,
+    "link": "https://www.google.com/maps/place/%E4%B8%8B%E5%A6%BB%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%BD%A2%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a8d1adcbce17:0xa82a6dfc9e59f0a8!8m2!3d36.153272!4d139.944022!16s%2Fg%2F1thw24pl!19sChIJF87LrdGoGGARqPBZnvxtKqg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立上中妻小学校",
+    "address": "\n〒309-1221 茨城県桜川市西飯岡５１２−４",
+    "latitude": 36.38344,
+    "longitude": 140.392064,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E4%B8%8A%E4%B8%AD%E5%A6%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222179cab1439b:0x7370934f3ce3657!8m2!3d36.38344!4d140.392064!16s%2Fg%2F1tgf39xp!19sChIJm0OxynkhImARVzbO8zQJNwc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "茨城町立大戸小学校",
+    "address": "\n〒311-4143 茨城県水戸市大塚町１０８６−２",
+    "latitude": 36.3166009,
+    "longitude": 140.4197138,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E7%94%BA%E7%AB%8B%E5%A4%A7%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022234deda9f56b:0x8a579ce454122963!8m2!3d36.3166009!4d140.4197138!16s%2Fg%2F1ttdykcp!19sChIJa_Wp7U0jImARYykSVOScV4o?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立城南小学校",
+    "address": "\n〒311-4143 茨城県水戸市大塚町１０８６−２",
+    "latitude": 36.287932,
+    "longitude": 139.863185,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E5%9F%8E%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f527229e78e85:0x127814231321f1a7!8m2!3d36.287932!4d139.863185!16s%2Fg%2F1th23xc0!19sChIJhY7nKXJSH2ARp_EhEyMUeBI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "茨城町立葵小学校",
+    "address": "\n〒311-3116 茨城県東茨城郡茨城町長岡３７１５",
+    "latitude": 36.3068428,
+    "longitude": 140.445816,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E7%94%BA%E7%AB%8B%E8%91%B5%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60223b4231b909a7:0x4ab0784c0dfce280!8m2!3d36.3068428!4d140.445816!16s%2Fg%2F1tkv9wlh!19sChIJpwm5MUI7ImARgOL8DUx4sEo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "鉾田市立鉾田南小学校",
+    "address": "\n〒311-1515 茨城県鉾田市烟田１０５９−１",
+    "latitude": 36.1553336,
+    "longitude": 140.5287053,
+    "link": "https://www.google.com/maps/place/%E9%89%BE%E7%94%B0%E5%B8%82%E7%AB%8B%E9%89%BE%E7%94%B0%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022492bc6379efd:0xd561fbf870c728c7!8m2!3d36.1553336!4d140.5287053!16s%2Fg%2F11h6d5ghlg!19sChIJ_Z43xitJImARxyjHcPj7YdU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立浜田小学校",
+    "address": "\n〒310-0812 茨城県水戸市浜田１丁目１−１",
+    "latitude": 36.363817,
+    "longitude": 140.494867,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E6%B5%9C%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022256b0f8de055:0x53ec2aa445fa52f3!8m2!3d36.363817!4d140.494867!16s%2Fg%2F1wfcp7pn!19sChIJVeCND2slImAR81L6RaQq7FM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立河和田小学校",
+    "address": "\n〒311-4153 茨城県水戸市河和田町１０１９",
+    "latitude": 36.368515,
+    "longitude": 140.413001,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E6%B2%B3%E5%92%8C%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602223ebb41cfe67:0x8e75f04285321b02!8m2!3d36.368515!4d140.413001!16s%2Fg%2F1tqg0fm3!19sChIJZ_4ctOsjImARAhsyhULwdY4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "常総市立岡田小学校",
+    "address": "\n〒300-2742 茨城県常総市向石下１０２０",
+    "latitude": 36.118154,
+    "longitude": 139.949045,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E7%B7%8F%E5%B8%82%E7%AB%8B%E5%B2%A1%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a61af2400ac7:0x107a2bb1b1654ccc!8m2!3d36.118154!4d139.949045!16s%2Fg%2F1ths9c9h!19sChIJxwpA8hqmGGARzExlsbErehA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "大洗町立大洗小学校",
+    "address": "\n〒311-1301 茨城県東茨城郡大洗町磯浜町５３１６−１",
+    "latitude": 36.3165767,
+    "longitude": 140.5768935,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%B4%97%E7%94%BA%E7%AB%8B%E5%A4%A7%E6%B4%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60223140f1ac9c03:0xb34a7c119a48fe77!8m2!3d36.3165767!4d140.5768935!16s%2Fg%2F1tfnt39w!19sChIJA5ys8UAxImARd_5ImhF8SrM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "常総市立菅原小学校",
+    "address": "\n〒300-2521 茨城県常総市大生郷町１６１５",
+    "latitude": 36.065238,
+    "longitude": 139.951077,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E7%B7%8F%E5%B8%82%E7%AB%8B%E8%8F%85%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a6bbcbfceaef:0xf44250880dc4f5e!8m2!3d36.065238!4d139.951077!16s%2Fg%2F1v9gvgvd!19sChIJ7-r8y7umGGARXk_cgAglRA8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "土浦市立土浦小学校",
+    "address": "\n〒300-0044 茨城県土浦市大手町１３−３２",
+    "latitude": 36.0833168,
+    "longitude": 140.1974945,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E5%B8%82%E7%AB%8B%E5%9C%9F%E6%B5%A6%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602212b16b5955b9:0x7755b33ec1b7dd03!8m2!3d36.0833168!4d140.1974945!16s%2Fg%2F120w3hvr!19sChIJuVVZa7ESImARA923wT6zVXc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "土浦市立大岩田小学校",
+    "address": "\n〒300-0835 茨城県土浦市大岩田２０６６−１",
+    "latitude": 36.0549306,
+    "longitude": 140.2040877,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%B2%A9%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60226d12cb0cb34d:0x2b59e2db225b4df7!8m2!3d36.0549306!4d140.2040877!16s%2Fg%2F11h6dq906m!19sChIJTbMMyxJtImAR901bItviWSs?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桜川市立雨引小学校",
+    "address": "\n〒309-1231 茨城県桜川市本木１５９１",
+    "latitude": 36.3239026,
+    "longitude": 140.1056513,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E5%B7%9D%E5%B8%82%E7%AB%8B%E9%9B%A8%E5%BC%95%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022021c8193146d:0xe22894b662196e2f!8m2!3d36.3239026!4d140.1056513!16s%2Fg%2F1tjkfxg0!19sChIJbRSTgRwCImARL24ZYraUKOI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立緑岡小学校",
+    "address": "\n〒310-0913 茨城県水戸市見川町２５６３",
+    "latitude": 36.3560972,
+    "longitude": 140.4439327,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E7%B7%91%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602224891c297995:0x5f8d3f01030dc4c!8m2!3d36.3560972!4d140.4439327!16s%2Fg%2F1vxcwjks!19sChIJlXkpHIkkImARTNwwEPDT-AU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "ひたちなか市立前渡小学校",
+    "address": "\n〒312-0012 茨城県ひたちなか市馬渡３０９",
+    "latitude": 36.4037785,
+    "longitude": 140.5749148,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%B8%82%E7%AB%8B%E5%89%8D%E6%B8%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222e5d763e0dd3:0xa494681ea4f1d4be!8m2!3d36.4037785!4d140.5749148!16s%2Fg%2F121qfv1z!19sChIJ0w0-dl0uImARvtTxpB5olKQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立松代小学校",
+    "address": "\n〒305-0035 茨城県つくば市松代３丁目３−１",
+    "latitude": 36.070408,
+    "longitude": 140.1019968,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E6%9D%BE%E4%BB%A3%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220c8263c0f799:0xd10c2155093a7ebc!8m2!3d36.070408!4d140.1019968!16s%2Fg%2F1v76zr_n!19sChIJmffAY4IMImARvH46CVUhDNE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "下妻市立総上小学校",
+    "address": "\n〒304-0051 茨城県下妻市小島１１１６",
+    "latitude": 36.172412,
+    "longitude": 139.961478,
+    "link": "https://www.google.com/maps/place/%E4%B8%8B%E5%A6%BB%E5%B8%82%E7%AB%8B%E7%B7%8F%E4%B8%8A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a9194e9a81b5:0x4247d6cf2f885e34!8m2!3d36.172412!4d139.961478!16s%2Fg%2F1vd75y81!19sChIJtYGaThmpGGARNF6IL8_WR0I?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立友部小学校",
+    "address": "\n〒309-1704 茨城県笠間市美原３丁目３−１",
+    "latitude": 36.343623,
+    "longitude": 140.315811,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%8F%8B%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602218d2ed2b7293:0xa327157c750288e!8m2!3d36.343623!4d140.315811!16s%2Fg%2F1tj4h4jz!19sChIJk3Ir7dIYImARjihQx1dxMgo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立梅が丘小学校",
+    "address": "\n〒311-4151 茨城県水戸市姫子１丁目８２７−２",
+    "latitude": 36.3809,
+    "longitude": 140.432638,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E6%A2%85%E3%81%8C%E4%B8%98%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022240843158ef9:0x70bd260e89bf83b7!8m2!3d36.3809!4d140.432638!16s%2Fg%2F1tk_pcwb!19sChIJ-Y4VQwgkImARt4O_iQ4mvXA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立寿小学校",
+    "address": "\n〒310-0853 茨城県水戸市平須町１８０９−１",
+    "latitude": 36.3289077,
+    "longitude": 140.4316638,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E5%AF%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602224a799356455:0xbf48e45fea7a4e70!8m2!3d36.3289077!4d140.4316638!16s%2Fg%2F125n12lgh!19sChIJVWQ1mackImARcE566l_kSL8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立大原小学校",
+    "address": "\n〒309-1701 茨城県笠間市小原３５２２−１",
+    "latitude": 36.3694818,
+    "longitude": 140.3133548,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221f1b7537e819:0x69e152ce3bb46bab!8m2!3d36.3694818!4d140.3133548!16s%2Fg%2F1tg2dlvj!19sChIJGeg3dRsfImARq2u0O85S4Wk?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立大和田小学校",
+    "address": "\n〒306-0111 茨城県古河市大和田８２２",
+    "latitude": 36.190033,
+    "longitude": 139.796653,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%92%8C%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b31451ece12d:0xbee7bdec05ffb92e!8m2!3d36.190033!4d139.796653!16s%2Fg%2F1222cm00!19sChIJLeHsURSzGGARLrn_Bey9574?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立宍戸小学校",
+    "address": "\n２２-２２ 平町 笠間市 茨城県 309-1722",
+    "latitude": 36.3395229,
+    "longitude": 140.2886614,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%AE%8D%E6%88%B8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221ec9834f6a79:0xd66767ec24cea5c5!8m2!3d36.3395229!4d140.2886614!16s%2Fg%2F1tfrs0g0!19sChIJeWpPg8keImARxaXOJOxnZ9Y?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立双葉台小学校",
+    "address": "\n〒311-4145 茨城県水戸市双葉台５丁目２６",
+    "latitude": 36.3957153,
+    "longitude": 140.4062921,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E5%8F%8C%E8%91%89%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022216b9583da6b:0xe451239d005a9a!8m2!3d36.3957153!4d140.4062921!16s%2Fg%2F1tpn2p62!19sChIJa9qDlWshImARmloAnSNR5AA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "下妻市立上妻小学校",
+    "address": "\n〒304-0005 茨城県下妻市半谷４２６",
+    "latitude": 36.218529,
+    "longitude": 139.935803,
+    "link": "https://www.google.com/maps/place/%E4%B8%8B%E5%A6%BB%E5%B8%82%E7%AB%8B%E4%B8%8A%E5%A6%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018ac76303dbfbf:0x7fe191299e377d82!8m2!3d36.218529!4d139.935803!16s%2Fg%2F1tg2dhq7!19sChIJv789MHasGGARgn03nimR4X8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立古河第七小学校",
+    "address": "\n〒306-0042 茨城県古河市三和１７６−１",
+    "latitude": 36.164147,
+    "longitude": 139.70527,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%8F%A4%E6%B2%B3%E7%AC%AC%E4%B8%83%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b545930517c7:0xe8ab2c8da74c7661!8m2!3d36.164147!4d139.70527!16s%2Fg%2F1v0lksts!19sChIJxxcFk0W1GGARYXZMp40sq-g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "騰波ノ江小学校",
+    "address": "\n〒304-0012 茨城県下妻市若柳甲６４４",
+    "latitude": 36.221254,
+    "longitude": 139.983182,
+    "link": "https://www.google.com/maps/place/%E9%A8%B0%E6%B3%A2%E3%83%8E%E6%B1%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018aa2e0eee381b:0xe01034f0b015d6ac!8m2!3d36.221254!4d139.983182!16s%2Fg%2F1vc81ts1!19sChIJGzjuDi6qGGARrNYVsPA0EOA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "ひたちなか市立勝倉小学校",
+    "address": "\n〒312-0024 茨城県ひたちなか市勝倉３０１０",
+    "latitude": 36.376889,
+    "longitude": 140.525314,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%B8%82%E7%AB%8B%E5%8B%9D%E5%80%89%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222f923cde7c93:0x4c45d8fe1d4ba98b!8m2!3d36.376889!4d140.525314!16s%2Fg%2F1v2f0mnh!19sChIJk3zePJIvImARi6lLHf7YRUw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立手代木南小学校",
+    "address": "\n〒305-0035 茨城県つくば市松代４丁目２４",
+    "latitude": 36.0664603,
+    "longitude": 140.102974,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E6%89%8B%E4%BB%A3%E6%9C%A8%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220c9d04321f19:0x575e5f90b52ab2d9!8m2!3d36.0664603!4d140.102974!16s%2Fg%2F1th7yg19!19sChIJGR8yBJ0MImAR2bIqtZBfXlc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立上辺見小学校",
+    "address": "\n〒306-0234 茨城県古河市上辺見１１６４",
+    "latitude": 36.189276,
+    "longitude": 139.731503,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E4%B8%8A%E8%BE%BA%E8%A6%8B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4ad607eb5965:0x3f1c0ebae75b7b89!8m2!3d36.189276!4d139.731503!16s%2Fg%2F1tdwvssl!19sChIJZVnrB9ZKH2ARiXtb57oOHD8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立稲田小学校",
+    "address": "\n〒309-1635 茨城県笠間市稲田２１５１−２",
+    "latitude": 36.3582292,
+    "longitude": 140.2021141,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E7%A8%B2%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221d41b7dfab93:0xb7eef172e5e55bdf!8m2!3d36.3582292!4d140.2021141!16s%2Fg%2F1tfrb8wn!19sChIJk6vft0EdImAR31vl5XLx7rc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "阿見町立君原小学校",
+    "address": "\n〒300-0321 茨城県稲敷郡阿見町塙１４５",
+    "latitude": 36.0049717,
+    "longitude": 140.258489,
+    "link": "https://www.google.com/maps/place/%E9%98%BF%E8%A6%8B%E7%94%BA%E7%AB%8B%E5%90%9B%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60226ecedc55e063:0x52f6753726019321!8m2!3d36.0049717!4d140.258489!16s%2Fg%2F1vhkknqt!19sChIJY-BV3M5uImARIZMBJjd19lI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立山川小学校",
+    "address": "\n〒307-0028 茨城県結城市今宿１１６４−１",
+    "latitude": 36.23369,
+    "longitude": 139.875386,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E5%B1%B1%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018ad37fefd2051:0x3448246fa20dd879!8m2!3d36.23369!4d139.875386!16s%2Fg%2F1vb9d1pp!19sChIJUSD9_jetGGARedgNom8kSDQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "日立市立滑川小学校",
+    "address": "\n〒317-0051 茨城県日立市滑川本町１丁目２０−７",
+    "latitude": 36.6171957,
+    "longitude": 140.6683105,
+    "link": "https://www.google.com/maps/place/%E6%97%A5%E7%AB%8B%E5%B8%82%E7%AB%8B%E6%BB%91%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602181ef4c445cdb:0x211c2ed19c84d461!8m2!3d36.6171957!4d140.6683105!16s%2Fg%2F1tgb_wp4!19sChIJ21xETO-BIWARYdSEnNEuHCE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立岩間第一小学校",
+    "address": "\n〒319-0202 茨城県笠間市下郷 1 4140",
+    "latitude": 36.2987216,
+    "longitude": 140.2755683,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%B2%A9%E9%96%93%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022197a716329ff:0x1027aa160efeca4d!8m2!3d36.2987216!4d140.2755683!16s%2Fg%2F1tdg_dd9!19sChIJ_yljcXoZImARTcr-DhaqJxA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立関城東小学校",
+    "address": "\n〒308-0112 茨城県筑西市藤ケ谷６７８",
+    "latitude": 36.2479865,
+    "longitude": 139.9650306,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E9%96%A2%E5%9F%8E%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018ab0f1ff52f75:0xcd31a96d0161393f!8m2!3d36.2479865!4d139.9650306!16s%2Fg%2F1tf_hf0w!19sChIJdS_1Hw-rGGARPzlhAW2pMc0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "飯島小学校",
+    "address": "\n〒306-0606 茨城県坂東市幸田１４６８−１",
+    "latitude": 36.06293,
+    "longitude": 139.923346,
+    "link": "https://www.google.com/maps/place/%E9%A3%AF%E5%B3%B6%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a43dad3f3ea7:0x4e28e1a57426abd5!8m2!3d36.06293!4d139.923346!16s%2Fg%2F1v6qhmsm!19sChIJpz4_rT2kGGAR1asmdKXhKE4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立前野小学校",
+    "address": "\n〒300-3267 茨城県つくば市前野１３６７",
+    "latitude": 36.13986,
+    "longitude": 140.056639,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E5%89%8D%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602208570fd308e9:0xdb8fb4a685d6e05c!8m2!3d36.13986!4d140.056639!16s%2Fg%2F1xb2dpb6!19sChIJ6QjTD1cIImARXODWhaa0j9s?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "取手市立高井小学校",
+    "address": "\n〒302-0039 茨城県取手市ゆめみ野３丁目２２−１",
+    "latitude": 35.9248808,
+    "longitude": 140.0436386,
+    "link": "https://www.google.com/maps/place/%E5%8F%96%E6%89%8B%E5%B8%82%E7%AB%8B%E9%AB%98%E4%BA%95%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60227641e575f93b:0x51e8863f9b5be88c!8m2!3d35.9248808!4d140.0436386!16s%2Fg%2F1td17z9m!19sChIJO_l15UF2ImARjOhbmz-G6FE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立結城小学校",
+    "address": "\n〒307-0001 茨城県結城市結城１９２７",
+    "latitude": 36.3063895,
+    "longitude": 139.8798023,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E7%B5%90%E5%9F%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f523c8d0f0de7:0x97b36ce7e36b6ac!8m2!3d36.3063895!4d139.8798023!16s%2Fg%2F1tsljtq2!19sChIJ5w0PjTxSH2ARrLY2fs42ewk?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桜川市立羽黒小学校",
+    "address": "\n〒309-1453 茨城県桜川市友部２０１",
+    "latitude": 36.3573349,
+    "longitude": 140.1470588,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E5%B7%9D%E5%B8%82%E7%AB%8B%E7%BE%BD%E9%BB%92%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6021f87c7166ecf7:0xa786781f761b343d!8m2!3d36.3573349!4d140.1470588!16s%2Fg%2F1tf7s7cy!19sChIJ9-xmcXz4IWARPTQbdh94hqc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "坂東市立七重小学校",
+    "address": "\n〒306-0657 茨城県坂東市借宿６８３−２",
+    "latitude": 36.08407,
+    "longitude": 139.86569,
+    "link": "https://www.google.com/maps/place/%E5%9D%82%E6%9D%B1%E5%B8%82%E7%AB%8B%E4%B8%83%E9%87%8D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a55abae78b6b:0xbdb6bc48cb9de493!8m2!3d36.08407!4d139.86569!16s%2Fg%2F1v_w2ch9!19sChIJa4vnulqlGGARk-Sdy0i8tr0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立友部第二小学校",
+    "address": "\n〒309-1722 茨城県笠間市平町１７１８−９３",
+    "latitude": 36.3358088,
+    "longitude": 140.3117968,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%8F%8B%E9%83%A8%E7%AC%AC%E4%BA%8C%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602218d73748c2cb:0x25cbe661a9b209a!8m2!3d36.3358088!4d140.3117968!16s%2Fg%2F1tnbl7ch!19sChIJy8JIN9cYImARmiCbGma-XAI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立河間小学校",
+    "address": "\n〒308-0014 茨城県筑西市羽方１４−２",
+    "latitude": 36.350558,
+    "longitude": 139.995446,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E6%B2%B3%E9%96%93%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f55c3d3b9ebdf:0x44ea6edc20284855!8m2!3d36.350558!4d139.995446!16s%2Fg%2F1t_wpfy4!19sChIJ3-u508NVH2ARVUgoINxu6kQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "ひたちなか市立市毛小学校",
+    "address": "\n〒312-0033 茨城県ひたちなか市市毛８２５",
+    "latitude": 36.401567,
+    "longitude": 140.502193,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%B8%82%E7%AB%8B%E5%B8%82%E6%AF%9B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602225ed42470461:0x950acc19da75bedf!8m2!3d36.401567!4d140.502193!16s%2Fg%2F1xgrn0_8!19sChIJYQRHQu0lImAR37512hnMCpU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立諸川小学校",
+    "address": "\n〒306-0126 茨城県古河市諸川１０９７",
+    "latitude": 36.1968694,
+    "longitude": 139.8112464,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E8%AB%B8%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b31f085cc4df:0xef27d2b308d3ded9!8m2!3d36.1968694!4d139.8112464!16s%2Fg%2F1tp2_d3p!19sChIJ38RcCB-zGGAR2d7TCLPSJ-8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立堀原小学校",
+    "address": "\n〒310-0045 茨城県水戸市新原１丁目７−１",
+    "latitude": 36.393335,
+    "longitude": 140.430774,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E5%A0%80%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222154d3382e99:0xa8af9f1b7aff53fa!8m2!3d36.393335!4d140.430774!16s%2Fg%2F1tnpfjxn!19sChIJmS4401QhImAR-lP_ehufr6g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立大曽根小学校",
+    "address": "\n〒300-3253 茨城県つくば市大曽根２９１７",
+    "latitude": 36.136774,
+    "longitude": 140.089404,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%9B%BD%E6%A0%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022092537fea631:0xa171815f37a6999!8m2!3d36.136774!4d140.089404!16s%2Fg%2F1tklqnmk!19sChIJMab-NyUJImARmWl68xUYFwo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "駒込小学校",
+    "address": "\n〒306-0121 茨城県古河市駒込８９９−３",
+    "latitude": 36.222597,
+    "longitude": 139.807464,
+    "link": "https://www.google.com/maps/place/%E9%A7%92%E8%BE%BC%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4cd0dda402e7:0x8c049afa289ae1d7!8m2!3d36.222597!4d139.807464!16s%2Fg%2F1vlqq93g!19sChIJ5wKk3dBMH2AR1-GaKPqaBIw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立石川小学校",
+    "address": "\n〒310-0905 茨城県水戸市石川４丁目４０３５",
+    "latitude": 36.389347,
+    "longitude": 140.4220275,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E7%9F%B3%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222157070ed063:0xa4943d2a3ea63181!8m2!3d36.389347!4d140.4220275!16s%2Fg%2F1tr9njfr!19sChIJY9AOB1chImARgTGmPio9lKQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "土浦市立上大津東小学校",
+    "address": "\n〒300-0023 茨城県土浦市沖宿町２４７６−１",
+    "latitude": 36.0804291,
+    "longitude": 140.2509356,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E5%B8%82%E7%AB%8B%E4%B8%8A%E5%A4%A7%E6%B4%A5%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60226c9616449745:0xde657f911c615b9c!8m2!3d36.0804291!4d140.2509356!16s%2Fg%2F11h0bxxjwc!19sChIJRZdEFpZsImARnFthHJF_Zd4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくばみらい市立福岡小学校",
+    "address": "\n〒300-2406 茨城県つくばみらい市福岡９７１",
+    "latitude": 36.0273218,
+    "longitude": 140.0312766,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%BF%E3%82%89%E3%81%84%E5%B8%82%E7%AB%8B%E7%A6%8F%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220abcf38bd203:0xba1c80468fff3ed4!8m2!3d36.0273218!4d140.0312766!16s%2Fg%2F1thvh0yb!19sChIJA9KL87wKImAR1D7_j0aAHLo?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくばみらい市立伊奈東小学校",
+    "address": "\n〒300-2307 茨城県つくばみらい市板橋２３７９",
+    "latitude": 35.9820615,
+    "longitude": 140.0548212,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%BF%E3%82%89%E3%81%84%E5%B8%82%E7%AB%8B%E4%BC%8A%E5%A5%88%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602275a97ce5ad6b:0x7d924877dc5ad31a!8m2!3d35.9820615!4d140.0548212!16s%2Fg%2F120qdrd6!19sChIJa63lfKl1ImARGtNa3HdIkn0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "土浦市立東小学校",
+    "address": "\n〒300-0841 茨城県土浦市中４５５",
+    "latitude": 36.057052,
+    "longitude": 140.174247,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E5%B8%82%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602272a4e8f4c927:0xd3a2c6685a46558d!8m2!3d36.057052!4d140.174247!16s%2Fg%2F11h0svmzry!19sChIJJ8n06KRyImARjVVGWmjGotM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "下妻市立高道祖小学校",
+    "address": "\n〒304-0031 茨城県下妻市高道祖２６３８−１",
+    "latitude": 36.196049,
+    "longitude": 140.012917,
+    "link": "https://www.google.com/maps/place/%E4%B8%8B%E5%A6%BB%E5%B8%82%E7%AB%8B%E9%AB%98%E9%81%93%E7%A5%96%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a9d0c86cd459:0x4878b400d9ad90c6!8m2!3d36.196049!4d140.012917!16s%2Fg%2F1wnby0gb!19sChIJWdRsyNCpGGARxpCt2QC0eEg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立九重小学校",
+    "address": "\n〒305-0023 茨城県つくば市上ノ室２１２６",
+    "latitude": 36.085364,
+    "longitude": 140.130433,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E4%B9%9D%E9%87%8D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220cf76cd23171:0x76b97d98656b46fa!8m2!3d36.085364!4d140.130433!16s%2Fg%2F11c6m3l6m6!19sChIJcTHSbPcMImAR-kZrZZh9uXY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "境町立境小学校",
+    "address": "\n〒306-0433 茨城県猿島郡境町 293",
+    "latitude": 36.1108351,
+    "longitude": 139.7958971,
+    "link": "https://www.google.com/maps/place/%E5%A2%83%E7%94%BA%E7%AB%8B%E5%A2%83%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b11777defa21:0x35915724c1ebc601!8m2!3d36.1108351!4d139.7958971!16s%2Fg%2F1tdw_k3v!19sChIJIfredxexGGARAcbrwSRXkTU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立谷田部南小学校",
+    "address": "\n〒305-0867 茨城県つくば市境田１９１−１",
+    "latitude": 36.01049,
+    "longitude": 140.08022,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E8%B0%B7%E7%94%B0%E9%83%A8%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602274eb2d36c855:0x466d4f61425de266!8m2!3d36.01049!4d140.08022!16s%2Fg%2F1tk2313m!19sChIJVcg2Let0ImARZuJdQmFPbUY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "那珂市立 菅谷東小学校",
+    "address": "\n〒311-0105 茨城県那珂市菅谷８９１−２",
+    "latitude": 36.4474206,
+    "longitude": 140.507463,
+    "link": "https://www.google.com/maps/place/%E9%82%A3%E7%8F%82%E5%B8%82%E7%AB%8B+%E8%8F%85%E8%B0%B7%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60222625ef32f84b:0xffa510773e600509!8m2!3d36.4474206!4d140.507463!16s%2Fg%2F1td3lq1g!19sChIJS_gy7yUmImARCQVgPncQpf8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立柳橋小学校",
+    "address": "\n〒305-0842 茨城県つくば市柳橋３６０",
+    "latitude": 36.0591021,
+    "longitude": 140.0826203,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E6%9F%B3%E6%A9%8B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220b6d736928dd:0x41ac9cbf31d46eea!8m2!3d36.0591021!4d140.0826203!16s%2Fg%2F12221v7k!19sChIJ3Shpc20LImAR6m7UMb-crEE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立絹川小学校",
+    "address": "\n〒307-0011 茨城県結城市小森２２２７",
+    "latitude": 36.2807981,
+    "longitude": 139.8958061,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E7%B5%B9%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f530278192465:0x4277019ff5bc81ad!8m2!3d36.2807981!4d139.8958061!16s%2Fg%2F1th5726d!19sChIJZSQZeAJTH2ARrYG89Z8Bd0I?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "石岡市立小桜小学校",
+    "address": "\n〒315-0134 茨城県石岡市川又７４６",
+    "latitude": 36.2082564,
+    "longitude": 140.1936102,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%B2%A1%E5%B8%82%E7%AB%8B%E5%B0%8F%E6%A1%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221019df013905:0xbe185e9b00e7eafb!8m2!3d36.2082564!4d140.1936102!16s%2Fg%2F1tmpf0rw!19sChIJBTkB3xkQImAR--rnAJteGL4?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立駒羽根小学校",
+    "address": "\n〒306-0221 茨城県古河市駒羽根１３６４",
+    "latitude": 36.1599371,
+    "longitude": 139.7614088,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E9%A7%92%E7%BE%BD%E6%A0%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b48824f5c7b9:0xb486d6bb1ef60c4a!8m2!3d36.1599371!4d139.7614088!16s%2Fg%2F1tgkh95x!19sChIJucf1JIi0GGARSgz2HrvWhrQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "土浦市立下高津小学校",
+    "address": "\n〒300-0812 茨城県土浦市下高津４丁目２−９",
+    "latitude": 36.076052,
+    "longitude": 140.183538,
+    "link": "https://www.google.com/maps/place/%E5%9C%9F%E6%B5%A6%E5%B8%82%E7%AB%8B%E4%B8%8B%E9%AB%98%E6%B4%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602212aa751e655d:0x40ec517e8dc7e33a!8m2!3d36.076052!4d140.183538!16s%2Fg%2F11h0tgd0f6!19sChIJXWUedaoSImAROuPHjX5R7EA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくばみらい市立富士見ヶ丘小学校",
+    "address": "\n〒300-2417 茨城県つくばみらい市富士見ヶ丘２丁目１８−１",
+    "latitude": 35.9975915,
+    "longitude": 140.0315693,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E3%81%BF%E3%82%89%E3%81%84%E5%B8%82%E7%AB%8B%E5%AF%8C%E5%A3%AB%E8%A6%8B%E3%83%B6%E4%B8%98%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022754372195465:0x7d3134357c2c938d!8m2!3d35.9975915!4d140.0315693!16s%2Fg%2F11f405cxfj!19sChIJZVQZckN1ImARjZMsfDU0MX0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "かすみがうら市立霞ヶ浦北小学校",
+    "address": "\n〒300-0204 茨城県かすみがうら市下軽部１２３２",
+    "latitude": 36.097347,
+    "longitude": 140.3428526,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%99%E3%81%BF%E3%81%8C%E3%81%86%E3%82%89%E5%B8%82%E7%AB%8B%E9%9C%9E%E3%83%B6%E6%B5%A6%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60226a7dd778e3d1:0xf7d3e921387dcbf3!8m2!3d36.097347!4d140.3428526!16s%2Fg%2F11bwl9lsqs!19sChIJ0eN4131qImAR88t9OCHp0_c?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "神栖市立波崎西小学校",
+    "address": "\n〒314-0408 茨城県神栖市波崎５０１１",
+    "latitude": 35.761325,
+    "longitude": 140.803433,
+    "link": "https://www.google.com/maps/place/%E7%A5%9E%E6%A0%96%E5%B8%82%E7%AB%8B%E6%B3%A2%E5%B4%8E%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602318ff92aa48c9:0xcfc157d0a95e3ab4!8m2!3d35.761325!4d140.803433!16s%2Fg%2F1tdvdq20!19sChIJyUiqkv8YI2ARtDpeqdBXwc8?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立関城西小学校",
+    "address": "\n〒308-0127 茨城県筑西市関本中３８８",
+    "latitude": 36.2519522,
+    "longitude": 139.922074,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E9%96%A2%E5%9F%8E%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018acba0fabb83f:0x7d37f8efa17328a1!8m2!3d36.2519522!4d139.922074!16s%2Fg%2F1tdx_xcz!19sChIJP7irD7qsGGARoShzoe_4N30?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立千波小学校",
+    "address": "\n〒310-0851 茨城県水戸市千波町１５３８−１",
+    "latitude": 36.355035,
+    "longitude": 140.465464,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E5%8D%83%E6%B3%A2%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602224e44ef63c69:0x623a58b0414f46ae!8m2!3d36.355035!4d140.465464!16s%2Fg%2F1tt8cclj!19sChIJaTz2TuQkImARrkZPQbBYOmI?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立古河第四小学校",
+    "address": "\n〒306-0053 茨城県古河市中田１２２１",
+    "latitude": 36.15461,
+    "longitude": 139.714525,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%8F%A4%E6%B2%B3%E7%AC%AC%E5%9B%9B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018b51384f0ccfb:0x5224ddfa8e67b4!8m2!3d36.15461!4d139.714525!16s%2Fg%2F1td5g3qq!19sChIJ-8zwhBO1GGARtGeO-t0kUgA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立大田小学校",
+    "address": "\n〒308-0845 茨城県筑西市西方１７４８−１",
+    "latitude": 36.281988,
+    "longitude": 139.958907,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E5%A4%A7%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f54c9bdd49d83:0xfb2b19d3f2aa7e32!8m2!3d36.281988!4d139.958907!16s%2Fg%2F1thxw9nh!19sChIJg53UvclUH2ARMn6q8tMZK_s?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "坂東市立逆井山小学校",
+    "address": "\n〒306-0501 茨城県坂東市逆井１８２５−３０",
+    "latitude": 36.134445,
+    "longitude": 139.864041,
+    "link": "https://www.google.com/maps/place/%E5%9D%82%E6%9D%B1%E5%B8%82%E7%AB%8B%E9%80%86%E4%BA%95%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018ae2e3953eead:0xacdd301d7405f4a9!8m2!3d36.134445!4d139.864041!16s%2Fg%2F1td1vg41!19sChIJre5TOS6uGGARqfQFdB0w3aw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "稲敷市立江戸崎小学校",
+    "address": "\n〒300-0504 茨城県稲敷市江戸崎３１９４",
+    "latitude": 35.954908,
+    "longitude": 140.3199274,
+    "link": "https://www.google.com/maps/place/%E7%A8%B2%E6%95%B7%E5%B8%82%E7%AB%8B%E6%B1%9F%E6%88%B8%E5%B4%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602267bbada798db:0xe7392314ce045e39!8m2!3d35.954908!4d140.3199274!16s%2Fg%2F1vcl3wj5!19sChIJ25inrbtnImAROV4EzhQjOec?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "牛久市立牛久小学校",
+    "address": "\n〒300-1221 茨城県牛久市牛久町２６１９",
+    "latitude": 35.9659201,
+    "longitude": 140.1325226,
+    "link": "https://www.google.com/maps/place/%E7%89%9B%E4%B9%85%E5%B8%82%E7%AB%8B%E7%89%9B%E4%B9%85%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60227171ee72eb09:0x7193148ecde915b7!8m2!3d35.9659201!4d140.1325226!16s%2Fg%2F1thsrhdv!19sChIJCety7nFxImARtxXpzY4Uk3E?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "牛久市立神谷小学校",
+    "address": "\n〒300-1216 茨城県牛久市神谷４丁目１４",
+    "latitude": 35.9638487,
+    "longitude": 140.1637298,
+    "link": "https://www.google.com/maps/place/%E7%89%9B%E4%B9%85%E5%B8%82%E7%AB%8B%E7%A5%9E%E8%B0%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602271c80a96062d:0x150198761272a342!8m2!3d35.9638487!4d140.1637298!16s%2Fg%2F1tld08sy!19sChIJLQaWCshxImARQqNyEnaYARU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "笠間市立北川根小学校",
+    "address": "\n〒309-1715 茨城県笠間市湯崎１０８５−１",
+    "latitude": 36.310819,
+    "longitude": 140.3281995,
+    "link": "https://www.google.com/maps/place/%E7%AC%A0%E9%96%93%E5%B8%82%E7%AB%8B%E5%8C%97%E5%B7%9D%E6%A0%B9%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022186086d655a5:0xde4fc400fdfd9dc6!8m2!3d36.310819!4d140.3281995!16s%2Fg%2F1tdzr7hk!19sChIJpVXWhmAYImARxp39_QDET94?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立下館小学校",
+    "address": "\n〒308-0021 茨城県筑西市甲３９２",
+    "latitude": 36.315257,
+    "longitude": 139.97776,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E4%B8%8B%E9%A4%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f55020777cdd9:0xa10e9c610089e72d!8m2!3d36.315257!4d139.97776!16s%2Fg%2F120vbt54!19sChIJ2c13BwJVH2ARLeeJAGGcDqE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "石岡市立石岡小学校",
+    "address": "\n〒315-0016 茨城県石岡市総社１丁目２−１０",
+    "latitude": 36.1903696,
+    "longitude": 140.2685951,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%B2%A1%E5%B8%82%E7%AB%8B%E7%9F%B3%E5%B2%A1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602216b25c25c8e9:0xa8b7e2e4f787ad43!8m2!3d36.1903696!4d140.2685951!16s%2Fg%2F1tczw13x!19sChIJ6cglXLIWImARQ62H9-Tit6g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "結城市立上山川小学校",
+    "address": "\n〒307-0021 茨城県結城市上山川３３８８",
+    "latitude": 36.254009,
+    "longitude": 139.883943,
+    "link": "https://www.google.com/maps/place/%E7%B5%90%E5%9F%8E%E5%B8%82%E7%AB%8B%E4%B8%8A%E5%B1%B1%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f52cfbe411dbf:0xf505b2a5c68c0ad6!8m2!3d36.254009!4d139.883943!16s%2Fg%2F1v3h_1zc!19sChIJvx1Bvs9SH2AR1gqMxqWyBfU?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "吾妻学園つくば市立吾妻小学校",
+    "address": "\n〒305-0031 茨城県つくば市吾妻２丁目16−１６",
+    "latitude": 36.0842381,
+    "longitude": 140.1097262,
+    "link": "https://www.google.com/maps/place/%E5%90%BE%E5%A6%BB%E5%AD%A6%E5%9C%92%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E5%90%BE%E5%A6%BB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60220c7b624af0c5:0xb694fa6d25b75da9!8m2!3d36.0842381!4d140.1097262!16s%2Fg%2F11bxc63psp!19sChIJxfBKYnsMImARqV23JW36lLY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "つくば市立茎崎第三小学校",
+    "address": "\n〒300-1255 茨城県つくば市小茎７９８−１",
+    "latitude": 35.9937797,
+    "longitude": 140.1110076,
+    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E7%AB%8B%E8%8C%8E%E5%B4%8E%E7%AC%AC%E4%B8%89%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6022738e47ef9107:0xc1c253c2ad07cf8!8m2!3d35.9937797!4d140.1110076!16s%2Fg%2F1tcwr7nb!19sChIJB5HvR45zImAR-HzQKjwlHAw?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "水戸市立飯富小学校",
+    "address": "\n〒311-4206 茨城県水戸市飯富町４４２０−１",
+    "latitude": 36.437791,
+    "longitude": 140.414857,
+    "link": "https://www.google.com/maps/place/%E6%B0%B4%E6%88%B8%E5%B8%82%E7%AB%8B%E9%A3%AF%E5%AF%8C%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602220c0cf047301:0x531aec943b751322!8m2!3d36.437791!4d140.414857!16s%2Fg%2F1tg5v4p5!19sChIJAXMEz8AgImARIhN1O5TsGlM?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "筑西市立伊讃小学校",
+    "address": "\n〒308-0054 茨城県筑西市西谷貝４６９",
+    "latitude": 36.309979,
+    "longitude": 139.961375,
+    "link": "https://www.google.com/maps/place/%E7%AD%91%E8%A5%BF%E5%B8%82%E7%AB%8B%E4%BC%8A%E8%AE%83%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f54f41407f6fd:0x68b7f6b4339dcd6d!8m2!3d36.309979!4d139.961375!16s%2Fg%2F1tdkrx5j!19sChIJ_fYHFPRUH2ARbc2dM7T2t2g?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "リリーベール小学校",
+    "address": "\n〒311-4208 茨城県水戸市藤が原３丁目１１１７−１２８８",
+    "latitude": 36.46089,
+    "longitude": 140.392737,
+    "link": "https://www.google.com/maps/place/%E3%83%AA%E3%83%AA%E3%83%BC%E3%83%99%E3%83%BC%E3%83%AB%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60218a63af89d39b:0x4de27c8150180068!8m2!3d36.46089!4d140.392737!16s%2Fg%2F120qdfkr!19sChIJm9OJr2OKIWARaAAYUIF84k0?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "桜川市立岩瀬小学校",
+    "address": "\n〒309-1223 茨城県桜川市鍬田５５３−５",
+    "latitude": 36.360835,
+    "longitude": 140.097981,
+    "link": "https://www.google.com/maps/place/%E6%A1%9C%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%B2%A9%E7%80%AC%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6021ff2da5b87293:0x86682c4ba3f5f81!8m2!3d36.360835!4d140.097981!16s%2Fg%2F1tfb22s1!19sChIJk3K4pS3_IWARgV8_usSCZgg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "常総市立五箇小学校",
+    "address": "\n〒300-2502 茨城県常総市上蛇町１５０８",
+    "latitude": 36.0697186,
+    "longitude": 140.0041475,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E7%B7%8F%E5%B8%82%E7%AB%8B%E4%BA%94%E7%AE%87%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6018a0b15a55557b:0x4bd5a98f28419849!8m2!3d36.0697186!4d140.0041475!16s%2Fg%2F1vn_yzlw!19sChIJe1VVWrGgGGARSZhBKI-p1Us?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "古河市立古河第一小学校",
+    "address": "\n〒306-0033 茨城県古河市中央町３丁目１０−１",
+    "latitude": 36.192575,
+    "longitude": 139.7017095,
+    "link": "https://www.google.com/maps/place/%E5%8F%A4%E6%B2%B3%E5%B8%82%E7%AB%8B%E5%8F%A4%E6%B2%B3%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601f4a9785e55ab5:0x34349e961a805315!8m2!3d36.192575!4d139.7017095!16s%2Fg%2F1w346q6h!19sChIJtVrlhZdKH2ARFVOAGpaeNDQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "茨城大学教育学部附属小学校",
+    "address": "\n〒310-0011 茨城県水戸市三の丸２丁目６−８ 茨城大教育学部附属",
+    "latitude": 36.374292,
+    "longitude": 140.4793607,
+    "link": "https://www.google.com/maps/place/%E8%8C%A8%E5%9F%8E%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E5%AD%A6%E9%83%A8%E9%99%84%E5%B1%9E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x602225a9c1380fbb:0xd86632a1af6c95fe!8m2!3d36.374292!4d140.4793607!16s%2Fg%2F122dyfxh!19sChIJuw84waklImAR_pVsr6EyZtg?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "石岡市立瓦会小学校",
+    "address": "\n〒315-0111 茨城県石岡市瓦谷１１３５−２",
+    "latitude": 36.270609,
+    "longitude": 140.205255,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%B2%A1%E5%B8%82%E7%AB%8B%E7%93%A6%E4%BC%9A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60221b18ea455c85:0x249bdc98897defe6!8m2!3d36.270609!4d140.205255!16s%2Fg%2F1tdc0rjv!19sChIJhVxF6hgbImAR5u99iZjcmyQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  }
+]
