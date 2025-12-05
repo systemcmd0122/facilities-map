@@ -1,22 +1,24 @@
 {
   "name": "facilities-map",
   "version": "1.0.0",
-  "description": "インタラクティブな施設マップアプリケーション",
+  "description": "Googleライクなモダンデザインのインタラクティブな施設マップアプリケーション",
   "main": "index.html",
   "scripts": {
-    "start": "open index.html"
+    "start": "python -m http.server 8000"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/facilities-map.git"
+    "url": "https://github.com/systemcmd0122/facilities-map.git"
   },
   "keywords": [
     "map",
     "leaflet",
     "facility",
     "search",
-    "japan"
+    "japan",
+    "interactive"
   ],
-  "author": "kaosu",
-  "license": "MIT"
+  "author": "systemcmd0122",
+  "license": "MIT",
+  "dependencies": {}
 }

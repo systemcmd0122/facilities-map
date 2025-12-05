@@ -1,11 +1,47 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+    <!-- メタ情報 -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>施設マップ</title>
+    <meta name="description" content="日本全国の保育園、幼稚園、小学校を検索・表示できるインタラクティブなマップアプリケーション。ピン検索で指定した半径内の施設を素早く発見できます。">
+    <meta name="keywords" content="施設マップ, 保育園, 幼稚園, 小学校, 検索, インタラクティブマップ, 日本, 地図">
+    <meta name="author" content="Tisk">
+    <meta name="theme-color" content="#4285f4">
+    
+    <!-- OGP (Open Graph Protocol) -->
+    <meta property="og:title" content="施設マップ - 保育園・幼稚園・小学校検索">
+    <meta property="og:description" content="日本全国の保育園、幼稚園、小学校を検索・表示できるインタラクティブなマップアプリケーション。ピン検索で指定した半径内の施設を素早く発見できます。">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://systemcmd0122.github.io/facilities-map/public/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://systemcmd0122.github.io/facilities-map/">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="施設マップ - 保育園・幼稚園・小学校検索">
+    <meta name="twitter:description" content="日本全国の保育園、幼稚園、小学校を検索・表示できるインタラクティブなマップアプリケーション。">
+    <meta name="twitter:image" content="https://systemcmd0122.github.io/facilities-map/public/og-image.png">
+    
+    <!-- その他のメタタグ -->
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="ja">
+    <meta name="revisit-after" content="7 days">
+    
+    <title>施設マップ - 保育園・幼稚園・小学校を検索できるインタラクティブマップ</title>
+    
+    <!-- ファビコン -->
+    <link rel="icon" type="image/png" href="./public/icon.png">
+    <link rel="apple-touch-icon" href="./public/icon.png">
+    
+    <!-- リンク関連 -->
+    <link rel="canonical" href="https://systemcmd0122.github.io/facilities-map/">
+    
+    <!-- スタイルシート -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -14,10 +50,10 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Sans', sans-serif;
+            font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             height: 100vh;
-            background: #f5f5f5;
-            color: #333;
+            background: #ffffff;
+            color: #202124;
         }
         
         .container {
@@ -27,174 +63,180 @@
         }
         
         .sidebar {
-            width: 360px;
-            background: white;
+            width: 380px;
+            background: #ffffff;
             border-right: 1px solid #e0e0e0;
             overflow-y: auto;
-            padding: 16px;
+            padding: 24px;
             display: flex;
             flex-direction: column;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.06);
         }
         
         .sidebar h1 {
-            font-size: 20px;
-            margin-bottom: 24px;
-            color: #2196F3;
-            font-weight: 700;
+            font-size: 24px;
+            margin-bottom: 32px;
+            color: #202124;
+            font-weight: 500;
+            letter-spacing: -0.5px;
         }
         
         .section {
-            margin-bottom: 24px;
+            margin-bottom: 28px;
         }
         
         .section-title {
-            font-size: 11px;
+            font-size: 12px;
             font-weight: 700;
-            color: #666;
-            margin-bottom: 10px;
+            color: #5f6368;
+            margin-bottom: 12px;
             text-transform: uppercase;
-            letter-spacing: 0.5px;
+            letter-spacing: 0.8px;
         }
         
         .control-group {
-            margin-bottom: 12px;
+            margin-bottom: 16px;
         }
         
         .control-group label {
             display: block;
-            font-size: 12px;
-            color: #555;
-            margin-bottom: 6px;
-            font-weight: 600;
+            font-size: 13px;
+            color: #202124;
+            margin-bottom: 8px;
+            font-weight: 500;
         }
         
         .control-group select,
-        .control-group input {
+        .control-group input[type="text"] {
             width: 100%;
-            padding: 10px 12px;
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            font-size: 13px;
-            transition: all 0.2s;
+            padding: 12px 14px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             font-family: inherit;
+            background: #f8f9fa;
+            color: #202124;
         }
         
         .control-group select:hover,
-        .control-group input:hover {
-            border-color: #2196F3;
+        .control-group input[type="text"]:hover {
+            background: #f8f9fa;
+            border-color: #c6c7cb;
         }
         
         .control-group select:focus,
-        .control-group input:focus {
+        .control-group input[type="text"]:focus {
             outline: none;
-            border-color: #2196F3;
-            box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+            background: #ffffff;
+            border-color: #1f73e6;
+            box-shadow: 0 1px 3px rgba(31, 115, 230, 0.2);
         }
         
         .button-group {
             display: flex;
-            gap: 10px;
-            margin-bottom: 12px;
+            gap: 12px;
+            margin-bottom: 16px;
             flex-wrap: wrap;
         }
         
         .btn {
             flex: 1;
-            min-width: 70px;
-            padding: 10px 14px;
+            min-width: 100px;
+            padding: 10px 16px;
             border: none;
-            border-radius: 6px;
-            font-size: 12px;
-            font-weight: 700;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
             cursor: pointer;
-            transition: all 0.2s;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             white-space: nowrap;
         }
         
         .btn:active {
-            transform: scale(0.98);
+            transform: scale(0.95);
         }
         
         .btn-primary {
-            background: #2196F3;
+            background: #4285f4;
             color: white;
         }
         
         .btn-primary:hover {
-            background: #1976D2;
-            box-shadow: 0 2px 8px rgba(33, 150, 243, 0.3);
+            background: #3367d6;
+            box-shadow: 0 1px 3px rgba(66, 133, 244, 0.4);
         }
         
         .btn-primary.active {
-            background: #FF9800;
+            background: #ea4335;
         }
         
         .btn-danger {
-            background: #f44336;
+            background: #ea4335;
             color: white;
         }
         
         .btn-danger:hover {
-            background: #d32f2f;
-            box-shadow: 0 2px 8px rgba(244, 67, 54, 0.3);
+            background: #c5221f;
+            box-shadow: 0 1px 3px rgba(234, 67, 53, 0.4);
         }
         
         .btn-success {
-            background: #4CAF50;
+            background: #34a853;
             color: white;
         }
         
         .btn-success:hover {
-            background: #388E3C;
-            box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
+            background: #2d7e4c;
+            box-shadow: 0 1px 3px rgba(52, 168, 83, 0.4);
         }
         
         .btn-secondary {
-            background: #9E9E9E;
-            color: white;
+            background: #dadce0;
+            color: #202124;
         }
         
         .btn-secondary:hover {
-            background: #757575;
+            background: #c6c7cb;
         }
         
         .info-box {
-            background: linear-gradient(135deg, #FFF9E6 0%, #FFFBF0 100%);
-            border: 1px solid #FFE082;
-            border-radius: 6px;
-            padding: 12px;
-            margin-bottom: 12px;
-            font-size: 12px;
+            background: #f8f9fa;
+            border: 1px solid #dadce0;
+            border-left: 4px solid #4285f4;
+            border-radius: 8px;
+            padding: 14px;
+            margin-bottom: 16px;
+            font-size: 13px;
             line-height: 1.6;
         }
         
         .info-box p {
-            margin: 4px 0;
+            margin: 6px 0;
         }
         
         .search-count {
             display: inline-block;
-            background: #2196F3;
+            background: #4285f4;
             color: white;
-            padding: 2px 8px;
-            border-radius: 12px;
-            font-size: 11px;
+            padding: 3px 10px;
+            border-radius: 16px;
+            font-size: 12px;
             font-weight: 700;
-            margin-left: 4px;
+            margin-left: 6px;
         }
         
         .facility-list {
             list-style: none;
             overflow-y: auto;
             flex: 1;
-            border: 1px solid #e8e8e8;
-            border-radius: 6px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
             padding: 0;
         }
         
         .facility-item {
-            padding: 12px;
+            padding: 14px 16px;
             border-bottom: 1px solid #f0f0f0;
             cursor: pointer;
             transition: all 0.2s;
@@ -204,12 +246,11 @@
         }
         
         .facility-item:hover {
-            background: #f9f9f9;
-            padding-left: 16px;
+            background: #f8f9fa;
         }
         
         .facility-item.active {
-            background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%);
+            background: linear-gradient(135deg, #4285f4 0%, #3367d6 100%);
             color: white;
         }
         
@@ -219,33 +260,33 @@
         
         .facility-name {
             font-weight: 700;
-            font-size: 13px;
-            margin-bottom: 3px;
+            font-size: 14px;
+            margin-bottom: 4px;
         }
         
         .facility-category {
-            font-size: 11px;
-            color: #999;
-            background: #f0f0f0;
-            padding: 2px 6px;
-            border-radius: 3px;
+            font-size: 12px;
+            color: #5f6368;
+            background: #e8e9eb;
+            padding: 3px 8px;
+            border-radius: 4px;
             display: inline-block;
         }
         
         .facility-item.active .facility-category {
-            background: rgba(255,255,255,0.3);
-            color: #e3f2fd;
+            background: rgba(255,255,255,0.25);
+            color: #e8e9eb;
         }
         
         .facility-distance {
-            font-size: 12px;
-            color: #f44336;
+            font-size: 13px;
+            color: #ea4335;
             font-weight: 700;
-            margin-top: 3px;
+            margin-top: 4px;
         }
         
         .facility-item.active .facility-distance {
-            color: #FFEB3B;
+            color: #fbbc04;
         }
         
         .facility-icon {
@@ -255,7 +296,7 @@
         
         #map {
             flex: 1;
-            background: #e0e0e0;
+            background: #e5e5e5;
         }
         
         #map.pin-mode {
@@ -263,72 +304,74 @@
         }
         
         .leaflet-popup-content-wrapper {
-            border-radius: 6px;
+            border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.15);
         }
         
         .popup-content {
-            font-size: 12px;
+            font-size: 13px;
         }
         
         .popup-content h3 {
-            margin: 0 0 10px 0;
-            font-size: 15px;
-            color: #333;
+            margin: 0 0 12px 0;
+            font-size: 16px;
+            color: #202124;
             font-weight: 700;
         }
         
         .popup-content p {
-            margin: 4px 0;
-            color: #666;
+            margin: 6px 0;
+            color: #5f6368;
         }
         
         .popup-content a {
-            color: #2196F3;
+            color: #4285f4;
             text-decoration: none;
-            font-size: 12px;
+            font-size: 13px;
             font-weight: 600;
             display: inline-block;
-            margin-top: 6px;
-            padding: 4px 8px;
-            background: #E3F2FD;
+            margin-top: 8px;
+            padding: 6px 12px;
+            background: #e8f0fe;
             border-radius: 4px;
+            transition: all 0.2s;
         }
         
         .popup-content a:hover {
-            background: #BBDEFB;
+            background: #d2e3fc;
         }
         
         .stats {
-            background: linear-gradient(135deg, #E8F5E9 0%, #F1F8E9 100%);
-            border: 1px solid #C8E6C9;
-            border-radius: 6px;
-            padding: 10px 12px;
-            margin-bottom: 12px;
-            font-size: 12px;
+            background: #f8f9fa;
+            border: 1px solid #dadce0;
+            border-left: 4px solid #34a853;
+            border-radius: 8px;
+            padding: 14px;
+            margin-bottom: 16px;
+            font-size: 13px;
         }
         
         .stats p {
-            margin: 4px 0;
+            margin: 6px 0;
         }
         
         .stats strong {
-            color: #2E7D32;
+            color: #2d7e4c;
         }
         
         .saved-list {
-            border: 1px solid #e8e8e8;
-            border-radius: 6px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
             padding: 0;
-            max-height: 200px;
+            max-height: 240px;
             overflow-y: auto;
         }
         
         .saved-item {
-            padding: 10px 12px;
+            padding: 12px 16px;
             border-bottom: 1px solid #f0f0f0;
             cursor: pointer;
-            font-size: 12px;
+            font-size: 13px;
             transition: all 0.2s;
             display: flex;
             justify-content: space-between;
@@ -336,8 +379,7 @@
         }
         
         .saved-item:hover {
-            background: #f9f9f9;
-            padding-left: 16px;
+            background: #f8f9fa;
         }
         
         .saved-item-info {
@@ -345,66 +387,72 @@
         }
         
         .saved-item-date {
-            font-size: 11px;
-            color: #999;
+            font-size: 12px;
+            color: #80868b;
+            font-weight: 500;
         }
         
         .saved-item-stats {
-            font-size: 11px;
-            color: #666;
-            margin-top: 2px;
+            font-size: 12px;
+            color: #5f6368;
+            margin-top: 4px;
         }
         
         .saved-item-delete {
-            padding: 4px 8px;
-            background: #ffebee;
-            color: #c62828;
-            border: none;
+            padding: 6px 10px;
+            background: transparent;
+            color: #d33827;
+            border: 1px solid #dadce0;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 11px;
+            font-size: 12px;
             font-weight: 600;
             transition: all 0.2s;
-            margin-left: 8px;
+            margin-left: 10px;
         }
         
         .saved-item-delete:hover {
-            background: #ef5350;
-            color: white;
+            background: #fce8e6;
+            border-color: #fad2cf;
         }
         
         .empty-state {
             text-align: center;
-            padding: 24px 16px;
-            color: #ccc;
-            font-size: 12px;
+            padding: 32px 16px;
+            color: #9aa0a6;
+            font-size: 13px;
         }
         
         .tab-group {
             display: flex;
-            gap: 6px;
-            margin-bottom: 12px;
-            border-bottom: 1px solid #e0e0e0;
-            padding-bottom: 12px;
+            gap: 0;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #dadce0;
+            padding-bottom: 0;
         }
         
         .tab {
             flex: 1;
-            padding: 8px 12px;
+            padding: 12px 16px;
             border: none;
             background: transparent;
-            font-size: 12px;
-            font-weight: 600;
-            color: #999;
+            font-size: 13px;
+            font-weight: 700;
+            color: #80868b;
             cursor: pointer;
             transition: all 0.2s;
-            border-bottom: 2px solid transparent;
-            margin-bottom: -13px;
+            border-bottom: 3px solid transparent;
+            margin-bottom: -1px;
+            text-align: center;
         }
         
         .tab.active {
-            color: #2196F3;
-            border-bottom-color: #2196F3;
+            color: #4285f4;
+            border-bottom-color: #4285f4;
+        }
+        
+        .tab:hover {
+            color: #202124;
         }
         
         .tab-content {
@@ -416,26 +464,298 @@
         }
         
         .legend {
-            background: white;
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            padding: 10px;
-            margin-bottom: 12px;
-            font-size: 11px;
+            background: #f8f9fa;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 16px;
+            font-size: 12px;
         }
         
         .legend-item {
             display: flex;
             align-items: center;
-            margin-bottom: 6px;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .legend-item:last-child {
+            margin-bottom: 0;
         }
         
         .legend-color {
             width: 12px;
             height: 12px;
             border-radius: 50%;
-            margin-right: 6px;
+            margin-right: 8px;
             border: 2px solid white;
+            box-shadow: 0 0 0 1px rgba(0,0,0,0.1);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .search-box {
+            flex: 1;
+            padding: 12px 14px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            font-size: 14px;
+            background: #f8f9fa;
+        }
+
+        .search-box:focus {
+            outline: none;
+            background: #ffffff;
+            border-color: #1f73e6;
+            box-shadow: 0 1px 3px rgba(31, 115, 230, 0.2);
+        }
+
+        .history-item {
+            padding: 16px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            background: #ffffff;
+        }
+
+        .history-item:hover {
+            background: #f8f9fa;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .history-item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .history-item-title {
+            font-weight: 600;
+            color: #202124;
+            font-size: 14px;
+        }
+
+        .history-item-date {
+            font-size: 12px;
+            color: #80868b;
+        }
+
+        .history-item-details {
+            font-size: 12px;
+            color: #5f6368;
+            margin-bottom: 8px;
+            line-height: 1.6;
+        }
+
+        .history-item-actions {
+            display: flex;
+            gap: 8px;
+            padding-top: 8px;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .history-item-actions button {
+            flex: 1;
+            padding: 8px 12px;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .history-item-btn-load {
+            background: #e8f0fe;
+            color: #1f73e6;
+        }
+
+        .history-item-btn-load:hover {
+            background: #d2e3fc;
+        }
+
+        .history-item-btn-delete {
+            background: #fce8e6;
+            color: #d33827;
+        }
+
+        .history-item-btn-delete:hover {
+            background: #f8d7da;
+        }
+
+        .btn-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2px;
+            width: 24px;
+            height: 24px;
+            cursor: pointer;
+            opacity: 0.6;
+            transition: opacity 0.2s;
+        }
+
+        .btn-icon:hover {
+            opacity: 1;
+        }
+
+        .hidden-file-input {
+            display: none;
+        }
+
+        .sort-options {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+
+        .sort-btn {
+            padding: 6px 12px;
+            border: 1px solid #dadce0;
+            background: #ffffff;
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #5f6368;
+        }
+
+        .sort-btn.active {
+            background: #4285f4;
+            color: white;
+            border-color: #4285f4;
+        }
+
+        .sort-btn:hover:not(.active) {
+            background: #f8f9fa;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4);
+            animation: fadeIn 0.2s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background-color: #ffffff;
+            padding: 28px;
+            border-radius: 8px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+            max-width: 400px;
+            width: 90%;
+            animation: slideUp 0.3s;
+        }
+
+        @keyframes slideUp {
+            from {
+                transform: translateY(20px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .modal-header {
+            font-size: 18px;
+            font-weight: 600;
+            color: #202124;
+            margin-bottom: 16px;
+        }
+
+        .modal-body {
+            margin-bottom: 24px;
+        }
+
+        .modal-input {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            font-size: 14px;
+            font-family: inherit;
+            background: #f8f9fa;
+        }
+
+        .modal-input:focus {
+            outline: none;
+            background: #ffffff;
+            border-color: #1f73e6;
+            box-shadow: 0 1px 3px rgba(31, 115, 230, 0.2);
+        }
+
+        .modal-buttons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .modal-btn {
+            flex: 1;
+            padding: 12px 16px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .modal-btn-cancel {
+            background: #dadce0;
+            color: #202124;
+        }
+
+        .modal-btn-cancel:hover {
+            background: #c6c7cb;
+        }
+
+        .modal-btn-confirm {
+            background: #4285f4;
+            color: white;
+        }
+
+        .modal-btn-confirm:hover {
+            background: #3367d6;
+        }
+
+        .editable-name {
+            font-weight: 600;
+            color: #202124;
+            padding: 4px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .editable-name:hover {
+            background: #e8f0fe;
+            color: #1f73e6;
         }
         
         /* レスポンシブ対応 */
@@ -449,27 +769,27 @@
                 height: auto;
                 max-height: 50vh;
                 border-right: none;
-                border-bottom: 1px solid #ddd;
-                padding: 12px;
+                border-bottom: 1px solid #dadce0;
+                padding: 16px;
             }
             
             .sidebar h1 {
-                font-size: 18px;
-                margin-bottom: 12px;
-            }
-            
-            .section {
+                font-size: 20px;
                 margin-bottom: 16px;
             }
             
+            .section {
+                margin-bottom: 20px;
+            }
+            
             .button-group {
-                gap: 6px;
+                gap: 10px;
             }
             
             .btn {
                 min-width: 60px;
-                padding: 8px 10px;
-                font-size: 11px;
+                padding: 10px 12px;
+                font-size: 13px;
             }
             
             .facility-list {
@@ -483,42 +803,66 @@
         
         @media (max-width: 480px) {
             .sidebar {
-                padding: 10px;
+                padding: 12px;
             }
             
             .sidebar h1 {
-                font-size: 16px;
+                font-size: 18px;
             }
             
             .control-group select,
-            .control-group input {
-                font-size: 12px;
-                padding: 8px 10px;
+            .control-group input[type="text"] {
+                font-size: 13px;
+                padding: 10px 12px;
             }
             
             .section-title {
-                font-size: 10px;
+                font-size: 11px;
             }
             
             .facility-name {
-                font-size: 12px;
+                font-size: 13px;
             }
             
             .button-group {
-                gap: 4px;
+                gap: 8px;
             }
             
             .btn {
-                padding: 6px 8px;
-                font-size: 10px;
+                padding: 8px 10px;
+                font-size: 12px;
             }
         }
     </style>
 </head>
 <body>
+    <!-- 構造化データ (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "施設マップ",
+        "description": "日本全国の保育園、幼稚園、小学校を検索・表示できるインタラクティブなマップアプリケーション",
+        "url": "https://facilities-map.vercel.app",
+        "applicationCategory": "UtilitiesApplication",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "JPY"
+        },
+        "creator": {
+            "@type": "Person",
+            "name": "systemcmd0122"
+        },
+        "image": "./public/icon.png",
+        "operatingSystem": "Web",
+        "browserRequirements": "Requires JavaScript enabled"
+    }
+    </script>
+
     <div class="container">
         <div class="sidebar">
-            <h1>🗺️ 施設マップ</h1>
+            <h1>施設マップ</h1>
             
             <div class="legend">
                 <div class="legend-item">
@@ -536,44 +880,19 @@
             </div>
             
             <div class="tab-group">
-                <button class="tab active" data-tab="search">🔍 検索</button>
-                <button class="tab" data-tab="filter">🏷️ フィルター</button>
-                <button class="tab" data-tab="history">📋 履歴</button>
+                <button class="tab active" data-tab="search">検索</button>
+                <button class="tab" data-tab="history">履歴</button>
             </div>
             
             <div id="search-tab" class="tab-content active">
                 <div class="section">
-                    <div class="section-title">ピン検索</div>
+                    <div class="section-title">施設検索</div>
                     <div class="control-group">
-                        <label>半径 (km)</label>
-                        <input type="number" id="radius-input" value="5" min="1" max="50">
+                        <label>施設名で検索</label>
+                        <input type="text" id="name-search-input" placeholder="保育園の名前を入力...">
                     </div>
-                    <div class="button-group">
-                        <button class="btn btn-primary" id="pin-btn">📍 ピンを指す</button>
-                        <button class="btn btn-secondary" id="clear-pin-btn">✕ クリア</button>
-                    </div>
-                    <div id="pin-info"></div>
-                </div>
-                
-                <div class="section">
-                    <div class="section-title">検索結果</div>
-                    <ul class="facility-list" id="facility-list"></ul>
-                </div>
-            </div>
-            
-            <div id="filter-tab" class="tab-content">
-                <div class="section">
-                    <div class="section-title">都道府県</div>
                     <div class="control-group">
-                        <select id="prefecture-select">
-                            <option value="">すべて</option>
-                        </select>
-                    </div>
-                </div>
-
-                <div class="section">
-                    <div class="section-title">施設種類</div>
-                    <div class="control-group">
+                        <label>施設種類</label>
                         <select id="category-select">
                             <option value="">すべて</option>
                             <option value="保育園">保育園</option>
@@ -581,44 +900,106 @@
                             <option value="小学校">小学校</option>
                         </select>
                     </div>
+                    <div class="control-group">
+                        <label>都道府県</label>
+                        <select id="prefecture-select">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
                 </div>
-                
-                <div class="button-group">
-                    <button class="btn btn-primary" id="apply-filter-btn">フィルター適用</button>
-                    <button class="btn btn-secondary" id="reset-filter-btn">リセット</button>
+
+                <div class="section">
+                    <div class="section-title">ピン検索</div>
+                    <div class="control-group">
+                        <label>半径 (km) - リアルタイム反映</label>
+                        <input type="range" id="radius-input" value="5" min="1" max="50" style="width: 100%; cursor: pointer;">
+                        <div style="text-align: center; margin-top: 4px; font-weight: 700; color: #2196F3;">
+                            <span id="radius-display">5</span> km
+                        </div>
+                    </div>
+                    <div class="button-group">
+                        <button class="btn btn-primary" id="pin-btn">ピンを指す</button>
+                        <button class="btn btn-secondary" id="clear-pin-btn">クリア</button>
+                    </div>
+                    <div id="pin-info"></div>
                 </div>
-                
-                <div class="stats">
-                    <p>表示中: <strong id="filter-count">0</strong> 件</p>
+
+                <div class="section">
+                    <div class="section-title">検索結果を保存</div>
+                    <div class="button-group">
+                        <button class="btn btn-success" id="save-btn" style="flex: 1;">この検索を保存</button>
+                    </div>
+                    <div class="stats" style="display: none;" id="save-stats">
+                        <p>保存完了</p>
+                        <p>保存データ: <strong id="save-count-search">0</strong> 件</p>
+                    </div>
                 </div>
                 
                 <div class="section">
-                    <div class="section-title">一覧</div>
-                    <ul class="facility-list" id="filter-facility-list"></ul>
+                    <div class="section-title">検索結果</div>
+                    <div style="font-size: 13px; color: #2196F3; font-weight: 700; margin-bottom: 12px;" id="result-count"></div>
+                    <ul class="facility-list" id="facility-list"></ul>
                 </div>
             </div>
             
             <div id="history-tab" class="tab-content">
                 <div class="section">
-                    <div class="button-group">
-                        <button class="btn btn-success" id="save-btn">💾 保存</button>
-                        <button class="btn btn-danger" id="clear-db-btn">🗑️ すべて削除</button>
-                    </div>
-                    
+                    <div class="section-title">統計情報</div>
                     <div class="stats">
-                        <p>📊 データ</p>
-                        <p>保存: <strong id="save-count">0</strong> 件</p>
-                        <p>容量: <strong id="data-size">0 KB</strong></p>
+                        <p>保存データ: <strong id="save-count">0</strong> 件</p>
+                        <p>使用容量: <strong id="data-size">0 KB</strong></p>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <div class="section-title">データ管理</div>
+                    <div class="button-group">
+                        <button class="btn btn-primary" id="export-btn" style="flex: 1;">ファイルに保存</button>
+                        <button class="btn btn-primary" id="import-btn" style="flex: 1;">ファイルから読込</button>
+                    </div>
+                    <input type="file" id="import-file" class="hidden-file-input" accept=".json">
+                    <div class="button-group">
+                        <button class="btn btn-danger" id="clear-db-btn" style="flex: 1;">すべて削除</button>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <div class="section-title">検索フィルター</div>
+                    <div class="control-group">
+                        <label>検索</label>
+                        <input type="text" id="history-search-box" class="search-box" placeholder="検索キーワードを入力...">
+                    </div>
+                    <div class="sort-options">
+                        <button class="sort-btn active" data-sort="newest">新しい順</button>
+                        <button class="sort-btn" data-sort="oldest">古い順</button>
+                        <button class="sort-btn" data-sort="radius-asc">半径が小さい順</button>
+                        <button class="sort-btn" data-sort="radius-desc">半径が大きい順</button>
+                        <button class="sort-btn" data-sort="count-asc">件数が少ない順</button>
+                        <button class="sort-btn" data-sort="count-desc">件数が多い順</button>
                     </div>
                 </div>
                 
                 <div class="section">
-                    <div class="section-title">保存済み検索</div>
-                    <div class="saved-list" id="saved-items"></div>
+                    <div class="section-title">保存済み検索一覧</div>
+                    <div id="saved-items"></div>
                 </div>
             </div>
         </div>
         <div id="map"></div>
+    </div>
+
+    <!-- 名前編集モーダル -->
+    <div id="edit-name-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">検索名を編集</div>
+            <div class="modal-body">
+                <input type="text" id="edit-name-input" class="modal-input" placeholder="検索名を入力してください">
+            </div>
+            <div class="modal-buttons">
+                <button class="modal-btn modal-btn-cancel" id="modal-cancel-btn">キャンセル</button>
+                <button class="modal-btn modal-btn-confirm" id="modal-confirm-btn">更新</button>
+            </div>
+        </div>
     </div>
 
     <script>
@@ -630,7 +1011,10 @@
         let pinMode = false;
         let pinSearchResults = [];
         let savedData = [];
+        let filteredSavedData = [];
         let currentTab = 'search';
+        let currentSort = 'newest';
+        let currentSearchFilter = '';
 
         const DB_NAME = 'FacilitiesMapDB';
         const DB_VERSION = 1;
@@ -649,10 +1033,6 @@
                     
                     tab.classList.add('active');
                     document.getElementById(tabName + '-tab').classList.add('active');
-                    
-                    if (tabName === 'filter') {
-                        displayFilterFacilities(allFacilities);
-                    }
                 });
             });
         }
@@ -706,21 +1086,15 @@
                 }
             }
             populatePrefectures();
-            displayFacilities(allFacilities);
+            displayAllFacilities();
         }
 
         // 都道府県リスト更新
         function populatePrefectures() {
             const select = document.getElementById('prefecture-select');
-            const prefectures = new Set();
+            const prefectures = ['茨城', '群馬', '山梨', '新潟', '長野', '栃木', '富山'];
 
-            allFacilities.forEach(facility => {
-                const pref = facility.address.split('県')[0].split('都')[0].split('道')[0] + 
-                    (facility.address.includes('県') ? '県' : facility.address.includes('都') ? '都' : '道');
-                prefectures.add(pref);
-            });
-
-            Array.from(prefectures).sort().forEach(pref => {
+            prefectures.forEach(pref => {
                 const option = document.createElement('option');
                 option.value = pref;
                 option.textContent = pref;
@@ -738,6 +1112,95 @@
                 Math.sin(dLon / 2) * Math.sin(dLon / 2);
             const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
             return R * c;
+        }
+
+        // 検索フィルター適用
+        function applySearchFilters() {
+            const nameSearch = document.getElementById('name-search-input').value.toLowerCase();
+            const categorySelect = document.getElementById('category-select').value;
+            const prefectureSelect = document.getElementById('prefecture-select').value;
+
+            let filtered = allFacilities;
+
+            if (nameSearch) {
+                filtered = filtered.filter(f => f.name.toLowerCase().includes(nameSearch));
+            }
+
+            if (categorySelect) {
+                filtered = filtered.filter(f => f.category === categorySelect);
+            }
+
+            if (prefectureSelect) {
+                filtered = filtered.filter(f => f.address.includes(prefectureSelect));
+            }
+
+            displayAllFacilities(filtered);
+        }
+
+        // 全施設表示
+        function displayAllFacilities(facilities = null) {
+            const toDisplay = facilities || allFacilities;
+            clearMarkers();
+            const facilityList = document.getElementById('facility-list');
+            const resultCount = document.getElementById('result-count');
+            
+            facilityList.innerHTML = '';
+            resultCount.textContent = `(${toDisplay.length}件)`;
+
+            if (toDisplay.length === 0) {
+                facilityList.innerHTML = '<div class="empty-state">該当施設なし</div>';
+                return;
+            }
+
+            toDisplay.forEach((facility) => {
+                const categoryColor = facility.category === '保育園' ? '#2196F3' : 
+                                    facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
+                
+                const marker = L.circleMarker([facility.latitude, facility.longitude], {
+                    radius: 6,
+                    fillColor: categoryColor,
+                    color: '#fff',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                marker.bindPopup(`<div class="popup-content"><h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p></div>`);
+                facilityMarkers.push(marker);
+
+                const li = document.createElement('li');
+                li.className = 'facility-item';
+                li.innerHTML = `
+                    <div class="facility-info">
+                        <div class="facility-name">${facility.name}</div>
+                        <div class="facility-category">${facility.category}</div>
+                    </div>
+                `;
+                li.addEventListener('click', () => {
+                    map.setView([facility.latitude, facility.longitude], 15);
+                    marker.openPopup();
+                    highlightItem(li);
+                });
+                facilityList.appendChild(li);
+            });
+
+            if (toDisplay.length > 0) {
+                const group = new L.featureGroup(facilityMarkers);
+                map.fitBounds(group.getBounds().pad(0.1), { maxZoom: 13 });
+            }
+        }
+
+        // ヘルパー関数
+        function clearMarkers() {
+            facilityMarkers.forEach(marker => map.removeLayer(marker));
+            facilityMarkers = [];
+        }
+
+        function highlightItem(li) {
+            document.querySelectorAll('.facility-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            li.classList.add('active');
         }
 
         // ピンモード切り替え
@@ -803,24 +1266,25 @@
 
             pinInfoDiv.innerHTML = `
                 <div class="info-box">
-                    <p><strong>✓ 検索完了</strong></p>
+                    <p><strong>検索完了</strong></p>
                     <p>座標: ${pinLat.toFixed(4)}, ${pinLng.toFixed(4)}</p>
                     <p>半径: <strong>${document.getElementById('radius-input').value}km</strong></p>
                     <p>合計: <span class="search-count">${pinSearchResults.length}件</span></p>
-                    <p>内訳: 🍼${nurseries} | 🎓${kindergartens} | 🏫${schools}</p>
+                    <p>内訳: 保育園${nurseries} / 幼稚園${kindergartens} / 小学校${schools}</p>
                 </div>
             `;
 
             facilityList.innerHTML = '';
             if (pinSearchResults.length === 0) {
                 facilityList.innerHTML = '<div class="empty-state">該当施設なし</div>';
+                document.getElementById('result-count').textContent = '(0件)';
                 return;
             }
 
+            document.getElementById('result-count').textContent = `(${pinSearchResults.length}件)`;
+
             pinSearchResults.forEach((facility, idx) => {
                 const distance = calculateDistance(pinLat, pinLng, facility.latitude, facility.longitude);
-                const icon = facility.category === '保育園' ? '🍼' : 
-                           facility.category === '幼稚園' ? '🎓' : '🏫';
                 const li = document.createElement('li');
                 li.className = 'facility-item';
                 li.innerHTML = `
@@ -833,161 +1297,37 @@
                 li.addEventListener('click', () => {
                     map.setView([facility.latitude, facility.longitude], 16);
                     highlightItem(li);
-                    if (facilityMarkers.length > 0) {
-                        const marker = facilityMarkers.find(m => 
-                            m.getLatLng().lat === facility.latitude && 
-                            m.getLatLng().lng === facility.longitude
-                        );
-                        if (marker) marker.openPopup();
-                    }
-                });
-                facilityList.appendChild(li);
-            });
-
-            map.fitBounds(L.latLngBounds(
-                [pinLat - 0.05, pinLng - 0.05],
-                [pinLat + 0.05, pinLng + 0.05]
-            ), { maxZoom: 14 });
-        }
-
-        // 施設表示
-        function displayFacilities(facilities) {
-            clearMarkers();
-            const facilityList = document.getElementById('facility-list');
-            facilityList.innerHTML = '';
-
-            if (facilities.length === 0) {
-                facilityList.innerHTML = '<div class="empty-state">データなし</div>';
-                return;
-            }
-
-            facilities.forEach((facility) => {
-                const categoryColor = facility.category === '保育園' ? '#2196F3' : 
-                                    facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
-                
-                const marker = L.circleMarker([facility.latitude, facility.longitude], {
-                    radius: 6,
-                    fillColor: categoryColor,
-                    color: '#fff',
-                    weight: 2,
-                    opacity: 1,
-                    fillOpacity: 0.8
-                }).addTo(map);
-
-                const icon = facility.category === '保育園' ? '🍼' : 
-                           facility.category === '幼稚園' ? '🎓' : '🏫';
-                marker.bindPopup(`<div class="popup-content"><h3>${icon} ${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">📍 Google Mapsで開く</a></p></div>`);
-                facilityMarkers.push(marker);
-
-                const li = document.createElement('li');
-                li.className = 'facility-item';
-                li.innerHTML = `
-                    <div class="facility-info">
-                        <div class="facility-name">${icon} ${facility.name}</div>
-                        <div class="facility-category">${facility.category}</div>
-                    </div>
-                `;
-                li.addEventListener('click', () => {
-                    map.setView([facility.latitude, facility.longitude], 15);
-                    marker.openPopup();
-                    highlightItem(li);
-                });
-                facilityList.appendChild(li);
-            });
-
-            if (facilities.length > 0) {
-                const group = new L.featureGroup(facilityMarkers);
-                map.fitBounds(group.getBounds().pad(0.1), { maxZoom: 13 });
-            }
-        }
-
-        // フィルター施設表示
-        function displayFilterFacilities(facilities) {
-            const facilityList = document.getElementById('filter-facility-list');
-            const filterCount = document.getElementById('filter-count');
-            facilityList.innerHTML = '';
-            filterCount.textContent = facilities.length;
-
-            if (facilities.length === 0) {
-                facilityList.innerHTML = '<div class="empty-state">該当施設なし</div>';
-                return;
-            }
-
-            facilities.forEach((facility) => {
-                const categoryColor = facility.category === '保育園' ? '#2196F3' : 
-                                    facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
-                
-                const icon = facility.category === '保育園' ? '🍼' : 
-                           facility.category === '幼稚園' ? '🎓' : '🏫';
-                const li = document.createElement('li');
-                li.className = 'facility-item';
-                li.innerHTML = `
-                    <div class="facility-info">
-                        <div class="facility-name">${icon} ${facility.name}</div>
-                        <div class="facility-category">${facility.category}</div>
-                    </div>
-                `;
-                li.addEventListener('click', () => {
-                    map.setView([facility.latitude, facility.longitude], 15);
                     const marker = facilityMarkers.find(m => 
                         m.getLatLng().lat === facility.latitude && 
                         m.getLatLng().lng === facility.longitude
                     );
                     if (marker) marker.openPopup();
-                    highlightItem(li);
                 });
                 facilityList.appendChild(li);
             });
         }
 
-        // ヘルパー関数
-        function clearMarkers() {
-            facilityMarkers.forEach(marker => map.removeLayer(marker));
-            facilityMarkers = [];
-        }
-
-        function highlightItem(li) {
-            document.querySelectorAll('.facility-item').forEach(item => {
-                item.classList.remove('active');
-            });
-            li.classList.add('active');
-        }
-
-        // フィルタリング
-        function applyFilters() {
-            const prefectureSelect = document.getElementById('prefecture-select').value;
-            const categorySelect = document.getElementById('category-select').value;
-
-            let filtered = allFacilities;
-
-            if (prefectureSelect) {
-                filtered = filtered.filter(f => f.address.includes(prefectureSelect));
-            }
-
-            if (categorySelect) {
-                filtered = filtered.filter(f => f.category === categorySelect);
-            }
-
-            displayFacilities(filtered);
-            displayFilterFacilities(filtered);
-            document.getElementById('pin-info').innerHTML = '';
-        }
-
-        function resetFilters() {
-            document.getElementById('prefecture-select').value = '';
-            document.getElementById('category-select').value = '';
-            applyFilters();
-        }
-
         // DB操作
         function saveToDB() {
             if (!db || !pinMarker) {
-                alert('ピンを指してください');
+                alert('ピンを指してから保存してください');
+                return;
+            }
+
+            // 保存名の入力ダイアログを表示
+            const now = new Date();
+            const defaultName = `${now.toLocaleDateString('ja-JP')} ${now.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' })}`;
+            
+            const saveName = prompt('この検索に名前を付けてください:', defaultName);
+            
+            if (saveName === null) {
+                // キャンセルボタンが押された
                 return;
             }
 
             const searchData = {
                 timestamp: new Date().toISOString(),
+                name: saveName.trim() || defaultName,
                 pin: [pinMarker.getLatLng().lat, pinMarker.getLatLng().lng],
                 radius: document.getElementById('radius-input').value,
                 results: pinSearchResults,
@@ -999,12 +1339,18 @@
             store.add(searchData);
 
             transaction.oncomplete = () => {
-                alert('✓ 検索結果を保存しました');
+                // 保存完了メッセージを表示
+                const saveStats = document.getElementById('save-stats');
+                saveStats.style.display = 'block';
+                setTimeout(() => {
+                    saveStats.style.display = 'none';
+                }, 3000);
+                
                 loadSavedData();
             };
 
             transaction.onerror = () => {
-                alert('✗ 保存に失敗しました');
+                alert('保存に失敗しました');
             };
         }
 
@@ -1021,46 +1367,100 @@
             };
         }
 
+        function filterAndSortData() {
+            filteredSavedData = savedData.filter(data => {
+                const date = new Date(data.timestamp);
+                const dateStr = date.toLocaleDateString('ja-JP') + ' ' + date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+                const coordinates = data.pin.join(', ');
+                const searchText = (dateStr + ' ' + data.radius + ' ' + data.count + ' ' + coordinates).toLowerCase();
+                return searchText.includes(currentSearchFilter.toLowerCase());
+            });
+
+            filteredSavedData.sort((a, b) => {
+                switch(currentSort) {
+                    case 'newest':
+                        return new Date(b.timestamp) - new Date(a.timestamp);
+                    case 'oldest':
+                        return new Date(a.timestamp) - new Date(b.timestamp);
+                    case 'radius-asc':
+                        return parseInt(a.radius) - parseInt(b.radius);
+                    case 'radius-desc':
+                        return parseInt(b.radius) - parseInt(a.radius);
+                    case 'count-asc':
+                        return a.count - b.count;
+                    case 'count-desc':
+                        return b.count - a.count;
+                    default:
+                        return 0;
+                }
+            });
+        }
+
         function updateSavedDataUI() {
             const saveCount = document.getElementById('save-count');
+            const saveCountSearch = document.getElementById('save-count-search');
             const dataSize = document.getElementById('data-size');
             const savedItems = document.getElementById('saved-items');
 
             saveCount.textContent = savedData.length;
+            if (saveCountSearch) saveCountSearch.textContent = savedData.length;
+            
             const dataJSON = JSON.stringify(savedData);
             const sizeKB = (new Blob([dataJSON]).size / 1024).toFixed(2);
             dataSize.textContent = sizeKB + ' KB';
 
+            filterAndSortData();
             savedItems.innerHTML = '';
             
-            if (savedData.length === 0) {
+            if (filteredSavedData.length === 0) {
                 savedItems.innerHTML = '<div class="empty-state">保存済み検索なし</div>';
                 return;
             }
 
-            savedData.slice().reverse().forEach((data, index) => {
+            filteredSavedData.forEach((data, index) => {
                 const date = new Date(data.timestamp);
                 const dateStr = date.toLocaleDateString('ja-JP');
                 const timeStr = date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+                const nurseries = data.results.filter(f => f.category === '保育園').length;
+                const kindergartens = data.results.filter(f => f.category === '幼稚園').length;
+                const schools = data.results.filter(f => f.category === '小学校').length;
+                const displayName = data.name || `検索 #${savedData.indexOf(data) + 1}`;
+                
                 const item = document.createElement('div');
-                item.className = 'saved-item';
+                item.className = 'history-item';
                 item.innerHTML = `
-                    <div class="saved-item-info">
-                        <div class="saved-item-date">#${savedData.length - index} | ${dateStr}</div>
-                        <div class="saved-item-stats">${timeStr} | 半径${data.radius}km | ${data.count}件</div>
+                    <div class="history-item-header">
+                        <div class="editable-name" title="クリックして名前を編集">${displayName}</div>
+                        <div class="history-item-date">${dateStr} ${timeStr}</div>
                     </div>
-                    <button class="saved-item-delete">削除</button>
+                    <div class="history-item-details">
+                        <div>座標: ${data.pin[0].toFixed(4)}, ${data.pin[1].toFixed(4)}</div>
+                        <div>半径: ${data.radius}km | 保育園: ${nurseries}件 | 幼稚園: ${kindergartens}件 | 小学校: ${schools}件 | 合計: ${data.count}件</div>
+                    </div>
+                    <div class="history-item-actions">
+                        <button class="history-item-btn-load">この検索を読み込む</button>
+                        <button class="history-item-btn-delete">削除</button>
+                    </div>
                 `;
-                item.querySelector('.saved-item-info').addEventListener('click', () => {
+                
+                const editableNameElement = item.querySelector('.editable-name');
+                editableNameElement.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    openEditNameModal(data);
+                });
+                
+                item.querySelector('.history-item-btn-load').addEventListener('click', () => {
                     if (data.pin) pinPoint(data.pin[0], data.pin[1]);
                     document.querySelector('.tab[data-tab="search"]').click();
                 });
-                item.querySelector('.saved-item-delete').addEventListener('click', (e) => {
+                
+                item.querySelector('.history-item-btn-delete').addEventListener('click', (e) => {
                     e.stopPropagation();
                     if (confirm('この検索を削除しますか？')) {
                         deleteSavedItem(data.id);
                     }
                 });
+                
                 savedItems.appendChild(item);
             });
         }
@@ -1076,7 +1476,7 @@
         }
 
         function clearDB() {
-            if (!db || confirm('すべての保存済み検索を削除しますか？')) {
+            if (!db || confirm('すべての保存済み検索を削除しますか？\nこの操作は取り消せません。')) {
                 const transaction = db.transaction([STORE_NAME], 'readwrite');
                 const store = transaction.objectStore(STORE_NAME);
                 store.clear();
@@ -1084,10 +1484,96 @@
                 transaction.oncomplete = () => {
                     savedData = [];
                     updateSavedDataUI();
-                    alert('✓ すべてのデータを削除しました');
+                    alert('すべての保存データを削除しました');
                 };
             }
         }
+
+        // ファイルエクスポート機能
+        function exportToFile() {
+            if (savedData.length === 0) {
+                alert('保存済み検索がありません');
+                return;
+            }
+
+            const dataToExport = {
+                exportDate: new Date().toISOString(),
+                version: 2,
+                data: savedData.map(item => ({
+                    timestamp: item.timestamp,
+                    name: item.name || '',
+                    pin: item.pin,
+                    radius: item.radius,
+                    count: item.count,
+                    results: item.results
+                }))
+            };
+
+            const dataStr = JSON.stringify(dataToExport, null, 2);
+            const blob = new Blob([dataStr], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `facilities-map-${new Date().toISOString().slice(0,10)}.json`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+
+            alert(`${savedData.length}件の検索データをファイルに保存しました`);
+        }
+
+        // ファイルインポート機能
+        function importFromFile() {
+            const fileInput = document.getElementById('import-file');
+            fileInput.click();
+        }
+
+        document.getElementById('import-file').addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (event) => {
+                try {
+                    const importedData = JSON.parse(event.target.result);
+                    
+                    if (!importedData.data || !Array.isArray(importedData.data)) {
+                        throw new Error('ファイル形式が無効です');
+                    }
+
+                    let importCount = 0;
+                    const transaction = db.transaction([STORE_NAME], 'readwrite');
+                    const store = transaction.objectStore(STORE_NAME);
+
+                    importedData.data.forEach(item => {
+                        delete item.id;
+                        // 名前フィールドが存在しない場合はデフォルト値を設定
+                        if (!item.name) {
+                            const date = new Date(item.timestamp);
+                            item.name = date.toLocaleDateString('ja-JP') + ' ' + date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+                        }
+                        store.add(item);
+                        importCount++;
+                    });
+
+                    transaction.oncomplete = () => {
+                        loadSavedData();
+                        alert(`${importCount}件のデータをインポートしました`);
+                    };
+
+                    transaction.onerror = () => {
+                        alert('インポート中にエラーが発生しました');
+                    };
+                } catch (error) {
+                    alert('ファイルの読み込みに失敗しました: ' + error.message);
+                }
+            };
+            reader.readAsText(file);
+            
+            // ファイル選択をリセット
+            e.target.value = '';
+        });
 
         // イベントリスナー
         document.getElementById('pin-btn').addEventListener('click', togglePinMode);
@@ -1101,10 +1587,148 @@
             document.getElementById('pin-btn').classList.remove('active');
             document.getElementById('map').classList.remove('pin-mode');
         });
-        document.getElementById('apply-filter-btn').addEventListener('click', applyFilters);
-        document.getElementById('reset-filter-btn').addEventListener('click', resetFilters);
+        
+        // 検索フィルターのリアルタイム反映
+        document.getElementById('name-search-input').addEventListener('input', applySearchFilters);
+        document.getElementById('category-select').addEventListener('change', applySearchFilters);
+        document.getElementById('prefecture-select').addEventListener('change', applySearchFilters);
+        
+        // 半径スライダーのリアルタイム反映
+        document.getElementById('radius-input').addEventListener('input', (e) => {
+            document.getElementById('radius-display').textContent = e.target.value;
+            
+            // ピンが存在する場合、円を更新
+            if (pinMarker) {
+                if (radiusCircle) map.removeLayer(radiusCircle);
+                const pinLat = pinMarker.getLatLng().lat;
+                const pinLng = pinMarker.getLatLng().lng;
+                
+                radiusCircle = L.circle([pinLat, pinLng], {
+                    radius: e.target.value * 1000,
+                    color: '#2196F3',
+                    weight: 2,
+                    fill: false,
+                    dashArray: '5, 5'
+                }).addTo(map);
+                
+                // 検索結果を更新
+                pinSearchResults = allFacilities.filter(facility => {
+                    const distance = calculateDistance(pinLat, pinLng, facility.latitude, facility.longitude);
+                    return distance <= e.target.value;
+                }).sort((a, b) => {
+                    const distA = calculateDistance(pinLat, pinLng, a.latitude, a.longitude);
+                    const distB = calculateDistance(pinLat, pinLng, b.latitude, b.longitude);
+                    return distA - distB;
+                });
+                
+                displayPinSearchResults(pinLat, pinLng);
+            }
+        });
+        
         document.getElementById('save-btn').addEventListener('click', saveToDB);
         document.getElementById('clear-db-btn').addEventListener('click', clearDB);
+
+        // ファイル操作イベント
+        document.getElementById('export-btn').addEventListener('click', exportToFile);
+        document.getElementById('import-btn').addEventListener('click', importFromFile);
+
+        // 履歴検索フィルター
+        document.getElementById('history-search-box').addEventListener('input', (e) => {
+            currentSearchFilter = e.target.value;
+            updateSavedDataUI();
+        });
+
+        // ソートボタン
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentSort = btn.dataset.sort;
+                updateSavedDataUI();
+            });
+        });
+
+        // モーダル関連の関数
+        let editingDataId = null;
+
+        function openEditNameModal(data) {
+            editingDataId = data.id;
+            const modal = document.getElementById('edit-name-modal');
+            const input = document.getElementById('edit-name-input');
+            input.value = data.name || '';
+            modal.classList.add('active');
+            input.focus();
+            input.select();
+        }
+
+        function closeEditNameModal() {
+            const modal = document.getElementById('edit-name-modal');
+            modal.classList.remove('active');
+            editingDataId = null;
+        }
+
+        function updateNameInDB() {
+            const newName = document.getElementById('edit-name-input').value.trim();
+            
+            if (!newName) {
+                alert('名前を入力してください');
+                return;
+            }
+
+            if (!db || editingDataId === null) {
+                alert('エラーが発生しました');
+                return;
+            }
+
+            const transaction = db.transaction([STORE_NAME], 'readwrite');
+            const store = transaction.objectStore(STORE_NAME);
+            const getRequest = store.get(editingDataId);
+
+            getRequest.onsuccess = () => {
+                const data = getRequest.result;
+                if (data) {
+                    data.name = newName;
+                    const putRequest = store.put(data);
+                    
+                    putRequest.onsuccess = () => {
+                        closeEditNameModal();
+                        loadSavedData();
+                    };
+
+                    putRequest.onerror = () => {
+                        alert('更新に失敗しました');
+                    };
+                }
+            };
+
+            getRequest.onerror = () => {
+                alert('データの取得に失敗しました');
+            };
+        }
+
+        // モーダルボタンのイベントリスナー
+        document.getElementById('modal-cancel-btn').addEventListener('click', closeEditNameModal);
+        document.getElementById('modal-confirm-btn').addEventListener('click', updateNameInDB);
+
+        // Enterキーで更新、Escキーでキャンセル
+        document.getElementById('edit-name-input').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                updateNameInDB();
+            }
+        });
+
+        document.getElementById('edit-name-input').addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeEditNameModal();
+            }
+        });
+
+        // モーダルの外側をクリックで閉じる
+        document.getElementById('edit-name-modal').addEventListener('click', (e) => {
+            if (e.target.id === 'edit-name-modal') {
+                closeEditNameModal();
+            }
+        });
 
         // 初期化
         async function initialize() {

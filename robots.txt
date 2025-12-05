@@ -1,0 +1,14 @@
+# robots.txt for facilities-map
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /public/
+
+Disallow: /facilities_data/
+
+# Crawl-delay (秒)
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://facilities-map.vercel.app/sitemap.xml
