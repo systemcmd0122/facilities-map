@@ -8,30 +8,6 @@
     "category": "保育園"
   },
   {
-    "name": "南西保育園",
-    "address": "\n〒400-0046 山梨県甲府市下石田２丁目１０−１７ 社会福祉法人 南西保育園",
-    "latitude": 35.647076,
-    "longitude": 138.555579,
-    "link": "https://www.google.com/maps/place/%E5%8D%97%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7609c946d9b:0x1c8dd622af6468de!8m2!3d35.647076!4d138.555579!16s%2Fg%2F1vq9mc4w!19sChIJm22UnGD3G2AR3mhkryLWjRw?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "友愛保育園",
-    "address": "\n〒400-0822 山梨県甲府市里吉４丁目８−２５",
-    "latitude": 35.647283,
-    "longitude": 138.5906203,
-    "link": "https://www.google.com/maps/place/%E5%8F%8B%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9866e2bb5cf:0xc459259a84c80e91!8m2!3d35.647283!4d138.5906203!16s%2Fg%2F1tgc9l4x!19sChIJz7Urbob5G2ARkQ7IhJolWcQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "柏こども園",
-    "address": "\n〒400-1501 山梨県甲府市上曽根町２５８",
-    "latitude": 35.6055113,
-    "longitude": 138.6002406,
-    "link": "https://www.google.com/maps/place/%E6%9F%8F%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfb023efe5bf7:0x83f3c79c10d9ff53!8m2!3d35.6055113!4d138.6002406!16s%2Fg%2F1vzg29kz!19sChIJ91v-PgL7G2ARU__ZEJzH84M?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
     "name": "こでまりこども園",
     "address": "\n〒400-0858 山梨県甲府市相生１丁目８−１０",
     "latitude": 35.6569575,
@@ -48,11 +24,43 @@
     "category": "保育園"
   },
   {
+    "name": "柏こども園",
+    "address": "\n〒400-1501 山梨県甲府市上曽根町２５８",
+    "latitude": 35.6055113,
+    "longitude": 138.6002406,
+    "link": "https://www.google.com/maps/place/%E6%9F%8F%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfb023efe5bf7:0x83f3c79c10d9ff53!8m2!3d35.6055113!4d138.6002406!16s%2Fg%2F1vzg29kz!19sChIJ91v-PgL7G2ARU__ZEJzH84M?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "森のようちえん にっこにこ",
+    "address": "\n〒400-0008 山梨県甲府市緑が丘２丁目１１−１８ 7",
+    "latitude": 35.6826785,
+    "longitude": 138.5623764,
+    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
     "name": "伸芽保育園",
     "address": "\n〒400-0042 山梨県甲府市高畑１丁目５−５",
     "latitude": 35.6543476,
     "longitude": 138.5635884,
     "link": "https://www.google.com/maps/place/%E4%BC%B8%E8%8A%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9dea91bae0b:0xe15603a581094f2a!8m2!3d35.6543476!4d138.5635884!16s%2Fg%2F1td13bnz!19sChIJC64bqd75G2ARKk8JgaUDVuE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "まみい・キッズこども園",
+    "address": "\n〒409-3815 山梨県中央市成島１０７２−１",
+    "latitude": 35.599166,
+    "longitude": 138.54697,
+    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%BF%E3%81%84%E3%83%BB%E3%82%AD%E3%83%83%E3%82%BA%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf090464ce147:0x796b0f590767ca7b!8m2!3d35.599166!4d138.54697!16s%2Fg%2F1tf70_r5!19sChIJR-FMRpDwG2ARe8pnB1kPa3k?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "昭和こども園",
+    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条４１８５−２",
+    "latitude": 35.6385856,
+    "longitude": 138.540118,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7405c6b7473:0x8ad0c572aaf3e55a!8m2!3d35.6385856!4d138.540118!16s%2Fg%2F1tj2c1yt!19sChIJc3RrXED3G2ARWuXzqnLF0Io?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -72,75 +80,11 @@
     "category": "保育園"
   },
   {
-    "name": "大里保育園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２０５７−３２",
-    "latitude": 35.6222223,
-    "longitude": 138.5631863,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%87%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa06023c7071:0xfe33831aad30a300!8m2!3d35.6222223!4d138.5631863!16s%2Fg%2F11h40zfjhb!19sChIJcXA8Agb6G2ARAKMwrRqDM_4?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "昭和こども園",
-    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条４１８５−２",
-    "latitude": 35.6385856,
-    "longitude": 138.540118,
-    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7405c6b7473:0x8ad0c572aaf3e55a!8m2!3d35.6385856!4d138.540118!16s%2Fg%2F1tj2c1yt!19sChIJc3RrXED3G2ARWuXzqnLF0Io?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "森のようちえん にっこにこ",
-    "address": "\n〒400-0008 山梨県甲府市緑が丘２丁目１１−１８ 7",
-    "latitude": 35.6826785,
-    "longitude": 138.5623764,
-    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
     "name": "くだま保育園",
     "address": "\n〒400-0815 山梨県甲府市国玉町４６８−１",
     "latitude": 35.6512742,
     "longitude": 138.6027361,
     "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%A0%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf97eebd18f23:0xef95c25f1606cc41!8m2!3d35.6512742!4d138.6027361!16s%2Fg%2F1td69yp5!19sChIJI4_R6375G2ARQcwGFl_Cle8?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ちびっこはうす保育園",
-    "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
-    "latitude": 35.6303226,
-    "longitude": 138.5880953,
-    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%81%AF%E3%81%86%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa3a6feac997:0x44f749f7c6d97de2!8m2!3d35.6303226!4d138.5880953!16s%2Fg%2F1tdh8j64!19sChIJl8nqbzr6G2AR4n3ZxvdJ90Q?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲府市立中道保育園",
-    "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
-    "latitude": 35.5868216,
-    "longitude": 138.5894567,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E4%B8%AD%E9%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfadd37538e63:0xb485c3aa5616d2ef!8m2!3d35.5868216!4d138.5894567!16s%2Fg%2F1tdpg80r!19sChIJY45TN936G2AR79IWVqrDhbQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "山梨 立正光生園",
-    "address": "\n〒400-0856 山梨県甲府市伊勢２丁目１−１９",
-    "latitude": 35.6481892,
-    "longitude": 138.5689555,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8+%E7%AB%8B%E6%AD%A3%E5%85%89%E7%94%9F%E5%9C%92/data=!4m7!3m6!1s0x601bf9ef528b19e7:0xf47a1f8c8068bf54!8m2!3d35.6481892!4d138.5689555!16s%2Fg%2F1v2yyyk7!19sChIJ5xmLUu_5G2ARVL9ogIwfevQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲府あら川こども園",
-    "address": "\n〒400-0062 山梨県甲府市池田１丁目１０−３０ あら川保育園",
-    "latitude": 35.6714061,
-    "longitude": 138.5435918,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf796d579417b:0x1e996ee24768500f!8m2!3d35.6714061!4d138.5435918!16s%2Fg%2F1tg2krd_!19sChIJe0F51Zb3G2ARD1BoR-JumR4?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "境川保育園",
-    "address": "\n〒406-0851 山梨県笛吹市境川町小黒坂１６４０−１",
-    "latitude": 35.59492,
-    "longitude": 138.622825,
-    "link": "https://www.google.com/maps/place/%E5%A2%83%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfb4668a92c41:0xcdd72d4698140c77!8m2!3d35.59492!4d138.622825!16s%2Fg%2F1ts1s98s!19sChIJQSypaEb7G2ARdwwUmEYt180?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -152,155 +96,19 @@
     "category": "保育園"
   },
   {
-    "name": "まみい・キッズこども園",
-    "address": "\n〒409-3815 山梨県中央市成島１０７２−１",
-    "latitude": 35.599166,
-    "longitude": 138.54697,
-    "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%BF%E3%81%84%E3%83%BB%E3%82%AD%E3%83%83%E3%82%BA%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf090464ce147:0x796b0f590767ca7b!8m2!3d35.599166!4d138.54697!16s%2Fg%2F1tf70_r5!19sChIJR-FMRpDwG2ARe8pnB1kPa3k?authuser=0&hl=ja&rclk=1",
+    "name": "友愛保育園",
+    "address": "\n〒400-0822 山梨県甲府市里吉４丁目８−２５",
+    "latitude": 35.647283,
+    "longitude": 138.5906203,
+    "link": "https://www.google.com/maps/place/%E5%8F%8B%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9866e2bb5cf:0xc459259a84c80e91!8m2!3d35.647283!4d138.5906203!16s%2Fg%2F1tgc9l4x!19sChIJz7Urbob5G2ARkQ7IhJolWcQ?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "白百合保育園",
-    "address": "\n〒400-0074 山梨県甲府市千塚３丁目１−４０",
-    "latitude": 35.6816236,
-    "longitude": 138.5405438,
-    "link": "https://www.google.com/maps/place/%E7%99%BD%E7%99%BE%E5%90%88%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7e9889251db:0xb951bbc321043807!8m2!3d35.6816236!4d138.5405438!16s%2Fg%2F1td_brl2!19sChIJ21GSiOn3G2ARBzgEIcO7Ubk?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "大鎌田保育園",
-    "address": "\n〒400-0053 山梨県甲府市大里町４５３０",
-    "latitude": 35.6180986,
-    "longitude": 138.5593979,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%8E%8C%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa09dca7e24b:0x252482273d2a6534!8m2!3d35.6180986!4d138.5593979!16s%2Fg%2F1tfc22h5!19sChIJS-Kn3An6G2ARNGUqPSeCJCU?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "赤尾保育園",
-    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
-    "latitude": 35.7010415,
-    "longitude": 138.7364235,
-    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲南立正保育園",
-    "address": "\n〒400-0842 山梨県甲府市下今井町７０７",
-    "latitude": 35.613273,
-    "longitude": 138.5835,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%8D%97%E7%AB%8B%E6%AD%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa5cac881091:0x6ef03e826900492e!8m2!3d35.613273!4d138.5835!16s%2Fg%2F1vjdq3w5!19sChIJkRCIrFz6G2ARLkkAaYI-8G4?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "千野保育園",
-    "address": "\n〒404-0041 山梨県甲州市塩山千野３６５３",
-    "latitude": 35.7146012,
-    "longitude": 138.7343227,
-    "link": "https://www.google.com/maps/place/%E5%8D%83%E9%87%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601955e8d54f5a9d:0x757c9994b326df7!8m2!3d35.7146012!4d138.7343227!16s%2Fg%2F1tmqg815!19sChIJnVpP1ehVGWAR920yS5nJVwc?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲府市立中央保育所",
-    "address": "\n〒400-0032 山梨県甲府市中央３丁目３−１",
-    "latitude": 35.6639714,
-    "longitude": 138.5760722,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%A4%AE%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf9c6f83ff11f:0xc398193b70d0c30c!8m2!3d35.6639714!4d138.5760722!16s%2Fg%2F1tgdnmn_!19sChIJH_E_-Mb5G2ARDMPQcDsZmMM?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "梅香学園",
-    "address": "\n〒400-0043 山梨県甲府市国母５丁目１６−２８",
-    "latitude": 35.6420998,
-    "longitude": 138.5531563,
-    "link": "https://www.google.com/maps/place/%E6%A2%85%E9%A6%99%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601bf75c1a71f007:0x74a04614c0cd31b9!8m2!3d35.6420998!4d138.5531563!16s%2Fg%2F1tg9hmpd!19sChIJB_BxGlz3G2ARuTHNwBRGoHQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ひよこ保育園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原８７１−２",
-    "latitude": 35.6478342,
-    "longitude": 138.5273198,
-    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7032189b659:0xd6d5c8eadaf6f7ac!8m2!3d35.6478342!4d138.5273198!16s%2Fg%2F11gmzbqfv4!19sChIJWbaJIQP3G2ARrPf22urI1dY?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "野の花保育園",
-    "address": "\n〒400-0032 山梨県甲府市中央３丁目１０−７",
-    "latitude": 35.6620811,
-    "longitude": 138.5758874,
-    "link": "https://www.google.com/maps/place/%E9%87%8E%E3%81%AE%E8%8A%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9c6f92a7907:0x7b3d0f4c0434b9fe!8m2!3d35.6620811!4d138.5758874!16s%2Fg%2F11trshgyzl!19sChIJB3kq-cb5G2AR_rk0BEwPPXs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "池田保育園",
-    "address": "\n〒400-0062 山梨県甲府市池田３丁目５−２６ 社会福祉法人 みづほ福祉会 池田保育園",
-    "latitude": 35.670786,
-    "longitude": 138.5364047,
-    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7be7fc4ce0b:0x966cda6a34681631!8m2!3d35.670786!4d138.5364047!16s%2Fg%2F1tkmmmqg!19sChIJC87Ef773G2ARMRZoNGrabJY?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "宮前保育園",
-    "address": "\nMiyamae Green Gables, ３７９ 岩窪町 甲府市 山梨県 400-0013",
-    "latitude": 35.68055,
-    "longitude": 138.5845556,
-    "link": "https://www.google.com/maps/place/%E5%AE%AE%E5%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf84c6d2520e5:0x2eb1cee3c205f478!8m2!3d35.68055!4d138.5845556!16s%2Fg%2F1tltmfqj!19sChIJ5SAlbUz4G2ARePQFwuPOsS4?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "かすが通り保育園",
-    "address": "\n〒400-0032 山梨県甲府市中央１丁目１２−５ 五光ビル １Ｃ",
-    "latitude": 35.6593877,
-    "longitude": 138.5693993,
-    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%99%E3%81%8C%E9%80%9A%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9a516c5d9d7:0x7325e3eee9092753!8m2!3d35.6593877!4d138.5693993!16s%2Fg%2F11p11czgbf!19sChIJ19nFFqX5G2ARUycJ6e7jJXM?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "あいぐらん保育園甲府飯田",
-    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
-    "latitude": 35.6650967,
-    "longitude": 138.5486884,
-    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%84%E3%81%90%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92%E7%94%B2%E5%BA%9C%E9%A3%AF%E7%94%B0/data=!4m7!3m6!1s0x601bf7b33ad060f7:0x2c60b0dd487bafc7!8m2!3d35.6650967!4d138.5486884!16s%2Fg%2F11mhsh36j6!19sChIJ92DQOrP3G2ARx697SN2wYCw?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "玉諸保育所",
-    "address": "\n〒400-0824 山梨県甲府市蓬沢町１２４７ 甲府市玉諸保育所",
-    "latitude": 35.644816,
-    "longitude": 138.602836,
-    "link": "https://www.google.com/maps/place/%E7%8E%89%E8%AB%B8%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfbd41467d753:0xbb148c1b5663bcab!8m2!3d35.644816!4d138.602836!16s%2Fg%2F1w4f8596!19sChIJU9dnFNT7G2ARq7xjVhuMFLs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "慈光保育園",
-    "address": "\n〒400-0806 山梨県甲府市善光寺３丁目３６−１１",
-    "latitude": 35.667052,
-    "longitude": 138.593813,
-    "link": "https://www.google.com/maps/place/%E6%85%88%E5%85%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9a3fe71318b:0x7bf3a62d189ea2d5!8m2!3d35.667052!4d138.593813!16s%2Fg%2F1tscp22r!19sChIJizFx_qP5G2AR1aKeGC2m83s?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ニチイキッズとくぎょう保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
-    "latitude": 35.6514391,
-    "longitude": 138.5507929,
-    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "めぐみ福祉会 二川保育園",
-    "address": "\n〒400-0055 山梨県甲府市大津町１３２４",
-    "latitude": 35.6013686,
-    "longitude": 138.5671886,
-    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%90%E3%81%BF%E7%A6%8F%E7%A5%89%E4%BC%9A+%E4%BA%8C%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa7ca2a26e37:0xd4c967bb0973aa44!8m2!3d35.6013686!4d138.5671886!16s%2Fg%2F1tfkl7g3!19sChIJN26ionz6G2ARRKpzCbtnydQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "日下部保育園",
-    "address": "\n〒405-0006 山梨県山梨市小原西３８９−７",
-    "latitude": 35.692994,
-    "longitude": 138.694963,
-    "link": "https://www.google.com/maps/place/%E6%97%A5%E4%B8%8B%E9%83%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe73c69de351:0xa21a3b39cb3c3d3d!8m2!3d35.692994!4d138.694963!16s%2Fg%2F1tj84xwq!19sChIJUeOdxnP-G2ARPT08yzk7GqI?authuser=0&hl=ja&rclk=1",
+    "name": "大里保育園",
+    "address": "\n〒400-0053 山梨県甲府市大里町２０５７−３２",
+    "latitude": 35.6222223,
+    "longitude": 138.5631863,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%87%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa06023c7071:0xfe33831aad30a300!8m2!3d35.6222223!4d138.5631863!16s%2Fg%2F11h40zfjhb!19sChIJcXA8Agb6G2ARAKMwrRqDM_4?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -312,19 +120,43 @@
     "category": "保育園"
   },
   {
-    "name": "八日市場保育園",
-    "address": "\n〒405-0005 山梨県山梨市小原東２３８−１",
-    "latitude": 35.696846,
-    "longitude": 138.701648,
-    "link": "https://www.google.com/maps/place/%E5%85%AB%E6%97%A5%E5%B8%82%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe0da82a22bd:0x9e3aaba47021e8f6!8m2!3d35.696846!4d138.701648!16s%2Fg%2F1tfbyjpr!19sChIJvSIqqA3-G2AR9ughcKSrOp4?authuser=0&hl=ja&rclk=1",
+    "name": "甲府あら川こども園",
+    "address": "\n〒400-0062 山梨県甲府市池田１丁目１０−３０ あら川保育園",
+    "latitude": 35.6714061,
+    "longitude": 138.5435918,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf796d579417b:0x1e996ee24768500f!8m2!3d35.6714061!4d138.5435918!16s%2Fg%2F1tg2krd_!19sChIJe0F51Zb3G2ARD1BoR-JumR4?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "大月保育園",
-    "address": "\n〒401-0013 山梨県大月市大月２丁目１０−１２",
-    "latitude": 35.6080796,
-    "longitude": 138.9396908,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%9C%88%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601943b570f4f3fb:0xd09dc50b1fdb7311!8m2!3d35.6080796!4d138.9396908!16s%2Fg%2F1thznyv8!19sChIJ-_P0cLVDGWAREXPbHwvFndA?authuser=0&hl=ja&rclk=1",
+    "name": "南西保育園",
+    "address": "\n〒400-0046 山梨県甲府市下石田２丁目１０−１７ 社会福祉法人 南西保育園",
+    "latitude": 35.647076,
+    "longitude": 138.555579,
+    "link": "https://www.google.com/maps/place/%E5%8D%97%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7609c946d9b:0x1c8dd622af6468de!8m2!3d35.647076!4d138.555579!16s%2Fg%2F1vq9mc4w!19sChIJm22UnGD3G2AR3mhkryLWjRw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大鎌田保育園",
+    "address": "\n〒400-0053 山梨県甲府市大里町４５３０",
+    "latitude": 35.6180986,
+    "longitude": 138.5593979,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%8E%8C%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa09dca7e24b:0x252482273d2a6534!8m2!3d35.6180986!4d138.5593979!16s%2Fg%2F1tfc22h5!19sChIJS-Kn3An6G2ARNGUqPSeCJCU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "境川保育園",
+    "address": "\n〒406-0851 山梨県笛吹市境川町小黒坂１６４０−１",
+    "latitude": 35.59492,
+    "longitude": 138.622825,
+    "link": "https://www.google.com/maps/place/%E5%A2%83%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfb4668a92c41:0xcdd72d4698140c77!8m2!3d35.59492!4d138.622825!16s%2Fg%2F1ts1s98s!19sChIJQSypaEb7G2ARdwwUmEYt180?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ニチイキッズとくぎょう保育園",
+    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
+    "latitude": 35.6514391,
+    "longitude": 138.5507929,
+    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -336,62 +168,6 @@
     "category": "保育園"
   },
   {
-    "name": "光明保育園",
-    "address": "\n〒405-0018 山梨県山梨市上神内川９４５",
-    "latitude": 35.6871472,
-    "longitude": 138.6883973,
-    "link": "https://www.google.com/maps/place/%E5%85%89%E6%98%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe79dc5b9167:0xc0e18e5748c85872!8m2!3d35.6871472!4d138.6883973!16s%2Fg%2F1tg3b55z!19sChIJZ5Fb3Hn-G2ARcljISFeO4cA?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "認定こども園 すみよし愛児園",
-    "address": "\n〒400-0851 山梨県甲府市住吉３丁目２４−２０",
-    "latitude": 35.640602,
-    "longitude": 138.582779,
-    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf98a0d9368a1:0x380d2bcdaec58f5d!8m2!3d35.640602!4d138.582779!16s%2Fg%2F1vn_z0jn!19sChIJoWiTDYr5G2ARXY_Frs0rDTg?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "玉幡保育園",
-    "address": "\n〒400-0117 山梨県甲斐市西八幡３７０２−１",
-    "latitude": 35.6405218,
-    "longitude": 138.5149223,
-    "link": "https://www.google.com/maps/place/%E7%8E%89%E5%B9%A1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6fced2dc453:0xd097c98d540eda1c!8m2!3d35.6405218!4d138.5149223!16s%2Fg%2F1td13bmv!19sChIJU8Qt7fz2G2ARHNoOVI3Jl9A?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "明照福祉会 誓和保育園",
-    "address": "\n〒400-0807 山梨県甲府市東光寺１丁目３−２７ 誓和",
-    "latitude": 35.6627963,
-    "longitude": 138.5817961,
-    "link": "https://www.google.com/maps/place/%E6%98%8E%E7%85%A7%E7%A6%8F%E7%A5%89%E4%BC%9A+%E8%AA%93%E5%92%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9b92e3997b1:0xfbe6f98241c561a3!8m2!3d35.6627963!4d138.5817961!16s%2Fg%2F1tkktymh!19sChIJsZc5Lrn5G2ARo2HFQYL55vs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "田富第一保育園",
-    "address": "\n〒409-3841 山梨県中央市布施３０１５",
-    "latitude": 35.6022577,
-    "longitude": 138.5197678,
-    "link": "https://www.google.com/maps/place/%E7%94%B0%E5%AF%8C%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0d88bcb050b:0x2ff4c87a9e4fa257!8m2!3d35.6022577!4d138.5197678!16s%2Fg%2F1tgq6qh9!19sChIJCwXLi9jwG2ARV6JPnnrI9C8?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲斐市立竜王東保育園",
-    "address": "\n〒400-0113 山梨県甲斐市富竹新田９７３−１",
-    "latitude": 35.6601086,
-    "longitude": 138.5285086,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E6%9D%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7ae57e36123:0xbce6d32ff6dea499!8m2!3d35.6601086!4d138.5285086!16s%2Fg%2F11bxb9d4fx!19sChIJI2HjV673G2ARmaTe9i_T5rw?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲斐ひよこ保育園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原１２６５",
-    "latitude": 35.643997,
-    "longitude": 138.5278439,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7083ac8173d:0x2424ee54bccfa193!8m2!3d35.643997!4d138.5278439!16s%2Fg%2F11jt8h93rt!19sChIJPRfIOgj3G2ARk6HPvFTuJCQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
     "name": "石和あら川こども園",
     "address": "\n〒406-0045 山梨県笛吹市石和町井戸２３６−１",
     "latitude": 35.6244005,
@@ -400,35 +176,27 @@
     "category": "保育園"
   },
   {
-    "name": "聖愛会 なでしここども園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
-    "latitude": 35.6265344,
-    "longitude": 138.5640663,
-    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E4%BC%9A+%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa04223a8933:0x76343b0fbf4a01eb!8m2!3d35.6265344!4d138.5640663!16s%2Fg%2F1td0gl4j!19sChIJM4k6IgT6G2AR6wFKvw87NHY?authuser=0&hl=ja&rclk=1",
+    "name": "赤尾保育園",
+    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
+    "latitude": 35.7010415,
+    "longitude": 138.7364235,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "てくてく保育園 甲府大里",
-    "address": "\n〒400-0053 山梨県甲府市大里町５２８５",
-    "latitude": 35.6252889,
-    "longitude": 138.5566414,
-    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E5%A4%A7%E9%87%8C/data=!4m7!3m6!1s0x601bf0aa31c15555:0xb4e80a74088083bb!8m2!3d35.6252889!4d138.5566414!16s%2Fg%2F11f2b6q2nl!19sChIJVVXBMarwG2ARu4OACHQK6LQ?authuser=0&hl=ja&rclk=1",
+    "name": "甲府市立中道保育園",
+    "address": "\n〒400-1507 山梨県甲府市下向山町９８８−１ 市立中道保育所",
+    "latitude": 35.5868216,
+    "longitude": 138.5894567,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E4%B8%AD%E9%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfadd37538e63:0xb485c3aa5616d2ef!8m2!3d35.5868216!4d138.5894567!16s%2Fg%2F1tdpg80r!19sChIJY45TN936G2AR79IWVqrDhbQ?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "小淵沢保育園",
-    "address": "\n〒408-0041 山梨県北杜市小淵沢町上笹尾１２９０",
-    "latitude": 35.8474273,
-    "longitude": 138.3284739,
-    "link": "https://www.google.com/maps/place/%E5%B0%8F%E6%B7%B5%E6%B2%A2%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c6bad0b1c89bb:0x20eb93075ff2a0f7!8m2!3d35.8474273!4d138.3284739!16s%2Fg%2F11rvjh962g!19sChIJu4kcC61rHGAR96DyXweT6yA?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "加納岩保育園",
-    "address": "\n〒408-0041 山梨県北杜市小淵沢町上笹尾１２９０",
-    "latitude": 35.6793156,
-    "longitude": 138.6809404,
-    "link": "https://www.google.com/maps/place/%E5%8A%A0%E7%B4%8D%E5%B2%A9%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdd5055a50dd:0xdd096fe68b78b7a4!8m2!3d35.6793156!4d138.6809404!16s%2Fg%2F1td9w5pt!19sChIJ3VBaBdX9G2ARpLd4i-ZvCd0?authuser=0&hl=ja&rclk=1",
+    "name": "甲南立正保育園",
+    "address": "\n〒400-0842 山梨県甲府市下今井町７０７",
+    "latitude": 35.613273,
+    "longitude": 138.5835,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%8D%97%E7%AB%8B%E6%AD%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa5cac881091:0x6ef03e826900492e!8m2!3d35.613273!4d138.5835!16s%2Fg%2F1vjdq3w5!19sChIJkRCIrFz6G2ARLkkAaYI-8G4?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -440,19 +208,51 @@
     "category": "保育園"
   },
   {
-    "name": "みかさこども園",
-    "address": "\n〒409-3844 山梨県中央市臼井阿原８１３−６",
-    "latitude": 35.5957755,
-    "longitude": 138.517705,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8B%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf120149290ff:0x458b10f3734360da!8m2!3d35.5957755!4d138.517705!16s%2Fg%2F1tgh7mwn!19sChIJ_5CSFCDxG2AR2mBDc_MQi0U?authuser=0&hl=ja&rclk=1",
+    "name": "山梨 立正光生園",
+    "address": "\n〒400-0856 山梨県甲府市伊勢２丁目１−１９",
+    "latitude": 35.6481892,
+    "longitude": 138.5689555,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8+%E7%AB%8B%E6%AD%A3%E5%85%89%E7%94%9F%E5%9C%92/data=!4m7!3m6!1s0x601bf9ef528b19e7:0xf47a1f8c8068bf54!8m2!3d35.6481892!4d138.5689555!16s%2Fg%2F1v2yyyk7!19sChIJ5xmLUu_5G2ARVL9ogIwfevQ?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "後屋敷保育所",
-    "address": "\n〒405-0011 山梨県山梨市三ケ所３１７−１",
-    "latitude": 35.6865616,
-    "longitude": 138.7030376,
-    "link": "https://www.google.com/maps/place/%E5%BE%8C%E5%B1%8B%E6%95%B7%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfde146e9571f:0x64201a91e9a4c04!8m2!3d35.6865616!4d138.7030376!16s%2Fg%2F1td721vq!19sChIJH1fpRuH9G2ARBEyaHqkBQgY?authuser=0&hl=ja&rclk=1",
+    "name": "ちびっこはうす保育園",
+    "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
+    "latitude": 35.6303226,
+    "longitude": 138.5880953,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%81%AF%E3%81%86%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa3a6feac997:0x44f749f7c6d97de2!8m2!3d35.6303226!4d138.5880953!16s%2Fg%2F1tdh8j64!19sChIJl8nqbzr6G2AR4n3ZxvdJ90Q?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "白百合保育園",
+    "address": "\n〒400-0074 山梨県甲府市千塚３丁目１−４０",
+    "latitude": 35.6816236,
+    "longitude": 138.5405438,
+    "link": "https://www.google.com/maps/place/%E7%99%BD%E7%99%BE%E5%90%88%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7e9889251db:0xb951bbc321043807!8m2!3d35.6816236!4d138.5405438!16s%2Fg%2F1td_brl2!19sChIJ21GSiOn3G2ARBzgEIcO7Ubk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "玉諸保育所",
+    "address": "\n〒400-0824 山梨県甲府市蓬沢町１２４７ 甲府市玉諸保育所",
+    "latitude": 35.644816,
+    "longitude": 138.602836,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E8%AB%B8%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfbd41467d753:0xbb148c1b5663bcab!8m2!3d35.644816!4d138.602836!16s%2Fg%2F1w4f8596!19sChIJU9dnFNT7G2ARq7xjVhuMFLs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "千野保育園",
+    "address": "\n〒404-0041 山梨県甲州市塩山千野３６５３",
+    "latitude": 35.7146012,
+    "longitude": 138.7343227,
+    "link": "https://www.google.com/maps/place/%E5%8D%83%E9%87%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601955e8d54f5a9d:0x757c9994b326df7!8m2!3d35.7146012!4d138.7343227!16s%2Fg%2F1tmqg815!19sChIJnVpP1ehVGWAR920yS5nJVwc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "梅香学園",
+    "address": "\n〒400-0043 山梨県甲府市国母５丁目１６−２８",
+    "latitude": 35.6420998,
+    "longitude": 138.5531563,
+    "link": "https://www.google.com/maps/place/%E6%A2%85%E9%A6%99%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601bf75c1a71f007:0x74a04614c0cd31b9!8m2!3d35.6420998!4d138.5531563!16s%2Fg%2F1tg9hmpd!19sChIJB_BxGlz3G2ARuTHNwBRGoHQ?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -464,299 +264,27 @@
     "category": "保育園"
   },
   {
-    "name": "ピッコリーノ保育園",
-    "address": "\n〒400-0058 山梨県甲府市宮原町６０５",
-    "latitude": 35.6179121,
-    "longitude": 138.5540297,
-    "link": "https://www.google.com/maps/place/%E3%83%94%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0a672b0019d:0x95a254965cf14758!8m2!3d35.6179121!4d138.5540297!16s%2Fg%2F11jfcj114p!19sChIJnQGwcqbwG2ARWEfxXJZUopU?authuser=0&hl=ja&rclk=1",
+    "name": "宮前保育園",
+    "address": "\nMiyamae Green Gables, ３７９ 岩窪町 甲府市 山梨県 400-0013",
+    "latitude": 35.68055,
+    "longitude": 138.5845556,
+    "link": "https://www.google.com/maps/place/%E5%AE%AE%E5%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf84c6d2520e5:0x2eb1cee3c205f478!8m2!3d35.68055!4d138.5845556!16s%2Fg%2F1tltmfqj!19sChIJ5SAlbUz4G2ARePQFwuPOsS4?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "八代保育園",
-    "address": "\n〒406-0822 山梨県笛吹市八代町南９３１",
-    "latitude": 35.6175174,
-    "longitude": 138.6428833,
-    "link": "https://www.google.com/maps/place/%E5%85%AB%E4%BB%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfc9c8a14d207:0x66127ed18872a8d!8m2!3d35.6175174!4d138.6428833!16s%2Fg%2F1tfrr_9l!19sChIJB9IUipz8G2ARjSqHGO0nYQY?authuser=0&hl=ja&rclk=1",
+    "name": "玉幡保育園",
+    "address": "\n〒400-0117 山梨県甲斐市西八幡３７０２−１",
+    "latitude": 35.6405218,
+    "longitude": 138.5149223,
+    "link": "https://www.google.com/maps/place/%E7%8E%89%E5%B9%A1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6fced2dc453:0xd097c98d540eda1c!8m2!3d35.6405218!4d138.5149223!16s%2Fg%2F1td13bmv!19sChIJU8Qt7fz2G2ARHNoOVI3Jl9A?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "万才保育園",
-    "address": "\n〒400-0114 山梨県甲斐市万才４７５",
-    "latitude": 35.6469854,
-    "longitude": 138.5319886,
-    "link": "https://www.google.com/maps/place/%E4%B8%87%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70e375d9931:0xe0fbd5af359b2c32!8m2!3d35.6469854!4d138.5319886!16s%2Fg%2F1v8gc2_l!19sChIJMZldNw73G2ARMiybNa_V--A?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "十日市場保育園",
-    "address": "\n〒400-0114 山梨県甲斐市万才４７５",
-    "latitude": 35.608905,
-    "longitude": 138.477659,
-    "link": "https://www.google.com/maps/place/%E5%8D%81%E6%97%A5%E5%B8%82%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf41de97a4ff1:0x93dc6c9dd04f6dd9!8m2!3d35.608905!4d138.477659!16s%2Fg%2F1vl9rkg2!19sChIJ8U966R30G2AR2W1P0J1s3JM?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "田富第三保育園",
-    "address": "\n〒409-3831 山梨県中央市東花輪１１７３",
-    "latitude": 35.5853604,
-    "longitude": 138.5249875,
-    "link": "https://www.google.com/maps/place/%E7%94%B0%E5%AF%8C%E7%AC%AC%E4%B8%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0fb9561e25f:0x64f8ccbbe8aceab6!8m2!3d35.5853604!4d138.5249875!16s%2Fg%2F1w96gtdx!19sChIJX-JhlfvwG2ARtuqs6LvM-GQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "きらきら保育園",
-    "address": "\n〒405-0011 山梨県山梨市三ケ所７８７−３",
-    "latitude": 35.6938114,
-    "longitude": 138.7031349,
-    "link": "https://www.google.com/maps/place/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe0beb8d00b5:0x3df2cc0ddb7a126d!8m2!3d35.6938114!4d138.7031349!16s%2Fg%2F11fb17s5th!19sChIJtQCN6wv-G2ARbRJ62w3M8j0?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "OLive保育園 市部園",
-    "address": "\n〒406-0031 山梨県笛吹市石和町市部１０８４ 202",
-    "latitude": 35.649984,
-    "longitude": 138.636965,
-    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E5%B8%82%E9%83%A8%E5%9C%92/data=!4m7!3m6!1s0x601bfbf666174ba7:0x7155008fd7d01986!8m2!3d35.649984!4d138.636965!16s%2Fg%2F1tcw87lw!19sChIJp0sXZvb7G2ARhhnQ148AVXE?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ファミーユ・ドゥ・フラール保育所",
-    "address": "\n〒400-0035 山梨県甲府市飯田４丁目２−１９ 保育所 乳幼児教育施設 ファミーユ・ドゥ・フラール",
-    "latitude": 35.666785,
-    "longitude": 138.555061,
-    "link": "https://www.google.com/maps/place/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%BC%E3%83%A6%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%95%E3%83%A9%E3%83%BC%E3%83%AB%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf781a215d82f:0xaa6bda14b92b8536!8m2!3d35.666785!4d138.555061!16s%2Fg%2F1tdf1f2k!19sChIJL9gVooH3G2ARNoUruRTaa6o?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "中町保育園",
-    "address": "\n〒400-0844 山梨県甲府市中町４０４−１",
-    "latitude": 35.617935,
-    "longitude": 138.5723492,
-    "link": "https://www.google.com/maps/place/%E4%B8%AD%E7%94%BA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa13366fbea7:0x81da6dfd43643885!8m2!3d35.617935!4d138.5723492!16s%2Fg%2F11t0q55_w3!19sChIJp75vNhP6G2ARhThkQ_1t2oE?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ふるるこども園",
-    "address": "\n〒409-3853 山梨県中巨摩郡昭和町築地新居",
-    "latitude": 35.6261879,
-    "longitude": 138.5243564,
-    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%82%8B%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf725c4ad5b6f:0xabbc018d6d39ed01!8m2!3d35.6261879!4d138.5243564!16s%2Fg%2F11f095stng!19sChIJb1utxCX3G2ARAe05bY0BvKs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "すみれ保育園",
-    "address": "\n〒409-3853 山梨県中巨摩郡昭和町築地新居",
-    "latitude": 35.6743777,
-    "longitude": 138.5536964,
-    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%BF%E3%82%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf78f4ad05f7f:0x49fe40084de140c!8m2!3d35.6743777!4d138.5536964!16s%2Fg%2F1vl5gvql!19sChIJf1_QSo_3G2ARDBTehADknwQ?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "光学園",
-    "address": "\n〒400-0105 山梨県甲斐市下今井２３７４−１",
-    "latitude": 35.68352,
-    "longitude": 138.500586,
-    "link": "https://www.google.com/maps/place/%E5%85%89%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601c09ddc56f203f:0x7d3da46830b519cc!8m2!3d35.68352!4d138.500586!16s%2Fg%2F11mvphkj48!19sChIJPyBvxd0JHGARzBm1MGikPX0?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "常永保育園",
-    "address": "\n〒400-0105 山梨県甲斐市下今井２３７４−１",
-    "latitude": 35.6138724,
-    "longitude": 138.5225161,
-    "link": "https://www.google.com/maps/place/%E5%B8%B8%E6%B0%B8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0d4be3b01db:0xfd3080163c279087!8m2!3d35.6138724!4d138.5225161!16s%2Fg%2F1tgx6p8k!19sChIJ2wE7vtTwG2ARh5AnPBaAMP0?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲斐市立竜王西保育園",
-    "address": "\n〒400-0105 山梨県甲斐市下今井２３７４−１",
-    "latitude": 35.6658726,
-    "longitude": 138.5072559,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf639ba26b26d:0x42104f578312f6c4!8m2!3d35.6658726!4d138.5072559!16s%2Fg%2F1vntjzjj!19sChIJbbImujn2G2ARxPYSg1dPEEI?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "大明保育所",
-    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
-    "latitude": 35.59338,
-    "longitude": 138.470741,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%98%8E%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf40786539eab:0x9bfde43051dac760!8m2!3d35.59338!4d138.470741!16s%2Fg%2F1w0h_pcn!19sChIJq55Thgf0G2ARYMfaUTDk_Zs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "三葉保育園",
-    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
-    "latitude": 35.773823,
-    "longitude": 138.4319472,
-    "link": "https://www.google.com/maps/place/%E4%B8%89%E8%91%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c0d0c56721945:0x9c1ccb8b4669f98c!8m2!3d35.773823!4d138.4319472!16s%2Fg%2F1tf3nzxx!19sChIJRRlyVgwNHGARjPlpRovLHJw?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "認定こども園 新生学園",
-    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
-    "latitude": 35.6277715,
-    "longitude": 138.5896421,
-    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E6%96%B0%E7%94%9F%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601bfa376ef519d3:0xbe2ba794a562b3ca!8m2!3d35.6277715!4d138.5896421!16s%2Fg%2F11fngz9y45!19sChIJ0xn1bjf6G2ARyrNipZSnK74?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "みいづ保育園",
-    "address": "\n〒404-0046 山梨県甲州市塩山上井尻６９２−１",
-    "latitude": 35.715611,
-    "longitude": 138.710797,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%84%E3%81%A5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe236f7a6f21:0xf61220aab718ee2a!8m2!3d35.715611!4d138.710797!16s%2Fg%2F1th63g2c!19sChIJIW96byP-G2ARKu4Yt6ogEvY?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "博愛保育園",
-    "address": "\n〒406-0821 山梨県笛吹市八代町北999ｰ1",
-    "latitude": 35.615626,
-    "longitude": 138.648199,
-    "link": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfc8377a9e07d:0x98cdb03287438b5e!8m2!3d35.615626!4d138.648199!16s%2Fg%2F1tgvdq2v!19sChIJfeCpd4P8G2ARXotDhzKwzZg?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "社福)境保育園",
-    "address": "\n〒402-0033 山梨県都留市境１２９−２",
-    "latitude": 35.529345,
-    "longitude": 138.8606677,
-    "link": "https://www.google.com/maps/place/%E7%A4%BE%E7%A6%8F%29%E5%A2%83%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601967f2c692fa03:0xda3cfb0846f57389!8m2!3d35.529345!4d138.8606677!16s%2Fg%2F1v6l7jxk!19sChIJA_qSxvJnGWARiXP1Rgj7PNo?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "たちばな保育園",
-    "address": "\n〒400-0332 山梨県南アルプス市鏡中條７００",
-    "latitude": 35.6153328,
-    "longitude": 138.496577,
-    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6b8560ba791:0xc3190ddada1912fb!8m2!3d35.6153328!4d138.496577!16s%2Fg%2F1xpwjvw0!19sChIJkacLVrj2G2AR-xIZ2toNGcM?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "つくし保育園",
-    "address": "\n〒400-0025 山梨県甲府市朝日２丁目３−１６",
-    "latitude": 35.6685683,
-    "longitude": 138.564204,
-    "link": "https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9d3529b160f:0x755d16c81b9bb2e8!8m2!3d35.6685683!4d138.564204!16s%2Fg%2F1v4k6l9g!19sChIJDxabUtP5G2AR6LKbG8gWXXU?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "ちびっこランド昭和バイパス園",
-    "address": "\n〒409-3852 山梨県中巨摩郡昭和町飯喰１２９０−３",
-    "latitude": 35.6231882,
-    "longitude": 138.5209391,
-    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%83%A9%E3%83%B3%E3%83%89%E6%98%AD%E5%92%8C%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E5%9C%92/data=!4m7!3m6!1s0x601bf72878aa1717:0xbdd027d461ddd1c!8m2!3d35.6231882!4d138.5209391!16s%2Fg%2F1tdcrly_!19sChIJFxeqeCj3G2ARHN0dRn0C3Qs?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "英才保育園 かいKids",
-    "address": "\n〒400-0053 山梨県甲府市大里町２０５３−３",
-    "latitude": 35.623221,
-    "longitude": 138.5637316,
-    "link": "https://www.google.com/maps/place/%E8%8B%B1%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92+%E3%81%8B%E3%81%84Kids/data=!4m7!3m6!1s0x601bfb6522f7c2cd:0x16e2b0e922eabfe!8m2!3d35.623221!4d138.5637316!16s%2Fg%2F11gjm85bnw!19sChIJzcL3ImX7G2AR_qsukg4rbgE?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "あさま保育園",
-    "address": "\n〒405-0062 山梨県笛吹市一宮町金沢２２７−３６",
-    "latitude": 35.627963,
-    "longitude": 138.700637,
-    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%95%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfd470a2ff42d:0x91151839ee061ccf!8m2!3d35.627963!4d138.700637!16s%2Fg%2F1tjbs77s!19sChIJLfQvCkf9G2ARzxwG7jkYFZE?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "てくてく保育園 韮崎",
-    "address": "\n〒407-0024 山梨県韮崎市本町２丁目９−３６",
-    "latitude": 35.7067912,
-    "longitude": 138.4512642,
-    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E9%9F%AE%E5%B4%8E/data=!4m7!3m6!1s0x601c0bbb766b03c7:0x59c20d0aaa4f3f1c!8m2!3d35.7067912!4d138.4512642!16s%2Fg%2F11f2b6c5w8!19sChIJxwNrdrsLHGARHD9PqgoNwlk?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "みやこ福祉会 幼保連携型認定こども園 都保育園",
-    "address": "\n〒405-0072 山梨県笛吹市一宮町本都塚82番地 1",
-    "latitude": 35.6484359,
-    "longitude": 138.6856102,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%82%84%E3%81%93%E7%A6%8F%E7%A5%89%E4%BC%9A+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E9%83%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfda9a47fb3d3:0xf99943672f38ba63!8m2!3d35.6484359!4d138.6856102!16s%2Fg%2F1v4k6lb8!19sChIJ07N_pKn9G2ARY7o4L2dDmfk?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "中央市立玉穂保育園",
-    "address": "\n〒409-3815 山梨県中央市成島２３８７−２",
-    "latitude": 35.6013457,
-    "longitude": 138.5444393,
-    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E5%B8%82%E7%AB%8B%E7%8E%89%E7%A9%82%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf096b369a605:0x69166b1fee9ef002!8m2!3d35.6013457!4d138.5444393!16s%2Fg%2F1tdl1msx!19sChIJBaZps5bwG2ARAvCe7h9rFmk?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "風の子保育園",
-    "address": "\n〒405-0024 山梨県山梨市歌田２７",
-    "latitude": 35.662714,
-    "longitude": 138.685151,
-    "link": "https://www.google.com/maps/place/%E9%A2%A8%E3%81%AE%E5%AD%90%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdb666d6adcb:0x11fe5166c3c4a51f!8m2!3d35.662714!4d138.685151!16s%2Fg%2F1tp_6gdc!19sChIJy63WZrb9G2ARH6XEw2ZR_hE?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "OLive保育園",
-    "address": "\n〒406-0031 山梨県笛吹市石和町市部７２１−４",
-    "latitude": 35.6492012,
-    "longitude": 138.6379145,
-    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfbbec7f4126d:0x670c7f9580536b81!8m2!3d35.6492012!4d138.6379145!16s%2Fg%2F11whxdc1d4!19sChIJbRL0x777G2ARgWtTgJV_DGc?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "真木保育園",
-    "address": "\n〒406-0031 山梨県笛吹市石和町市部７２１−４",
-    "latitude": 35.6044464,
-    "longitude": 138.9041691,
-    "link": "https://www.google.com/maps/place/%E7%9C%9F%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60194316bc6dc44d:0x25e12e8f96958e77!8m2!3d35.6044464!4d138.9041691!16s%2Fg%2F1v3grz38!19sChIJTcRtvBZDGWARd46Vlo8u4SU?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "木の花 保育園",
-    "address": "\n〒406-0031 山梨県笛吹市石和町市部７２１−４",
-    "latitude": 35.6474862,
-    "longitude": 138.6990793,
-    "link": "https://www.google.com/maps/place/%E6%9C%A8%E3%81%AE%E8%8A%B1+%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfd0b70dbac3d:0xb21c4615520d8b59!8m2!3d35.6474862!4d138.6990793!16s%2Fg%2F1tn4y72q!19sChIJPazbcAv9G2ARWYsNUhVGHLI?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "石和第一保育所",
-    "address": "\n〒405-0056 山梨県笛吹市一宮町一ノ宮９６４",
-    "latitude": 35.653054,
-    "longitude": 138.642344,
-    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfc0919f985cb:0x2f51a44cb85c8f80!8m2!3d35.653054!4d138.642344!16s%2Fg%2F1tc_4518!19sChIJy4X5GQn8G2ARgI9cuEykUS8?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "白根保育所",
-    "address": "\n〒405-0056 山梨県笛吹市一宮町一ノ宮９６４",
-    "latitude": 35.652527,
-    "longitude": 138.440901,
-    "link": "https://www.google.com/maps/place/%E7%99%BD%E6%A0%B9%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf58064354655:0xa357d88dbc49d0da!8m2!3d35.652527!4d138.440901!16s%2Fg%2F1tdp9pkz!19sChIJVUY1ZID1G2AR2tBJvI3YV6M?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "菜の花保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行５丁目１２−１２",
-    "latitude": 35.651586,
-    "longitude": 138.534289,
-    "link": "https://www.google.com/maps/place/%E8%8F%9C%E3%81%AE%E8%8A%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70c07f412fd:0x7a3411664020ccb3!8m2!3d35.651586!4d138.534289!16s%2Fg%2F1tfk4hpd!19sChIJ_RL0Bwz3G2ARs8wgQGYRNHo?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "甲斐市立竜王北保育園",
-    "address": "\n〒400-0111 山梨県甲斐市竜王新町640ｰ1",
-    "latitude": 35.6706467,
-    "longitude": 138.5164958,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E5%8C%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6348f585b01:0xee30bf8c8455ae89!8m2!3d35.6706467!4d138.5164958!16s%2Fg%2F1tf6xf4r!19sChIJAVtYjzT2G2ARia5VhIy_MO4?authuser=0&hl=ja&rclk=1",
-    "category": "保育園"
-  },
-  {
-    "name": "OLive保育園 窪中島園",
-    "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１３４−１",
-    "latitude": 35.648653,
-    "longitude": 138.6355647,
-    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%AA%AA%E4%B8%AD%E5%B3%B6%E5%9C%92/data=!4m7!3m6!1s0x601bfbb52abec56b:0x7340184219fa114e!8m2!3d35.648653!4d138.6355647!16s%2Fg%2F11gh_nbpfw!19sChIJa8W-KrX7G2ARThH6GUIYQHM?authuser=0&hl=ja&rclk=1",
+    "name": "みかさこども園",
+    "address": "\n〒409-3844 山梨県中央市臼井阿原８１３−６",
+    "latitude": 35.5957755,
+    "longitude": 138.517705,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8B%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf120149290ff:0x458b10f3734360da!8m2!3d35.5957755!4d138.517705!16s%2Fg%2F1tgh7mwn!19sChIJ_5CSFCDxG2AR2mBDc_MQi0U?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -768,19 +296,259 @@
     "category": "保育園"
   },
   {
-    "name": "てくてく保育園 甲府昭和",
-    "address": "\n〒409-3867 山梨県中巨摩郡昭和町清水新居１３１７",
-    "latitude": 35.6417444,
-    "longitude": 138.5489084,
-    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E6%98%AD%E5%92%8C/data=!4m7!3m6!1s0x601bf71b365838c5:0xfb0878830cbd3d0!8m2!3d35.6417444!4d138.5489084!16s%2Fg%2F11h191skw6!19sChIJxThYNhv3G2AR0NPLMIiHsA8?authuser=0&hl=ja&rclk=1",
+    "name": "めぐみ福祉会 二川保育園",
+    "address": "\n〒400-0055 山梨県甲府市大津町１３２４",
+    "latitude": 35.6013686,
+    "longitude": 138.5671886,
+    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%90%E3%81%BF%E7%A6%8F%E7%A5%89%E4%BC%9A+%E4%BA%8C%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa7ca2a26e37:0xd4c967bb0973aa44!8m2!3d35.6013686!4d138.5671886!16s%2Fg%2F1tfkl7g3!19sChIJN26ionz6G2ARRKpzCbtnydQ?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
-    "name": "岩崎保育園",
-    "address": "\n〒409-1313 山梨県甲州市勝沼町下岩崎１７３１−１",
-    "latitude": 35.6598822,
-    "longitude": 138.723931,
-    "link": "https://www.google.com/maps/place/%E5%B2%A9%E5%B4%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601957d4790b2e41:0x40e79f9ffa627048!8m2!3d35.6598822!4d138.723931!16s%2Fg%2F1tgfq54v!19sChIJQS4LedRXGWARSHBi-p-f50A?authuser=0&hl=ja&rclk=1",
+    "name": "八日市場保育園",
+    "address": "\n〒405-0005 山梨県山梨市小原東２３８−１",
+    "latitude": 35.696846,
+    "longitude": 138.701648,
+    "link": "https://www.google.com/maps/place/%E5%85%AB%E6%97%A5%E5%B8%82%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe0da82a22bd:0x9e3aaba47021e8f6!8m2!3d35.696846!4d138.701648!16s%2Fg%2F1tfbyjpr!19sChIJvSIqqA3-G2AR9ughcKSrOp4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "てくてく保育園 甲府大里",
+    "address": "\n〒400-0053 山梨県甲府市大里町５２８５",
+    "latitude": 35.6252889,
+    "longitude": 138.5566414,
+    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E5%A4%A7%E9%87%8C/data=!4m7!3m6!1s0x601bf0aa31c15555:0xb4e80a74088083bb!8m2!3d35.6252889!4d138.5566414!16s%2Fg%2F11f2b6q2nl!19sChIJVVXBMarwG2ARu4OACHQK6LQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "池田保育園",
+    "address": "\n〒400-0062 山梨県甲府市池田３丁目５−２６ 社会福祉法人 みづほ福祉会 池田保育園",
+    "latitude": 35.670786,
+    "longitude": 138.5364047,
+    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7be7fc4ce0b:0x966cda6a34681631!8m2!3d35.670786!4d138.5364047!16s%2Fg%2F1tkmmmqg!19sChIJC87Ef773G2ARMRZoNGrabJY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "てくてく保育園 韮崎",
+    "address": "\n〒407-0024 山梨県韮崎市本町２丁目９−３６",
+    "latitude": 35.7067912,
+    "longitude": 138.4512642,
+    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E9%9F%AE%E5%B4%8E/data=!4m7!3m6!1s0x601c0bbb766b03c7:0x59c20d0aaa4f3f1c!8m2!3d35.7067912!4d138.4512642!16s%2Fg%2F11f2b6c5w8!19sChIJxwNrdrsLHGARHD9PqgoNwlk?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ひよこ保育園",
+    "address": "\n〒400-0115 山梨県甲斐市篠原８７１−２",
+    "latitude": 35.6478342,
+    "longitude": 138.5273198,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7032189b659:0xd6d5c8eadaf6f7ac!8m2!3d35.6478342!4d138.5273198!16s%2Fg%2F11gmzbqfv4!19sChIJWbaJIQP3G2ARrPf22urI1dY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "加納岩保育園",
+    "address": "\n〒405-0017 山梨県山梨市下神内川５２３",
+    "latitude": 35.6793156,
+    "longitude": 138.6809404,
+    "link": "https://www.google.com/maps/place/%E5%8A%A0%E7%B4%8D%E5%B2%A9%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdd5055a50dd:0xdd096fe68b78b7a4!8m2!3d35.6793156!4d138.6809404!16s%2Fg%2F1td9w5pt!19sChIJ3VBaBdX9G2ARpLd4i-ZvCd0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "日下部保育園",
+    "address": "\n〒405-0006 山梨県山梨市小原西３８９−７",
+    "latitude": 35.692994,
+    "longitude": 138.694963,
+    "link": "https://www.google.com/maps/place/%E6%97%A5%E4%B8%8B%E9%83%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe73c69de351:0xa21a3b39cb3c3d3d!8m2!3d35.692994!4d138.694963!16s%2Fg%2F1tj84xwq!19sChIJUeOdxnP-G2ARPT08yzk7GqI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ふるるこども園",
+    "address": "\n〒409-3853 山梨県中巨摩郡昭和町築地新居",
+    "latitude": 35.6261879,
+    "longitude": 138.5243564,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%82%8B%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf725c4ad5b6f:0xabbc018d6d39ed01!8m2!3d35.6261879!4d138.5243564!16s%2Fg%2F11f095stng!19sChIJb1utxCX3G2ARAe05bY0BvKs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "たちばな保育園",
+    "address": "\n〒400-0332 山梨県南アルプス市鏡中條７００",
+    "latitude": 35.6153328,
+    "longitude": 138.496577,
+    "link": "https://www.google.com/maps/place/%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6b8560ba791:0xc3190ddada1912fb!8m2!3d35.6153328!4d138.496577!16s%2Fg%2F1xpwjvw0!19sChIJkacLVrj2G2AR-xIZ2toNGcM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ちびっこランド昭和バイパス園",
+    "address": "\n〒409-3852 山梨県中巨摩郡昭和町飯喰１２９０−３",
+    "latitude": 35.6231882,
+    "longitude": 138.5209391,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%83%A9%E3%83%B3%E3%83%89%E6%98%AD%E5%92%8C%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E5%9C%92/data=!4m7!3m6!1s0x601bf72878aa1717:0xbdd027d461ddd1c!8m2!3d35.6231882!4d138.5209391!16s%2Fg%2F1tdcrly_!19sChIJFxeqeCj3G2ARHN0dRn0C3Qs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "聖愛会 なでしここども園",
+    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
+    "latitude": 35.6265344,
+    "longitude": 138.5640663,
+    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E4%BC%9A+%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa04223a8933:0x76343b0fbf4a01eb!8m2!3d35.6265344!4d138.5640663!16s%2Fg%2F1td0gl4j!19sChIJM4k6IgT6G2AR6wFKvw87NHY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "田富第三保育園",
+    "address": "\n〒409-3831 山梨県中央市東花輪１１７３",
+    "latitude": 35.5853604,
+    "longitude": 138.5249875,
+    "link": "https://www.google.com/maps/place/%E7%94%B0%E5%AF%8C%E7%AC%AC%E4%B8%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0fb9561e25f:0x64f8ccbbe8aceab6!8m2!3d35.5853604!4d138.5249875!16s%2Fg%2F1w96gtdx!19sChIJX-JhlfvwG2ARtuqs6LvM-GQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 すみよし愛児園",
+    "address": "\n〒400-0851 山梨県甲府市住吉３丁目２４−２０",
+    "latitude": 35.640602,
+    "longitude": 138.582779,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf98a0d9368a1:0x380d2bcdaec58f5d!8m2!3d35.640602!4d138.582779!16s%2Fg%2F1vn_z0jn!19sChIJoWiTDYr5G2ARXY_Frs0rDTg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "OLive保育園 市部園",
+    "address": "\n〒406-0031 山梨県笛吹市石和町市部１０８４ 202",
+    "latitude": 35.649984,
+    "longitude": 138.636965,
+    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E5%B8%82%E9%83%A8%E5%9C%92/data=!4m7!3m6!1s0x601bfbf666174ba7:0x7155008fd7d01986!8m2!3d35.649984!4d138.636965!16s%2Fg%2F1tcw87lw!19sChIJp0sXZvb7G2ARhhnQ148AVXE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "明照福祉会 誓和保育園",
+    "address": "\n〒400-0807 山梨県甲府市東光寺１丁目３−２７ 誓和",
+    "latitude": 35.6627963,
+    "longitude": 138.5817961,
+    "link": "https://www.google.com/maps/place/%E6%98%8E%E7%85%A7%E7%A6%8F%E7%A5%89%E4%BC%9A+%E8%AA%93%E5%92%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9b92e3997b1:0xfbe6f98241c561a3!8m2!3d35.6627963!4d138.5817961!16s%2Fg%2F1tkktymh!19sChIJsZc5Lrn5G2ARo2HFQYL55vs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲斐市立竜王西保育園",
+    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
+    "latitude": 35.6658726,
+    "longitude": 138.5072559,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf639ba26b26d:0x42104f578312f6c4!8m2!3d35.6658726!4d138.5072559!16s%2Fg%2F1vntjzjj!19sChIJbbImujn2G2ARxPYSg1dPEEI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "英才保育園 かいKids",
+    "address": "\n〒400-0053 山梨県甲府市大里町２０５３−３",
+    "latitude": 35.623221,
+    "longitude": 138.5637316,
+    "link": "https://www.google.com/maps/place/%E8%8B%B1%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92+%E3%81%8B%E3%81%84Kids/data=!4m7!3m6!1s0x601bfb6522f7c2cd:0x16e2b0e922eabfe!8m2!3d35.623221!4d138.5637316!16s%2Fg%2F11gjm85bnw!19sChIJzcL3ImX7G2AR_qsukg4rbgE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "十日市場保育園",
+    "address": "\n〒400-0336 山梨県南アルプス市十日市場１９１１",
+    "latitude": 35.608905,
+    "longitude": 138.477659,
+    "link": "https://www.google.com/maps/place/%E5%8D%81%E6%97%A5%E5%B8%82%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf41de97a4ff1:0x93dc6c9dd04f6dd9!8m2!3d35.608905!4d138.477659!16s%2Fg%2F1vl9rkg2!19sChIJ8U966R30G2AR2W1P0J1s3JM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "田富第一保育園",
+    "address": "\n〒409-3841 山梨県中央市布施３０１５",
+    "latitude": 35.6022577,
+    "longitude": 138.5197678,
+    "link": "https://www.google.com/maps/place/%E7%94%B0%E5%AF%8C%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0d88bcb050b:0x2ff4c87a9e4fa257!8m2!3d35.6022577!4d138.5197678!16s%2Fg%2F1tgq6qh9!19sChIJCwXLi9jwG2ARV6JPnnrI9C8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "みんなのいばしょ",
+    "address": "\n〒409-3842 山梨県中央市東花輪１８４４−２",
+    "latitude": 35.5928634,
+    "longitude": 138.5304433,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%84%E3%81%B0%E3%81%97%E3%82%87/data=!4m7!3m6!1s0x601bf0efa44b6b3b:0xeab4779ce26b2bc4!8m2!3d35.5928634!4d138.5304433!16s%2Fg%2F11btwv5zc2!19sChIJO2tLpO_wG2ARxCtr4px3tOo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大明保育所",
+    "address": "\n〒400-0403 山梨県南アルプス市鮎沢１０６３−１",
+    "latitude": 35.59338,
+    "longitude": 138.470741,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%98%8E%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf40786539eab:0x9bfde43051dac760!8m2!3d35.59338!4d138.470741!16s%2Fg%2F1w0h_pcn!19sChIJq55Thgf0G2ARYMfaUTDk_Zs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "大月保育園",
+    "address": "\n〒401-0013 山梨県大月市大月２丁目１０−１２",
+    "latitude": 35.6080796,
+    "longitude": 138.9396908,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%9C%88%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601943b570f4f3fb:0xd09dc50b1fdb7311!8m2!3d35.6080796!4d138.9396908!16s%2Fg%2F1thznyv8!19sChIJ-_P0cLVDGWAREXPbHwvFndA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ピッコリーノ保育園",
+    "address": "\n〒400-0058 山梨県甲府市宮原町６０５",
+    "latitude": 35.6179121,
+    "longitude": 138.5540297,
+    "link": "https://www.google.com/maps/place/%E3%83%94%E3%83%83%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0a672b0019d:0x95a254965cf14758!8m2!3d35.6179121!4d138.5540297!16s%2Fg%2F11jfcj114p!19sChIJnQGwcqbwG2ARWEfxXJZUopU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "光明保育園",
+    "address": "\n〒405-0018 山梨県山梨市上神内川９４５",
+    "latitude": 35.6871472,
+    "longitude": 138.6883973,
+    "link": "https://www.google.com/maps/place/%E5%85%89%E6%98%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe79dc5b9167:0xc0e18e5748c85872!8m2!3d35.6871472!4d138.6883973!16s%2Fg%2F1tg3b55z!19sChIJZ5Fb3Hn-G2ARcljISFeO4cA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "真木保育園",
+    "address": "\n〒401-0016 山梨県大月市大月町２０５３",
+    "latitude": 35.6044464,
+    "longitude": 138.9041691,
+    "link": "https://www.google.com/maps/place/%E7%9C%9F%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60194316bc6dc44d:0x25e12e8f96958e77!8m2!3d35.6044464!4d138.9041691!16s%2Fg%2F1v3grz38!19sChIJTcRtvBZDGWARd46Vlo8u4SU?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲斐市立竜王東保育園",
+    "address": "\n〒400-0113 山梨県甲斐市富竹新田９７３−１",
+    "latitude": 35.6601086,
+    "longitude": 138.5285086,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E6%9D%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7ae57e36123:0xbce6d32ff6dea499!8m2!3d35.6601086!4d138.5285086!16s%2Fg%2F11bxb9d4fx!19sChIJI2HjV673G2ARmaTe9i_T5rw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "川茂保育園",
+    "address": "\n〒400-0113 山梨県甲斐市富竹新田９７３−１",
+    "latitude": 35.576486,
+    "longitude": 138.924203,
+    "link": "https://www.google.com/maps/place/%E5%B7%9D%E8%8C%82%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60194263e7cee1d7:0x5b288bf404e89c07!8m2!3d35.576486!4d138.924203!16s%2Fg%2F1tkv9tq6!19sChIJ1-HO52NCGWARB5zoBPSLKFs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "慈光保育園",
+    "address": "\n〒400-0806 山梨県甲府市善光寺３丁目３６−１１",
+    "latitude": 35.667052,
+    "longitude": 138.593813,
+    "link": "https://www.google.com/maps/place/%E6%85%88%E5%85%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9a3fe71318b:0x7bf3a62d189ea2d5!8m2!3d35.667052!4d138.593813!16s%2Fg%2F1tscp22r!19sChIJizFx_qP5G2AR1aKeGC2m83s?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "小淵沢保育園",
+    "address": "\n〒408-0041 山梨県北杜市小淵沢町上笹尾１２９０",
+    "latitude": 35.8474273,
+    "longitude": 138.3284739,
+    "link": "https://www.google.com/maps/place/%E5%B0%8F%E6%B7%B5%E6%B2%A2%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c6bad0b1c89bb:0x20eb93075ff2a0f7!8m2!3d35.8474273!4d138.3284739!16s%2Fg%2F11rvjh962g!19sChIJu4kcC61rHGAR96DyXweT6yA?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "OLive保育園",
+    "address": "\n〒406-0031 山梨県笛吹市石和町市部７２１−４",
+    "latitude": 35.6492012,
+    "longitude": 138.6379145,
+    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfbbec7f4126d:0x670c7f9580536b81!8m2!3d35.6492012!4d138.6379145!16s%2Fg%2F11whxdc1d4!19sChIJbRL0x777G2ARgWtTgJV_DGc?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "石和東こども園",
+    "address": "\n〒406-0026 山梨県笛吹市石和町中川３３０",
+    "latitude": 35.644194,
+    "longitude": 138.655185,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E6%9D%B1%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfc6895551827:0x5a97cf24c2863369!8m2!3d35.644194!4d138.655185!16s%2Fg%2F1tdhlx4v!19sChIJJxhVlWj8G2ARaTOGwiTPl1o?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -792,11 +560,243 @@
     "category": "保育園"
   },
   {
-    "name": "甲斐市立竜王中央保育園",
-    "address": "\n〒400-0117 山梨県甲斐市西八幡３３",
-    "latitude": 35.6545672,
-    "longitude": 138.5126944,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E4%B8%AD%E5%A4%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6519a46dacb:0xca4d45692fa44335!8m2!3d35.6545672!4d138.5126944!16s%2Fg%2F1ttpbcnh!19sChIJy9pGmlH2G2ARNUOkL2lFTco?authuser=0&hl=ja&rclk=1",
+    "name": "きらきら保育園",
+    "address": "\n〒405-0011 山梨県山梨市三ケ所７８７−３",
+    "latitude": 35.6938114,
+    "longitude": 138.7031349,
+    "link": "https://www.google.com/maps/place/%E3%81%8D%E3%82%89%E3%81%8D%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe0beb8d00b5:0x3df2cc0ddb7a126d!8m2!3d35.6938114!4d138.7031349!16s%2Fg%2F11fb17s5th!19sChIJtQCN6wv-G2ARbRJ62w3M8j0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "長生保育園",
+    "address": "\n〒402-0051 山梨県都留市下谷２９５４−３",
+    "latitude": 35.5668211,
+    "longitude": 138.9025596,
+    "link": "https://www.google.com/maps/place/%E9%95%B7%E7%94%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60194296611ed80f:0xb462778f3bf7b1a1!8m2!3d35.5668211!4d138.9025596!16s%2Fg%2F1v8gc2dc!19sChIJD9geYZZCGWARobH3O493YrQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "あいぐらん保育園甲府飯田",
+    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
+    "latitude": 35.6650967,
+    "longitude": 138.5486884,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%84%E3%81%90%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92%E7%94%B2%E5%BA%9C%E9%A3%AF%E7%94%B0/data=!4m7!3m6!1s0x601bf7b33ad060f7:0x2c60b0dd487bafc7!8m2!3d35.6650967!4d138.5486884!16s%2Fg%2F11mhsh36j6!19sChIJ92DQOrP3G2ARx697SN2wYCw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "OLive保育園 窪中島園",
+    "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１３４−１",
+    "latitude": 35.648653,
+    "longitude": 138.6355647,
+    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%AA%AA%E4%B8%AD%E5%B3%B6%E5%9C%92/data=!4m7!3m6!1s0x601bfbb52abec56b:0x7340184219fa114e!8m2!3d35.648653!4d138.6355647!16s%2Fg%2F11gh_nbpfw!19sChIJa8W-KrX7G2ARThH6GUIYQHM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "博愛保育園",
+    "address": "\n〒406-0821 山梨県笛吹市八代町北999ｰ1",
+    "latitude": 35.615626,
+    "longitude": 138.648199,
+    "link": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfc8377a9e07d:0x98cdb03287438b5e!8m2!3d35.615626!4d138.648199!16s%2Fg%2F1tgvdq2v!19sChIJfeCpd4P8G2ARXotDhzKwzZg?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "後屋敷保育所",
+    "address": "\n〒405-0011 山梨県山梨市三ケ所３１７−１",
+    "latitude": 35.6865616,
+    "longitude": 138.7030376,
+    "link": "https://www.google.com/maps/place/%E5%BE%8C%E5%B1%8B%E6%95%B7%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfde146e9571f:0x64201a91e9a4c04!8m2!3d35.6865616!4d138.7030376!16s%2Fg%2F1td721vq!19sChIJH1fpRuH9G2ARBEyaHqkBQgY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "認定こども園 新生学園",
+    "address": "\n〒400-0831 山梨県甲府市上町３５０ SHINSEI 新生保育園",
+    "latitude": 35.6277715,
+    "longitude": 138.5896421,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E6%96%B0%E7%94%9F%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601bfa376ef519d3:0xbe2ba794a562b3ca!8m2!3d35.6277715!4d138.5896421!16s%2Fg%2F11fngz9y45!19sChIJ0xn1bjf6G2ARyrNipZSnK74?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "中央歯科医院内 つくしんぼ保育園",
+    "address": "\n〒400-0032 山梨県甲府市中央５丁目５−１２",
+    "latitude": 35.6578723,
+    "longitude": 138.5761749,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2%E5%86%85+%E3%81%A4%E3%81%8F%E3%81%97%E3%82%93%E3%81%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9ad4e8dec67:0xddaf9ec7f77c0f88!8m2!3d35.6578723!4d138.5761749!16s%2Fg%2F11fk1hl9qg!19sChIJZ-yNTq35G2ARiA9898eer90?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲斐ひよこ保育園",
+    "address": "\n〒400-0115 山梨県甲斐市篠原１２６５",
+    "latitude": 35.643997,
+    "longitude": 138.5278439,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7083ac8173d:0x2424ee54bccfa193!8m2!3d35.643997!4d138.5278439!16s%2Fg%2F11jt8h93rt!19sChIJPRfIOgj3G2ARk6HPvFTuJCQ?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "三葉保育園",
+    "address": "\n〒408-0206 山梨県北杜市明野町下神取４３０",
+    "latitude": 35.773823,
+    "longitude": 138.4319472,
+    "link": "https://www.google.com/maps/place/%E4%B8%89%E8%91%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c0d0c56721945:0x9c1ccb8b4669f98c!8m2!3d35.773823!4d138.4319472!16s%2Fg%2F1tf3nzxx!19sChIJRRlyVgwNHGARjPlpRovLHJw?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "野の花保育園",
+    "address": "\n〒400-0032 山梨県甲府市中央３丁目１０−７",
+    "latitude": 35.6620811,
+    "longitude": 138.5758874,
+    "link": "https://www.google.com/maps/place/%E9%87%8E%E3%81%AE%E8%8A%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9c6f92a7907:0x7b3d0f4c0434b9fe!8m2!3d35.6620811!4d138.5758874!16s%2Fg%2F11trshgyzl!19sChIJB3kq-cb5G2AR_rk0BEwPPXs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "万才保育園",
+    "address": "\n〒400-0114 山梨県甲斐市万才４７５",
+    "latitude": 35.6469854,
+    "longitude": 138.5319886,
+    "link": "https://www.google.com/maps/place/%E4%B8%87%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70e375d9931:0xe0fbd5af359b2c32!8m2!3d35.6469854!4d138.5319886!16s%2Fg%2F1v8gc2_l!19sChIJMZldNw73G2ARMiybNa_V--A?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社福)真正会 開地保育園",
+    "address": "\n〒402-0024 山梨県都留市小野６２３",
+    "latitude": 35.535238,
+    "longitude": 138.910606,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E7%A6%8F%29%E7%9C%9F%E6%AD%A3%E4%BC%9A+%E9%96%8B%E5%9C%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x60196848aebc25ad:0x72b6325054029cd7!8m2!3d35.535238!4d138.910606!16s%2Fg%2F1w97vfq6!19sChIJrSW8rkhoGWAR15wCVFAytnI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "第２なでしここども園",
+    "address": "\n〒400-0071 山梨県甲府市羽黒町６１８",
+    "latitude": 35.6889489,
+    "longitude": 138.543725,
+    "link": "https://www.google.com/maps/place/%E7%AC%AC%EF%BC%92%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7e67a26dd79:0x13eb6d2fa9c9ab70!8m2!3d35.6889489!4d138.543725!16s%2Fg%2F1w2yzjdh!19sChIJed0meub3G2ARcKvJqS9t6xM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "かすが通り保育園",
+    "address": "\n〒400-0032 山梨県甲府市中央１丁目１２−５ 五光ビル １Ｃ",
+    "latitude": 35.6593877,
+    "longitude": 138.5693993,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%99%E3%81%8C%E9%80%9A%E3%82%8A%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9a516c5d9d7:0x7325e3eee9092753!8m2!3d35.6593877!4d138.5693993!16s%2Fg%2F11p11czgbf!19sChIJ19nFFqX5G2ARUycJ6e7jJXM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "小規模認可保育所 しまの保育園",
+    "address": "\n〒400-0123 山梨県甲斐市島上条３１５",
+    "latitude": 35.6835419,
+    "longitude": 138.5280196,
+    "link": "https://www.google.com/maps/place/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E8%AA%8D%E5%8F%AF%E4%BF%9D%E8%82%B2%E6%89%80+%E3%81%97%E3%81%BE%E3%81%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70f52ec5b8f:0x1b1b145aa8e11767!8m2!3d35.6835419!4d138.5280196!16s%2Fg%2F11mr1kt586!19sChIJj1vsUg_3G2ARZxfhqFoUGxs?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "ファミーユ・ドゥ・フラール保育所",
+    "address": "\n〒400-0035 山梨県甲府市飯田４丁目２−１９ 保育所 乳幼児教育施設 ファミーユ・ドゥ・フラール",
+    "latitude": 35.666785,
+    "longitude": 138.555061,
+    "link": "https://www.google.com/maps/place/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%BC%E3%83%A6%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%95%E3%83%A9%E3%83%BC%E3%83%AB%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf781a215d82f:0xaa6bda14b92b8536!8m2!3d35.666785!4d138.555061!16s%2Fg%2F1tdf1f2k!19sChIJL9gVooH3G2ARNoUruRTaa6o?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "清里聖ヨハネ保育園",
+    "address": "\n〒407-0301 山梨県北杜市高根町清里３５４５",
+    "latitude": 35.9191346,
+    "longitude": 138.4314911,
+    "link": "https://www.google.com/maps/place/%E6%B8%85%E9%87%8C%E8%81%96%E3%83%A8%E3%83%8F%E3%83%8D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c158a0a64f48d:0x23120b80353da855!8m2!3d35.9191346!4d138.4314911!16s%2Fg%2F11hzcy8rn9!19sChIJjfRkCooVHGARVag9NYALEiM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "とりさわ認定こども園",
+    "address": "\n〒409-0502 山梨県大月市富浜町鳥沢１９７３−１",
+    "latitude": 35.6090668,
+    "longitude": 139.0054696,
+    "link": "https://www.google.com/maps/place/%E3%81%A8%E3%82%8A%E3%81%95%E3%82%8F%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601941527d375b3b:0x3200fb5499066d73!8m2!3d35.6090668!4d139.0054696!16s%2Fg%2F11kqs4dphh!19sChIJO1s3fVJBGWARc20GmVT7ADI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "すみれ韮崎保育園",
+    "address": "\n〒407-0024 山梨県韮崎市本町１丁目１７−１０",
+    "latitude": 35.7070492,
+    "longitude": 138.4478685,
+    "link": "https://www.google.com/maps/place/%E3%81%99%E3%81%BF%E3%82%8C%E9%9F%AE%E5%B4%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601c0ba346c4d707:0x9f31403b555faf2c!8m2!3d35.7070492!4d138.4478685!16s%2Fg%2F1vknpg3y!19sChIJB9fERqMLHGARLK9fVTtAMZ8?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "社福)境保育園",
+    "address": "\n〒402-0033 山梨県都留市境１２９−２",
+    "latitude": 35.529345,
+    "longitude": 138.8606677,
+    "link": "https://www.google.com/maps/place/%E7%A4%BE%E7%A6%8F%29%E5%A2%83%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601967f2c692fa03:0xda3cfb0846f57389!8m2!3d35.529345!4d138.8606677!16s%2Fg%2F1v6l7jxk!19sChIJA_qSxvJnGWARiXP1Rgj7PNo?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "相川保育園",
+    "address": "\n〒400-0002 山梨県甲府市小松町３１６",
+    "latitude": 35.6867607,
+    "longitude": 138.5662437,
+    "link": "https://www.google.com/maps/place/%E7%9B%B8%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf8228a854681:0xa2496e9bac8aeaf3!8m2!3d35.6867607!4d138.5662437!16s%2Fg%2F1tl8kshf!19sChIJgUaFiiL4G2AR8-qKrJtuSaI?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "常永保育園",
+    "address": "\n〒409-3851 山梨県中巨摩郡昭和町河西７３８",
+    "latitude": 35.6138724,
+    "longitude": 138.5225161,
+    "link": "https://www.google.com/maps/place/%E5%B8%B8%E6%B0%B8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0d4be3b01db:0xfd3080163c279087!8m2!3d35.6138724!4d138.5225161!16s%2Fg%2F1tgx6p8k!19sChIJ2wE7vtTwG2ARh5AnPBaAMP0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲府市立北新保育所",
+    "address": "\n〒400-0005 山梨県甲府市北新１丁目１−２３",
+    "latitude": 35.6794114,
+    "longitude": 138.5645257,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E5%8C%97%E6%96%B0%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf825c4ef0a63:0x697deb496fa3167!8m2!3d35.6794114!4d138.5645257!16s%2Fg%2F1tfbnd6y!19sChIJYwrvxCX4G2ARZzH6lrTelwY?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "風の子保育園",
+    "address": "\n〒405-0024 山梨県山梨市歌田２７",
+    "latitude": 35.662714,
+    "longitude": 138.685151,
+    "link": "https://www.google.com/maps/place/%E9%A2%A8%E3%81%AE%E5%AD%90%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdb666d6adcb:0x11fe5166c3c4a51f!8m2!3d35.662714!4d138.685151!16s%2Fg%2F1tp_6gdc!19sChIJy63WZrb9G2ARH6XEw2ZR_hE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲府市立中央保育所",
+    "address": "\n〒400-0032 山梨県甲府市中央３丁目３−１",
+    "latitude": 35.6639714,
+    "longitude": 138.5760722,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%A4%AE%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf9c6f83ff11f:0xc398193b70d0c30c!8m2!3d35.6639714!4d138.5760722!16s%2Fg%2F1tgdnmn_!19sChIJH_E_-Mb5G2ARDMPQcDsZmMM?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "甲斐市立竜王北保育園",
+    "address": "\n〒400-0111 山梨県甲斐市竜王新町640ｰ1",
+    "latitude": 35.6706467,
+    "longitude": 138.5164958,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E5%8C%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6348f585b01:0xee30bf8c8455ae89!8m2!3d35.6706467!4d138.5164958!16s%2Fg%2F1tf6xf4r!19sChIJAVtYjzT2G2ARia5VhIy_MO4?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "光学園",
+    "address": "\n〒400-0105 山梨県甲斐市下今井２３７４−１",
+    "latitude": 35.68352,
+    "longitude": 138.500586,
+    "link": "https://www.google.com/maps/place/%E5%85%89%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601c09ddc56f203f:0x7d3da46830b519cc!8m2!3d35.68352!4d138.500586!16s%2Fg%2F11mvphkj48!19sChIJPyBvxd0JHGARzBm1MGikPX0?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "定林寺 立正保育園",
+    "address": "\n〒409-3244 山梨県西八代郡市川三郷町岩間４１６１",
+    "latitude": 35.494802,
+    "longitude": 138.4557,
+    "link": "https://www.google.com/maps/place/%E5%AE%9A%E6%9E%97%E5%AF%BA+%E7%AB%8B%E6%AD%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bedbe488b185d:0x619d66e3a1ce8b9c!8m2!3d35.494802!4d138.4557!16s%2Fg%2F11b7sz0rd7!19sChIJXRiLSL7tG2ARnIvOoeNmnWE?authuser=0&hl=ja&rclk=1",
+    "category": "保育園"
+  },
+  {
+    "name": "石和第一保育所",
+    "address": "\n〒406-0023 山梨県笛吹市石和町八田２４９",
+    "latitude": 35.653054,
+    "longitude": 138.642344,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfc0919f985cb:0x2f51a44cb85c8f80!8m2!3d35.653054!4d138.642344!16s%2Fg%2F1tc_4518!19sChIJy4X5GQn8G2ARgI9cuEykUS8?authuser=0&hl=ja&rclk=1",
     "category": "保育園"
   },
   {
@@ -816,6 +816,14 @@
     "category": "幼稚園"
   },
   {
+    "name": "塩部幼稚園",
+    "address": "\n〒400-0026 山梨県甲府市塩部４丁目６−５",
+    "latitude": 35.6750284,
+    "longitude": 138.5554509,
+    "link": "https://www.google.com/maps/place/%E5%A1%A9%E9%83%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78893b2d19d:0xf384f2f4cd602005!8m2!3d35.6750284!4d138.5554509!16s%2Fg%2F1tfc6p8m!19sChIJndGyk4j3G2ARBSBgzfTyhPM?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
     "name": "聖愛幼稚園",
     "address": "\n〒400-0071 山梨県甲府市羽黒町６１８−２",
     "latitude": 35.6889991,
@@ -829,6 +837,14 @@
     "latitude": 35.6799585,
     "longitude": 138.5514822,
     "link": "https://www.google.com/maps/place/%E5%9F%8E%E5%8C%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78ce39d7193:0x67948d55b10caf40!8m2!3d35.6799585!4d138.5514822!16s%2Fg%2F1tddxvhl!19sChIJk3Gd44z3G2ARQK8MsVWNlGc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "山梨保育園",
+    "address": "\n〒405-0033 山梨県山梨市落合４３−１",
+    "latitude": 35.685154,
+    "longitude": 138.666555,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe9061b4827d:0x67fdb2c31a95f555!8m2!3d35.685154!4d138.666555!16s%2Fg%2F1tmcm999!19sChIJfYK0YZD-G2ARVfWVGsOy_Wc?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -849,18 +865,10 @@
   },
   {
     "name": "永照寺幼稚園",
-    "address": "\n〒400-0861 山梨県甲府市城東２丁目１６−１８",
+    "address": "\n〒400-0042 山梨県甲府市高畑１丁目２１−２",
     "latitude": 35.649344,
     "longitude": 138.5649474,
     "link": "https://www.google.com/maps/place/%E6%B0%B8%E7%85%A7%E5%AF%BA%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf9e73c894039:0xbc9055117651d2ba!8m2!3d35.649344!4d138.5649474!16s%2Fg%2F1tm8knmg!19sChIJOUCJPOf5G2ARutJRdhFVkLw?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "塩部幼稚園",
-    "address": "\n〒400-0026 山梨県甲府市塩部４丁目６−５",
-    "latitude": 35.6750284,
-    "longitude": 138.5554509,
-    "link": "https://www.google.com/maps/place/%E5%A1%A9%E9%83%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78893b2d19d:0xf384f2f4cd602005!8m2!3d35.6750284!4d138.5554509!16s%2Fg%2F1tfc6p8m!19sChIJndGyk4j3G2ARBSBgzfTyhPM?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -872,8 +880,24 @@
     "category": "幼稚園"
   },
   {
+    "name": "進徳幼稚園",
+    "address": "\n〒400-0073 山梨県甲府市湯村２丁目４−３５",
+    "latitude": 35.6767426,
+    "longitude": 138.5484812,
+    "link": "https://www.google.com/maps/place/%E9%80%B2%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7927046d687:0x2f388b94328652ce!8m2!3d35.6767426!4d138.5484812!16s%2Fg%2F1txfp6sg!19sChIJh9ZGcJL3G2ARzlKGMpSLOC8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人岩田学園 いづみ幼稚園",
+    "address": "\n〒400-0043 山梨県甲府市国母１丁目２４−６",
+    "latitude": 35.647754,
+    "longitude": 138.5585086,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%B2%A9%E7%94%B0%E5%AD%A6%E5%9C%92+%E3%81%84%E3%81%A5%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf76000b8e64b:0x66b70749f63fac1d!8m2!3d35.647754!4d138.5585086!16s%2Fg%2F1vpq6z6z!19sChIJS-a4AGD3G2ARHaw_9kkHt2Y?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
     "name": "認定こども園かおり幼稚園",
-    "address": "\n〒400-0306 山梨県南アルプス市小笠原２０８",
+    "address": "\n〒400-0115 山梨県甲斐市篠原１０８７",
     "latitude": 35.6415507,
     "longitude": 138.530229,
     "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%8B%E3%81%8A%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf710c6968fef:0xf0863445788471a3!8m2!3d35.6415507!4d138.530229!16s%2Fg%2F1wbrxvz1!19sChIJ74-WxhD3G2ARo3GEeEU0hvA?authuser=0&hl=ja&rclk=1",
@@ -920,11 +944,11 @@
     "category": "幼稚園"
   },
   {
-    "name": "山梨保育園",
-    "address": "\n〒405-0033 山梨県山梨市落合４３−１",
-    "latitude": 35.685154,
-    "longitude": 138.666555,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe9061b4827d:0x67fdb2c31a95f555!8m2!3d35.685154!4d138.666555!16s%2Fg%2F1tmcm999!19sChIJfYK0YZD-G2ARVfWVGsOy_Wc?authuser=0&hl=ja&rclk=1",
+    "name": "山梨学院幼稚園",
+    "address": "\n〒400-0805 山梨県甲府市酒折２丁目８−１",
+    "latitude": 35.65634,
+    "longitude": 138.603982,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E5%AD%A6%E9%99%A2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf97a27d540af:0x24431401f3ce2be0!8m2!3d35.65634!4d138.603982!16s%2Fg%2F121hr9b9!19sChIJr0DVJ3r5G2AR4CvO8wEUQyQ?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -945,7 +969,7 @@
   },
   {
     "name": "学校法人鈴木学園富士幼稚園",
-    "address": "\n〒400-0851 山梨県甲府市住吉１丁目６−２２",
+    "address": "\n〒400-0123 山梨県甲斐市島上条2228番地",
     "latitude": 35.689688,
     "longitude": 138.5230374,
     "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E9%88%B4%E6%9C%A8%E5%AD%A6%E5%9C%92%E5%AF%8C%E5%A3%AB%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601c082a318f3a61:0xe2babd5deb7d0ac5!8m2!3d35.689688!4d138.5230374!16s%2Fg%2F1tjdlttt!19sChIJYTqPMSoIHGARxQp96129uuI?authuser=0&hl=ja&rclk=1",
@@ -969,26 +993,18 @@
   },
   {
     "name": "竜王幼稚園",
-    "address": "\n〒404-0042 山梨県甲州市塩山上於曽１３５１",
+    "address": "\n〒400-0113 山梨県甲斐市富竹新田２０５５ 竜王",
     "latitude": 35.6493255,
     "longitude": 138.5347208,
     "link": "https://www.google.com/maps/place/%E7%AB%9C%E7%8E%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf70dcba4b7a3:0x60f53c5171e298f8!8m2!3d35.6493255!4d138.5347208!16s%2Fg%2F1td0gl3g!19sChIJo7ekyw33G2AR-JjicVE89WA?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
-    "name": "学校法人岩田学園 いづみ幼稚園",
-    "address": "\n〒400-0043 山梨県甲府市国母１丁目２４−６",
-    "latitude": 35.647754,
-    "longitude": 138.5585086,
-    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%B2%A9%E7%94%B0%E5%AD%A6%E5%9C%92+%E3%81%84%E3%81%A5%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf76000b8e64b:0x66b70749f63fac1d!8m2!3d35.647754!4d138.5585086!16s%2Fg%2F1vpq6z6z!19sChIJS-a4AGD3G2ARHaw_9kkHt2Y?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "進徳幼稚園",
-    "address": "\n〒400-0073 山梨県甲府市湯村２丁目４−３５",
-    "latitude": 35.6767426,
-    "longitude": 138.5484812,
-    "link": "https://www.google.com/maps/place/%E9%80%B2%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7927046d687:0x2f388b94328652ce!8m2!3d35.6767426!4d138.5484812!16s%2Fg%2F1txfp6sg!19sChIJh9ZGcJL3G2ARzlKGMpSLOC8?authuser=0&hl=ja&rclk=1",
+    "name": "森のようちえん にっこにこ",
+    "address": "\n〒400-0008 山梨県甲府市緑が丘２丁目１１−１８ 7",
+    "latitude": 35.6826785,
+    "longitude": 138.5623764,
+    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1024,14 +1040,6 @@
     "category": "幼稚園"
   },
   {
-    "name": "山梨学院幼稚園",
-    "address": "\n〒400-0805 山梨県甲府市酒折２丁目８−１",
-    "latitude": 35.65634,
-    "longitude": 138.603982,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E5%AD%A6%E9%99%A2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf97a27d540af:0x24431401f3ce2be0!8m2!3d35.65634!4d138.603982!16s%2Fg%2F121hr9b9!19sChIJr0DVJ3r5G2AR4CvO8wEUQyQ?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
     "name": "月江寺幼稚園",
     "address": "\n〒403-0004 山梨県富士吉田市下吉田３丁目２６−１６",
     "latitude": 35.493838,
@@ -1064,14 +1072,6 @@
     "category": "幼稚園"
   },
   {
-    "name": "森のようちえん にっこにこ",
-    "address": "\n〒400-0008 山梨県甲府市緑が丘２丁目１１−１８ 7",
-    "latitude": 35.6826785,
-    "longitude": 138.5623764,
-    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
     "name": "山梨英和プレストンこども園",
     "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１９０−２",
     "latitude": 35.648443,
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "みだい幼稚園",
-    "address": "\n〒400-0015 山梨県甲府市大手２丁目２−３９",
+    "address": "\n〒400-0226 山梨県南アルプス市有野４５７１",
     "latitude": 35.660543,
     "longitude": 138.450761,
     "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%A0%E3%81%84%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601c0a771bc44f7f:0xd17a4ce946bb74b9!8m2!3d35.660543!4d138.450761!16s%2Fg%2F1tg5zq3x!19sChIJf0_EG3cKHGARuXS7RulMetE?authuser=0&hl=ja&rclk=1",
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "学校法人聖テレジア学園 小さき花幼稚園",
-    "address": "\n〒401-0011 山梨県大月市駒橋１丁目９−１４",
+    "address": "\n〒403-0005 山梨県富士吉田市上吉田３丁目５−７",
     "latitude": 35.4805935,
     "longitude": 138.7990652,
     "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E8%81%96%E3%83%86%E3%83%AC%E3%82%B8%E3%82%A2%E5%AD%A6%E5%9C%92+%E5%B0%8F%E3%81%95%E3%81%8D%E8%8A%B1%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601960d349262e45:0xf6091c4ab1470dc6!8m2!3d35.4805935!4d138.7990652!16s%2Fg%2F1tk8nn9d!19sChIJRS4mSdNgGWARxg1HsUocCfY?authuser=0&hl=ja&rclk=1",
@@ -1113,7 +1113,7 @@
   },
   {
     "name": "貢川進徳幼稚園",
-    "address": "\n〒401-0011 山梨県大月市駒橋１丁目９−１４",
+    "address": "\n〒400-0065 山梨県甲府市貢川１丁目７−２２",
     "latitude": 35.6591399,
     "longitude": 138.5395389,
     "link": "https://www.google.com/maps/place/%E8%B2%A2%E5%B7%9D%E9%80%B2%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf79feec5d007:0x8f789670c8c7bedc!8m2!3d35.6591399!4d138.5395389!16s%2Fg%2F1tgpsplt!19sChIJB9DF7p_3G2AR3L7HyHCWeI8?authuser=0&hl=ja&rclk=1",
@@ -1125,6 +1125,14 @@
     "latitude": 35.6198178,
     "longitude": 139.0059852,
     "link": "https://www.google.com/maps/place/%E9%B3%A5%E6%B2%A2%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601940342beef6bd:0x67d03362b35b2399!8m2!3d35.6198178!4d139.0059852!16s%2Fg%2F1hbpwrn6g!19sChIJvfbuKzRAGWARmSNbs2Iz0Gc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "学校法人 鷹野学園 あおばこども園",
+    "address": "\n〒400-0115 山梨県甲斐市篠原８８−３",
+    "latitude": 35.656271,
+    "longitude": 138.5201447,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA+%E9%B7%B9%E9%87%8E%E5%AD%A6%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7ace90437df:0xa76d223944c3411e!8m2!3d35.656271!4d138.5201447!16s%2Fg%2F1wzt2fr_!19sChIJ3zcE6az3G2ARHkHDRDkibac?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1168,11 +1176,27 @@
     "category": "幼稚園"
   },
   {
+    "name": "こでまりこども園",
+    "address": "\n〒400-0858 山梨県甲府市相生１丁目８−１０",
+    "latitude": 35.6569575,
+    "longitude": 138.5652345,
+    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%A7%E3%81%BE%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf9d0b023adf1:0xc2076d38d64ffbaf!8m2!3d35.6569575!4d138.5652345!16s%2Fg%2F1tfvz6pj!19sChIJ8a0jsND5G2ARr_tP1jhtB8I?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
     "name": "忍野幼稚園",
     "address": "\n〒401-0511 山梨県南都留郡忍野村忍草１４３７",
     "latitude": 35.4585618,
     "longitude": 138.8479817,
     "link": "https://www.google.com/maps/place/%E5%BF%8D%E9%87%8E%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601965d7da1ff3cf:0xf7f894792c241119!8m2!3d35.4585618!4d138.8479817!16s%2Fg%2F1w6_nwmn!19sChIJz_Mf2tdlGWARGREkLHmU-Pc?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "マリア国際幼稚園・ゆめの木保育園－認定こども園ドリームツリー",
+    "address": "\n〒401-0302 山梨県南都留郡富士河口湖町小立５６９９−２",
+    "latitude": 35.4779642,
+    "longitude": 138.7488105,
+    "link": "https://www.google.com/maps/place/%E3%83%9E%E3%83%AA%E3%82%A2%E5%9B%BD%E9%9A%9B%E5%B9%BC%E7%A8%9A%E5%9C%92%E3%83%BB%E3%82%86%E3%82%81%E3%81%AE%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%8D%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%84%E3%83%AA%E3%83%BC/data=!4m7!3m6!1s0x6019606f5bbd71eb:0x4bea40cb6f45f412!8m2!3d35.4779642!4d138.7488105!16s%2Fg%2F1td8z54l!19sChIJ63G9W29gGWAREvRFb8tA6ks?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1192,51 +1216,19 @@
     "category": "幼稚園"
   },
   {
-    "name": "学校法人 鷹野学園 あおばこども園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原８８−３",
-    "latitude": 35.656271,
-    "longitude": 138.5201447,
-    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA+%E9%B7%B9%E9%87%8E%E5%AD%A6%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7ace90437df:0xa76d223944c3411e!8m2!3d35.656271!4d138.5201447!16s%2Fg%2F1wzt2fr_!19sChIJ3zcE6az3G2ARHkHDRDkibac?authuser=0&hl=ja&rclk=1",
+    "name": "ひだまりこども園",
+    "address": "\n〒400-0851 山梨県甲府市住吉３丁目３−２６",
+    "latitude": 35.6421397,
+    "longitude": 138.5837257,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf9cffb86e577:0xd16bb10da1069000!8m2!3d35.6421397!4d138.5837257!16s%2Fg%2F11ncbf82lf!19sChIJd-WG-8_5G2ARAJAGoQ2xa9E?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
-    "name": "市川幼稚園",
-    "address": "\n〒409-3601 山梨県西八代郡市川三郷町市川大門１７８２",
-    "latitude": 35.565207,
-    "longitude": 138.5010271,
-    "link": "https://www.google.com/maps/place/%E5%B8%82%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf1a184044a23:0x9cbfd239ff465cd4!8m2!3d35.565207!4d138.5010271!16s%2Fg%2F1tfw32yl!19sChIJI0oEhKHxG2AR1FxG_znSv5w?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "こでまりこども園",
-    "address": "\n〒400-0858 山梨県甲府市相生１丁目８−１０",
-    "latitude": 35.6569575,
-    "longitude": 138.5652345,
-    "link": "https://www.google.com/maps/place/%E3%81%93%E3%81%A7%E3%81%BE%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf9d0b023adf1:0xc2076d38d64ffbaf!8m2!3d35.6569575!4d138.5652345!16s%2Fg%2F1tfvz6pj!19sChIJ8a0jsND5G2ARr_tP1jhtB8I?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "島田幼稚園",
-    "address": "\n〒409-0114 山梨県上野原市鶴島１９６８−２",
-    "latitude": 35.613814,
-    "longitude": 139.119859,
-    "link": "https://www.google.com/maps/place/%E5%B3%B6%E7%94%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601915d6541fa11d:0x3c1647b4ec2f4d9b!8m2!3d35.613814!4d139.119859!16s%2Fg%2F1thw_h4t!19sChIJHaEfVNYVGWARm00v7LRHFjw?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "マリア国際幼稚園・ゆめの木保育園－認定こども園ドリームツリー",
-    "address": "\n〒401-0302 山梨県南都留郡富士河口湖町小立５６９９−２",
-    "latitude": 35.4779642,
-    "longitude": 138.7488105,
-    "link": "https://www.google.com/maps/place/%E3%83%9E%E3%83%AA%E3%82%A2%E5%9B%BD%E9%9A%9B%E5%B9%BC%E7%A8%9A%E5%9C%92%E3%83%BB%E3%82%86%E3%82%81%E3%81%AE%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%8D%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%84%E3%83%AA%E3%83%BC/data=!4m7!3m6!1s0x6019606f5bbd71eb:0x4bea40cb6f45f412!8m2!3d35.4779642!4d138.7488105!16s%2Fg%2F1td8z54l!19sChIJ63G9W29gGWAREvRFb8tA6ks?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "ふるるこども園",
-    "address": "\n〒409-3853 山梨県中巨摩郡昭和町築地新居",
-    "latitude": 35.6261879,
-    "longitude": 138.5243564,
-    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%82%8B%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf725c4ad5b6f:0xabbc018d6d39ed01!8m2!3d35.6261879!4d138.5243564!16s%2Fg%2F11f095stng!19sChIJb1utxCX3G2ARAe05bY0BvKs?authuser=0&hl=ja&rclk=1",
+    "name": "かほるこども園",
+    "address": "\n〒400-0836 山梨県甲府市小瀬町２７４−３",
+    "latitude": 35.6289083,
+    "longitude": 138.5775088,
+    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%BB%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa1823afffff:0x54f62a7d91b7ead3!8m2!3d35.6289083!4d138.5775088!16s%2Fg%2F1vnnjgl3!19sChIJ__-vIxj6G2AR0-q3kX0q9lQ?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1248,6 +1240,78 @@
     "category": "幼稚園"
   },
   {
+    "name": "くだま保育園",
+    "address": "\n〒400-0815 山梨県甲府市国玉町４６８−１",
+    "latitude": 35.6512742,
+    "longitude": 138.6027361,
+    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%A0%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf97eebd18f23:0xef95c25f1606cc41!8m2!3d35.6512742!4d138.6027361!16s%2Fg%2F1td69yp5!19sChIJI4_R6375G2ARQcwGFl_Cle8?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "あいぐらん保育園甲府飯田",
+    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
+    "latitude": 35.6650967,
+    "longitude": 138.5486884,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%84%E3%81%90%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92%E7%94%B2%E5%BA%9C%E9%A3%AF%E7%94%B0/data=!4m7!3m6!1s0x601bf7b33ad060f7:0x2c60b0dd487bafc7!8m2!3d35.6650967!4d138.5486884!16s%2Fg%2F11mhsh36j6!19sChIJ92DQOrP3G2ARx697SN2wYCw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "市川幼稚園",
+    "address": "\n〒409-3601 山梨県西八代郡市川三郷町市川大門１７８２",
+    "latitude": 35.565207,
+    "longitude": 138.5010271,
+    "link": "https://www.google.com/maps/place/%E5%B8%82%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf1a184044a23:0x9cbfd239ff465cd4!8m2!3d35.565207!4d138.5010271!16s%2Fg%2F1tfw32yl!19sChIJI0oEhKHxG2AR1FxG_znSv5w?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "一宮保育園",
+    "address": "\n〒405-0075 山梨県笛吹市一宮町東原４１０",
+    "latitude": 35.646582,
+    "longitude": 138.681882,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%AE%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdaa5bc698db:0xa8215fef28b73cda!8m2!3d35.646582!4d138.681882!16s%2Fg%2F1tsr38h4!19sChIJ25jGW6r9G2AR2jy3KO9fIag?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "てくてく保育園 甲府大里",
+    "address": "\n〒400-0053 山梨県甲府市大里町５２８５",
+    "latitude": 35.6252889,
+    "longitude": 138.5566414,
+    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E5%A4%A7%E9%87%8C/data=!4m7!3m6!1s0x601bf0aa31c15555:0xb4e80a74088083bb!8m2!3d35.6252889!4d138.5566414!16s%2Fg%2F11f2b6q2nl!19sChIJVVXBMarwG2ARu4OACHQK6LQ?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "赤尾保育園",
+    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
+    "latitude": 35.7010415,
+    "longitude": 138.7364235,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "島田幼稚園",
+    "address": "\n〒409-0114 山梨県上野原市鶴島１９６８−２",
+    "latitude": 35.613814,
+    "longitude": 139.119859,
+    "link": "https://www.google.com/maps/place/%E5%B3%B6%E7%94%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601915d6541fa11d:0x3c1647b4ec2f4d9b!8m2!3d35.613814!4d139.119859!16s%2Fg%2F1thw_h4t!19sChIJHaEfVNYVGWARm00v7LRHFjw?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "甲府あら川こども園",
+    "address": "\n〒400-0062 山梨県甲府市池田１丁目１０−３０ あら川保育園",
+    "latitude": 35.6714061,
+    "longitude": 138.5435918,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf796d579417b:0x1e996ee24768500f!8m2!3d35.6714061!4d138.5435918!16s%2Fg%2F1tg2krd_!19sChIJe0F51Zb3G2ARD1BoR-JumR4?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "ふるるこども園",
+    "address": "\n〒409-3853 山梨県中巨摩郡昭和町築地新居",
+    "latitude": 35.6261879,
+    "longitude": 138.5243564,
+    "link": "https://www.google.com/maps/place/%E3%81%B5%E3%82%8B%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf725c4ad5b6f:0xabbc018d6d39ed01!8m2!3d35.6261879!4d138.5243564!16s%2Fg%2F11f095stng!19sChIJb1utxCX3G2ARAe05bY0BvKs?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
     "name": "ひまわり幼稚園",
     "address": "\n〒402-0056 山梨県都留市つる２丁目３−２３",
     "latitude": 35.558752,
@@ -1256,11 +1320,11 @@
     "category": "幼稚園"
   },
   {
-    "name": "ひだまりこども園",
-    "address": "\n〒400-0851 山梨県甲府市住吉３丁目３−２６",
-    "latitude": 35.6421397,
-    "longitude": 138.5837257,
-    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf9cffb86e577:0xd16bb10da1069000!8m2!3d35.6421397!4d138.5837257!16s%2Fg%2F11ncbf82lf!19sChIJd-WG-8_5G2ARAJAGoQ2xa9E?authuser=0&hl=ja&rclk=1",
+    "name": "ニチイキッズとくぎょう保育園",
+    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
+    "latitude": 35.6514391,
+    "longitude": 138.5507929,
+    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1280,6 +1344,14 @@
     "category": "幼稚園"
   },
   {
+    "name": "窪平保育園（山梨市立）",
+    "address": "\n〒404-0013 山梨県山梨市牧丘町窪平５２７",
+    "latitude": 35.737472,
+    "longitude": 138.7142,
+    "link": "https://www.google.com/maps/place/%E7%AA%AA%E5%B9%B3%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%88%E5%B1%B1%E6%A2%A8%E5%B8%82%E7%AB%8B%EF%BC%89/data=!4m7!3m6!1s0x601bffd6cd66680b:0x986432ac02c0e74e!8m2!3d35.737472!4d138.7142!16s%2Fg%2F1tdj48lw!19sChIJC2hmzdb_G2ARTufAAqwyZJg?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
     "name": "柏こども園",
     "address": "\n〒400-1501 山梨県甲府市上曽根町２５８",
     "latitude": 35.6055113,
@@ -1296,19 +1368,27 @@
     "category": "幼稚園"
   },
   {
-    "name": "くだま保育園",
-    "address": "\n〒400-0815 山梨県甲府市国玉町４６８−１",
-    "latitude": 35.6512742,
-    "longitude": 138.6027361,
-    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%A0%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf97eebd18f23:0xef95c25f1606cc41!8m2!3d35.6512742!4d138.6027361!16s%2Fg%2F1td69yp5!19sChIJI4_R6375G2ARQcwGFl_Cle8?authuser=0&hl=ja&rclk=1",
+    "name": "あおぞら保育園",
+    "address": "\n〒400-0126 山梨県甲斐市大下条７５３−１",
+    "latitude": 35.6729099,
+    "longitude": 138.5217752,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7cb9a60a2e5:0xb677817ce58b41cd!8m2!3d35.6729099!4d138.5217752!16s%2Fg%2F1v1kpygq!19sChIJ5aJgmsv3G2ARzUGL5XyBd7Y?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
-    "name": "かほるこども園",
-    "address": "\n〒400-0836 山梨県甲府市小瀬町２７４−３",
-    "latitude": 35.6289083,
-    "longitude": 138.5775088,
-    "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%BB%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa1823afffff:0x54f62a7d91b7ead3!8m2!3d35.6289083!4d138.5775088!16s%2Fg%2F1vnnjgl3!19sChIJ__-vIxj6G2AR0-q3kX0q9lQ?authuser=0&hl=ja&rclk=1",
+    "name": "ちびっこはうす保育園",
+    "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
+    "latitude": 35.6303226,
+    "longitude": 138.5880953,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%81%AF%E3%81%86%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa3a6feac997:0x44f749f7c6d97de2!8m2!3d35.6303226!4d138.5880953!16s%2Fg%2F1tdh8j64!19sChIJl8nqbzr6G2AR4n3ZxvdJ90Q?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "甲南立正保育園",
+    "address": "\n〒400-0842 山梨県甲府市下今井町７０７",
+    "latitude": 35.613273,
+    "longitude": 138.5835,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%8D%97%E7%AB%8B%E6%AD%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa5cac881091:0x6ef03e826900492e!8m2!3d35.613273!4d138.5835!16s%2Fg%2F1vjdq3w5!19sChIJkRCIrFz6G2ARLkkAaYI-8G4?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1317,14 +1397,6 @@
     "latitude": 35.6824284,
     "longitude": 138.5468987,
     "link": "https://www.google.com/maps/place/%E5%92%8C%E6%B3%89%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf7eda566a6c5:0xb45c625126d8eb4f!8m2!3d35.6824284!4d138.5468987!16s%2Fg%2F1tcyfjw7!19sChIJxaZmpe33G2ART-vYJlFiXLQ?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "あいぐらん保育園甲府飯田",
-    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
-    "latitude": 35.6650967,
-    "longitude": 138.5486884,
-    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%84%E3%81%90%E3%82%89%E3%82%93%E4%BF%9D%E8%82%B2%E5%9C%92%E7%94%B2%E5%BA%9C%E9%A3%AF%E7%94%B0/data=!4m7!3m6!1s0x601bf7b33ad060f7:0x2c60b0dd487bafc7!8m2!3d35.6650967!4d138.5486884!16s%2Fg%2F11mhsh36j6!19sChIJ92DQOrP3G2ARx697SN2wYCw?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1352,11 +1424,35 @@
     "category": "幼稚園"
   },
   {
-    "name": "一宮保育園",
-    "address": "\n〒405-0075 山梨県笛吹市一宮町東原４１０",
-    "latitude": 35.646582,
-    "longitude": 138.681882,
-    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%AE%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdaa5bc698db:0xa8215fef28b73cda!8m2!3d35.646582!4d138.681882!16s%2Fg%2F1tsr38h4!19sChIJ25jGW6r9G2AR2jy3KO9fIag?authuser=0&hl=ja&rclk=1",
+    "name": "大鎌田保育園",
+    "address": "\n〒400-0053 山梨県甲府市大里町４５３０",
+    "latitude": 35.6180986,
+    "longitude": 138.5593979,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%8E%8C%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa09dca7e24b:0x252482273d2a6534!8m2!3d35.6180986!4d138.5593979!16s%2Fg%2F1tfc22h5!19sChIJS-Kn3An6G2ARNGUqPSeCJCU?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "境川保育園",
+    "address": "\n〒406-0851 山梨県笛吹市境川町小黒坂１６４０−１",
+    "latitude": 35.59492,
+    "longitude": 138.622825,
+    "link": "https://www.google.com/maps/place/%E5%A2%83%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfb4668a92c41:0xcdd72d4698140c77!8m2!3d35.59492!4d138.622825!16s%2Fg%2F1ts1s98s!19sChIJQSypaEb7G2ARdwwUmEYt180?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "伸芽保育園",
+    "address": "\n〒400-0042 山梨県甲府市高畑１丁目５−５",
+    "latitude": 35.6543476,
+    "longitude": 138.5635884,
+    "link": "https://www.google.com/maps/place/%E4%BC%B8%E8%8A%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9dea91bae0b:0xe15603a581094f2a!8m2!3d35.6543476!4d138.5635884!16s%2Fg%2F1td13bnz!19sChIJC64bqd75G2ARKk8JgaUDVuE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "千野保育園",
+    "address": "\n〒404-0041 山梨県甲州市塩山千野３６５３",
+    "latitude": 35.7146012,
+    "longitude": 138.7343227,
+    "link": "https://www.google.com/maps/place/%E5%8D%83%E9%87%8E%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601955e8d54f5a9d:0x757c9994b326df7!8m2!3d35.7146012!4d138.7343227!16s%2Fg%2F1tmqg815!19sChIJnVpP1ehVGWAR920yS5nJVwc?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1376,11 +1472,11 @@
     "category": "幼稚園"
   },
   {
-    "name": "赤尾保育園",
-    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
-    "latitude": 35.7010415,
-    "longitude": 138.7364235,
-    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
+    "name": "石和あら川こども園",
+    "address": "\n〒406-0045 山梨県笛吹市石和町井戸２３６−１",
+    "latitude": 35.6244005,
+    "longitude": 138.6064029,
+    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfbb5c848f0bf:0xb06796c711bbc083!8m2!3d35.6244005!4d138.6064029!16s%2Fg%2F11b6sf3c00!19sChIJv_BIyLX7G2ARg8C7EceWZ7A?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1416,11 +1512,11 @@
     "category": "幼稚園"
   },
   {
-    "name": "甲府あら川こども園",
-    "address": "\n〒400-0062 山梨県甲府市池田１丁目１０−３０ あら川保育園",
-    "latitude": 35.6714061,
-    "longitude": 138.5435918,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf796d579417b:0x1e996ee24768500f!8m2!3d35.6714061!4d138.5435918!16s%2Fg%2F1tg2krd_!19sChIJe0F51Zb3G2ARD1BoR-JumR4?authuser=0&hl=ja&rclk=1",
+    "name": "OLive保育園 窪中島園",
+    "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１３４−１",
+    "latitude": 35.648653,
+    "longitude": 138.6355647,
+    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%AA%AA%E4%B8%AD%E5%B3%B6%E5%9C%92/data=!4m7!3m6!1s0x601bfbb52abec56b:0x7340184219fa114e!8m2!3d35.648653!4d138.6355647!16s%2Fg%2F11gh_nbpfw!19sChIJa8W-KrX7G2ARThH6GUIYQHM?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1429,14 +1525,6 @@
     "latitude": 35.5715927,
     "longitude": 138.9258384,
     "link": "https://www.google.com/maps/place/%E6%9D%B1%E9%99%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019427b65b0598d:0xff2ddc15291f584a!8m2!3d35.5715927!4d138.9258384!16s%2Fg%2F1thr76nk!19sChIJjVmwZXtCGWARSlgfKRXcLf8?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "てくてく保育園 甲府大里",
-    "address": "\n〒400-0053 山梨県甲府市大里町５２８５",
-    "latitude": 35.6252889,
-    "longitude": 138.5566414,
-    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E5%A4%A7%E9%87%8C/data=!4m7!3m6!1s0x601bf0aa31c15555:0xb4e80a74088083bb!8m2!3d35.6252889!4d138.5566414!16s%2Fg%2F11f2b6q2nl!19sChIJVVXBMarwG2ARu4OACHQK6LQ?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1456,16 +1544,24 @@
     "category": "幼稚園"
   },
   {
-    "name": "ニチイキッズとくぎょう保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
-    "latitude": 35.6514391,
-    "longitude": 138.5507929,
-    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
+    "name": "英才保育園 かいKids",
+    "address": "\n〒400-0053 山梨県甲府市大里町２０５３−３",
+    "latitude": 35.623221,
+    "longitude": 138.5637316,
+    "link": "https://www.google.com/maps/place/%E8%8B%B1%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92+%E3%81%8B%E3%81%84Kids/data=!4m7!3m6!1s0x601bfb6522f7c2cd:0x16e2b0e922eabfe!8m2!3d35.623221!4d138.5637316!16s%2Fg%2F11gjm85bnw!19sChIJzcL3ImX7G2AR_qsukg4rbgE?authuser=0&hl=ja&rclk=1",
+    "category": "幼稚園"
+  },
+  {
+    "name": "中央歯科医院内 つくしんぼ保育園",
+    "address": "\n〒400-0032 山梨県甲府市中央５丁目５−１２",
+    "latitude": 35.6578723,
+    "longitude": 138.5761749,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2%E5%86%85+%E3%81%A4%E3%81%8F%E3%81%97%E3%82%93%E3%81%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9ad4e8dec67:0xddaf9ec7f77c0f88!8m2!3d35.6578723!4d138.5761749!16s%2Fg%2F11fk1hl9qg!19sChIJZ-yNTq35G2ARiA9898eer90?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
     "name": "明照福祉会 誓和保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
+    "address": "\n〒400-0807 山梨県甲府市東光寺１丁目３−２７ 誓和",
     "latitude": 35.6627963,
     "longitude": 138.5817961,
     "link": "https://www.google.com/maps/place/%E6%98%8E%E7%85%A7%E7%A6%8F%E7%A5%89%E4%BC%9A+%E8%AA%93%E5%92%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9b92e3997b1:0xfbe6f98241c561a3!8m2!3d35.6627963!4d138.5817961!16s%2Fg%2F1tkktymh!19sChIJsZc5Lrn5G2ARo2HFQYL55vs?authuser=0&hl=ja&rclk=1",
@@ -1480,16 +1576,16 @@
     "category": "幼稚園"
   },
   {
-    "name": "窪平保育園（山梨市立）",
-    "address": "\n〒404-0013 山梨県山梨市牧丘町窪平５２７",
-    "latitude": 35.737472,
-    "longitude": 138.7142,
-    "link": "https://www.google.com/maps/place/%E7%AA%AA%E5%B9%B3%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%88%E5%B1%B1%E6%A2%A8%E5%B8%82%E7%AB%8B%EF%BC%89/data=!4m7!3m6!1s0x601bffd6cd66680b:0x986432ac02c0e74e!8m2!3d35.737472!4d138.7142!16s%2Fg%2F1tdj48lw!19sChIJC2hmzdb_G2ARTufAAqwyZJg?authuser=0&hl=ja&rclk=1",
+    "name": "甲斐市立竜王西保育園",
+    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
+    "latitude": 35.6658726,
+    "longitude": 138.5072559,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf639ba26b26d:0x42104f578312f6c4!8m2!3d35.6658726!4d138.5072559!16s%2Fg%2F1vntjzjj!19sChIJbbImujn2G2ARxPYSg1dPEEI?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
     "name": "玉諸保育所",
-    "address": "\n〒404-0013 山梨県山梨市牧丘町窪平５２７",
+    "address": "\n〒400-0824 山梨県甲府市蓬沢町１２４７ 甲府市玉諸保育所",
     "latitude": 35.644816,
     "longitude": 138.602836,
     "link": "https://www.google.com/maps/place/%E7%8E%89%E8%AB%B8%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfbd41467d753:0xbb148c1b5663bcab!8m2!3d35.644816!4d138.602836!16s%2Fg%2F1w4f8596!19sChIJU9dnFNT7G2ARq7xjVhuMFLs?authuser=0&hl=ja&rclk=1",
@@ -1501,102 +1597,6 @@
     "latitude": 35.6478342,
     "longitude": 138.5273198,
     "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7032189b659:0xd6d5c8eadaf6f7ac!8m2!3d35.6478342!4d138.5273198!16s%2Fg%2F11gmzbqfv4!19sChIJWbaJIQP3G2ARrPf22urI1dY?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "甲南立正保育園",
-    "address": "\n〒400-0842 山梨県甲府市下今井町７０７",
-    "latitude": 35.613273,
-    "longitude": 138.5835,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%8D%97%E7%AB%8B%E6%AD%A3%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa5cac881091:0x6ef03e826900492e!8m2!3d35.613273!4d138.5835!16s%2Fg%2F1vjdq3w5!19sChIJkRCIrFz6G2ARLkkAaYI-8G4?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "ちびっこはうす保育園",
-    "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
-    "latitude": 35.6303226,
-    "longitude": 138.5880953,
-    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%81%AF%E3%81%86%E3%81%99%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa3a6feac997:0x44f749f7c6d97de2!8m2!3d35.6303226!4d138.5880953!16s%2Fg%2F1tdh8j64!19sChIJl8nqbzr6G2AR4n3ZxvdJ90Q?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "あおぞら保育園",
-    "address": "\n〒400-0126 山梨県甲斐市大下条７５３−１",
-    "latitude": 35.6729099,
-    "longitude": 138.5217752,
-    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7cb9a60a2e5:0xb677817ce58b41cd!8m2!3d35.6729099!4d138.5217752!16s%2Fg%2F1v1kpygq!19sChIJ5aJgmsv3G2ARzUGL5XyBd7Y?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "八日市場保育園",
-    "address": "\n〒405-0005 山梨県山梨市小原東２３８−１",
-    "latitude": 35.696846,
-    "longitude": 138.701648,
-    "link": "https://www.google.com/maps/place/%E5%85%AB%E6%97%A5%E5%B8%82%E5%A0%B4%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe0da82a22bd:0x9e3aaba47021e8f6!8m2!3d35.696846!4d138.701648!16s%2Fg%2F1tfbyjpr!19sChIJvSIqqA3-G2AR9ughcKSrOp4?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "加納岩保育園",
-    "address": "\n〒405-0017 山梨県山梨市下神内川５２３",
-    "latitude": 35.6793156,
-    "longitude": 138.6809404,
-    "link": "https://www.google.com/maps/place/%E5%8A%A0%E7%B4%8D%E5%B2%A9%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdd5055a50dd:0xdd096fe68b78b7a4!8m2!3d35.6793156!4d138.6809404!16s%2Fg%2F1td9w5pt!19sChIJ3VBaBdX9G2ARpLd4i-ZvCd0?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "甲府市立中央保育所",
-    "address": "\n〒400-0032 山梨県甲府市中央３丁目３−１",
-    "latitude": 35.6639714,
-    "longitude": 138.5760722,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E4%B8%AD%E5%A4%AE%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bf9c6f83ff11f:0xc398193b70d0c30c!8m2!3d35.6639714!4d138.5760722!16s%2Fg%2F1tgdnmn_!19sChIJH_E_-Mb5G2ARDMPQcDsZmMM?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "石和第一保育所",
-    "address": "\n〒400-0032 山梨県甲府市中央３丁目３−１",
-    "latitude": 35.653054,
-    "longitude": 138.642344,
-    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E7%AC%AC%E4%B8%80%E4%BF%9D%E8%82%B2%E6%89%80/data=!4m7!3m6!1s0x601bfc0919f985cb:0x2f51a44cb85c8f80!8m2!3d35.653054!4d138.642344!16s%2Fg%2F1tc_4518!19sChIJy4X5GQn8G2ARgI9cuEykUS8?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "大鎌田保育園",
-    "address": "\n〒400-0053 山梨県甲府市大里町４５３０",
-    "latitude": 35.6180986,
-    "longitude": 138.5593979,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%8E%8C%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa09dca7e24b:0x252482273d2a6534!8m2!3d35.6180986!4d138.5593979!16s%2Fg%2F1tfc22h5!19sChIJS-Kn3An6G2ARNGUqPSeCJCU?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "石和あら川こども園",
-    "address": "\n〒406-0045 山梨県笛吹市石和町井戸２３６−１",
-    "latitude": 35.6244005,
-    "longitude": 138.6064029,
-    "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfbb5c848f0bf:0xb06796c711bbc083!8m2!3d35.6244005!4d138.6064029!16s%2Fg%2F11b6sf3c00!19sChIJv_BIyLX7G2ARg8C7EceWZ7A?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "伸芽保育園",
-    "address": "\n〒400-0042 山梨県甲府市高畑１丁目５−５",
-    "latitude": 35.6543476,
-    "longitude": 138.5635884,
-    "link": "https://www.google.com/maps/place/%E4%BC%B8%E8%8A%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9dea91bae0b:0xe15603a581094f2a!8m2!3d35.6543476!4d138.5635884!16s%2Fg%2F1td13bnz!19sChIJC64bqd75G2ARKk8JgaUDVuE?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "境川保育園",
-    "address": "\n〒406-0851 山梨県笛吹市境川町小黒坂１６４０−１",
-    "latitude": 35.59492,
-    "longitude": 138.622825,
-    "link": "https://www.google.com/maps/place/%E5%A2%83%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfb4668a92c41:0xcdd72d4698140c77!8m2!3d35.59492!4d138.622825!16s%2Fg%2F1ts1s98s!19sChIJQSypaEb7G2ARdwwUmEYt180?authuser=0&hl=ja&rclk=1",
-    "category": "幼稚園"
-  },
-  {
-    "name": "甲斐市立竜王北保育園",
-    "address": "\n〒400-0111 山梨県甲斐市竜王新町640ｰ1",
-    "latitude": 35.6706467,
-    "longitude": 138.5164958,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E5%8C%97%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf6348f585b01:0xee30bf8c8455ae89!8m2!3d35.6706467!4d138.5164958!16s%2Fg%2F1tf6xf4r!19sChIJAVtYjzT2G2ARia5VhIy_MO4?authuser=0&hl=ja&rclk=1",
     "category": "幼稚園"
   },
   {
@@ -1616,14 +1616,6 @@
     "category": "こども園"
   },
   {
-    "name": "山梨英和学院山梨英和カートメルこども園",
-    "address": "\n〒400-0831 山梨県甲府市上町１７４０ 認定こども園 山梨英和カートメルこども園",
-    "latitude": 35.632992,
-    "longitude": 138.5825242,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E5%AD%A6%E9%99%A2%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E3%82%AB%E3%83%BC%E3%83%88%E3%83%A1%E3%83%AB%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa2374b64791:0x29433693f39c7de6!8m2!3d35.632992!4d138.5825242!16s%2Fg%2F1w4f8590!19sChIJkUe2dCP6G2AR5n2c85M2Qyk?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "社会福祉法人山宮保育会 幼保連携型認定こども園 光の森こども園",
     "address": "\n〒400-0075 山梨県甲府市山宮町３３１８−２",
     "latitude": 35.6942651,
@@ -1640,35 +1632,27 @@
     "category": "こども園"
   },
   {
-    "name": "昭和こども園",
-    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条４１８５−２",
-    "latitude": 35.6385856,
-    "longitude": 138.540118,
-    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7405c6b7473:0x8ad0c572aaf3e55a!8m2!3d35.6385856!4d138.540118!16s%2Fg%2F1tj2c1yt!19sChIJc3RrXED3G2ARWuXzqnLF0Io?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "まみい・キッズこども園",
-    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条４１８５−２",
+    "address": "\n〒409-3815 山梨県中央市成島１０７２−１",
     "latitude": 35.599166,
     "longitude": 138.54697,
     "link": "https://www.google.com/maps/place/%E3%81%BE%E3%81%BF%E3%81%84%E3%83%BB%E3%82%AD%E3%83%83%E3%82%BA%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf090464ce147:0x796b0f590767ca7b!8m2!3d35.599166!4d138.54697!16s%2Fg%2F1tf70_r5!19sChIJR-FMRpDwG2ARe8pnB1kPa3k?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
-    "name": "認定こども園 すみよし愛児園",
-    "address": "\n〒400-0851 山梨県甲府市住吉３丁目２４−２０",
-    "latitude": 35.640602,
-    "longitude": 138.582779,
-    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf98a0d9368a1:0x380d2bcdaec58f5d!8m2!3d35.640602!4d138.582779!16s%2Fg%2F1vn_z0jn!19sChIJoWiTDYr5G2ARXY_Frs0rDTg?authuser=0&hl=ja&rclk=1",
+    "name": "山梨英和学院山梨英和カートメルこども園",
+    "address": "\n〒400-0831 山梨県甲府市上町１７４０ 認定こども園 山梨英和カートメルこども園",
+    "latitude": 35.632992,
+    "longitude": 138.5825242,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E5%AD%A6%E9%99%A2%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E3%82%AB%E3%83%BC%E3%83%88%E3%83%A1%E3%83%AB%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa2374b64791:0x29433693f39c7de6!8m2!3d35.632992!4d138.5825242!16s%2Fg%2F1w4f8590!19sChIJkUe2dCP6G2AR5n2c85M2Qyk?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
-    "name": "みかさこども園",
-    "address": "\n〒400-0851 山梨県甲府市住吉３丁目２４−２０",
-    "latitude": 35.5957755,
-    "longitude": 138.517705,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8B%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf120149290ff:0x458b10f3734360da!8m2!3d35.5957755!4d138.517705!16s%2Fg%2F1tgh7mwn!19sChIJ_5CSFCDxG2AR2mBDc_MQi0U?authuser=0&hl=ja&rclk=1",
+    "name": "昭和こども園",
+    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条４１８５−２",
+    "latitude": 35.6385856,
+    "longitude": 138.540118,
+    "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7405c6b7473:0x8ad0c572aaf3e55a!8m2!3d35.6385856!4d138.540118!16s%2Fg%2F1tj2c1yt!19sChIJc3RrXED3G2ARWuXzqnLF0Io?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1680,11 +1664,43 @@
     "category": "こども園"
   },
   {
+    "name": "認定こども園 すみよし愛児園",
+    "address": "\n〒400-0851 山梨県甲府市住吉３丁目２４−２０",
+    "latitude": 35.640602,
+    "longitude": 138.582779,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf98a0d9368a1:0x380d2bcdaec58f5d!8m2!3d35.640602!4d138.582779!16s%2Fg%2F1vn_z0jn!19sChIJoWiTDYr5G2ARXY_Frs0rDTg?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "かほるこども園",
     "address": "\n〒400-0836 山梨県甲府市小瀬町２７４−３",
     "latitude": 35.6289083,
     "longitude": 138.5775088,
     "link": "https://www.google.com/maps/place/%E3%81%8B%E3%81%BB%E3%82%8B%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa1823afffff:0x54f62a7d91b7ead3!8m2!3d35.6289083!4d138.5775088!16s%2Fg%2F1vnnjgl3!19sChIJ__-vIxj6G2AR0-q3kX0q9lQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "みかさこども園",
+    "address": "\n〒409-3844 山梨県中央市臼井阿原８１３−６",
+    "latitude": 35.5957755,
+    "longitude": 138.517705,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%8B%E3%81%95%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf120149290ff:0x458b10f3734360da!8m2!3d35.5957755!4d138.517705!16s%2Fg%2F1tgh7mwn!19sChIJ_5CSFCDxG2AR2mBDc_MQi0U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "森のようちえん にっこにこ",
+    "address": "\n〒400-0008 山梨県甲府市緑が丘２丁目１１−１８ 7",
+    "latitude": 35.6826785,
+    "longitude": 138.5623764,
+    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "学校法人 鷹野学園 あおばこども園",
+    "address": "\n〒400-0115 山梨県甲斐市篠原８８−３",
+    "latitude": 35.656271,
+    "longitude": 138.5201447,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA+%E9%B7%B9%E9%87%8E%E5%AD%A6%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7ace90437df:0xa76d223944c3411e!8m2!3d35.656271!4d138.5201447!16s%2Fg%2F1wzt2fr_!19sChIJ3zcE6az3G2ARHkHDRDkibac?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1704,27 +1720,11 @@
     "category": "こども園"
   },
   {
-    "name": "森のようちえん にっこにこ",
-    "address": "\n〒400-0803 山梨県甲府市桜井町１６５−３",
-    "latitude": 35.6826785,
-    "longitude": 138.5623764,
-    "link": "https://www.google.com/maps/place/%E6%A3%AE%E3%81%AE%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93+%E3%81%AB%E3%81%A3%E3%81%93%E3%81%AB%E3%81%93/data=!4m7!3m6!1s0x601c09d4fa907df7:0xe598b6c5e6113c7e!8m2!3d35.6826785!4d138.5623764!16s%2Fg%2F11t4m5cw37!19sChIJ932Q-tQJHGARfjwR5sW2mOU?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "認定こども園 新生学園",
     "address": "\n〒400-0831 山梨県甲府市上町３５０ SHINSEI 新生保育園",
     "latitude": 35.6277715,
     "longitude": 138.5896421,
     "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E6%96%B0%E7%94%9F%E5%AD%A6%E5%9C%92/data=!4m7!3m6!1s0x601bfa376ef519d3:0xbe2ba794a562b3ca!8m2!3d35.6277715!4d138.5896421!16s%2Fg%2F11fngz9y45!19sChIJ0xn1bjf6G2ARyrNipZSnK74?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "学校法人 鷹野学園 あおばこども園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原８８−３",
-    "latitude": 35.656271,
-    "longitude": 138.5201447,
-    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA+%E9%B7%B9%E9%87%8E%E5%AD%A6%E5%9C%92+%E3%81%82%E3%81%8A%E3%81%B0%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7ace90437df:0xa76d223944c3411e!8m2!3d35.656271!4d138.5201447!16s%2Fg%2F1wzt2fr_!19sChIJ3zcE6az3G2ARHkHDRDkibac?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1744,14 +1744,6 @@
     "category": "こども園"
   },
   {
-    "name": "山梨英和プレストンこども園",
-    "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１９０−２",
-    "latitude": 35.648443,
-    "longitude": 138.633219,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%E3%83%B3%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfbf146209a3d:0x1e93950f7051e7de!8m2!3d35.648443!4d138.633219!16s%2Fg%2F1thnnvrb!19sChIJPZogRvH7G2AR3udRcA-Vkx4?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "とりさわ認定こども園",
     "address": "\n〒409-0502 山梨県大月市富浜町鳥沢１９７３−１",
     "latitude": 35.6090668,
@@ -1760,8 +1752,16 @@
     "category": "こども園"
   },
   {
+    "name": "山梨英和プレストンこども園",
+    "address": "\n〒406-0036 山梨県笛吹市石和町窪中島１９０−２",
+    "latitude": 35.648443,
+    "longitude": 138.633219,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%E3%83%B3%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfbf146209a3d:0x1e93950f7051e7de!8m2!3d35.648443!4d138.633219!16s%2Fg%2F1thnnvrb!19sChIJPZogRvH7G2AR3udRcA-Vkx4?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "山梨英和ダグラスこども園",
-    "address": "\n〒409-0502 山梨県大月市富浜町鳥沢１９７３−１",
+    "address": "\n〒407-0003 山梨県韮崎市藤井町北下條１５",
     "latitude": 35.7259501,
     "longitude": 138.4440939,
     "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E8%8B%B1%E5%92%8C%E3%83%80%E3%82%B0%E3%83%A9%E3%82%B9%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601c0bb9636ecabb:0x543e2ee77e5de7ed!8m2!3d35.7259501!4d138.4440939!16s%2Fg%2F1tjgpnxn!19sChIJu8puY7kLHGAR7eddfucuPlQ?authuser=0&hl=ja&rclk=1",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "認定こども園かおり幼稚園",
-    "address": "\n〒409-0502 山梨県大月市富浜町鳥沢１９７３−１",
+    "address": "\n〒400-0115 山梨県甲斐市篠原１０８７",
     "latitude": 35.6415507,
     "longitude": 138.530229,
     "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%81%8B%E3%81%8A%E3%82%8A%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf710c6968fef:0xf0863445788471a3!8m2!3d35.6415507!4d138.530229!16s%2Fg%2F1wbrxvz1!19sChIJ74-WxhD3G2ARo3GEeEU0hvA?authuser=0&hl=ja&rclk=1",
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "石和あら川こども園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原１０８７",
+    "address": "\n〒406-0045 山梨県笛吹市石和町井戸２３６−１",
     "latitude": 35.6244005,
     "longitude": 138.6064029,
     "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfbb5c848f0bf:0xb06796c711bbc083!8m2!3d35.6244005!4d138.6064029!16s%2Fg%2F11b6sf3c00!19sChIJv_BIyLX7G2ARg8C7EceWZ7A?authuser=0&hl=ja&rclk=1",
@@ -1785,7 +1785,7 @@
   },
   {
     "name": "おひさま 幼保連携型認定こども園 ポッポの家",
-    "address": "\n〒400-0115 山梨県甲斐市篠原１０８７",
+    "address": "\n〒400-0422 山梨県南アルプス市荊沢１７５",
     "latitude": 35.5896083,
     "longitude": 138.4621925,
     "link": "https://www.google.com/maps/place/%E3%81%8A%E3%81%B2%E3%81%95%E3%81%BE+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E3%83%9D%E3%83%83%E3%83%9D%E3%81%AE%E5%AE%B6/data=!4m7!3m6!1s0x601bf40a768f30a1:0xf8469c41fee7e35c!8m2!3d35.5896083!4d138.4621925!16s%2Fg%2F1td7ncz1!19sChIJoTCPdgr0G2ARXOPn_kGcRvg?authuser=0&hl=ja&rclk=1",
@@ -1800,11 +1800,35 @@
     "category": "こども園"
   },
   {
+    "name": "聖愛会 なでしここども園",
+    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
+    "latitude": 35.6265344,
+    "longitude": 138.5640663,
+    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E4%BC%9A+%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa04223a8933:0x76343b0fbf4a01eb!8m2!3d35.6265344!4d138.5640663!16s%2Fg%2F1td0gl4j!19sChIJM4k6IgT6G2AR6wFKvw87NHY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "竜王あら川こども園",
+    "address": "\n〒400-0117 山梨県甲斐市西八幡１４７３−１",
+    "latitude": 35.6373398,
+    "longitude": 138.5266986,
+    "link": "https://www.google.com/maps/place/%E7%AB%9C%E7%8E%8B%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf719adc88685:0xcc23e83408c56967!8m2!3d35.6373398!4d138.5266986!16s%2Fg%2F11bzsfy2lj!19sChIJhYbIrRn3G2ARZ2nFCDToI8w?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "和泉愛児園",
     "address": "\n〒400-0073 山梨県甲府市湯村３丁目１２−１３",
     "latitude": 35.6824284,
     "longitude": 138.5468987,
     "link": "https://www.google.com/maps/place/%E5%92%8C%E6%B3%89%E6%84%9B%E5%85%90%E5%9C%92/data=!4m7!3m6!1s0x601bf7eda566a6c5:0xb45c625126d8eb4f!8m2!3d35.6824284!4d138.5468987!16s%2Fg%2F1tcyfjw7!19sChIJxaZmpe33G2ART-vYJlFiXLQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "バンビユニバーサルこども園",
+    "address": "\n〒400-0213 山梨県南アルプス市西野１２５１−２",
+    "latitude": 35.6470552,
+    "longitude": 138.4899323,
+    "link": "https://www.google.com/maps/place/%E3%83%90%E3%83%B3%E3%83%93%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf66fa2783e4d:0x5cc03e34cc116202!8m2!3d35.6470552!4d138.4899323!16s%2Fg%2F11b7sw6cg_!19sChIJTT54om_2G2ARAmIRzDQ-wFw?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1816,67 +1840,11 @@
     "category": "こども園"
   },
   {
-    "name": "聖愛会 なでしここども園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
-    "latitude": 35.6265344,
-    "longitude": 138.5640663,
-    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E4%BC%9A+%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfa04223a8933:0x76343b0fbf4a01eb!8m2!3d35.6265344!4d138.5640663!16s%2Fg%2F1td0gl4j!19sChIJM4k6IgT6G2AR6wFKvw87NHY?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "竜王あら川こども園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
-    "latitude": 35.6373398,
-    "longitude": 138.5266986,
-    "link": "https://www.google.com/maps/place/%E7%AB%9C%E7%8E%8B%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf719adc88685:0xcc23e83408c56967!8m2!3d35.6373398!4d138.5266986!16s%2Fg%2F11bzsfy2lj!19sChIJhYbIrRn3G2ARZ2nFCDToI8w?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "山梨 立正光生園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２２６２−１ なでしこ保育園",
-    "latitude": 35.6481892,
-    "longitude": 138.5689555,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8+%E7%AB%8B%E6%AD%A3%E5%85%89%E7%94%9F%E5%9C%92/data=!4m7!3m6!1s0x601bf9ef528b19e7:0xf47a1f8c8068bf54!8m2!3d35.6481892!4d138.5689555!16s%2Fg%2F1v2yyyk7!19sChIJ5xmLUu_5G2ARVL9ogIwfevQ?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "南西保育園",
-    "address": "\n〒400-0856 山梨県甲府市伊勢２丁目１−１９",
-    "latitude": 35.647076,
-    "longitude": 138.555579,
-    "link": "https://www.google.com/maps/place/%E5%8D%97%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7609c946d9b:0x1c8dd622af6468de!8m2!3d35.647076!4d138.555579!16s%2Fg%2F1vq9mc4w!19sChIJm22UnGD3G2AR3mhkryLWjRw?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "第２なでしここども園",
-    "address": "\n〒400-0856 山梨県甲府市伊勢２丁目１−１９",
+    "address": "\n〒404-0042 山梨県甲州市塩山上於曽４４５−１",
     "latitude": 35.6889489,
     "longitude": 138.543725,
     "link": "https://www.google.com/maps/place/%E7%AC%AC%EF%BC%92%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7e67a26dd79:0x13eb6d2fa9c9ab70!8m2!3d35.6889489!4d138.543725!16s%2Fg%2F1w2yzjdh!19sChIJed0meub3G2ARcKvJqS9t6xM?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "バンビユニバーサルこども園",
-    "address": "\n〒400-0071 山梨県甲府市羽黒町６１８",
-    "latitude": 35.6470552,
-    "longitude": 138.4899323,
-    "link": "https://www.google.com/maps/place/%E3%83%90%E3%83%B3%E3%83%93%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf66fa2783e4d:0x5cc03e34cc116202!8m2!3d35.6470552!4d138.4899323!16s%2Fg%2F11b7sw6cg_!19sChIJTT54om_2G2ARAmIRzDQ-wFw?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "聖愛幼稚園",
-    "address": "\n〒400-0071 山梨県甲府市羽黒町６１８−２",
-    "latitude": 35.6889991,
-    "longitude": 138.5434137,
-    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7e6798f28c9:0xbfe673bdaff3ebb0!8m2!3d35.6889991!4d138.5434137!16s%2Fg%2F1ttpbcp3!19sChIJySiPeeb3G2ARsOvzr71z5r8?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "池田くるみの木こども園",
-    "address": "\n〒400-0063 山梨県甲府市金竹町５−１７",
-    "latitude": 35.6667592,
-    "longitude": 138.5366959,
-    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E3%81%8F%E3%82%8B%E3%81%BF%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7bccb938baf:0x85a3ccee195e8168!8m2!3d35.6667592!4d138.5366959!16s%2Fg%2F11cnq5fpc1!19sChIJr4uTy7z3G2ARaIFeGe7Mo4U?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1889,10 +1857,74 @@
   },
   {
     "name": "山梨保育園",
-    "address": "\n〒400-0042 山梨県甲府市高畑１丁目５−５",
+    "address": "\n〒405-0033 山梨県山梨市落合４３−１",
     "latitude": 35.685154,
     "longitude": 138.666555,
     "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfe9061b4827d:0x67fdb2c31a95f555!8m2!3d35.685154!4d138.666555!16s%2Fg%2F1tmcm999!19sChIJfYK0YZD-G2ARVfWVGsOy_Wc?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "池田くるみの木こども園",
+    "address": "\n〒400-0063 山梨県甲府市金竹町５−１７",
+    "latitude": 35.6667592,
+    "longitude": 138.5366959,
+    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E3%81%8F%E3%82%8B%E3%81%BF%E3%81%AE%E6%9C%A8%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bf7bccb938baf:0x85a3ccee195e8168!8m2!3d35.6667592!4d138.5366959!16s%2Fg%2F11cnq5fpc1!19sChIJr4uTy7z3G2ARaIFeGe7Mo4U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "山梨 立正光生園",
+    "address": "\n〒400-0856 山梨県甲府市伊勢２丁目１−１９",
+    "latitude": 35.6481892,
+    "longitude": 138.5689555,
+    "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8+%E7%AB%8B%E6%AD%A3%E5%85%89%E7%94%9F%E5%9C%92/data=!4m7!3m6!1s0x601bf9ef528b19e7:0xf47a1f8c8068bf54!8m2!3d35.6481892!4d138.5689555!16s%2Fg%2F1v2yyyk7!19sChIJ5xmLUu_5G2ARVL9ogIwfevQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "くだま保育園",
+    "address": "\n〒400-0815 山梨県甲府市国玉町４６８−１",
+    "latitude": 35.6512742,
+    "longitude": 138.6027361,
+    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%A0%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf97eebd18f23:0xef95c25f1606cc41!8m2!3d35.6512742!4d138.6027361!16s%2Fg%2F1td69yp5!19sChIJI4_R6375G2ARQcwGFl_Cle8?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "笛吹あら川こども園",
+    "address": "\n〒406-0005 山梨県笛吹市春日居町加茂３１１",
+    "latitude": 35.66813,
+    "longitude": 138.658439,
+    "link": "https://www.google.com/maps/place/%E7%AC%9B%E5%90%B9%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfc1f5c5c660f:0x6abb3efb4c8a4a33!8m2!3d35.66813!4d138.658439!16s%2Fg%2F1tfpzxqm!19sChIJD2ZcXB_8G2ARM0qKTPs-u2o?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "南西保育園",
+    "address": "\n〒400-0046 山梨県甲府市下石田２丁目１０−１７ 社会福祉法人 南西保育園",
+    "latitude": 35.647076,
+    "longitude": 138.555579,
+    "link": "https://www.google.com/maps/place/%E5%8D%97%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7609c946d9b:0x1c8dd622af6468de!8m2!3d35.647076!4d138.555579!16s%2Fg%2F1vq9mc4w!19sChIJm22UnGD3G2AR3mhkryLWjRw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "マリア国際幼稚園・ゆめの木保育園－認定こども園ドリームツリー",
+    "address": "\n〒401-0302 山梨県南都留郡富士河口湖町小立５６９９−２",
+    "latitude": 35.4779642,
+    "longitude": 138.7488105,
+    "link": "https://www.google.com/maps/place/%E3%83%9E%E3%83%AA%E3%82%A2%E5%9B%BD%E9%9A%9B%E5%B9%BC%E7%A8%9A%E5%9C%92%E3%83%BB%E3%82%86%E3%82%81%E3%81%AE%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%8D%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%84%E3%83%AA%E3%83%BC/data=!4m7!3m6!1s0x6019606f5bbd71eb:0x4bea40cb6f45f412!8m2!3d35.4779642!4d138.7488105!16s%2Fg%2F1td8z54l!19sChIJ63G9W29gGWAREvRFb8tA6ks?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "聖愛幼稚園",
+    "address": "\n〒400-0071 山梨県甲府市羽黒町６１８−２",
+    "latitude": 35.6889991,
+    "longitude": 138.5434137,
+    "link": "https://www.google.com/maps/place/%E8%81%96%E6%84%9B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7e6798f28c9:0xbfe673bdaff3ebb0!8m2!3d35.6889991!4d138.5434137!16s%2Fg%2F1ttpbcp3!19sChIJySiPeeb3G2ARsOvzr71z5r8?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "認定こども園 Ｆｕｊｉこどもの家 バンビーノの森",
+    "address": "\n〒401-0310 山梨県南都留郡富士河口湖町勝山３４０７−１",
+    "latitude": 35.4847461,
+    "longitude": 138.7341338,
+    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%EF%BC%A6%EF%BD%95%EF%BD%8A%EF%BD%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%AE%B6+%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x60195fa8c9691b7b:0x5f8fbc5633a636a0!8m2!3d35.4847461!4d138.7341338!16s%2Fg%2F11ckvvhb7q!19sChIJextpyahfGWARoDamM1a8j18?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1912,43 +1944,27 @@
     "category": "こども園"
   },
   {
-    "name": "マリア国際幼稚園・ゆめの木保育園－認定こども園ドリームツリー",
-    "address": "\n〒401-0302 山梨県南都留郡富士河口湖町小立５６９９−２",
-    "latitude": 35.4779642,
-    "longitude": 138.7488105,
-    "link": "https://www.google.com/maps/place/%E3%83%9E%E3%83%AA%E3%82%A2%E5%9B%BD%E9%9A%9B%E5%B9%BC%E7%A8%9A%E5%9C%92%E3%83%BB%E3%82%86%E3%82%81%E3%81%AE%E6%9C%A8%E4%BF%9D%E8%82%B2%E5%9C%92%EF%BC%8D%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%84%E3%83%AA%E3%83%BC/data=!4m7!3m6!1s0x6019606f5bbd71eb:0x4bea40cb6f45f412!8m2!3d35.4779642!4d138.7488105!16s%2Fg%2F1td8z54l!19sChIJ63G9W29gGWAREvRFb8tA6ks?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "笛吹あら川こども園",
-    "address": "\n〒401-0302 山梨県南都留郡富士河口湖町小立５６９９−２",
-    "latitude": 35.66813,
-    "longitude": 138.658439,
-    "link": "https://www.google.com/maps/place/%E7%AC%9B%E5%90%B9%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92/data=!4m7!3m6!1s0x601bfc1f5c5c660f:0x6abb3efb4c8a4a33!8m2!3d35.66813!4d138.658439!16s%2Fg%2F1tfpzxqm!19sChIJD2ZcXB_8G2ARM0qKTPs-u2o?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "くだま保育園",
-    "address": "\n〒400-0815 山梨県甲府市国玉町４６８−１",
-    "latitude": 35.6512742,
-    "longitude": 138.6027361,
-    "link": "https://www.google.com/maps/place/%E3%81%8F%E3%81%A0%E3%81%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf97eebd18f23:0xef95c25f1606cc41!8m2!3d35.6512742!4d138.6027361!16s%2Fg%2F1td69yp5!19sChIJI4_R6375G2ARQcwGFl_Cle8?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "認定こども園 Ｆｕｊｉこどもの家 バンビーノの森",
-    "address": "\n〒401-0310 山梨県南都留郡富士河口湖町勝山３４０７−１",
-    "latitude": 35.4847461,
-    "longitude": 138.7341338,
-    "link": "https://www.google.com/maps/place/%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%EF%BC%A6%EF%BD%95%EF%BD%8A%EF%BD%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%AE%B6+%E3%83%90%E3%83%B3%E3%83%93%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AE/data=!4m7!3m6!1s0x60195fa8c9691b7b:0x5f8fbc5633a636a0!8m2!3d35.4847461!4d138.7341338!16s%2Fg%2F11ckvvhb7q!19sChIJextpyahfGWARoDamM1a8j18?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "英才保育園 かいKids",
     "address": "\n〒400-0053 山梨県甲府市大里町２０５３−３",
     "latitude": 35.623221,
     "longitude": 138.5637316,
     "link": "https://www.google.com/maps/place/%E8%8B%B1%E6%89%8D%E4%BF%9D%E8%82%B2%E5%9C%92+%E3%81%8B%E3%81%84Kids/data=!4m7!3m6!1s0x601bfb6522f7c2cd:0x16e2b0e922eabfe!8m2!3d35.623221!4d138.5637316!16s%2Fg%2F11gjm85bnw!19sChIJzcL3ImX7G2AR_qsukg4rbgE?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "みやこ福祉会 幼保連携型認定こども園 都保育園",
+    "address": "\n〒405-0072 山梨県笛吹市一宮町本都塚82番地 1",
+    "latitude": 35.6484359,
+    "longitude": 138.6856102,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%82%84%E3%81%93%E7%A6%8F%E7%A5%89%E4%BC%9A+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E9%83%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfda9a47fb3d3:0xf99943672f38ba63!8m2!3d35.6484359!4d138.6856102!16s%2Fg%2F1v4k6lb8!19sChIJ07N_pKn9G2ARY7o4L2dDmfk?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "あおぞら保育園",
+    "address": "\n〒400-0126 山梨県甲斐市大下条７５３−１",
+    "latitude": 35.6729099,
+    "longitude": 138.5217752,
+    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7cb9a60a2e5:0xb677817ce58b41cd!8m2!3d35.6729099!4d138.5217752!16s%2Fg%2F1v1kpygq!19sChIJ5aJgmsv3G2ARzUGL5XyBd7Y?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -1968,27 +1984,11 @@
     "category": "こども園"
   },
   {
-    "name": "あおぞら保育園",
-    "address": "\n〒400-0126 山梨県甲斐市大下条７５３−１",
-    "latitude": 35.6729099,
-    "longitude": 138.5217752,
-    "link": "https://www.google.com/maps/place/%E3%81%82%E3%81%8A%E3%81%9E%E3%82%89%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7cb9a60a2e5:0xb677817ce58b41cd!8m2!3d35.6729099!4d138.5217752!16s%2Fg%2F1v1kpygq!19sChIJ5aJgmsv3G2ARzUGL5XyBd7Y?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "みやこ福祉会 幼保連携型認定こども園 都保育園",
-    "address": "\n〒405-0072 山梨県笛吹市一宮町本都塚82番地 1",
-    "latitude": 35.6484359,
-    "longitude": 138.6856102,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%82%84%E3%81%93%E7%A6%8F%E7%A5%89%E4%BC%9A+%E5%B9%BC%E4%BF%9D%E9%80%A3%E6%90%BA%E5%9E%8B%E8%AA%8D%E5%AE%9A%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E9%83%BD%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfda9a47fb3d3:0xf99943672f38ba63!8m2!3d35.6484359!4d138.6856102!16s%2Fg%2F1v4k6lb8!19sChIJ07N_pKn9G2ARY7o4L2dDmfk?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "甲府みなみ幼稚園",
-    "address": "\n〒400-0824 山梨県甲府市蓬沢町１２１３",
-    "latitude": 35.6457745,
-    "longitude": 138.5986062,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%BF%E3%81%AA%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf988c3220c15:0x83b3be2d72a8c5ad!8m2!3d35.6457745!4d138.5986062!16s%2Fg%2F1pzsnq0ct!19sChIJFQwiw4j5G2ARrcWoci2-s4M?authuser=0&hl=ja&rclk=1",
+    "name": "塩部幼稚園",
+    "address": "\n〒400-0026 山梨県甲府市塩部４丁目６−５",
+    "latitude": 35.6750284,
+    "longitude": 138.5554509,
+    "link": "https://www.google.com/maps/place/%E5%A1%A9%E9%83%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78893b2d19d:0xf384f2f4cd602005!8m2!3d35.6750284!4d138.5554509!16s%2Fg%2F1tfc6p8m!19sChIJndGyk4j3G2ARBSBgzfTyhPM?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2000,14 +2000,6 @@
     "category": "こども園"
   },
   {
-    "name": "永照寺幼稚園",
-    "address": "\n〒400-0042 山梨県甲府市高畑１丁目２１−２",
-    "latitude": 35.649344,
-    "longitude": 138.5649474,
-    "link": "https://www.google.com/maps/place/%E6%B0%B8%E7%85%A7%E5%AF%BA%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf9e73c894039:0xbc9055117651d2ba!8m2!3d35.649344!4d138.5649474!16s%2Fg%2F1tm8knmg!19sChIJOUCJPOf5G2ARutJRdhFVkLw?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "ちびっこはうす保育園",
     "address": "\n〒400-0831 山梨県甲府市上町１２４６−３",
     "latitude": 35.6303226,
@@ -2016,27 +2008,19 @@
     "category": "こども園"
   },
   {
-    "name": "わかば幼稚園",
-    "address": "\n〒409-3804 山梨県中央市井之口９３７−２",
-    "latitude": 35.6139502,
-    "longitude": 138.541736,
-    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf0b77c4043e5:0xa7cd89c6a7f4c186!8m2!3d35.6139502!4d138.541736!16s%2Fg%2F1t_wpf3j!19sChIJ5UNAfLfwG2ARhsH0p8aJzac?authuser=0&hl=ja&rclk=1",
+    "name": "甲府みなみ幼稚園",
+    "address": "\n〒400-0824 山梨県甲府市蓬沢町１２１３",
+    "latitude": 35.6457745,
+    "longitude": 138.5986062,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%BF%E3%81%AA%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf988c3220c15:0x83b3be2d72a8c5ad!8m2!3d35.6457745!4d138.5986062!16s%2Fg%2F1pzsnq0ct!19sChIJFQwiw4j5G2ARrcWoci2-s4M?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
-    "name": "和泉愛児園和泉子供館",
-    "address": "\n〒400-0073 山梨県甲府市湯村３丁目１２−１３",
-    "latitude": 35.682304,
-    "longitude": 138.546906,
-    "link": "https://www.google.com/maps/place/%E5%92%8C%E6%B3%89%E6%84%9B%E5%85%90%E5%9C%92%E5%92%8C%E6%B3%89%E5%AD%90%E4%BE%9B%E9%A4%A8/data=!4m7!3m6!1s0x601bf7edbb115fd9:0x510f1098f118b095!8m2!3d35.682304!4d138.546906!16s%2Fg%2F1tgh7mxl!19sChIJ2V8Ru-33G2ARlbAY8ZgQD1E?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "甲府西幼稚園",
-    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目８−１５",
-    "latitude": 35.6633005,
-    "longitude": 138.5459969,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E8%A5%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf79c54b2a119:0x798476eedc4be5bc!8m2!3d35.6633005!4d138.5459969!16s%2Fg%2F1tmpd_n_!19sChIJGaGyVJz3G2ARvOVL3O52hHk?authuser=0&hl=ja&rclk=1",
+    "name": "大里保育園",
+    "address": "\n〒400-0053 山梨県甲府市大里町２０５７−３２",
+    "latitude": 35.6222223,
+    "longitude": 138.5631863,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%87%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa06023c7071:0xfe33831aad30a300!8m2!3d35.6222223!4d138.5631863!16s%2Fg%2F11h40zfjhb!19sChIJcXA8Agb6G2ARAKMwrRqDM_4?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2048,19 +2032,59 @@
     "category": "こども園"
   },
   {
+    "name": "永照寺幼稚園",
+    "address": "\n〒400-0042 山梨県甲府市高畑１丁目２１−２",
+    "latitude": 35.649344,
+    "longitude": 138.5649474,
+    "link": "https://www.google.com/maps/place/%E6%B0%B8%E7%85%A7%E5%AF%BA%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf9e73c894039:0xbc9055117651d2ba!8m2!3d35.649344!4d138.5649474!16s%2Fg%2F1tm8knmg!19sChIJOUCJPOf5G2ARutJRdhFVkLw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "わかば幼稚園",
+    "address": "\n〒409-3804 山梨県中央市井之口９３７−２",
+    "latitude": 35.6139502,
+    "longitude": 138.541736,
+    "link": "https://www.google.com/maps/place/%E3%82%8F%E3%81%8B%E3%81%B0%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf0b77c4043e5:0xa7cd89c6a7f4c186!8m2!3d35.6139502!4d138.541736!16s%2Fg%2F1t_wpf3j!19sChIJ5UNAfLfwG2ARhsH0p8aJzac?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "進徳幼稚園",
+    "address": "\n〒400-0073 山梨県甲府市湯村２丁目４−３５",
+    "latitude": 35.6767426,
+    "longitude": 138.5484812,
+    "link": "https://www.google.com/maps/place/%E9%80%B2%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7927046d687:0x2f388b94328652ce!8m2!3d35.6767426!4d138.5484812!16s%2Fg%2F1txfp6sg!19sChIJh9ZGcJL3G2ARzlKGMpSLOC8?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "和泉愛児園和泉子供館",
+    "address": "\n〒400-0073 山梨県甲府市湯村３丁目１２−１３",
+    "latitude": 35.682304,
+    "longitude": 138.546906,
+    "link": "https://www.google.com/maps/place/%E5%92%8C%E6%B3%89%E6%84%9B%E5%85%90%E5%9C%92%E5%92%8C%E6%B3%89%E5%AD%90%E4%BE%9B%E9%A4%A8/data=!4m7!3m6!1s0x601bf7edbb115fd9:0x510f1098f118b095!8m2!3d35.682304!4d138.546906!16s%2Fg%2F1tgh7mxl!19sChIJ2V8Ru-33G2ARlbAY8ZgQD1E?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "赤尾保育園",
+    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
+    "latitude": 35.7010415,
+    "longitude": 138.7364235,
+    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "甲府西幼稚園",
+    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目８−１５",
+    "latitude": 35.6633005,
+    "longitude": 138.5459969,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E8%A5%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf79c54b2a119:0x798476eedc4be5bc!8m2!3d35.6633005!4d138.5459969!16s%2Fg%2F1tmpd_n_!19sChIJGaGyVJz3G2ARvOVL3O52hHk?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "貢川幼稚園",
     "address": "\n〒400-0047 山梨県甲府市徳行１丁目１４−２５",
     "latitude": 35.6531037,
     "longitude": 138.5436402,
     "link": "https://www.google.com/maps/place/%E8%B2%A2%E5%B7%9D%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7722a58ccc3:0x589cefecb69f4e6d!8m2!3d35.6531037!4d138.5436402!16s%2Fg%2F1tdfc56z!19sChIJw8xYKnL3G2ARbU6ftuzvnFg?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "塩部幼稚園",
-    "address": "\n〒400-0026 山梨県甲府市塩部４丁目６−５",
-    "latitude": 35.6750284,
-    "longitude": 138.5554509,
-    "link": "https://www.google.com/maps/place/%E5%A1%A9%E9%83%A8%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78893b2d19d:0xf384f2f4cd602005!8m2!3d35.6750284!4d138.5554509!16s%2Fg%2F1tfc6p8m!19sChIJndGyk4j3G2ARBSBgzfTyhPM?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2080,19 +2104,19 @@
     "category": "こども園"
   },
   {
+    "name": "ちびっこランド昭和バイパス園",
+    "address": "\n〒409-3852 山梨県中巨摩郡昭和町飯喰１２９０−３",
+    "latitude": 35.6231882,
+    "longitude": 138.5209391,
+    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%83%A9%E3%83%B3%E3%83%89%E6%98%AD%E5%92%8C%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E5%9C%92/data=!4m7!3m6!1s0x601bf72878aa1717:0xbdd027d461ddd1c!8m2!3d35.6231882!4d138.5209391!16s%2Fg%2F1tdcrly_!19sChIJFxeqeCj3G2ARHN0dRn0C3Qs?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "甲府あら川こども園レジデンス",
     "address": "\n〒400-0062 山梨県甲府市池田１丁目１１−９ レジデンス坂本 1F",
     "latitude": 35.6734778,
     "longitude": 138.5418649,
     "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E3%81%82%E3%82%89%E5%B7%9D%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9/data=!4m7!3m6!1s0x601bf7942549e70d:0xae13e536c83b68ad!8m2!3d35.6734778!4d138.5418649!16s%2Fg%2F11btrrwzf1!19sChIJDedJJZT3G2ARrWg7yDblE64?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "大里保育園",
-    "address": "\n〒400-0053 山梨県甲府市大里町２０５７−３２",
-    "latitude": 35.6222223,
-    "longitude": 138.5631863,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E9%87%8C%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa06023c7071:0xfe33831aad30a300!8m2!3d35.6222223!4d138.5631863!16s%2Fg%2F11h40zfjhb!19sChIJcXA8Agb6G2ARAKMwrRqDM_4?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2104,19 +2128,11 @@
     "category": "こども園"
   },
   {
-    "name": "赤尾保育園",
-    "address": "\n〒404-0033 山梨県甲州市塩山赤尾７１３−１",
-    "latitude": 35.7010415,
-    "longitude": 138.7364235,
-    "link": "https://www.google.com/maps/place/%E8%B5%A4%E5%B0%BE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x6019560ba6a4bf7d:0x4cf60ded52c6df7b!8m2!3d35.7010415!4d138.7364235!16s%2Fg%2F1tdyqvhx!19sChIJfb-kpgtWGWARe9_GUu0N9kw?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "進徳幼稚園",
-    "address": "\n〒400-0073 山梨県甲府市湯村２丁目４−３５",
-    "latitude": 35.6767426,
-    "longitude": 138.5484812,
-    "link": "https://www.google.com/maps/place/%E9%80%B2%E5%BE%B3%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf7927046d687:0x2f388b94328652ce!8m2!3d35.6767426!4d138.5484812!16s%2Fg%2F1txfp6sg!19sChIJh9ZGcJL3G2ARzlKGMpSLOC8?authuser=0&hl=ja&rclk=1",
+    "name": "中央歯科医院内 つくしんぼ保育園",
+    "address": "\n〒400-0032 山梨県甲府市中央５丁目５−１２",
+    "latitude": 35.6578723,
+    "longitude": 138.5761749,
+    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2%E5%86%85+%E3%81%A4%E3%81%8F%E3%81%97%E3%82%93%E3%81%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9ad4e8dec67:0xddaf9ec7f77c0f88!8m2!3d35.6578723!4d138.5761749!16s%2Fg%2F11fk1hl9qg!19sChIJZ-yNTq35G2ARiA9898eer90?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2128,11 +2144,43 @@
     "category": "こども園"
   },
   {
-    "name": "ちびっこランド昭和バイパス園",
-    "address": "\n〒409-3852 山梨県中巨摩郡昭和町飯喰１２９０−３",
-    "latitude": 35.6231882,
-    "longitude": 138.5209391,
-    "link": "https://www.google.com/maps/place/%E3%81%A1%E3%81%B3%E3%81%A3%E3%81%93%E3%83%A9%E3%83%B3%E3%83%89%E6%98%AD%E5%92%8C%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9%E5%9C%92/data=!4m7!3m6!1s0x601bf72878aa1717:0xbdd027d461ddd1c!8m2!3d35.6231882!4d138.5209391!16s%2Fg%2F1tdcrly_!19sChIJFxeqeCj3G2ARHN0dRn0C3Qs?authuser=0&hl=ja&rclk=1",
+    "name": "めぐみ福祉会 二川保育園",
+    "address": "\n〒400-0055 山梨県甲府市大津町１３２４",
+    "latitude": 35.6013686,
+    "longitude": 138.5671886,
+    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%90%E3%81%BF%E7%A6%8F%E7%A5%89%E4%BC%9A+%E4%BA%8C%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa7ca2a26e37:0xd4c967bb0973aa44!8m2!3d35.6013686!4d138.5671886!16s%2Fg%2F1tfkl7g3!19sChIJN26ionz6G2ARRKpzCbtnydQ?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "一宮保育園",
+    "address": "\n〒405-0075 山梨県笛吹市一宮町東原４１０",
+    "latitude": 35.646582,
+    "longitude": 138.681882,
+    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%AE%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdaa5bc698db:0xa8215fef28b73cda!8m2!3d35.646582!4d138.681882!16s%2Fg%2F1tsr38h4!19sChIJ25jGW6r9G2AR2jy3KO9fIag?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "学校法人岩田学園 いづみ幼稚園",
+    "address": "\n〒400-0043 山梨県甲府市国母１丁目２４−６",
+    "latitude": 35.647754,
+    "longitude": 138.5585086,
+    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%B2%A9%E7%94%B0%E5%AD%A6%E5%9C%92+%E3%81%84%E3%81%A5%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf76000b8e64b:0x66b70749f63fac1d!8m2!3d35.647754!4d138.5585086!16s%2Fg%2F1vpq6z6z!19sChIJS-a4AGD3G2ARHaw_9kkHt2Y?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "富士桜学院",
+    "address": "\n〒409-3864 山梨県中巨摩郡昭和町押越７６６",
+    "latitude": 35.6300162,
+    "longitude": 138.531754,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%A1%9C%E5%AD%A6%E9%99%A2/data=!4m7!3m6!1s0x601bf73a52f4260f:0x13ed7eca015fd5f6!8m2!3d35.6300162!4d138.531754!16s%2Fg%2F1tg_g3bv!19sChIJDyb0Ujr3G2AR9tVfAcp-7RM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "みさかきた保育園",
+    "address": "\n〒406-0802 山梨県笛吹市御坂町金川原３８０",
+    "latitude": 35.6307621,
+    "longitude": 138.6710292,
+    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%95%E3%81%8B%E3%81%8D%E3%81%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfce52ebfc1f5:0x4bc0002f64d4c0d3!8m2!3d35.6307621!4d138.6710292!16s%2Fg%2F1tks6cx_!19sChIJ9cG_LuX8G2AR08DUZC8AwEs?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2141,6 +2189,14 @@
     "latitude": 35.6555034,
     "longitude": 138.6045515,
     "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E5%AD%A6%E9%99%A2%E5%B9%BC%E7%A8%9A%E5%9C%92+%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2%E5%AD%90%E3%81%A9%E3%82%82%E9%A4%A8/data=!4m7!3m6!1s0x601bf97bc430f347:0x9f643055d2d1fb00!8m2!3d35.6555034!4d138.6045515!16s%2Fg%2F1vfzf7h8!19sChIJR_MwxHv5G2ARAPvR0lUwZJ8?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "ニチイキッズとくぎょう保育園",
+    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
+    "latitude": 35.6514391,
+    "longitude": 138.5507929,
+    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2168,14 +2224,6 @@
     "category": "こども園"
   },
   {
-    "name": "めぐみ福祉会 二川保育園",
-    "address": "\n〒400-0055 山梨県甲府市大津町１３２４",
-    "latitude": 35.6013686,
-    "longitude": 138.5671886,
-    "link": "https://www.google.com/maps/place/%E3%82%81%E3%81%90%E3%81%BF%E7%A6%8F%E7%A5%89%E4%BC%9A+%E4%BA%8C%E5%B7%9D%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfa7ca2a26e37:0xd4c967bb0973aa44!8m2!3d35.6013686!4d138.5671886!16s%2Fg%2F1tfkl7g3!19sChIJN26ionz6G2ARRKpzCbtnydQ?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "甲府市立中道保育園",
     "address": "\n〒400-1507 山梨県甲府市下向山町９８８−１ 市立中道保育所",
     "latitude": 35.5868216,
@@ -2184,11 +2232,11 @@
     "category": "こども園"
   },
   {
-    "name": "中央歯科医院内 つくしんぼ保育園",
-    "address": "\n〒400-0032 山梨県甲府市中央５丁目５−１２",
-    "latitude": 35.6578723,
-    "longitude": 138.5761749,
-    "link": "https://www.google.com/maps/place/%E4%B8%AD%E5%A4%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2%E5%86%85+%E3%81%A4%E3%81%8F%E3%81%97%E3%82%93%E3%81%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf9ad4e8dec67:0xddaf9ec7f77c0f88!8m2!3d35.6578723!4d138.5761749!16s%2Fg%2F11fk1hl9qg!19sChIJZ-yNTq35G2ARiA9898eer90?authuser=0&hl=ja&rclk=1",
+    "name": "甲斐市立竜王西保育園",
+    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
+    "latitude": 35.6658726,
+    "longitude": 138.5072559,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf639ba26b26d:0x42104f578312f6c4!8m2!3d35.6658726!4d138.5072559!16s%2Fg%2F1vntjzjj!19sChIJbbImujn2G2ARxPYSg1dPEEI?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2200,70 +2248,6 @@
     "category": "こども園"
   },
   {
-    "name": "菜の花保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行５丁目１２−１２",
-    "latitude": 35.651586,
-    "longitude": 138.534289,
-    "link": "https://www.google.com/maps/place/%E8%8F%9C%E3%81%AE%E8%8A%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70c07f412fd:0x7a3411664020ccb3!8m2!3d35.651586!4d138.534289!16s%2Fg%2F1tfk4hpd!19sChIJ_RL0Bwz3G2ARs8wgQGYRNHo?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "ニチイキッズとくぎょう保育園",
-    "address": "\n〒400-0047 山梨県甲府市徳行２丁目１−７",
-    "latitude": 35.6514391,
-    "longitude": 138.5507929,
-    "link": "https://www.google.com/maps/place/%E3%83%8B%E3%83%81%E3%82%A4%E3%82%AD%E3%83%83%E3%82%BA%E3%81%A8%E3%81%8F%E3%81%8E%E3%82%87%E3%81%86%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf765a8f03795:0xbddddb0f4547460c!8m2!3d35.6514391!4d138.5507929!16s%2Fg%2F11g4jrr44f!19sChIJlTfwqGX3G2ARDEZHRQ_b3b0?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "ひよこ保育園",
-    "address": "\n〒400-0115 山梨県甲斐市篠原８７１−２",
-    "latitude": 35.6478342,
-    "longitude": 138.5273198,
-    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7032189b659:0xd6d5c8eadaf6f7ac!8m2!3d35.6478342!4d138.5273198!16s%2Fg%2F11gmzbqfv4!19sChIJWbaJIQP3G2ARrPf22urI1dY?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "一宮保育園",
-    "address": "\n〒405-0075 山梨県笛吹市一宮町東原４１０",
-    "latitude": 35.646582,
-    "longitude": 138.681882,
-    "link": "https://www.google.com/maps/place/%E4%B8%80%E5%AE%AE%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfdaa5bc698db:0xa8215fef28b73cda!8m2!3d35.646582!4d138.681882!16s%2Fg%2F1tsr38h4!19sChIJ25jGW6r9G2AR2jy3KO9fIag?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "池田保育園",
-    "address": "\n〒400-0062 山梨県甲府市池田３丁目５−２６ 社会福祉法人 みづほ福祉会 池田保育園",
-    "latitude": 35.670786,
-    "longitude": 138.5364047,
-    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7be7fc4ce0b:0x966cda6a34681631!8m2!3d35.670786!4d138.5364047!16s%2Fg%2F1tkmmmqg!19sChIJC87Ef773G2ARMRZoNGrabJY?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "学校法人岩田学園 いづみ幼稚園",
-    "address": "\n〒400-0043 山梨県甲府市国母１丁目２４−６",
-    "latitude": 35.647754,
-    "longitude": 138.5585086,
-    "link": "https://www.google.com/maps/place/%E5%AD%A6%E6%A0%A1%E6%B3%95%E4%BA%BA%E5%B2%A9%E7%94%B0%E5%AD%A6%E5%9C%92+%E3%81%84%E3%81%A5%E3%81%BF%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf76000b8e64b:0x66b70749f63fac1d!8m2!3d35.647754!4d138.5585086!16s%2Fg%2F1vpq6z6z!19sChIJS-a4AGD3G2ARHaw_9kkHt2Y?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "クレイシュ保育園",
-    "address": "\n〒400-0863 山梨県甲府市南口町２−７",
-    "latitude": 35.6467528,
-    "longitude": 138.5800144,
-    "link": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf98d3fd56337:0x93859a5e919822e0!8m2!3d35.6467528!4d138.5800144!16s%2Fg%2F11fngzd0h8!19sChIJN2PVP435G2AR4CKYkV6ahZM?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "みさかきた保育園",
-    "address": "\n〒406-0802 山梨県笛吹市御坂町金川原３８０",
-    "latitude": 35.6307621,
-    "longitude": 138.6710292,
-    "link": "https://www.google.com/maps/place/%E3%81%BF%E3%81%95%E3%81%8B%E3%81%8D%E3%81%9F%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfce52ebfc1f5:0x4bc0002f64d4c0d3!8m2!3d35.6307621!4d138.6710292!16s%2Fg%2F1tks6cx_!19sChIJ9cG_LuX8G2AR08DUZC8AwEs?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
     "name": "あいぐらん保育園甲府飯田",
     "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
     "latitude": 35.6650967,
@@ -2272,11 +2256,11 @@
     "category": "こども園"
   },
   {
-    "name": "富士桜学院",
-    "address": "\n〒400-0064 山梨県甲府市下飯田２丁目２−１ ラ・モール TKS1階",
-    "latitude": 35.6300162,
-    "longitude": 138.531754,
-    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%A1%9C%E5%AD%A6%E9%99%A2/data=!4m7!3m6!1s0x601bf73a52f4260f:0x13ed7eca015fd5f6!8m2!3d35.6300162!4d138.531754!16s%2Fg%2F1tg_g3bv!19sChIJDyb0Ujr3G2AR9tVfAcp-7RM?authuser=0&hl=ja&rclk=1",
+    "name": "菜の花保育園",
+    "address": "\n〒400-0047 山梨県甲府市徳行５丁目１２−１２",
+    "latitude": 35.651586,
+    "longitude": 138.534289,
+    "link": "https://www.google.com/maps/place/%E8%8F%9C%E3%81%AE%E8%8A%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf70c07f412fd:0x7a3411664020ccb3!8m2!3d35.651586!4d138.534289!16s%2Fg%2F1tfk4hpd!19sChIJ_RL0Bwz3G2ARs8wgQGYRNHo?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2288,11 +2272,59 @@
     "category": "こども園"
   },
   {
+    "name": "ひよこ保育園",
+    "address": "\n〒400-0115 山梨県甲斐市篠原８７１−２",
+    "latitude": 35.6478342,
+    "longitude": 138.5273198,
+    "link": "https://www.google.com/maps/place/%E3%81%B2%E3%82%88%E3%81%93%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7032189b659:0xd6d5c8eadaf6f7ac!8m2!3d35.6478342!4d138.5273198!16s%2Fg%2F11gmzbqfv4!19sChIJWbaJIQP3G2ARrPf22urI1dY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "小規模保育園 押原きっず",
+    "address": "\n〒409-3864 山梨県中巨摩郡昭和町押越２２−１",
+    "latitude": 35.6265447,
+    "longitude": 138.5392234,
+    "link": "https://www.google.com/maps/place/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BF%9D%E8%82%B2%E5%9C%92+%E6%8A%BC%E5%8E%9F%E3%81%8D%E3%81%A3%E3%81%9A/data=!4m7!3m6!1s0x601bf749f8513a07:0xa5ebd15ae54e1aa9!8m2!3d35.6265447!4d138.5392234!16s%2Fg%2F11gf61xccx!19sChIJBzpR-En3G2ARqRpO5VrR66U?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "池田保育園",
+    "address": "\n〒400-0062 山梨県甲府市池田３丁目５−２６ 社会福祉法人 みづほ福祉会 池田保育園",
+    "latitude": 35.670786,
+    "longitude": 138.5364047,
+    "link": "https://www.google.com/maps/place/%E6%B1%A0%E7%94%B0%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf7be7fc4ce0b:0x966cda6a34681631!8m2!3d35.670786!4d138.5364047!16s%2Fg%2F1tkmmmqg!19sChIJC87Ef773G2ARMRZoNGrabJY?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "クレイシュ保育園",
+    "address": "\n〒400-0863 山梨県甲府市南口町２−７",
+    "latitude": 35.6467528,
+    "longitude": 138.5800144,
+    "link": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A5%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf98d3fd56337:0x93859a5e919822e0!8m2!3d35.6467528!4d138.5800144!16s%2Fg%2F11fngzd0h8!19sChIJN2PVP435G2AR4CKYkV6ahZM?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "クローバー保育園",
+    "address": "\n〒400-0111 山梨県甲斐市竜王新町２１１７−３",
+    "latitude": 35.6776063,
+    "longitude": 138.5074899,
+    "link": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf62614c0cb71:0x76ef568d0bacedbf!8m2!3d35.6776063!4d138.5074899!16s%2Fg%2F1tdkb47s!19sChIJccvAFCb2G2ARv-2sC41W73Y?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
     "name": "石和誠心幼稚園",
     "address": "\n〒406-0043 山梨県笛吹市石和町河内５０５",
     "latitude": 35.6310148,
     "longitude": 138.6006448,
     "link": "https://www.google.com/maps/place/%E7%9F%B3%E5%92%8C%E8%AA%A0%E5%BF%83%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bfbcaefd9f3e1:0x2443dc81d33d87e!8m2!3d35.6310148!4d138.6006448!16s%2Fg%2F1wh4fy49!19sChIJ4fPZ78r7G2ARftgzHcg9RAI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "OLive保育園 市部園",
+    "address": "\n〒406-0031 山梨県笛吹市石和町市部１０８４ 202",
+    "latitude": 35.649984,
+    "longitude": 138.636965,
+    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E5%B8%82%E9%83%A8%E5%9C%92/data=!4m7!3m6!1s0x601bfbf666174ba7:0x7155008fd7d01986!8m2!3d35.649984!4d138.636965!16s%2Fg%2F1tcw87lw!19sChIJp0sXZvb7G2ARhhnQ148AVXE?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2304,11 +2336,11 @@
     "category": "こども園"
   },
   {
-    "name": "甲斐市立竜王西保育園",
-    "address": "\n〒400-0118 山梨県甲斐市竜王１６７１",
-    "latitude": 35.6658726,
-    "longitude": 138.5072559,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E8%A5%BF%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf639ba26b26d:0x42104f578312f6c4!8m2!3d35.6658726!4d138.5072559!16s%2Fg%2F1vntjzjj!19sChIJbbImujn2G2ARxPYSg1dPEEI?authuser=0&hl=ja&rclk=1",
+    "name": "博愛保育園",
+    "address": "\n〒406-0821 山梨県笛吹市八代町北999ｰ1",
+    "latitude": 35.615626,
+    "longitude": 138.648199,
+    "link": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfc8377a9e07d:0x98cdb03287438b5e!8m2!3d35.615626!4d138.648199!16s%2Fg%2F1tgvdq2v!19sChIJfeCpd4P8G2ARXotDhzKwzZg?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2328,11 +2360,11 @@
     "category": "こども園"
   },
   {
-    "name": "小規模保育園 押原きっず",
-    "address": "\n〒409-3864 山梨県中巨摩郡昭和町押越２２−１",
-    "latitude": 35.6265447,
-    "longitude": 138.5392234,
-    "link": "https://www.google.com/maps/place/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E4%BF%9D%E8%82%B2%E5%9C%92+%E6%8A%BC%E5%8E%9F%E3%81%8D%E3%81%A3%E3%81%9A/data=!4m7!3m6!1s0x601bf749f8513a07:0xa5ebd15ae54e1aa9!8m2!3d35.6265447!4d138.5392234!16s%2Fg%2F11gf61xccx!19sChIJBzpR-En3G2ARqRpO5VrR66U?authuser=0&hl=ja&rclk=1",
+    "name": "にじいろkidsにしやはた",
+    "address": "\n〒400-0117 山梨県甲斐市西八幡１６３８−１",
+    "latitude": 35.6396815,
+    "longitude": 138.5248538,
+    "link": "https://www.google.com/maps/place/%E3%81%AB%E3%81%98%E3%81%84%E3%82%8Dkids%E3%81%AB%E3%81%97%E3%82%84%E3%81%AF%E3%81%9F/data=!4m7!3m6!1s0x601bf76a622bd747:0x750ffa9ee1c72a66!8m2!3d35.6396815!4d138.5248538!16s%2Fg%2F11lg2h6cmg!19sChIJR9crYmr3G2ARZirH4Z76D3U?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2344,11 +2376,19 @@
     "category": "こども園"
   },
   {
-    "name": "クローバー保育園",
-    "address": "\n〒400-0111 山梨県甲斐市竜王新町２１１７−３",
-    "latitude": 35.6776063,
-    "longitude": 138.5074899,
-    "link": "https://www.google.com/maps/place/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf62614c0cb71:0x76ef568d0bacedbf!8m2!3d35.6776063!4d138.5074899!16s%2Fg%2F1tdkb47s!19sChIJccvAFCb2G2ARv-2sC41W73Y?authuser=0&hl=ja&rclk=1",
+    "name": "上河東保育園",
+    "address": "\n〒409-3851 山梨県中巨摩郡昭和町河西１６０８−１",
+    "latitude": 35.6167417,
+    "longitude": 138.5244775,
+    "link": "https://www.google.com/maps/place/%E4%B8%8A%E6%B2%B3%E6%9D%B1%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bf0cd6a65bddb:0xd221985d3dad37ad!8m2!3d35.6167417!4d138.5244775!16s%2Fg%2F1tj5l6t4!19sChIJ271las3wG2ARrTetPV2YIdI?authuser=0&hl=ja&rclk=1",
+    "category": "こども園"
+  },
+  {
+    "name": "てくてく保育園 甲府大里",
+    "address": "\n〒400-0053 山梨県甲府市大里町５２８５",
+    "latitude": 35.6252889,
+    "longitude": 138.5566414,
+    "link": "https://www.google.com/maps/place/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E4%BF%9D%E8%82%B2%E5%9C%92+%E7%94%B2%E5%BA%9C%E5%A4%A7%E9%87%8C/data=!4m7!3m6!1s0x601bf0aa31c15555:0xb4e80a74088083bb!8m2!3d35.6252889!4d138.5566414!16s%2Fg%2F11f2b6q2nl!19sChIJVVXBMarwG2ARu4OACHQK6LQ?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2357,46 +2397,6 @@
     "latitude": 35.7051144,
     "longitude": 138.7256405,
     "link": "https://www.google.com/maps/place/%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E3%81%93%E3%81%A9%E3%82%82%E5%9C%92+%E5%9C%B0%E5%9F%9F%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/data=!4m7!3m6!1s0x601955fb9415b355:0x37ab521baa06a5c!8m2!3d35.7051144!4d138.7256405!16s%2Fg%2F1tsljs8h!19sChIJVbMVlPtVGWARXGqguiG1egM?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "城北幼稚園",
-    "address": "\n〒400-0073 山梨県甲府市湯村３丁目４−５ 学校法人 城北幼稚園",
-    "latitude": 35.6799585,
-    "longitude": 138.5514822,
-    "link": "https://www.google.com/maps/place/%E5%9F%8E%E5%8C%97%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf78ce39d7193:0x67948d55b10caf40!8m2!3d35.6799585!4d138.5514822!16s%2Fg%2F1tddxvhl!19sChIJk3Gd44z3G2ARQK8MsVWNlGc?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "地域総合子ども家庭支援センター・テラ",
-    "address": "\n〒400-0073 山梨県甲府市湯村３丁目４−５ 学校法人 城北幼稚園",
-    "latitude": 35.6429969,
-    "longitude": 138.5660675,
-    "link": "https://www.google.com/maps/place/%E5%9C%B0%E5%9F%9F%E7%B7%8F%E5%90%88%E5%AD%90%E3%81%A9%E3%82%82%E5%AE%B6%E5%BA%AD%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%86%E3%83%A9/data=!4m7!3m6!1s0x601bf9e529d12a03:0x56ef0563d8093970!8m2!3d35.6429969!4d138.5660675!16s%2Fg%2F1tg3b556!19sChIJAyrRKeX5G2ARcDkJ2GMF71Y?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "OLive保育園 市部園",
-    "address": "\n〒406-0031 山梨県笛吹市石和町市部１０８４ 202",
-    "latitude": 35.649984,
-    "longitude": 138.636965,
-    "link": "https://www.google.com/maps/place/OLive%E4%BF%9D%E8%82%B2%E5%9C%92+%E5%B8%82%E9%83%A8%E5%9C%92/data=!4m7!3m6!1s0x601bfbf666174ba7:0x7155008fd7d01986!8m2!3d35.649984!4d138.636965!16s%2Fg%2F1tcw87lw!19sChIJp0sXZvb7G2ARhhnQ148AVXE?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "博愛保育園",
-    "address": "\n〒406-0821 山梨県笛吹市八代町北999ｰ1",
-    "latitude": 35.615626,
-    "longitude": 138.648199,
-    "link": "https://www.google.com/maps/place/%E5%8D%9A%E6%84%9B%E4%BF%9D%E8%82%B2%E5%9C%92/data=!4m7!3m6!1s0x601bfc8377a9e07d:0x98cdb03287438b5e!8m2!3d35.615626!4d138.648199!16s%2Fg%2F1tgvdq2v!19sChIJfeCpd4P8G2ARXotDhzKwzZg?authuser=0&hl=ja&rclk=1",
-    "category": "こども園"
-  },
-  {
-    "name": "竜王幼稚園",
-    "address": "\n〒400-0113 山梨県甲斐市富竹新田２０５５ 竜王",
-    "latitude": 35.6493255,
-    "longitude": 138.5347208,
-    "link": "https://www.google.com/maps/place/%E7%AB%9C%E7%8E%8B%E5%B9%BC%E7%A8%9A%E5%9C%92/data=!4m7!3m6!1s0x601bf70dcba4b7a3:0x60f53c5171e298f8!8m2!3d35.6493255!4d138.5347208!16s%2Fg%2F1td0gl3g!19sChIJo7ekyw33G2AR-JjicVE89WA?authuser=0&hl=ja&rclk=1",
     "category": "こども園"
   },
   {
@@ -2441,7 +2441,7 @@
   },
   {
     "name": "山梨市立後屋敷小学校",
-    "address": "\n〒409-3866 山梨県中巨摩郡昭和町西条２２２２",
+    "address": "\n〒405-0011 山梨県山梨市三ケ所８７７",
     "latitude": 35.6890763,
     "longitude": 138.7042057,
     "link": "https://www.google.com/maps/place/%E5%B1%B1%E6%A2%A8%E5%B8%82%E7%AB%8B%E5%BE%8C%E5%B1%8B%E6%95%B7%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bfde220cf8aad:0x1139a82fc2760252!8m2!3d35.6890763!4d138.7042057!16s%2Fg%2F1tflxz9y!19sChIJrYrPIOL9G2ARUgJ2wi-oORE?authuser=0&hl=ja&rclk=1",
@@ -2457,15 +2457,23 @@
   },
   {
     "name": "大月市立七保小学校",
-    "address": "\n〒400-0067 山梨県甲府市長松寺町７−１",
+    "address": "\n〒409-0623 山梨県大月市七保町２３４５",
     "latitude": 35.6317033,
     "longitude": 138.9559241,
     "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%9C%88%E5%B8%82%E7%AB%8B%E4%B8%83%E4%BF%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601943e0b4a8833d:0x81ed6e433a80d5c4!8m2!3d35.6317033!4d138.9559241!16s%2Fg%2F1tywx_p9!19sChIJPYOotOBDGWARxNWAOkNu7YE?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
+    "name": "富士河口湖町立大石小学校",
+    "address": "\n〒401-0305 山梨県南都留郡富士河口湖町大石１４２５",
+    "latitude": 35.524388,
+    "longitude": 138.7456837,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E5%A4%A7%E7%9F%B3%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60195fa716e93adf:0x34a3add5e16d4507!8m2!3d35.524388!4d138.7456837!16s%2Fg%2F1tddxtw3!19sChIJ3zrpFqdfGWARB0Vt4dWtozQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
     "name": "昭和町立押原小学校",
-    "address": "\n〒400-0067 山梨県甲府市長松寺町７−１",
+    "address": "\n〒409-3864 山梨県中巨摩郡昭和町押越８８５",
     "latitude": 35.6297124,
     "longitude": 138.5349669,
     "link": "https://www.google.com/maps/place/%E6%98%AD%E5%92%8C%E7%94%BA%E7%AB%8B%E6%8A%BC%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf739d1a6e8c5:0x5fbc3e3d645f160e!8m2!3d35.6297124!4d138.5349669!16s%2Fg%2F1vnnjgk8!19sChIJxeim0Tn3G2ARDhZfZD0-vF8?authuser=0&hl=ja&rclk=1",
@@ -2473,7 +2481,7 @@
   },
   {
     "name": "甲府市立大国小学校",
-    "address": "\n〒400-0067 山梨県甲府市長松寺町７−１",
+    "address": "\n〒400-0045 山梨県甲府市後屋町１５０",
     "latitude": 35.629162,
     "longitude": 138.565798,
     "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%9B%BD%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bfa039b00cc3b:0x6cb6ee7becae5511!8m2!3d35.629162!4d138.565798!16s%2Fg%2F1v6l7kl6!19sChIJO8wAmwP6G2AREVWu7Hvutmw?authuser=0&hl=ja&rclk=1",
@@ -2481,7 +2489,7 @@
   },
   {
     "name": "甲斐市立竜王小学校",
-    "address": "\n〒400-0045 山梨県甲府市後屋町１５０",
+    "address": "\n〒400-0115 山梨県甲斐市篠原２８００",
     "latitude": 35.6599391,
     "longitude": 138.5184897,
     "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E7%AB%9C%E7%8E%8B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf64d3431ecc7:0xac2f945a22215401!8m2!3d35.6599391!4d138.5184897!16s%2Fg%2F11c0rh0sq4!19sChIJx-wxNE32G2ARAVQhIlqUL6w?authuser=0&hl=ja&rclk=1",
@@ -2520,11 +2528,27 @@
     "category": "小学校"
   },
   {
+    "name": "大月市立大月東小学校",
+    "address": "\n〒401-0013 山梨県大月市大月２丁目７−４３",
+    "latitude": 35.610344,
+    "longitude": 138.9407,
+    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%9C%88%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%9C%88%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601943ca0eb251dd:0x11bcd337bc2c3581!8m2!3d35.610344!4d138.9407!16s%2Fg%2F1tyzz0ty!19sChIJ3VGyDspDGWARgTUsvDfTvBE?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
     "name": "甲府市立石田小学校",
     "address": "\n〒400-0041 山梨県甲府市上石田３丁目６−３１ 石田児童館",
     "latitude": 35.6533699,
     "longitude": 138.5570526,
     "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E7%9F%B3%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf7623f837a8f:0xa98fb4d0dac098cf!8m2!3d35.6533699!4d138.5570526!16s%2Fg%2F1tf07r3n!19sChIJj3qDP2L3G2ARz5jA2tC0j6k?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "富士河口湖町立船津小学校",
+    "address": "\n〒401-0301 山梨県南都留郡富士河口湖町船津３７３７",
+    "latitude": 35.5001464,
+    "longitude": 138.7679661,
+    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E8%88%B9%E6%B4%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60195e28453a672f:0x68654f300c8916b6!8m2!3d35.5001464!4d138.7679661!16s%2Fg%2F121nxdcb!19sChIJL2c6RSheGWARthaJDDBPZWg?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -2632,14 +2656,6 @@
     "category": "小学校"
   },
   {
-    "name": "富士河口湖町立大石小学校",
-    "address": "\n〒401-0305 山梨県南都留郡富士河口湖町大石１４２５",
-    "latitude": 35.524388,
-    "longitude": 138.7456837,
-    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E5%A4%A7%E7%9F%B3%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60195fa716e93adf:0x34a3add5e16d4507!8m2!3d35.524388!4d138.7456837!16s%2Fg%2F1tddxtw3!19sChIJ3zrpFqdfGWARB0Vt4dWtozQ?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
     "name": "甲府市立貢川小学校",
     "address": "\n〒400-0048 山梨県甲府市貢川本町８−１",
     "latitude": 35.655252,
@@ -2661,14 +2677,6 @@
     "latitude": 35.687307,
     "longitude": 138.574453,
     "link": "https://www.google.com/maps/place/%E7%94%B2%E5%BA%9C%E5%B8%82%E7%AB%8B%E7%9B%B8%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf83eba55a875:0x783f4b888ba0fc08!8m2!3d35.687307!4d138.574453!16s%2Fg%2F1237q23f!19sChIJdahVuj74G2ARCPygi4hLP3g?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
-    "name": "大月市立大月東小学校",
-    "address": "\n〒401-0013 山梨県大月市大月２丁目７−４３",
-    "latitude": 35.610344,
-    "longitude": 138.9407,
-    "link": "https://www.google.com/maps/place/%E5%A4%A7%E6%9C%88%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%9C%88%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601943ca0eb251dd:0x11bcd337bc2c3581!8m2!3d35.610344!4d138.9407!16s%2Fg%2F1tyzz0ty!19sChIJ3VGyDspDGWARgTUsvDfTvBE?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -2696,6 +2704,14 @@
     "category": "小学校"
   },
   {
+    "name": "道志村立道志小学校",
+    "address": "\n7568, 道志村 南都留郡 山梨県 402-0212",
+    "latitude": 35.5200521,
+    "longitude": 139.0218293,
+    "link": "https://www.google.com/maps/place/%E9%81%93%E5%BF%97%E6%9D%91%E7%AB%8B%E9%81%93%E5%BF%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60196cad45f01e63:0xb6954a1191f9a0bd!8m2!3d35.5200521!4d139.0218293!16s%2Fg%2F1tk6qchp!19sChIJYx7wRa1sGWARvaD5kRFKlbY?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
     "name": "中央市立豊富小学校",
     "address": "\n〒400-1513 山梨県中央市大鳥居３８００−１",
     "latitude": 35.570655,
@@ -2709,14 +2725,6 @@
     "latitude": 35.610433,
     "longitude": 138.462074,
     "link": "https://www.google.com/maps/place/%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E7%AB%8B%E5%B0%8F%E7%AC%A0%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf43ef1a733f5:0xda7a93d30a31246e!8m2!3d35.610433!4d138.462074!16s%2Fg%2F1wf21yd2!19sChIJ9TOn8T70G2ARbiQxCtOTeto?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
-    "name": "富士河口湖町立船津小学校",
-    "address": "\n〒401-0301 山梨県南都留郡富士河口湖町船津３７３７",
-    "latitude": 35.5001464,
-    "longitude": 138.7679661,
-    "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E8%88%B9%E6%B4%A5%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60195e28453a672f:0x68654f300c8916b6!8m2!3d35.5001464!4d138.7679661!16s%2Fg%2F121nxdcb!19sChIJL2c6RSheGWARthaJDDBPZWg?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -2784,6 +2792,14 @@
     "category": "小学校"
   },
   {
+    "name": "南アルプス市立豊小学校",
+    "address": "\n〒400-0304 山梨県南アルプス市吉田７８７",
+    "latitude": 35.622609,
+    "longitude": 138.478289,
+    "link": "https://www.google.com/maps/place/%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E7%AB%8B%E8%B1%8A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf427f3064d6d:0xc0657860c2aa5d12!8m2!3d35.622609!4d138.478289!16s%2Fg%2F1tg9n67t!19sChIJbU0G8yf0G2AREl2qwmB4ZcA?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
     "name": "山梨市立笛川小学校",
     "address": "\n〒404-0013 山梨県山梨市牧丘町窪平１２００",
     "latitude": 35.7462894,
@@ -2816,19 +2832,19 @@
     "category": "小学校"
   },
   {
-    "name": "南アルプス市立豊小学校",
-    "address": "\n〒400-0304 山梨県南アルプス市吉田７８７",
-    "latitude": 35.622609,
-    "longitude": 138.478289,
-    "link": "https://www.google.com/maps/place/%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E7%AB%8B%E8%B1%8A%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf427f3064d6d:0xc0657860c2aa5d12!8m2!3d35.622609!4d138.478289!16s%2Fg%2F1tg9n67t!19sChIJbU0G8yf0G2AREl2qwmB4ZcA?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
     "name": "韮崎市立穂坂小学校",
     "address": "\n〒407-0175 山梨県韮崎市穂坂町６１２１",
     "latitude": 35.7362744,
     "longitude": 138.4831162,
     "link": "https://www.google.com/maps/place/%E9%9F%AE%E5%B4%8E%E5%B8%82%E7%AB%8B%E7%A9%82%E5%9D%82%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601c0957258005c9:0x9442fd80ccc8f50f!8m2!3d35.7362744!4d138.4831162!16s%2Fg%2F1tfjqsgs!19sChIJyQWAJVcJHGARD_XIzID9QpQ?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "武川小学校",
+    "address": "\n〒408-0302 山梨県北杜市武川町牧原９４４",
+    "latitude": 35.7835826,
+    "longitude": 138.3817416,
+    "link": "https://www.google.com/maps/place/%E6%AD%A6%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601c6d4318f1a765:0xcd7051d3aa11934b!8m2!3d35.7835826!4d138.3817416!16s%2Fg%2F1tlvplzc!19sChIJZafxGENtHGARS5MRqtNRcM0?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -2896,14 +2912,6 @@
     "category": "小学校"
   },
   {
-    "name": "道志村立道志小学校",
-    "address": "\n7568, 道志村 南都留郡 山梨県 402-0212",
-    "latitude": 35.5200521,
-    "longitude": 139.0218293,
-    "link": "https://www.google.com/maps/place/%E9%81%93%E5%BF%97%E6%9D%91%E7%AB%8B%E9%81%93%E5%BF%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60196cad45f01e63:0xb6954a1191f9a0bd!8m2!3d35.5200521!4d139.0218293!16s%2Fg%2F1tk6qchp!19sChIJYx7wRa1sGWARvaD5kRFKlbY?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
     "name": "南アルプス市立白根源小学校",
     "address": "\n〒400-0226 山梨県南アルプス市有野４９０",
     "latitude": 35.655276,
@@ -2941,6 +2949,14 @@
     "latitude": 35.629962,
     "longitude": 138.611169,
     "link": "https://www.google.com/maps/place/%E7%AC%9B%E5%90%B9%E5%B8%82%E7%AB%8B%E5%AF%8C%E5%A3%AB%E8%A6%8B%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bfbb977faedb1:0xb7f4ee4dca1592d9!8m2!3d35.629962!4d138.611169!16s%2Fg%2F1tcz_ln_!19sChIJse36d7n7G2AR2ZIVyk3u9Lc?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "南アルプス市立白根飯野小学校",
+    "address": "\n〒400-0222 山梨県南アルプス市飯野１９７２−１",
+    "latitude": 35.643392,
+    "longitude": 138.454044,
+    "link": "https://www.google.com/maps/place/%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E7%AB%8B%E7%99%BD%E6%A0%B9%E9%A3%AF%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601bf5942ed665a7:0x6adc6673f3fd64d4!8m2!3d35.643392!4d138.454044!16s%2Fg%2F1tfk9263!19sChIJp2XWLpT1G2AR1GT983Nm3Go?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -3049,18 +3065,10 @@
   },
   {
     "name": "富士河口湖町立河口小学校",
-    "address": "\n〒406-0834 山梨県笛吹市八代町岡７８０",
+    "address": "\n〒401-0304 山梨県南都留郡富士河口湖町河口１５６０",
     "latitude": 35.530713,
     "longitude": 138.769151,
     "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E6%B2%B3%E5%8F%A3%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60195e50aeb6bd83:0xdb393bf2285dcacc!8m2!3d35.530713!4d138.769151!16s%2Fg%2F1tzzvkg4!19sChIJg722rlBeGWARzMpdKPI7Ods?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
-    "name": "武川小学校",
-    "address": "\n〒408-0302 山梨県北杜市武川町牧原９４４",
-    "latitude": 35.7835826,
-    "longitude": 138.3817416,
-    "link": "https://www.google.com/maps/place/%E6%AD%A6%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601c6d4318f1a765:0xcd7051d3aa11934b!8m2!3d35.7835826!4d138.3817416!16s%2Fg%2F1tlvplzc!19sChIJZafxGENtHGARS5MRqtNRcM0?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -3089,7 +3097,7 @@
   },
   {
     "name": "北杜市立須玉小学校",
-    "address": "\n〒409-2531 山梨県南巨摩郡身延町梅平８９７",
+    "address": "\n〒408-0112 山梨県北杜市須玉町若神子２００−２",
     "latitude": 35.794353,
     "longitude": 138.425366,
     "link": "https://www.google.com/maps/place/%E5%8C%97%E6%9D%9C%E5%B8%82%E7%AB%8B%E9%A0%88%E7%8E%89%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601c129c47cd9fff:0x480028de7fe281f9!8m2!3d35.794353!4d138.425366!16s%2Fg%2F1tdr87r8!19sChIJ_5_NR5wSHGAR-YHif94oAEg?authuser=0&hl=ja&rclk=1",
@@ -3169,10 +3177,18 @@
   },
   {
     "name": "富士河口湖町立西浜小学校",
-    "address": "\n〒409-2305 山梨県南巨摩郡南部町内船８７６６",
+    "address": "\n〒401-0331 山梨県南都留郡富士河口湖町長浜１０６２",
     "latitude": 35.5061168,
     "longitude": 138.7099178,
     "link": "https://www.google.com/maps/place/%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E7%AB%8B%E8%A5%BF%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601be02e08f525b1:0x4bebb4b057ef2f1e!8m2!3d35.5061168!4d138.7099178!16s%2Fg%2F1ty74b5y!19sChIJsSX1CC7gG2ARHi_vV7C060s?authuser=0&hl=ja&rclk=1",
+    "category": "小学校"
+  },
+  {
+    "name": "甲州市立奥野田小学校",
+    "address": "\n〒404-0036 山梨県甲州市塩山熊野９０６",
+    "latitude": 35.6905067,
+    "longitude": 138.73076,
+    "link": "https://www.google.com/maps/place/%E7%94%B2%E5%B7%9E%E5%B8%82%E7%AB%8B%E5%A5%A5%E9%87%8E%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x6019561058288989:0x5a3ceca5b3f3bfe3!8m2!3d35.6905067!4d138.73076!16s%2Fg%2F1tdfhr79!19sChIJiYkoWBBWGWAR47_zs6XsPFo?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   },
   {
@@ -3181,22 +3197,6 @@
     "latitude": 35.5526047,
     "longitude": 138.9064934,
     "link": "https://www.google.com/maps/place/%E9%83%BD%E7%95%99%E5%B8%82%E7%AB%8B%E8%B0%B7%E6%9D%91%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60196826b8911aff:0x161659dd18198b47!8m2!3d35.5526047!4d138.9064934!16s%2Fg%2F1tkc6q_p!19sChIJ_xqRuCZoGWARR4sZGN1ZFhY?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
-    "name": "山中湖村立東小学校",
-    "address": "\n〒401-0502 山梨県南都留郡山中湖村平野２４３５",
-    "latitude": 35.423298,
-    "longitude": 138.891892,
-    "link": "https://www.google.com/maps/place/%E5%B1%B1%E4%B8%AD%E6%B9%96%E6%9D%91%E7%AB%8B%E6%9D%B1%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x60196f92c51fb3fb:0x24b118b0d88c9481!8m2!3d35.423298!4d138.891892!16s%2Fg%2F1tf75kt3!19sChIJ-7MfxZJvGWARgZSM2LAYsSQ?authuser=0&hl=ja&rclk=1",
-    "category": "小学校"
-  },
-  {
-    "name": "甲斐市立敷島北小学校",
-    "address": "\n〒400-0122 山梨県甲斐市境５７",
-    "latitude": 35.6947453,
-    "longitude": 138.5246234,
-    "link": "https://www.google.com/maps/place/%E7%94%B2%E6%96%90%E5%B8%82%E7%AB%8B%E6%95%B7%E5%B3%B6%E5%8C%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/data=!4m7!3m6!1s0x601c082e8d72c6d5:0x9b6f0e59b3250247!8m2!3d35.6947453!4d138.5246234!16s%2Fg%2F1tcyfjx7!19sChIJ1cZyjS4IHGARRwIls1kOb5s?authuser=0&hl=ja&rclk=1",
     "category": "小学校"
   }
 ]
