@@ -515,31 +515,121 @@
         }
 
         .history-item {
-            padding: 16px;
+            padding: 0;
             border: 1px solid #dadce0;
             border-radius: 8px;
-            margin-bottom: 12px;
-            cursor: pointer;
+            margin-bottom: 16px;
+            cursor: default;
             transition: all 0.2s;
             background: #ffffff;
+            overflow: hidden;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
         }
 
         .history-item:hover {
-            background: #f8f9fa;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
 
-        .history-item-header {
+        .history-item.has-memo {
+            border-left: 4px solid #e91e63;
+        }
+
+        .history-card-content {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .history-card-header {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            margin-bottom: 8px;
+            align-items: flex-start;
+            gap: 12px;
         }
 
-        .history-item-title {
+        .history-card-title {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex: 1;
+        }
+
+        .editable-name {
             font-weight: 600;
             color: #202124;
-            font-size: 14px;
+            font-size: 15px;
+            cursor: pointer;
+            padding: 2px 4px;
+            border-radius: 4px;
+            transition: background 0.2s;
+            flex-wrap: wrap;
+        }
+
+        .editable-name:hover {
+            background: #f0f0f0;
+        }
+
+        .memo-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 20px;
+            height: 20px;
+            background: #fff3e0;
+            border-radius: 50%;
+            font-size: 12px;
+            flex-shrink: 0;
+        }
+
+        .history-card-date {
+            font-size: 12px;
+            color: #80868b;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .history-card-stats {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 8px 0;
+            border-top: 1px solid #f0f0f0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .stat-group {
+            display: flex;
+            gap: 8px;
+            font-size: 12px;
+        }
+
+        .stat-label {
+            color: #80868b;
+            min-width: 60px;
+            font-weight: 500;
+        }
+
+        .stat-value {
+            color: #5f6368;
+            flex: 1;
+            word-break: break-word;
+        }
+
+        .history-card-memo {
+            padding: 8px 12px;
+            background: #fef5e7;
+            border-left: 3px solid #f39c12;
+            border-radius: 3px;
+            font-size: 12px;
+            color: #5f6368;
+            line-height: 1.5;
+            font-style: italic;
+        }
+
+        .memo-preview {
+            white-space: pre-wrap;
+            word-break: break-word;
         }
 
         .history-item-date {
@@ -552,6 +642,12 @@
             color: #5f6368;
             margin-bottom: 8px;
             line-height: 1.6;
+        }
+
+        .history-card-actions {
+            display: flex;
+            gap: 8px;
+            padding-top: 12px;
         }
 
         .history-item-actions {
@@ -570,6 +666,59 @@
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: #1f73e6;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            flex: 1;
+        }
+
+        .btn-primary:hover {
+            background: #0d47a1;
+            box-shadow: 0 2px 4px rgba(31, 115, 230, 0.3);
+        }
+
+        .btn-secondary {
+            background: #e91e63;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            flex: 1;
+        }
+
+        .btn-secondary:hover {
+            background: #c2185b;
+            box-shadow: 0 2px 4px rgba(233, 30, 99, 0.3);
+        }
+
+        .btn-danger {
+            background: #fce8e6;
+            color: #d33827;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            flex: 1;
+        }
+
+        .btn-danger:hover {
+            background: #f8d7da;
         }
 
         .history-item-btn-load {
@@ -756,6 +905,90 @@
         .editable-name:hover {
             background: #e8f0fe;
             color: #1f73e6;
+        }
+
+        .facility-item.has-memo {
+            border-left: 4px solid #e91e63;
+        }
+
+        .facility-memo-badge {
+            display: inline-block;
+            background: #e91e63;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 700;
+            margin-left: 8px;
+        }
+
+        .marker-pink {
+            filter: hue-rotate(-280deg) saturate(2) brightness(1.1);
+        }
+
+        .memo-input-container {
+            margin-top: 8px;
+            display: flex;
+            gap: 8px;
+            align-items: stretch;
+        }
+
+        .memo-input {
+            flex: 1;
+            padding: 8px 12px;
+            border: 1px solid #dadce0;
+            border-radius: 4px;
+            font-size: 12px;
+            font-family: inherit;
+            background: #f8f9fa;
+        }
+
+        .memo-input:focus {
+            outline: none;
+            background: #ffffff;
+            border-color: #e91e63;
+            box-shadow: 0 1px 3px rgba(233, 30, 99, 0.2);
+        }
+
+        .memo-btn {
+            padding: 8px 12px;
+            background: #e91e63;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .memo-btn:hover {
+            background: #c2185b;
+        }
+
+        .memo-display {
+            margin-top: 8px;
+            padding: 8px 12px;
+            background: #fce4ec;
+            border-left: 3px solid #e91e63;
+            border-radius: 4px;
+            font-size: 12px;
+            color: #880e4f;
+            line-height: 1.5;
+        }
+
+        .memo-delete-btn {
+            display: inline-block;
+            margin-left: 8px;
+            color: #d50000;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 11px;
+            text-decoration: underline;
+        }
+
+        .memo-delete-btn:hover {
+            color: #b71c1c;
         }
         
         /* レスポンシブ対応 */
@@ -1002,6 +1235,21 @@
         </div>
     </div>
 
+    <!-- メモ入力モーダル -->
+    <div id="memo-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">メモを追加</div>
+            <div class="modal-body">
+                <p style="font-size: 12px; color: #5f6368; margin-bottom: 12px;" id="memo-facility-name"></p>
+                <textarea id="memo-input" class="modal-input" placeholder="メモを入力してください" style="min-height: 100px; resize: none;"></textarea>
+            </div>
+            <div class="modal-buttons">
+                <button class="modal-btn modal-btn-cancel" id="memo-cancel-btn">キャンセル</button>
+                <button class="modal-btn modal-btn-confirm" id="memo-save-btn">保存</button>
+            </div>
+        </div>
+    </div>
+
     <script>
         let map;
         let allFacilities = [];
@@ -1015,10 +1263,13 @@
         let currentTab = 'search';
         let currentSort = 'newest';
         let currentSearchFilter = '';
+        let facilityMemos = {}; // 施設ごとのメモを保存するオブジェクト
+        let currentEditingMemoFacility = null; // 現在編集中のメモの施設
 
         const DB_NAME = 'FacilitiesMapDB';
-        const DB_VERSION = 1;
+        const DB_VERSION = 2; // バージョンをアップグレード
         const STORE_NAME = 'searches';
+        const MEMO_STORE_NAME = 'memos'; // メモ用のストア
         let db;
 
         // タブ切り替え機能
@@ -1045,12 +1296,16 @@
                 request.onsuccess = () => {
                     db = request.result;
                     loadSavedData();
+                    loadAllMemos();
                     resolve();
                 };
                 request.onupgradeneeded = (event) => {
                     const db = event.target.result;
                     if (!db.objectStoreNames.contains(STORE_NAME)) {
                         db.createObjectStore(STORE_NAME, { keyPath: 'id', autoIncrement: true });
+                    }
+                    if (!db.objectStoreNames.contains(MEMO_STORE_NAME)) {
+                        db.createObjectStore(MEMO_STORE_NAME, { keyPath: 'facilityId' });
                     }
                 };
             });
@@ -1156,26 +1411,107 @@
                 const categoryColor = facility.category === '保育園' ? '#2196F3' : 
                                     facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
                 
+                const facilityId = createFacilityId(facility);
+                const hasMemo = facilityMemos[facilityId];
+                
                 const marker = L.circleMarker([facility.latitude, facility.longitude], {
                     radius: 6,
-                    fillColor: categoryColor,
+                    fillColor: hasMemo ? '#e91e63' : categoryColor,
                     color: '#fff',
                     weight: 2,
                     opacity: 1,
                     fillOpacity: 0.8
                 }).addTo(map);
 
-                marker.bindPopup(`<div class="popup-content"><h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p></div>`);
+                // マーカーにメタデータを保存
+                marker.facilityId = facilityId;
+                marker.facility = facility;
+                marker.categoryColor = categoryColor;
+
+                // ポップアップ作成関数
+                function updatePopupContent() {
+                    const popupContent = document.createElement('div');
+                    popupContent.className = 'popup-content';
+                    
+                    const currentMemo = facilityMemos[facilityId];
+                    let memoSection = '';
+                    if (currentMemo) {
+                        memoSection = `<div style="margin-top: 12px; padding: 10px; background: #fce4ec; border-left: 3px solid #e91e63; border-radius: 4px;"><p style="margin: 0; font-size: 12px; color: #880e4f;"><strong>メモ:</strong><br>${escapeHtml(currentMemo)}</p></div>`;
+                    }
+                    
+                    popupContent.innerHTML = `<h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p>${memoSection}`;
+                    
+                    const popupButtonsDiv = document.createElement('div');
+                    popupButtonsDiv.style.marginTop = '12px';
+                    popupButtonsDiv.style.display = 'flex';
+                    popupButtonsDiv.style.gap = '8px';
+                    
+                    const popupMemoBtn = document.createElement('button');
+                    popupMemoBtn.textContent = currentMemo ? 'メモを編集' : 'メモを追加';
+                    popupMemoBtn.style.flex = '1';
+                    popupMemoBtn.style.padding = '8px 12px';
+                    popupMemoBtn.style.background = '#e91e63';
+                    popupMemoBtn.style.color = 'white';
+                    popupMemoBtn.style.border = 'none';
+                    popupMemoBtn.style.borderRadius = '4px';
+                    popupMemoBtn.style.fontSize = '12px';
+                    popupMemoBtn.style.fontWeight = '600';
+                    popupMemoBtn.style.cursor = 'pointer';
+                    popupMemoBtn.style.transition = 'all 0.2s';
+                    
+                    popupMemoBtn.addEventListener('click', () => {
+                        openMemoModal(facility);
+                    });
+                    
+                    popupMemoBtn.addEventListener('mouseover', () => {
+                        popupMemoBtn.style.background = '#c2185b';
+                    });
+                    
+                    popupMemoBtn.addEventListener('mouseout', () => {
+                        popupMemoBtn.style.background = '#e91e63';
+                    });
+                    
+                    popupButtonsDiv.appendChild(popupMemoBtn);
+                    popupContent.appendChild(popupButtonsDiv);
+                    
+                    return popupContent;
+                }
+
+                marker.bindPopup(updatePopupContent());
+                
+                // ポップアップを開く際に内容を更新
+                marker.on('popupopen', () => {
+                    marker.setPopupContent(updatePopupContent());
+                });
+
                 facilityMarkers.push(marker);
 
                 const li = document.createElement('li');
-                li.className = 'facility-item';
+                li.className = 'facility-item' + (hasMemo ? ' has-memo' : '');
+                li.dataset.facilityId = facilityId;
+                
+                let memoSection = '';
+                if (hasMemo) {
+                    memoSection = `<div class="memo-display">${escapeHtml(facilityMemos[facilityId])}</div>`;
+                }
+                
                 li.innerHTML = `
                     <div class="facility-info">
-                        <div class="facility-name">${facility.name}</div>
+                        <div class="facility-name">${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
                         <div class="facility-category">${facility.category}</div>
+                        ${memoSection}
+                        <div class="memo-input-container">
+                            <button class="memo-btn" style="flex: 1;">メモを編集</button>
+                        </div>
                     </div>
                 `;
+                
+                const listMemoBtn = li.querySelector('.memo-btn');
+                listMemoBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    openMemoModal(facility);
+                });
+                
                 li.addEventListener('click', () => {
                     map.setView([facility.latitude, facility.longitude], 15);
                     marker.openPopup();
@@ -1201,6 +1537,191 @@
                 item.classList.remove('active');
             });
             li.classList.add('active');
+        }
+
+        // HTMLエスケープ関数
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // メモ関連の関数
+        function createFacilityId(facility) {
+            return `${facility.address.substring(0, 10)}_${facility.latitude.toFixed(4)}_${facility.longitude.toFixed(4)}_${facility.name.substring(0, 10)}`;
+        }
+
+        function saveMemoToDB(facility, memo) {
+            if (!db) return;
+            
+            const facilityId = createFacilityId(facility);
+            const transaction = db.transaction([MEMO_STORE_NAME], 'readwrite');
+            const store = transaction.objectStore(MEMO_STORE_NAME);
+            
+            const memoData = {
+                facilityId: facilityId,
+                facilityName: facility.name,
+                facilityCategory: facility.category,
+                facilityAddress: facility.address,
+                facilityLat: facility.latitude,
+                facilityLng: facility.longitude,
+                memo: memo,
+                timestamp: new Date().toISOString()
+            };
+            
+            store.put(memoData);
+            
+            transaction.oncomplete = () => {
+                facilityMemos[facilityId] = memo;
+                updateFacilityDisplayWithMemo(facility);
+            };
+        }
+
+        function loadAllMemos() {
+            if (!db) return;
+            
+            const transaction = db.transaction([MEMO_STORE_NAME], 'readonly');
+            const store = transaction.objectStore(MEMO_STORE_NAME);
+            const request = store.getAll();
+            
+            request.onsuccess = () => {
+                facilityMemos = {};
+                request.result.forEach(memoData => {
+                    facilityMemos[memoData.facilityId] = memoData.memo;
+                });
+            };
+        }
+
+        function getMemoForFacility(facility) {
+            const facilityId = createFacilityId(facility);
+            return facilityMemos[facilityId] || null;
+        }
+
+        function deleteMemoFromDB(facility) {
+            if (!db) return;
+            
+            const facilityId = createFacilityId(facility);
+            const transaction = db.transaction([MEMO_STORE_NAME], 'readwrite');
+            const store = transaction.objectStore(MEMO_STORE_NAME);
+            
+            store.delete(facilityId);
+            
+            transaction.oncomplete = () => {
+                delete facilityMemos[facilityId];
+                updateFacilityDisplayWithMemo(facility);
+            };
+        }
+
+        function updateFacilityDisplayWithMemo(facility) {
+            // 施設リスト内の表示を更新
+            const facilityId = createFacilityId(facility);
+            const memo = facilityMemos[facilityId];
+            
+            document.querySelectorAll('.facility-item').forEach(item => {
+                if (item.dataset.facilityId === facilityId) {
+                    if (memo) {
+                        item.classList.add('has-memo');
+                    } else {
+                        item.classList.remove('has-memo');
+                    }
+                }
+            });
+
+            // マーカーの色を更新
+            facilityMarkers.forEach(marker => {
+                if (marker.facilityId === facilityId) {
+                    const categoryColor = marker.categoryColor;
+                    const currentMemo = facilityMemos[facilityId];
+                    marker.setStyle({
+                        fillColor: currentMemo ? '#e91e63' : categoryColor
+                    });
+                }
+            });
+        }
+
+        function openMemoModal(facility) {
+            currentEditingMemoFacility = facility;
+            const modal = document.getElementById('memo-modal');
+            const input = document.getElementById('memo-input');
+            const facilityName = document.getElementById('memo-facility-name');
+            const facilityId = createFacilityId(facility);
+            const currentMemo = facilityMemos[facilityId] || '';
+            
+            facilityName.textContent = `施設: ${facility.name} (${facility.category})`;
+            input.value = currentMemo;
+            modal.classList.add('active');
+            input.focus();
+        }
+
+        function closeMemoModal() {
+            const modal = document.getElementById('memo-modal');
+            modal.classList.remove('active');
+            currentEditingMemoFacility = null;
+        }
+
+        function saveMemo() {
+            if (!currentEditingMemoFacility) {
+                alert('エラーが発生しました');
+                return;
+            }
+            
+            const memo = document.getElementById('memo-input').value.trim();
+            
+            if (memo) {
+                saveMemoToDB(currentEditingMemoFacility, memo);
+            } else {
+                deleteMemoFromDB(currentEditingMemoFacility);
+            }
+            
+            closeMemoModal();
+        }
+
+        let editingSavedSearchId = null;
+
+        function openSavedSearchMemoModal(data) {
+            editingSavedSearchId = data.id;
+            const modal = document.getElementById('memo-modal');
+            const input = document.getElementById('memo-input');
+            const facilityName = document.getElementById('memo-facility-name');
+            
+            facilityName.textContent = `検索: ${data.name} (座標: ${data.pin[0].toFixed(4)}, ${data.pin[1].toFixed(4)})`;
+            input.value = data.memo || '';
+            modal.classList.add('active');
+            input.focus();
+        }
+
+        function saveSavedSearchMemo() {
+            if (editingSavedSearchId === null) {
+                alert('エラーが発生しました');
+                return;
+            }
+            
+            const memo = document.getElementById('memo-input').value.trim();
+            const transaction = db.transaction([STORE_NAME], 'readwrite');
+            const store = transaction.objectStore(STORE_NAME);
+            const getRequest = store.get(editingSavedSearchId);
+
+            getRequest.onsuccess = () => {
+                const data = getRequest.result;
+                if (data) {
+                    data.memo = memo;
+                    const putRequest = store.put(data);
+                    
+                    putRequest.onsuccess = () => {
+                        closeMemoModal();
+                        loadSavedData();
+                        editingSavedSearchId = null;
+                    };
+
+                    putRequest.onerror = () => {
+                        alert('更新に失敗しました');
+                    };
+                }
+            };
+
+            getRequest.onerror = () => {
+                alert('データの取得に失敗しました');
+            };
         }
 
         // ピンモード切り替え
@@ -1285,23 +1806,116 @@
 
             pinSearchResults.forEach((facility, idx) => {
                 const distance = calculateDistance(pinLat, pinLng, facility.latitude, facility.longitude);
+                const facilityId = createFacilityId(facility);
+                const hasMemo = facilityMemos[facilityId];
+                
+                const categoryColor = facility.category === '保育園' ? '#2196F3' : 
+                                    facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
+                
+                // マーカーを作成
+                const marker = L.circleMarker([facility.latitude, facility.longitude], {
+                    radius: 6,
+                    fillColor: hasMemo ? '#e91e63' : categoryColor,
+                    color: '#fff',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                // マーカーにメタデータを保存
+                marker.facilityId = facilityId;
+                marker.facility = facility;
+                marker.categoryColor = categoryColor;
+
+                // ポップアップ作成関数
+                function updatePopupContentForPinSearch() {
+                    const popupContent = document.createElement('div');
+                    popupContent.className = 'popup-content';
+                    
+                    const currentMemo = facilityMemos[facilityId];
+                    let memoSection = '';
+                    if (currentMemo) {
+                        memoSection = `<div style="margin-top: 12px; padding: 10px; background: #fce4ec; border-left: 3px solid #e91e63; border-radius: 4px;"><p style="margin: 0; font-size: 12px; color: #880e4f;"><strong>メモ:</strong><br>${escapeHtml(currentMemo)}</p></div>`;
+                    }
+                    
+                    popupContent.innerHTML = `<h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p>${memoSection}`;
+                    
+                    const popupButtonsDiv = document.createElement('div');
+                    popupButtonsDiv.style.marginTop = '12px';
+                    popupButtonsDiv.style.display = 'flex';
+                    popupButtonsDiv.style.gap = '8px';
+                    
+                    const pinSearchPopupMemoBtn = document.createElement('button');
+                    pinSearchPopupMemoBtn.textContent = currentMemo ? 'メモを編集' : 'メモを追加';
+                    pinSearchPopupMemoBtn.style.flex = '1';
+                    pinSearchPopupMemoBtn.style.padding = '8px 12px';
+                    pinSearchPopupMemoBtn.style.background = '#e91e63';
+                    pinSearchPopupMemoBtn.style.color = 'white';
+                    pinSearchPopupMemoBtn.style.border = 'none';
+                    pinSearchPopupMemoBtn.style.borderRadius = '4px';
+                    pinSearchPopupMemoBtn.style.fontSize = '12px';
+                    pinSearchPopupMemoBtn.style.fontWeight = '600';
+                    pinSearchPopupMemoBtn.style.cursor = 'pointer';
+                    pinSearchPopupMemoBtn.style.transition = 'all 0.2s';
+                    
+                    pinSearchPopupMemoBtn.addEventListener('click', () => {
+                        openMemoModal(facility);
+                    });
+                    
+                    pinSearchPopupMemoBtn.addEventListener('mouseover', () => {
+                        pinSearchPopupMemoBtn.style.background = '#c2185b';
+                    });
+                    
+                    pinSearchPopupMemoBtn.addEventListener('mouseout', () => {
+                        pinSearchPopupMemoBtn.style.background = '#e91e63';
+                    });
+                    
+                    popupButtonsDiv.appendChild(pinSearchPopupMemoBtn);
+                    popupContent.appendChild(popupButtonsDiv);
+                    
+                    return popupContent;
+                }
+
+                marker.bindPopup(updatePopupContentForPinSearch());
+                
+                // ポップアップを開く際に内容を更新
+                marker.on('popupopen', () => {
+                    marker.setPopupContent(updatePopupContentForPinSearch());
+                });
+                
+                facilityMarkers.push(marker);
+                
                 const li = document.createElement('li');
-                li.className = 'facility-item';
+                li.className = 'facility-item' + (hasMemo ? ' has-memo' : '');
+                li.dataset.facilityId = facilityId;
+                
+                let memoSection = '';
+                if (hasMemo) {
+                    memoSection = `<div class="memo-display">${escapeHtml(facilityMemos[facilityId])}</div>`;
+                }
+                
                 li.innerHTML = `
                     <div class="facility-info">
-                        <div class="facility-name">${idx + 1}. ${facility.name}</div>
+                        <div class="facility-name">${idx + 1}. ${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
                         <div class="facility-category">${facility.category}</div>
                         <div class="facility-distance">${distance.toFixed(2)}km</div>
+                        ${memoSection}
+                        <div class="memo-input-container">
+                            <button class="memo-btn" style="flex: 1;">メモを編集</button>
+                        </div>
                     </div>
                 `;
+                
+                const listMemoBtn = li.querySelector('.memo-btn');
+                listMemoBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    openMemoModal(facility);
+                });
+                
                 li.addEventListener('click', () => {
                     map.setView([facility.latitude, facility.longitude], 16);
                     highlightItem(li);
-                    const marker = facilityMarkers.find(m => 
-                        m.getLatLng().lat === facility.latitude && 
-                        m.getLatLng().lng === facility.longitude
-                    );
-                    if (marker) marker.openPopup();
+                    marker.openPopup();
                 });
                 facilityList.appendChild(li);
             });
@@ -1331,7 +1945,8 @@
                 pin: [pinMarker.getLatLng().lat, pinMarker.getLatLng().lng],
                 radius: document.getElementById('radius-input').value,
                 results: pinSearchResults,
-                count: pinSearchResults.length
+                count: pinSearchResults.length,
+                memo: '' // 新しい検索のメモは初期化
             };
 
             const transaction = db.transaction([STORE_NAME], 'readwrite');
@@ -1425,21 +2040,50 @@
                 const kindergartens = data.results.filter(f => f.category === '幼稚園').length;
                 const schools = data.results.filter(f => f.category === '小学校').length;
                 const displayName = data.name || `検索 #${savedData.indexOf(data) + 1}`;
+                const hasMemo = data.memo && data.memo.trim() !== '';
                 
                 const item = document.createElement('div');
-                item.className = 'history-item';
+                item.className = 'history-item' + (hasMemo ? ' has-memo' : '');
+                
+                let memoPreview = '';
+                if (hasMemo) {
+                    const memoText = data.memo.substring(0, 80);
+                    const truncated = data.memo.length > 80 ? '...' : '';
+                    memoPreview = `<div class="memo-preview">${escapeHtml(memoText)}${truncated}</div>`;
+                }
+                
                 item.innerHTML = `
-                    <div class="history-item-header">
-                        <div class="editable-name" title="クリックして名前を編集">${displayName}</div>
-                        <div class="history-item-date">${dateStr} ${timeStr}</div>
-                    </div>
-                    <div class="history-item-details">
-                        <div>座標: ${data.pin[0].toFixed(4)}, ${data.pin[1].toFixed(4)}</div>
-                        <div>半径: ${data.radius}km | 保育園: ${nurseries}件 | 幼稚園: ${kindergartens}件 | 小学校: ${schools}件 | 合計: ${data.count}件</div>
-                    </div>
-                    <div class="history-item-actions">
-                        <button class="history-item-btn-load">この検索を読み込む</button>
-                        <button class="history-item-btn-delete">削除</button>
+                    <div class="history-card-content">
+                        <div class="history-card-header">
+                            <div class="history-card-title">
+                                <span class="editable-name" title="クリックして名前を編集">${displayName}</span>
+                                ${hasMemo ? '<span class="memo-badge">📝</span>' : ''}
+                            </div>
+                            <div class="history-card-date">${dateStr} ${timeStr}</div>
+                        </div>
+                        
+                        <div class="history-card-stats">
+                            <div class="stat-group">
+                                <span class="stat-label">座標:</span>
+                                <span class="stat-value">${data.pin[0].toFixed(4)}, ${data.pin[1].toFixed(4)}</span>
+                            </div>
+                            <div class="stat-group">
+                                <span class="stat-label">検索範囲:</span>
+                                <span class="stat-value">${data.radius}km</span>
+                            </div>
+                            <div class="stat-group">
+                                <span class="stat-label">結果:</span>
+                                <span class="stat-value">保育園 ${nurseries}件 | 幼稚園 ${kindergartens}件 | 小学校 ${schools}件</span>
+                            </div>
+                        </div>
+                        
+                        ${memoPreview ? `<div class="history-card-memo">${memoPreview}</div>` : ''}
+                        
+                        <div class="history-card-actions">
+                            <button class="btn-primary btn-load" title="この検索を読み込む">読み込む</button>
+                            <button class="btn-secondary btn-memo" title="メモを編集">メモ</button>
+                            <button class="btn-danger btn-delete" title="削除">削除</button>
+                        </div>
                     </div>
                 `;
                 
@@ -1449,12 +2093,26 @@
                     openEditNameModal(data);
                 });
                 
-                item.querySelector('.history-item-btn-load').addEventListener('click', () => {
-                    if (data.pin) pinPoint(data.pin[0], data.pin[1]);
+                item.querySelector('.btn-load').addEventListener('click', () => {
+                    if (data.pin) {
+                        pinPoint(data.pin[0], data.pin[1]);
+                        // 地図をピンの位置にズームして飛ぶ
+                        setTimeout(() => {
+                            map.setView([data.pin[0], data.pin[1]], 13);
+                        }, 100);
+                    }
                     document.querySelector('.tab[data-tab="search"]').click();
                 });
                 
-                item.querySelector('.history-item-btn-delete').addEventListener('click', (e) => {
+                const memoBtn = item.querySelector('.btn-memo');
+                if (memoBtn) {
+                    memoBtn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        openSavedSearchMemoModal(data);
+                    });
+                }
+                
+                item.querySelector('.btn-delete').addEventListener('click', (e) => {
                     e.stopPropagation();
                     if (confirm('この検索を削除しますか？')) {
                         deleteSavedItem(data.id);
@@ -1498,14 +2156,19 @@
 
             const dataToExport = {
                 exportDate: new Date().toISOString(),
-                version: 2,
-                data: savedData.map(item => ({
+                version: 3,
+                searches: savedData.map(item => ({
                     timestamp: item.timestamp,
                     name: item.name || '',
                     pin: item.pin,
                     radius: item.radius,
                     count: item.count,
-                    results: item.results
+                    results: item.results,
+                    memo: item.memo || ''
+                })),
+                memos: Object.entries(facilityMemos).map(([facilityId, memo]) => ({
+                    facilityId: facilityId,
+                    memo: memo
                 }))
             };
 
@@ -1538,7 +2201,15 @@
                 try {
                     const importedData = JSON.parse(event.target.result);
                     
-                    if (!importedData.data || !Array.isArray(importedData.data)) {
+                    // バージョン互換性チェック
+                    let dataArray = [];
+                    if (importedData.data && Array.isArray(importedData.data)) {
+                        // バージョン2以前のフォーマット
+                        dataArray = importedData.data;
+                    } else if (importedData.searches && Array.isArray(importedData.searches)) {
+                        // バージョン3以降のフォーマット
+                        dataArray = importedData.searches;
+                    } else {
                         throw new Error('ファイル形式が無効です');
                     }
 
@@ -1546,7 +2217,7 @@
                     const transaction = db.transaction([STORE_NAME], 'readwrite');
                     const store = transaction.objectStore(STORE_NAME);
 
-                    importedData.data.forEach(item => {
+                    dataArray.forEach(item => {
                         delete item.id;
                         // 名前フィールドが存在しない場合はデフォルト値を設定
                         if (!item.name) {
@@ -1558,8 +2229,28 @@
                     });
 
                     transaction.oncomplete = () => {
-                        loadSavedData();
-                        alert(`${importCount}件のデータをインポートしました`);
+                        // メモデータもインポート
+                        if (importedData.memos && Array.isArray(importedData.memos)) {
+                            const memoTransaction = db.transaction([MEMO_STORE_NAME], 'readwrite');
+                            const memoStore = memoTransaction.objectStore(MEMO_STORE_NAME);
+                            
+                            importedData.memos.forEach(memo => {
+                                memoStore.put({
+                                    facilityId: memo.facilityId,
+                                    memo: memo.memo,
+                                    timestamp: new Date().toISOString()
+                                });
+                            });
+                            
+                            memoTransaction.oncomplete = () => {
+                                loadSavedData();
+                                loadAllMemos();
+                                alert(`${importCount}件のデータと${importedData.memos.length}件のメモをインポートしました`);
+                            };
+                        } else {
+                            loadSavedData();
+                            alert(`${importCount}件のデータをインポートしました`);
+                        }
                     };
 
                     transaction.onerror = () => {
@@ -1709,6 +2400,43 @@
         // モーダルボタンのイベントリスナー
         document.getElementById('modal-cancel-btn').addEventListener('click', closeEditNameModal);
         document.getElementById('modal-confirm-btn').addEventListener('click', updateNameInDB);
+
+        // メモモーダルのイベントリスナー
+        document.getElementById('memo-cancel-btn').addEventListener('click', () => {
+            if (editingSavedSearchId !== null) {
+                editingSavedSearchId = null;
+            }
+            closeMemoModal();
+        });
+        
+        document.getElementById('memo-save-btn').addEventListener('click', () => {
+            if (editingSavedSearchId !== null) {
+                saveSavedSearchMemo();
+            } else if (currentEditingMemoFacility) {
+                saveMemo();
+            }
+        });
+
+        // メモモーダルのテキストエリアでEnterを押して保存
+        document.getElementById('memo-input').addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && e.ctrlKey) {
+                if (editingSavedSearchId !== null) {
+                    saveSavedSearchMemo();
+                } else if (currentEditingMemoFacility) {
+                    saveMemo();
+                }
+            }
+        });
+
+        // メモモーダルの外側をクリックで閉じる
+        document.getElementById('memo-modal').addEventListener('click', (e) => {
+            if (e.target.id === 'memo-modal') {
+                if (editingSavedSearchId !== null) {
+                    editingSavedSearchId = null;
+                }
+                closeMemoModal();
+            }
+        });
 
         // Enterキーで更新、Escキーでキャンセル
         document.getElementById('edit-name-input').addEventListener('keypress', (e) => {
