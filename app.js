@@ -10,16 +10,16 @@ let filteredSavedData = [];
 let currentTab = 'search';
 let currentSort = 'newest';
 let currentSearchFilter = '';
-let facilityMemos = {}; // 施設ごとのメモを保存するオブジェクト
-let currentEditingMemoFacility = null; // 現在編集中のメモの施設
-let currentPinInfo = null; // 現在のピンの情報(name, memo, timestamp)
-let facilityColors = {}; // 施設ごとのカスタムカラーを保存するオブジェクト
+let facilityMemos = {};
+let currentEditingMemoFacility = null;
+let currentPinInfo = null;
+let facilityColors = {};
 
 const DB_NAME = 'FacilitiesMapDB';
-const DB_VERSION = 3; // バージョンをアップグレード（色保存用）
+const DB_VERSION = 3;
 const STORE_NAME = 'searches';
-const MEMO_STORE_NAME = 'memos'; // メモ用のストア
-const COLOR_STORE_NAME = 'colors'; // 色用のストア
+const MEMO_STORE_NAME = 'memos';
+const COLOR_STORE_NAME = 'colors';
 let db;
 
 // タブ切り替え機能
@@ -80,6 +80,31 @@ function initMap() {
 	});
 }
 
+// カテゴリ正規化関数
+function normalizeCategory(category) {
+	if (!category || category.trim() === '') {
+		return 'その他';
+	}
+	return category;
+}
+
+// カテゴリに応じた色を取得
+function getCategoryColor(category) {
+	const normalized = normalizeCategory(category);
+	switch (normalized) {
+		case '保育園':
+			return '#2196F3';
+		case '幼稚園':
+			return '#4CAF50';
+		case '小学校':
+			return '#FF9800';
+		case 'その他':
+			return '#9E9E9E';
+		default:
+			return '#9E9E9E';
+	}
+}
+
 // データ読み込み
 async function loadFacilities() {
 	const prefectures = ['茨城', '群馬', '山梨', '新潟', '長野', '栃木', '富山'];
@@ -88,7 +113,12 @@ async function loadFacilities() {
 			const response = await fetch(`./facilities_data/${pref}_facilities.json`);
 			if (response.ok) {
 				const data = await response.json();
-				allFacilities = allFacilities.concat(data);
+				// カテゴリを正規化
+				const normalizedData = data.map(facility => ({
+					...facility,
+					category: normalizeCategory(facility.category)
+				}));
+				allFacilities = allFacilities.concat(normalizedData);
 			}
 		} catch (error) {
 			console.log(`${pref}を読み込めませんでした`);
@@ -132,7 +162,6 @@ function applySearchFilters() {
 	let filtered = allFacilities;
 
 	if (nameSearch) {
-		// 施設名、住所の両方で検索
 		filtered = filtered.filter(f => 
 			f.name.toLowerCase().includes(nameSearch) || 
 			f.address.toLowerCase().includes(nameSearch)
@@ -166,8 +195,7 @@ function displayAllFacilities(facilities = null) {
 	}
 
 	toDisplay.forEach((facility) => {
-		const categoryColor = facility.category === '保育園' ? '#2196F3' :
-			facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
+		const categoryColor = getCategoryColor(facility.category);
 
 		const facilityId = createFacilityId(facility);
 		const hasMemo = facilityMemos[facilityId];
@@ -182,12 +210,10 @@ function displayAllFacilities(facilities = null) {
 			fillOpacity: 0.8
 		}).addTo(map);
 
-		// マーカーにメタデータを保存
 		marker.facilityId = facilityId;
 		marker.facility = facility;
 		marker.categoryColor = categoryColor;
 
-		// ポップアップ作成関数
 		function updatePopupContent() {
 			const popupContent = document.createElement('div');
 			popupContent.className = 'popup-content';
@@ -196,7 +222,6 @@ function displayAllFacilities(facilities = null) {
 
 			popupContent.innerHTML = `<h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p>`;
 
-			// メモ入力欄を追加
 			const memoSection = document.createElement('div');
 			memoSection.style.marginTop = '12px';
 
@@ -220,7 +245,6 @@ function displayAllFacilities(facilities = null) {
 			memoTextarea.style.resize = 'vertical';
 			memoTextarea.style.boxSizing = 'border-box';
 
-			// フォーカス時のスタイル
 			memoTextarea.addEventListener('focus', () => {
 				memoTextarea.style.borderColor = '#e91e63';
 				memoTextarea.style.outline = 'none';
@@ -230,7 +254,6 @@ function displayAllFacilities(facilities = null) {
 				memoTextarea.style.borderColor = '#ddd';
 				const newMemo = memoTextarea.value.trim();
 				
-				// メモが変更された場合のみ保存
 				if (newMemo !== (currentMemo || '')) {
 					if (newMemo) {
 						saveMemoToDB(facility, newMemo);
@@ -244,7 +267,6 @@ function displayAllFacilities(facilities = null) {
 			memoSection.appendChild(memoTextarea);
 			popupContent.appendChild(memoSection);
 
-			// カラーピッカーセクションを追加
 			const colorSection = document.createElement('div');
 			colorSection.style.marginTop = '12px';
 			colorSection.style.display = 'flex';
@@ -305,7 +327,6 @@ function displayAllFacilities(facilities = null) {
 
 		marker.bindPopup(updatePopupContent());
 
-		// ポップアップを開く際に内容を更新
 		marker.on('popupopen', () => {
 			marker.setPopupContent(updatePopupContent());
 		});
@@ -322,15 +343,15 @@ function displayAllFacilities(facilities = null) {
 		}
 
 		li.innerHTML = `
-                    <div class="facility-info">
-                        <div class="facility-name">${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
-                        <div class="facility-category">${facility.category}</div>
-                        ${memoSection}
-                        <div class="memo-input-container">
-                            <button class="memo-btn" style="flex: 1;">メモを編集</button>
-                        </div>
-                    </div>
-                `;
+			<div class="facility-info">
+				<div class="facility-name">${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
+				<div class="facility-category">${facility.category}</div>
+				${memoSection}
+				<div class="memo-input-container">
+					<button class="memo-btn" style="flex: 1;">メモを編集</button>
+				</div>
+			</div>
+		`;
 
 		const listMemoBtn = li.querySelector('.memo-btn');
 		listMemoBtn.addEventListener('click', (e) => {
@@ -365,7 +386,6 @@ function highlightItem(li) {
 	li.classList.add('active');
 }
 
-// HTMLエスケープ関数
 function escapeHtml(text) {
 	const div = document.createElement('div');
 	div.textContent = text;
@@ -439,7 +459,6 @@ function deleteMemoFromDB(facility) {
 }
 
 function updateFacilityDisplayWithMemo(facility) {
-	// 施設リスト内の表示を更新
 	const facilityId = createFacilityId(facility);
 	const memo = facilityMemos[facilityId];
 
@@ -453,7 +472,6 @@ function updateFacilityDisplayWithMemo(facility) {
 		}
 	});
 
-	// マーカーの色を更新
 	facilityMarkers.forEach(marker => {
 		if (marker.facilityId === facilityId) {
 			const categoryColor = marker.categoryColor;
@@ -523,7 +541,6 @@ function deleteColorFromDB(facility) {
 function updateFacilityColor(facility) {
 	const facilityId = createFacilityId(facility);
 	
-	// マーカーの色を更新
 	facilityMarkers.forEach(marker => {
 		if (marker.facilityId === facilityId) {
 			const categoryColor = marker.categoryColor;
@@ -640,7 +657,6 @@ function pinPoint(lat, lng, savedInfo = null) {
 	if (pinMarker) map.removeLayer(pinMarker);
 	if (radiusCircle) map.removeLayer(radiusCircle);
 
-	// 保存された情報があれば保持
 	if (savedInfo) {
 		currentPinInfo = savedInfo;
 	} else {
@@ -656,14 +672,12 @@ function pinPoint(lat, lng, savedInfo = null) {
 		fillOpacity: 0.8
 	}).addTo(map);
 
-	// ポップアップを作成
 	const createPinPopup = () => {
 		const popupContent = document.createElement('div');
 		popupContent.className = 'popup-content';
 		popupContent.style.minWidth = '200px';
 
 		if (currentPinInfo) {
-			// 保存されたピンの場合
 			const date = new Date(currentPinInfo.timestamp);
 			const dateStr = date.toLocaleDateString('ja-JP') + ' ' + date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
 
@@ -671,7 +685,6 @@ function pinPoint(lat, lng, savedInfo = null) {
 				<h3 style="margin: 0 0 8px 0; color: #f44336;">${currentPinInfo.name}</h3>
 			`;
 
-			// メモ入力欄を追加
 			const memoSection = document.createElement('div');
 			memoSection.style.marginTop = '12px';
 
@@ -695,7 +708,6 @@ function pinPoint(lat, lng, savedInfo = null) {
 			memoTextarea.style.resize = 'vertical';
 			memoTextarea.style.boxSizing = 'border-box';
 
-			// フォーカス時のスタイル
 			memoTextarea.addEventListener('focus', () => {
 				memoTextarea.style.borderColor = '#e91e63';
 				memoTextarea.style.outline = 'none';
@@ -705,9 +717,7 @@ function pinPoint(lat, lng, savedInfo = null) {
 				memoTextarea.style.borderColor = '#ddd';
 				const newMemo = memoTextarea.value.trim();
 				
-				// メモが変更された場合のみ保存
 				if (newMemo !== (currentPinInfo.memo || '')) {
-					// currentPinInfo.idを使ってデータベースを更新
 					if (db && currentPinInfo.id) {
 						const transaction = db.transaction([STORE_NAME], 'readwrite');
 						const store = transaction.objectStore(STORE_NAME);
@@ -730,7 +740,6 @@ function pinPoint(lat, lng, savedInfo = null) {
 			memoSection.appendChild(memoTextarea);
 			popupContent.appendChild(memoSection);
 		} else {
-			// 新しいピンの場合
 			popupContent.innerHTML = `
 				<h3 style="margin: 0 0 8px 0; color: #f44336;">検索ピン</h3>
 				<p style="margin: 4px 0;"><strong>座標:</strong> ${lat.toFixed(4)}, ${lng.toFixed(4)}</p>
@@ -775,16 +784,17 @@ function displayPinSearchResults(pinLat, pinLng) {
 	const nurseries = pinSearchResults.filter(f => f.category === '保育園').length;
 	const kindergartens = pinSearchResults.filter(f => f.category === '幼稚園').length;
 	const schools = pinSearchResults.filter(f => f.category === '小学校').length;
+	const others = pinSearchResults.filter(f => f.category === 'その他').length;
 
 	pinInfoDiv.innerHTML = `
-                <div class="info-box">
-                    <p><strong>検索完了</strong></p>
-                    <p>座標: ${pinLat.toFixed(4)}, ${pinLng.toFixed(4)}</p>
-                    <p>半径: <strong>${document.getElementById('radius-input').value}km</strong></p>
-                    <p>合計: <span class="search-count">${pinSearchResults.length}件</span></p>
-                    <p>内訳: 保育園${nurseries} / 幼稚園${kindergartens} / 小学校${schools}</p>
-                </div>
-            `;
+		<div class="info-box">
+			<p><strong>検索完了</strong></p>
+			<p>座標: ${pinLat.toFixed(4)}, ${pinLng.toFixed(4)}</p>
+			<p>半径: <strong>${document.getElementById('radius-input').value}km</strong></p>
+			<p>合計: <span class="search-count">${pinSearchResults.length}件</span></p>
+			<p>内訳: 保育園${nurseries} / 幼稚園${kindergartens} / 小学校${schools} / その他${others}</p>
+		</div>
+	`;
 
 	facilityList.innerHTML = '';
 	if (pinSearchResults.length === 0) {
@@ -801,10 +811,8 @@ function displayPinSearchResults(pinLat, pinLng) {
 		const hasMemo = facilityMemos[facilityId];
 		const customColor = facilityColors[facilityId];
 
-		const categoryColor = facility.category === '保育園' ? '#2196F3' :
-			facility.category === '幼稚園' ? '#4CAF50' : '#FF9800';
+		const categoryColor = getCategoryColor(facility.category);
 
-		// マーカーを作成
 		const marker = L.circleMarker([facility.latitude, facility.longitude], {
 			radius: 6,
 			fillColor: customColor || (hasMemo ? '#e91e63' : categoryColor),
@@ -814,12 +822,10 @@ function displayPinSearchResults(pinLat, pinLng) {
 			fillOpacity: 0.8
 		}).addTo(map);
 
-		// マーカーにメタデータを保存
 		marker.facilityId = facilityId;
 		marker.facility = facility;
 		marker.categoryColor = categoryColor;
 
-		// ポップアップ作成関数
 		function updatePopupContentForPinSearch() {
 			const popupContent = document.createElement('div');
 			popupContent.className = 'popup-content';
@@ -828,7 +834,6 @@ function displayPinSearchResults(pinLat, pinLng) {
 
 			popupContent.innerHTML = `<h3>${facility.name}</h3><p><strong>種類:</strong> ${facility.category}</p><p><strong>住所:</strong><br>${facility.address.trim()}</p><p><a href="${facility.link}" target="_blank">Google Mapsで開く</a></p>`;
 
-			// メモ入力欄を追加
 			const memoSection = document.createElement('div');
 			memoSection.style.marginTop = '12px';
 
@@ -853,7 +858,6 @@ function displayPinSearchResults(pinLat, pinLng) {
 			memoTextarea.style.resize = 'vertical';
 			memoTextarea.style.boxSizing = 'border-box';
 
-			// フォーカス時のスタイル
 			memoTextarea.addEventListener('focus', () => {
 				memoTextarea.style.borderColor = '#e91e63';
 				memoTextarea.style.outline = 'none';
@@ -863,7 +867,6 @@ function displayPinSearchResults(pinLat, pinLng) {
 				memoTextarea.style.borderColor = '#ddd';
 				const newMemo = memoTextarea.value.trim();
 				
-				// メモが変更された場合のみ保存
 				if (newMemo !== (currentMemo || '')) {
 					if (newMemo) {
 						saveMemoToDB(facility, newMemo);
@@ -877,7 +880,6 @@ function displayPinSearchResults(pinLat, pinLng) {
 			memoSection.appendChild(memoTextarea);
 			popupContent.appendChild(memoSection);
 
-			// カラーピッカーセクションを追加
 			const colorSection = document.createElement('div');
 			colorSection.style.marginTop = '12px';
 			colorSection.style.display = 'flex';
@@ -938,7 +940,6 @@ function displayPinSearchResults(pinLat, pinLng) {
 
 		marker.bindPopup(updatePopupContentForPinSearch());
 
-		// ポップアップを開く際に内容を更新
 		marker.on('popupopen', () => {
 			marker.setPopupContent(updatePopupContentForPinSearch());
 		});
@@ -955,16 +956,16 @@ function displayPinSearchResults(pinLat, pinLng) {
 		}
 
 		li.innerHTML = `
-                    <div class="facility-info">
-                        <div class="facility-name">${idx + 1}. ${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
-                        <div class="facility-category">${facility.category}</div>
-                        <div class="facility-distance">${distance.toFixed(2)}km</div>
-                        ${memoSection}
-                        <div class="memo-input-container">
-                            <button class="memo-btn" style="flex: 1;">メモを編集</button>
-                        </div>
-                    </div>
-                `;
+			<div class="facility-info">
+				<div class="facility-name">${idx + 1}. ${facility.name}${hasMemo ? '<span class="facility-memo-badge">メモあり</span>' : ''}</div>
+				<div class="facility-category">${facility.category}</div>
+				<div class="facility-distance">${distance.toFixed(2)}km</div>
+				${memoSection}
+				<div class="memo-input-container">
+					<button class="memo-btn" style="flex: 1;">メモを編集</button>
+				</div>
+			</div>
+		`;
 
 		const listMemoBtn = li.querySelector('.memo-btn');
 		listMemoBtn.addEventListener('click', (e) => {
@@ -988,14 +989,12 @@ function saveToDB() {
 		return;
 	}
 
-	// 保存名の入力ダイアログを表示
 	const now = new Date();
 	const defaultName = `${now.toLocaleDateString('ja-JP')} ${now.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' })}`;
 
 	const saveName = prompt('この検索に名前を付けてください:', defaultName);
 
 	if (saveName === null) {
-		// キャンセルボタンが押された
 		return;
 	}
 
@@ -1006,7 +1005,7 @@ function saveToDB() {
 		radius: document.getElementById('radius-input').value,
 		results: pinSearchResults,
 		count: pinSearchResults.length,
-		memo: '' // 新しい検索のメモは初期化
+		memo: ''
 	};
 
 	const transaction = db.transaction([STORE_NAME], 'readwrite');
@@ -1014,7 +1013,6 @@ function saveToDB() {
 	store.add(searchData);
 
 	transaction.oncomplete = () => {
-		// 保存完了メッセージを表示
 		const saveStats = document.getElementById('save-stats');
 		saveStats.style.display = 'block';
 		setTimeout(() => {
@@ -1096,9 +1094,10 @@ function updateSavedDataUI() {
 		const date = new Date(data.timestamp);
 		const dateStr = date.toLocaleDateString('ja-JP');
 		const timeStr = date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
-		const nurseries = data.results.filter(f => f.category === '保育園').length;
-		const kindergartens = data.results.filter(f => f.category === '幼稚園').length;
-		const schools = data.results.filter(f => f.category === '小学校').length;
+		const nurseries = data.results.filter(f => normalizeCategory(f.category) === '保育園').length;
+		const kindergartens = data.results.filter(f => normalizeCategory(f.category) === '幼稚園').length;
+		const schools = data.results.filter(f => normalizeCategory(f.category) === '小学校').length;
+		const others = data.results.filter(f => normalizeCategory(f.category) === 'その他').length;
 		const displayName = data.name || `検索 #${savedData.indexOf(data) + 1}`;
 		const hasMemo = data.memo && data.memo.trim() !== '';
 
@@ -1133,7 +1132,7 @@ function updateSavedDataUI() {
 					</div>
 					<div class="stat-group">
 							<span class="stat-label">結果:</span>
-							<span class="stat-value">保育園 ${nurseries}件 | 幼稚園 ${kindergartens}件 | 小学校 ${schools}件</span>
+							<span class="stat-value">保育園 ${nurseries}件 | 幼稚園 ${kindergartens}件 | 小学校 ${schools}件 | その他 ${others}件</span>
 					</div>
 			</div>
 			
@@ -1153,7 +1152,6 @@ function updateSavedDataUI() {
 
 		item.querySelector('.btn-load').addEventListener('click', () => {
 			if (data.pin) {
-				// 保存された情報を渡す
 				const savedInfo = {
 					id: data.id,
 					name: data.name || `検索 #${savedData.indexOf(data) + 1}`,
@@ -1163,7 +1161,6 @@ function updateSavedDataUI() {
 					count: data.count
 				};
 				pinPoint(data.pin[0], data.pin[1], savedInfo);
-				// 地図をピンの位置にズームして飛ぶ
 				setTimeout(() => {
 					map.setView([data.pin[0], data.pin[1]], 13);
 				}, 100);
@@ -1181,7 +1178,7 @@ function updateSavedDataUI() {
 
 		item.querySelector('.btn-delete').addEventListener('click', (e) => {
 			e.stopPropagation();
-			if (confirm('この検索を削除しますか？')) {
+			if (confirm('この検索を削除しますか?')) {
 				deleteSavedItem(data.id);
 			}
 		});
@@ -1201,7 +1198,7 @@ function deleteSavedItem(id) {
 }
 
 function clearDB() {
-	if (!db || confirm('すべての保存済み検索を削除しますか？\nこの操作は取り消せません。')) {
+	if (!db || confirm('すべての保存済み検索を削除しますか?\nこの操作は取り消せません。')) {
 		const transaction = db.transaction([STORE_NAME], 'readwrite');
 		const store = transaction.objectStore(STORE_NAME);
 		store.clear();
@@ -1272,13 +1269,10 @@ document.getElementById('import-file').addEventListener('change', (e) => {
 		try {
 			const importedData = JSON.parse(event.target.result);
 
-			// バージョン互換性チェック
 			let dataArray = [];
 			if (importedData.data && Array.isArray(importedData.data)) {
-				// バージョン2以前のフォーマット
 				dataArray = importedData.data;
 			} else if (importedData.searches && Array.isArray(importedData.searches)) {
-				// バージョン3以降のフォーマット
 				dataArray = importedData.searches;
 			} else {
 				throw new Error('ファイル形式が無効です');
@@ -1290,7 +1284,6 @@ document.getElementById('import-file').addEventListener('change', (e) => {
 
 			dataArray.forEach(item => {
 				delete item.id;
-				// 名前フィールドが存在しない場合はデフォルト値を設定
 				if (!item.name) {
 					const date = new Date(item.timestamp);
 					item.name = date.toLocaleDateString('ja-JP') + ' ' + date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
@@ -1311,7 +1304,6 @@ document.getElementById('import-file').addEventListener('change', (e) => {
 				if (storesNeeded.length > 0) {
 					const extraTransaction = db.transaction(storesNeeded, 'readwrite');
 
-					// メモデータをインポート
 					let memoCount = 0;
 					if (importedData.memos && Array.isArray(importedData.memos)) {
 						const memoStore = extraTransaction.objectStore(MEMO_STORE_NAME);
@@ -1325,7 +1317,6 @@ document.getElementById('import-file').addEventListener('change', (e) => {
 						});
 					}
 
-					// 色データをインポート
 					let colorCount = 0;
 					if (importedData.colors && Array.isArray(importedData.colors)) {
 						const colorStore = extraTransaction.objectStore(COLOR_STORE_NAME);
@@ -1361,7 +1352,6 @@ document.getElementById('import-file').addEventListener('change', (e) => {
 	};
 	reader.readAsText(file);
 
-	// ファイル選択をリセット
 	e.target.value = '';
 });
 
@@ -1378,16 +1368,13 @@ document.getElementById('clear-pin-btn').addEventListener('click', () => {
 	document.getElementById('map').classList.remove('pin-mode');
 });
 
-// 検索フィルターのリアルタイム反映
 document.getElementById('name-search-input').addEventListener('input', applySearchFilters);
 document.getElementById('category-select').addEventListener('change', applySearchFilters);
 document.getElementById('prefecture-select').addEventListener('change', applySearchFilters);
 
-// 半径スライダーのリアルタイム反映
 document.getElementById('radius-input').addEventListener('input', (e) => {
 	document.getElementById('radius-display').textContent = e.target.value;
 
-	// ピンが存在する場合、円を更新
 	if (pinMarker) {
 		if (radiusCircle) map.removeLayer(radiusCircle);
 		const pinLat = pinMarker.getLatLng().lat;
@@ -1401,7 +1388,6 @@ document.getElementById('radius-input').addEventListener('input', (e) => {
 			dashArray: '5, 5'
 		}).addTo(map);
 
-		// 検索結果を更新
 		pinSearchResults = allFacilities.filter(facility => {
 			const distance = calculateDistance(pinLat, pinLng, facility.latitude, facility.longitude);
 			return distance <= e.target.value;
@@ -1418,17 +1404,14 @@ document.getElementById('radius-input').addEventListener('input', (e) => {
 document.getElementById('save-btn').addEventListener('click', saveToDB);
 document.getElementById('clear-db-btn').addEventListener('click', clearDB);
 
-// ファイル操作イベント
 document.getElementById('export-btn').addEventListener('click', exportToFile);
 document.getElementById('import-btn').addEventListener('click', importFromFile);
 
-// 履歴検索フィルター
 document.getElementById('history-search-box').addEventListener('input', (e) => {
 	currentSearchFilter = e.target.value;
 	updateSavedDataUI();
 });
 
-// ソートボタン
 document.querySelectorAll('.sort-btn').forEach(btn => {
 	btn.addEventListener('click', () => {
 		document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
@@ -1496,11 +1479,9 @@ function updateNameInDB() {
 	};
 }
 
-// モーダルボタンのイベントリスナー
 document.getElementById('modal-cancel-btn').addEventListener('click', closeEditNameModal);
 document.getElementById('modal-confirm-btn').addEventListener('click', updateNameInDB);
 
-// メモモーダルのイベントリスナー
 document.getElementById('memo-cancel-btn').addEventListener('click', () => {
 	if (editingSavedSearchId !== null) {
 		editingSavedSearchId = null;
@@ -1516,7 +1497,6 @@ document.getElementById('memo-save-btn').addEventListener('click', () => {
 	}
 });
 
-// メモモーダルのテキストエリアでEnterを押して保存
 document.getElementById('memo-input').addEventListener('keydown', (e) => {
 	if (e.key === 'Enter' && e.ctrlKey) {
 		if (editingSavedSearchId !== null) {
@@ -1527,7 +1507,6 @@ document.getElementById('memo-input').addEventListener('keydown', (e) => {
 	}
 });
 
-// メモモーダルの外側をクリックで閉じる
 document.getElementById('memo-modal').addEventListener('click', (e) => {
 	if (e.target.id === 'memo-modal') {
 		if (editingSavedSearchId !== null) {
@@ -1537,7 +1516,6 @@ document.getElementById('memo-modal').addEventListener('click', (e) => {
 	}
 });
 
-// Enterキーで更新、Escキーでキャンセル
 document.getElementById('edit-name-input').addEventListener('keypress', (e) => {
 	if (e.key === 'Enter') {
 		updateNameInDB();
@@ -1550,7 +1528,6 @@ document.getElementById('edit-name-input').addEventListener('keydown', (e) => {
 	}
 });
 
-// モーダルの外側をクリックで閉じる
 document.getElementById('edit-name-modal').addEventListener('click', (e) => {
 	if (e.target.id === 'edit-name-modal') {
 		closeEditNameModal();
